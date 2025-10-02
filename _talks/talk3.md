@@ -2,7 +2,7 @@
 name: Arcu Non Odio
 speakers:
   - Alex Rosales
-track: Cat A
+track: Track A
 tags:
   - Talk
 links:
