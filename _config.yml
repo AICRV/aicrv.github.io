@@ -1,7 +1,7 @@
 title: AICRV 2026
 preposition: at
 description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
+  The international AI, computer vision, and robotics held in Canada  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -85,8 +85,6 @@ conference:
         menu:
           - name: 2026 (current)
             disabled: true
-          - name: 2025
-            url: https://www.ai-crv.ca/
 
   # Link Preview for Sharing
   link_preview:
@@ -103,8 +101,10 @@ conference:
     links:
       - name: Program
         relative_url: /program/
+        disabled: true
       - name: How to get there
         relative_url: /location/
+        disabled: true
       - name: Tickets
         disabled: true
         absolute_url: ''
@@ -157,7 +157,7 @@ conference:
 
   location:
     # Disable links to locations
-    hide: false
+    hide: true
     # URL of location / room overview page
     url: '/location'
     # Main page title shown on location/room navigation bar
@@ -166,7 +166,7 @@ conference:
     # display it.
     map:
       # Initial map center point
-      home_coord: 47.37808, 8.53935
+      home_coord: 49.2791, -122.9202
       # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
       # The following do match the Bootstrap design not too badly:
       #   - Thunderforest.Neighbourhood
