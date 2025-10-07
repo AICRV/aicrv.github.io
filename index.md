@@ -1,6 +1,6 @@
 ---
 layout: home
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultricies interdum lacus quis gravida. Vestibulum eget arcu in dui facilisis luctus. Curabitur rhoncus nibh non neque viverra facilisis. Nam nec placerat augue, ut mollis ante. Morbi pulvinar iaculis felis eget pretium. Duis euismod, risus non placerat accumsan, mi nisl euismod nibh, quis finibus ante mauris eu odio.
+Join us for the Canadian AI and Robots & Vision Conference 2026, a combination of the [39th Canadian Conference on Artificial Intelligence (Canadian AI)](https://www.caiac.ca/en/conferences/canadianai-2026/home) and the [23nd Conference on Robots and Vision (CRV)](https://www.computerrobotvision.org/), taking place in person at Simon Fraser University in May 2026.
 
-Nullam a nunc felis. Aenean nec metus sed elit feugiat elementum sed ut quam. Maecenas dignissim augue nec sollicitudin sagittis. Donec sagittis dolor non tincidunt eleifend. Donec vel nibh et leo pretium dignissim. Nulla vehicula arcu velit, ac facilisis turpis fermentum ac. Integer at tempus sem, in vehicula magna. Ut tempor est nec nisl imperdiet porttitor sit amet maximus massa.
+This prestigious event brings together leading AI and robotics researchers, practitioners, and professionals from academia, industry, government, and non-governmental organizations. The conference offers a platform to showcase Canada's innovation, ingenuity, and leadership in artificial intelligence, robotics, and intelligent systems. Be a part of this vibrant community as we collaborate to advance the AI and robotics ecosystem in Canada.
