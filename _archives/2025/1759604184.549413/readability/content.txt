@@ -1,0 +1,54 @@
+Call for WorkshopsThe 38th Canadian Conference on Artificial Intelligence (Canadian AI 2025) and 22nd Conference on Robots and Vision (CRV 2025) are pleased to invite proposals for workshops to be held alongside the main conference, which will be held from May 26–29, 2024. Workshops provide a platform for focused discussions, knowledge sharing, and collaboration on specific topics. In addition to the topics of interest for Canadian AI and CRV conferences, we also encourage proposals that foster interdisciplinary and transdisciplinary research on applications of AI, and strongly support workshops that are co-chaired by researchers from different institutions to encourage cross-institutional collaboration and diversity in perspectives.
+
+Please find more information below.We invite proposals on a broad range of AI-related topics, as well as those focusing on novel application areas where AI can have a transformative impact. Additionally, we strongly encourage workshop proposals in novel and transformative application areas, including but not limited to Climate science and sustainability, Public policy and governance, Humanities and social sciences (e.g., AI in literature, historical research), Arts, culture, and digital heritage preservation, AI for global health, pandemic preparedness, and policy.
+
+
+
+Workshops that bring together researchers from different disciplines and institutions are highly encouraged, as these collaborations can lead to groundbreaking insights and innovations. Proposals with co-organizers from multiple institutions are particularly welcomed, as they foster diverse perspectives and strengthen the interdisciplinary nature of the discussions to explore how AI can bridge gaps between disciplines and play a transformative role in addressing societal challenges.Workshop FormatWorkshops can be structured as full-day or half-day events and should promote interaction and collaboration. Suggested formats include a combination of invited talks, panel discussions, paper presentations, and breakout sessions to encourage deep dives into specific challenges or emerging topics.Proposal Submission GuidelinesWorkshop proposals should include the following information:
+
+​
+
+
+
+Title of the workshop.
+
+
+Abstract (up to 500 words) describing the workshop’s objectives, relevance, and expected outcomes.
+
+
+Topics and Novel Areas: A list of topics to be covered, emphasizing both established AI areas and novel application domains.
+
+
+Organizers: Names, affiliations, contact information, and a brief biography of each organizer. Proposals with organizers from multiple institutions are highly encouraged.
+
+
+Potential Invited Speakers: Names of potential or confirmed invited speakers, if applicable.
+
+
+Workshop Structure: A proposed schedule (full-day or half-day) outlining the structure of the event (keynotes, discussions, paper presentations, etc.).
+
+
+Target Audience: The intended audience, including estimated size and diversity of attendees (academic researchers, industry professionals, students).
+
+
+Call for Participation: A draft of the call for participation that will be used to solicit contributions for the workshop.
+
+
+Previous Editions (if applicable): Information about past editions of the workshop (if previously held), including participant numbers and feedback.
+
+
+Special Requirements: Any specific logistical or technical requirements.
+
+
+
+​​Submission ProcedurePlease submit your workshop proposal in PDF format using this linkImportant DatesProposal Submission Deadline: Feb 2, 2024
+
+​
+
+Notification of Acceptance: Feb 17, 2025
+
+​
+
+Workshop Dates: May 26–29, 2025Contact InformationFor any questions regarding workshop proposals, please contact us at ai@ucalgary.ca.
+
+We look forward to receiving your innovative workshop proposals and to welcoming you to Canadian AI 2025 and CRV 2025 for an enriching intellectual exchange!

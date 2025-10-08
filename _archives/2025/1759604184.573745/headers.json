@@ -1,0 +1,16 @@
+{
+    "Status-Code": 200,
+    "Date": "Sat, 04 Oct 2025 20:03:32 GMT",
+    "Content-Type": "text/html",
+    "Connection": "keep-alive",
+    "Server": "nginx/1.13.7",
+    "Expires": "Sat, 04 Oct 2025 20:03:32 GMT",
+    "Cache-Control": "max-age=0, no-cache, no-store, must-revalidate",
+    "Vary": "Accept-Language, Cookie",
+    "Content-Language": "en",
+    "X-Frame-Options": "deny",
+    "X-Content-Type-Options": "nosniff",
+    "X-XSS-Protection": "1; mode=block",
+    "Set-Cookie": "sc=zLO7EvdqXJhW3967LElNZ1t6SzlGXZaIHN5mrDcbTTRtgnMk1b1rlYJ6bfE1Fkjk; expires=Sat, 03 Oct 2026 20:03:32 GMT; Max-Age=31449600; Path=/; SameSite=Lax; Secure, sentrysid=eyJ0ZXN0Y29va2llIjoid29ya2VkIiwiX25leHQiOiIvNjgvIn0:1v58Tc:UQuUgfnBs8CjOWR-sdFYEDfUEdk; expires=Sat, 18 Oct 2025 20:03:32 GMT; HttpOnly; Max-Age=1209600; Path=/; Secure",
+    "Content-Encoding": "gzip"
+}

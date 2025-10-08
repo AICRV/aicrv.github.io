@@ -1,0 +1,441 @@
+{
+    "archive_path": "archive/1759604184.5828",
+    "base_url": "static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map",
+    "basename": "createPlatformWorker.inline.6a5db473.bundle.min.js.map",
+    "bookmarked_date": "2025-10-04 18:56",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=static.parastorage.com",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": "static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map"
+    },
+    "domain": "static.parastorage.com",
+    "extension": "map",
+    "hash": "1PN1BACZ3D729347CCP0",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "120",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-06T00:22:12.763748+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/data/archive/1759604184.5828",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-06T00:20:54.089529+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "120",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-05T07:05:40.657361+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/data/archive/1759604184.5828",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-05T07:05:34.479594+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:33:53.586244+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/data/archive/1759604184.5828",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:33:47.405492+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "120",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-07T01:46:36.339468+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/data/archive/1759604184.5828",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-07T01:45:39.485943+00:00",
+                "status": "failed"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:33:41.862383+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/data/archive/1759604184.5828",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:33:40.237196+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=static.parastorage.com"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:33:31.952734+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/data/archive/1759604184.5828",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:33:30.175807+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:33:32.927056+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/data/archive/1759604184.5828",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:33:31.959063+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map"
+                ],
+                "cmd_version": "2024.12.13",
+                "end_ts": "2025-10-04T19:33:47.401244+00:00",
+                "index_texts": [],
+                "output": "media",
+                "pwd": "/data/archive/1759604184.5828",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:33:44.885497+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/app/node_modules/@postlight/parser/cli.js",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map",
+                    "--format=text"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-10-04T19:33:44.868634+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Got /app/node_modules/@postlight/parser/cli.js response code: 1).",
+                "pwd": "/data/archive/1759604184.5828",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:33:43.114982+00:00",
+                "status": "failed"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:33:38.463254+00:00",
+                "index_texts": null,
+                "output": "output.pdf",
+                "pwd": "/data/archive/1759604184.5828",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:33:36.943534+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/app/node_modules/readability-extractor/readability-extractor",
+                    "/tmp/tmpbspp_lnw",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-10-04T19:33:43.087984+00:00",
+                "index_texts": [
+                    "{\"version\":3,\"file\":\"createPlatformWorker.inline.6a5db473.bundle.min.js\",\"mappings\":\"2KAAA,MACCA,aACCC,YAAY,eAAEC,GAAgB,aAC9BC,EACAC,qBAAqB,SAAEC,GACvBC,MAAM,gBAAEC,IACR,iBACDC,GACGC,OAEEC,EAAwBC,QAAUR,EAAaS,SAAS,YAqDjDC,EAAwBH,EA9ChBI,WACpB,MAAMC,EAAW,iCACjBC,YAAYC,KAAKF,GAEjB,MAAM,gBAAEG,EAAe,YAAEC,EAAW,cAAEC,EAAa,gBAAEC,GAAoBhB,GACnE,aAAEiB,EAAY,qCAAEC,EAAoC,eAAEC,GAAmBJ,EACzEK,EACLP,EAAgBQ,WAAW,sBAAwBR,EAAgBQ,WAAW,iCAAmCC,SAASC,UAAYC,SAASC,KAZrH,CAACC,IAC5B,MAAMC,EAAO,IAAIC,KAAK,CAAC,kBAAkBF,QAAiB,CAAEG,KAAM,2BAClE,OAAOC,IAAIC,gBAAgBJ,IAWvBK,CAAoBnB,GACpBA,EAAgBoB,QAAQpC,EAAeqC,YAAa,GAAGhC,eAErDiC,EAAiB,IAAI7B,OAAOc,GAC5BgB,EAAoCC,OAAOC,KAAKxB,EAAYyB,MAChEC,OAAQC,IAAQxB,EAAawB,IAAKC,mBAClCC,OAAO,CAACC,EAA0CH,KAClDG,EAAgBH,GAAM3B,EAAYyB,KAAKE,GAChCG,GACL,CAAC,GAEL,GAAI5B,GAAmBA,EAAgB6B,UAAY7B,EAAgB8B,YAAa,CACpCT,OAAOU,OAAO7B,GAAsC8B,MAAOC,GAAMA,IAClE9B,EACzCgB,EAAee,YAAY,CAC1BrB,KAAM,oBACNsB,WAAYhD,IAGbgC,EAAee,YAAY,CAC1BrB,KAAM,uBACNb,mB,CAKHmB,EAAee,YAAY,CAC1BrB,KAAM,2BACNuB,eAAgBhB,IAGjB,MAAMiB,EAAU,+BAIhB,OAHA1C,YAAYC,KAAKyC,GACjB1C,YAAY2C,QAAQ,6BAA8B5C,EAAU2C,GAErDlB,GAGqDoB,GAAiBC,QAAQC,S\",\"sources\":[\"webpack:///../../thunderbolt-platform/src/client/create-worker.ts\"],\"sourcesContent\":[\"const {\\n\\tviewerModel: {\\n\\t\\tsiteAssets: { clientTopology },\\n\\t\\tsiteFeatures,\\n\\t\\tsiteFeaturesConfigs: { platform },\\n\\t\\tsite: { externalBaseUrl },\\n\\t},\\n\\tusedPlatformApis,\\n} = window\\n\\nconst shouldCreateWebWorker = Worker && siteFeatures.includes('platform')\\n\\nconst createWorkerBlobUrl = (workerUrl: string) => {\\n\\tconst blob = new Blob([`importScripts('${workerUrl}');`], { type: 'application/javascript' })\\n\\treturn URL.createObjectURL(blob)\\n}\\n\\nconst createWorker = async () => {\\n\\tconst starMark = 'platform_create-worker started'\\n\\tperformance.mark(starMark)\\n\\n\\tconst { clientWorkerUrl, appsScripts, bootstrapData, sdksStaticPaths } = platform\\n\\tconst { appsSpecData, appDefIdToIsMigratedToGetPlatformApi, forceEmptySdks } = bootstrapData\\n\\tconst url =\\n\\t\\tclientWorkerUrl.startsWith('http://localhost:') || clientWorkerUrl.startsWith('https://bo.wix.com/suricate/') || document.baseURI !== location.href\\n\\t\\t\\t? createWorkerBlobUrl(clientWorkerUrl)\\n\\t\\t\\t: clientWorkerUrl.replace(clientTopology.fileRepoUrl, `${externalBaseUrl}/_partials`)\\n\\n\\tconst platformWorker = new Worker(url)\\n\\tconst nonFederatedAppsOnPageScriptsUrls = Object.keys(appsScripts.urls)\\n\\t\\t.filter((id) => !appsSpecData[id]?.isModuleFederated)\\n\\t\\t.reduce((appsScriptsUrls: typeof appsScripts.urls, id) => {\\n\\t\\t\\tappsScriptsUrls[id] = appsScripts.urls[id]\\n\\t\\t\\treturn appsScriptsUrls\\n\\t\\t}, {})\\n\\n\\tif (sdksStaticPaths && sdksStaticPaths.mainSdks && sdksStaticPaths.nonMainSdks) {\\n\\t\\tconst areAllAppsMigratedToGetPlatformApi = Object.values(appDefIdToIsMigratedToGetPlatformApi).every((x) => x)\\n\\t\\tif (areAllAppsMigratedToGetPlatformApi || forceEmptySdks) {\\n\\t\\t\\tplatformWorker.postMessage({\\n\\t\\t\\t\\ttype: 'preloadNamespaces',\\n\\t\\t\\t\\tnamespaces: usedPlatformApis,\\n\\t\\t\\t})\\n\\t\\t} else {\\n\\t\\t\\tplatformWorker.postMessage({\\n\\t\\t\\t\\ttype: 'preloadAllNamespaces',\\n\\t\\t\\t\\tsdksStaticPaths,\\n\\t\\t\\t})\\n\\t\\t}\\n\\t}\\n\\n\\tplatformWorker.postMessage({\\n\\t\\ttype: 'platformScriptsToPreload',\\n\\t\\tappScriptsUrls: nonFederatedAppsOnPageScriptsUrls,\\n\\t})\\n\\n\\tconst endMark = 'platform_create-worker ended'\\n\\tperformance.mark(endMark)\\n\\tperformance.measure('Create Platform Web Worker', starMark, endMark)\\n\\n\\treturn platformWorker\\n}\\n\\nexport const platformWorkerPromise = shouldCreateWebWorker ? createWorker() : Promise.resolve()\\n\"],\"names\":[\"viewerModel\",\"siteAssets\",\"clientTopology\",\"siteFeatures\",\"siteFeaturesConfigs\",\"platform\",\"site\",\"externalBaseUrl\",\"usedPlatformApis\",\"window\",\"shouldCreateWebWorker\",\"Worker\",\"includes\",\"platformWorkerPromise\",\"async\",\"starMark\",\"performance\",\"mark\",\"clientWorkerUrl\",\"appsScripts\",\"bootstrapData\",\"sdksStaticPaths\",\"appsSpecData\",\"appDefIdToIsMigratedToGetPlatformApi\",\"forceEmptySdks\",\"url\",\"startsWith\",\"document\",\"baseURI\",\"location\",\"href\",\"workerUrl\",\"blob\",\"Blob\",\"type\",\"URL\",\"createObjectURL\",\"createWorkerBlobUrl\",\"replace\",\"fileRepoUrl\",\"platformWorker\",\"nonFederatedAppsOnPageScriptsUrls\",\"Object\",\"keys\",\"urls\",\"filter\",\"id\",\"isModuleFederated\",\"reduce\",\"appsScriptsUrls\",\"mainSdks\",\"nonMainSdks\",\"values\",\"every\",\"x\",\"postMessage\",\"namespaces\",\"appScriptsUrls\",\"endMark\",\"measure\",\"createWorker\",\"Promise\",\"resolve\"],\"sourceRoot\":\"\"}"
+                ],
+                "output": "readability",
+                "pwd": "/data/archive/1759604184.5828",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:33:42.847129+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:33:40.233450+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/data/archive/1759604184.5828",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:33:38.466614+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/app/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--no-sandbox\\\", \\\"--no-zygote\\\", \\\"--disable-dev-shm-usage\\\", \\\"--disable-software-rasterizer\\\", \\\"--run-all-compositor-stages-before-draw\\\", \\\"--hide-scrollbars\\\", \\\"--window-size=1440,2000\\\", \\\"--autoplay-policy=no-user-gesture-required\\\", \\\"--no-first-run\\\", \\\"--use-fake-ui-for-media-stream\\\", \\\"--use-fake-device-for-media-stream\\\", \\\"--disable-sync\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-10-04T19:33:36.939347+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.5828/singlefile.html'",
+                "pwd": "/data/archive/1759604184.5828",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:33:32.933379+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:33:42.840498+00:00",
+                "index_texts": null,
+                "output": "static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map",
+                "pwd": "/data/archive/1759604184.5828",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:33:42.832741+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.5828/warc/1759606421",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-04T19:33:42.821680+00:00",
+                "index_texts": null,
+                "output": "static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map",
+                "pwd": "/data/archive/1759604184.5828",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:33:41.866063+00:00",
+                "status": "succeeded"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": "media",
+        "pdf": "output.pdf",
+        "screenshot": "screenshot.png",
+        "singlefile": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.5828/singlefile.html'",
+        "title": "static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map",
+        "warc": null,
+        "wget": "static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map"
+    },
+    "link_dir": "/data/archive/1759604184.5828",
+    "newest_archive_date": "2025-10-07T01:45:39.485943+00:00",
+    "num_failures": 6,
+    "num_outputs": 9,
+    "oldest_archive_date": "2025-10-04T19:33:30.175807+00:00",
+    "path": "/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "868f3708-7616-44a3-8282-7679f0ddacac",
+    "sources": [
+        "/data/sources/1759604183.819294-crawl-www.ai-crv.ca.txt"
+    ],
+    "tags": ",Canadian AI and Robots & Vision Conference 2025",
+    "tags_str": "Canadian AI and Robots & Vision Conference 2025",
+    "timestamp": "1759604184.5828",
+    "title": "static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map",
+    "updated": "2025-10-07T01:45:39.484128+00:00",
+    "updated_date": "2025-10-07 01:45",
+    "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/createPlatformWorker.inline.6a5db473.bundle.min.js.map"
+}

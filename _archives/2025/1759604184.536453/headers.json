@@ -1,0 +1,22 @@
+{
+    "Status-Code": 200,
+    "Date": "Sat, 04 Oct 2025 20:04:05 GMT",
+    "Content-Type": "text/html; charset=iso-8859-1",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "content-location": "svg.html",
+    "vary": "negotiate,Accept-Encoding",
+    "tcn": "choice",
+    "last-modified": "Fri, 14 Mar 2025 23:44:06 GMT",
+    "Cache-Control": "max-age=21600",
+    "expires": "Wed, 01 Oct 2025 20:19:57 GMT",
+    "x-backend": "www-mirrors",
+    "x-request-id": "987c9916688af5b9",
+    "strict-transport-security": "max-age=15552000; includeSubdomains; preload",
+    "content-security-policy": "frame-ancestors 'self' https://cms.w3.org/ https://cms-dev.w3.org/; upgrade-insecure-requests",
+    "CF-Cache-Status": "HIT",
+    "Age": "279800",
+    "Server": "cloudflare",
+    "CF-RAY": "98974950399045a5-YVR",
+    "alt-svc": "h3=\":443\"; ma=86400"
+}

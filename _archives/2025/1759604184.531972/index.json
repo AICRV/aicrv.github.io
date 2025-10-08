@@ -1,0 +1,441 @@
+{
+    "archive_path": "archive/1759604184.531972",
+    "base_url": "static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map",
+    "basename": "overrideGlobals.inline.68e65733.bundle.min.js.map",
+    "bookmarked_date": "2025-10-04 18:56",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=static.parastorage.com",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": "static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map"
+    },
+    "domain": "static.parastorage.com",
+    "extension": "map",
+    "hash": "11WZHGDET4DDHK525KHX",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "120",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-06T00:16:43.801112+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/data/archive/1759604184.531972",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-06T00:14:55.027133+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "120",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-05T07:03:49.106400+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/data/archive/1759604184.531972",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-05T07:02:42.457121+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:30:07.886212+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/data/archive/1759604184.531972",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:30:01.502428+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "120",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-07T01:43:42.721850+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/data/archive/1759604184.531972",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-07T01:42:48.262098+00:00",
+                "status": "failed"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:29:56.794093+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/data/archive/1759604184.531972",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:29:55.164736+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=static.parastorage.com"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:29:43.611395+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/data/archive/1759604184.531972",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:29:41.680648+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:29:44.736227+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/data/archive/1759604184.531972",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:29:43.625302+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map"
+                ],
+                "cmd_version": "2024.12.13",
+                "end_ts": "2025-10-04T19:30:01.497455+00:00",
+                "index_texts": [],
+                "output": "media",
+                "pwd": "/data/archive/1759604184.531972",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:29:59.056055+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/app/node_modules/@postlight/parser/cli.js",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map",
+                    "--format=text"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-10-04T19:29:59.049029+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Got /app/node_modules/@postlight/parser/cli.js response code: 1).",
+                "pwd": "/data/archive/1759604184.531972",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:29:58.073812+00:00",
+                "status": "failed"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:29:52.874115+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.531972/output.pdf'",
+                "pwd": "/data/archive/1759604184.531972",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:29:51.135918+00:00",
+                "status": "failed"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/app/node_modules/readability-extractor/readability-extractor",
+                    "/tmp/tmp2bi613fg",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-10-04T19:29:57.996271+00:00",
+                "index_texts": [
+                    "{\"version\":3,\"file\":\"overrideGlobals.inline.68e65733.bundle.min.js\",\"mappings\":\"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\",\"sources\":[\"webpack:///../../thunderbolt-security/src/makeObjectPropertiesReadOnly.ts\",\"webpack:///../../thunderbolt-security/src/helpers.ts\",\"webpack:///../../thunderbolt-security/src/overridingGlobals/window.ts\",\"webpack:///../../thunderbolt-security/src/overridingGlobals/iframe.ts\",\"webpack:///../../thunderbolt-security/src/overridingGlobals/fetchAndXHR.ts\",\"webpack:///../../thunderbolt-security/src/overrideGlobals.ts\",\"webpack:///../../thunderbolt-security/src/overridingGlobals/serviceWorker.ts\",\"webpack:///../../thunderbolt-security/src/freezeClientGlobals.ts\",\"webpack:///../../thunderbolt-security/src/overridingGlobals/timeout.ts\"],\"sourcesContent\":[\"const { ownKeys } = Reflect\\n\\nconst ALLOWED_TO_BE_OVERRIDDEN = ['toString', 'toLocaleString', 'valueOf']\\n\\nconst makePropertyReadOnly = (prototype: any, prop: string | symbol, descriptor: PropertyDescriptor) => {\\n\\t// Skip the constructor property to avoid breaking prototype chain inheritance\\n\\tif (prop === 'constructor') {\\n\\t\\treturn\\n\\t}\\n\\n\\tif ('value' in descriptor && descriptor.configurable && !ALLOWED_TO_BE_OVERRIDDEN.includes(String(prop))) {\\n\\t\\tconst { value, enumerable, get, set } = descriptor\\n\\n\\t\\tconst newDescriptor = {\\n\\t\\t\\tenumerable,\\n\\t\\t\\tconfigurable: false,\\n\\t\\t\\t...(value ? { value, writable: false } : { get, set }),\\n\\t\\t}\\n\\n\\t\\tObject.defineProperty(prototype, prop, newDescriptor)\\n\\t}\\n}\\n\\n/**\\n * Makes all properties of an object read-only within a given context by locking their configurations\\n * and preventing modifications. This provides a stronger level of immutability than Object.freeze()\\n * by also protecting the object's prototype chain.\\n *\\n * @param key - The key under which the object exists in the context\\n * @param context - The object containing the target object to be made read-only\\n *\\n * Key features:\\n * - Makes all properties non-writable and non-configurable\\n * - Protects prototype chain properties\\n * - Preserves special methods (toString, toLocaleString, valueOf)\\n * - Maintains property enumerability\\n * - Handles both string and symbol property keys\\n */\\nconst makeObjectPropertiesReadOnly = (key: string, context: Record<string, any>) => {\\n\\tconst protectedObj = context[key]\\n\\tif (!protectedObj) {\\n\\t\\treturn\\n\\t}\\n\\n\\tlet enumerable = false\\n\\ttry {\\n\\t\\tconst descriptor = Object.getOwnPropertyDescriptor(context, key)\\n\\t\\tif (descriptor) {\\n\\t\\t\\tenumerable = descriptor.enumerable || false\\n\\t\\t}\\n\\t} catch (error) {\\n\\t\\tconsole.warn(`Failed to get property descriptor for key \\\"${key}\\\":`, error)\\n\\t}\\n\\n\\t// Define a strict property on the global object to protect the object\\n\\t// @ts-expect-error\\n\\tglobalThis.defineStrictProperty(key, protectedObj, context, enumerable)\\n\\n\\tconst prototype = protectedObj?.prototype\\n\\tif (prototype) {\\n\\t\\tconst prototypeDescriptors = Object.getOwnPropertyDescriptors(prototype)\\n\\n\\t\\t// Lock down prototype properties\\n\\t\\tObject.keys(prototypeDescriptors).forEach((prop) => {\\n\\t\\t\\tconst descriptor = prototypeDescriptors[prop]\\n\\n\\t\\t\\tif (descriptor) {\\n\\t\\t\\t\\tmakePropertyReadOnly(prototype, prop, descriptor)\\n\\t\\t\\t}\\n\\t\\t})\\n\\t}\\n\\n\\t// Go over all property keys (string and symbol)\\n\\townKeys(protectedObj).forEach((prop) => {\\n\\t\\tconst descriptor = Object.getOwnPropertyDescriptor(protectedObj, prop)\\n\\t\\tif (descriptor && (descriptor.writable || descriptor.configurable)) {\\n\\t\\t\\t// Define getters and setters on the original object to prevent redefinition of properties\\n\\t\\t\\t// @ts-expect-error\\n\\t\\t\\tglobalThis.defineStrictProperty(prop.toString(), protectedObj[prop], protectedObj, descriptor.enumerable)\\n\\t\\t}\\n\\t})\\n}\\n\\nexport default makeObjectPropertiesReadOnly\\n\",\"export const isInCurrentDomain = (clearString: string): boolean => {\\n\\tif (\\n\\t\\tclearString.startsWith('//') && // Test that it's a valid domain first, to put it into the HTTP validation rule\\n\\t\\t/(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\\\\.)+[a-z0-9][a-z0-9-]{0,61}[a-z0-9]/g.test(\\n\\t\\t\\t`${location.protocol}:${clearString}`\\n\\t\\t)\\n\\t) {\\n\\t\\tclearString = `${location.protocol}${clearString}`\\n\\t}\\n\\tif (clearString.startsWith('http')) {\\n\\t\\t// Test if it is the same hostname\\n\\t\\treturn new URL(clearString).hostname === location.hostname\\n\\t}\\n\\treturn true\\n}\\n\\nexport const makeStringClear = (str: string) => {\\n\\t// need to remove\\n\\treturn typeof str === 'string' ? decodeURIComponent(str).toLowerCase().trimStart() : str\\n}\\n\\nconst isCustomSetterAndGetter = (obj: { set?: Function; get?: Function } | any) => {\\n\\treturn (\\n\\t\\tobj?.set &&\\n\\t\\tobj?.get &&\\n\\t\\ttypeof obj.set === 'function' &&\\n\\t\\ttypeof obj.get === 'function' &&\\n\\t\\t!obj.get.toString().includes('[native code]') &&\\n\\t\\t!obj.set.toString().includes('[native code]')\\n\\t)\\n}\\n\\n// Define the named function for defining strict properties\\nconst defineStrictProperty = (key: string, value: any, obj: any, enumerable: boolean) => {\\n\\tif (isCustomSetterAndGetter(value)) {\\n\\t\\tObject.defineProperty(obj || globalThis, key, {\\n\\t\\t\\tget: value.get,\\n\\t\\t\\tset: value.set,\\n\\t\\t\\tconfigurable: false,\\n\\t\\t\\tenumerable: enumerable || false,\\n\\t\\t})\\n\\t} else {\\n\\t\\tObject.defineProperty(obj || globalThis, key, {\\n\\t\\t\\tvalue,\\n\\t\\t\\twritable: false,\\n\\t\\t\\tconfigurable: false,\\n\\t\\t\\tenumerable: enumerable || false,\\n\\t\\t})\\n\\t}\\n}\\n\\nexport const initOverridingGlobals = (module: any = globalThis) => {\\n\\t// Defining the script property functionality\\n\\tObject.defineProperty(module, 'defineStrictProperty', {\\n\\t\\tvalue: defineStrictProperty,\\n\\t\\twritable: false,\\n\\t\\tenumerable: false,\\n\\t\\tconfigurable: false,\\n\\t})\\n}\\n\",\"import { isInCurrentDomain } from '../helpers'\\nimport type { WindowFeatures } from '../types'\\n\\n// Overriding window open and document open in order to no get the child window context\\nexport const overrideWindowOpen = () => {\\n\\tconst originalOpen = globalThis.open\\n\\tconst originalDocumentOpen = document.open\\n\\n\\tconst windowOpen = (url: string, target: string, windowFeatures: WindowFeatures) => {\\n\\t\\tconst isEmptyWindow = typeof url !== 'string'\\n\\t\\tconst child = originalOpen.call(window, url, target, windowFeatures)\\n\\t\\treturn isEmptyWindow || isInCurrentDomain(url) ? {} : child\\n\\t}\\n\\n\\tconst documentOpen = (url: string, target: string, windowFeatures: WindowFeatures) => {\\n\\t\\tif (url) {\\n\\t\\t\\treturn windowOpen(url, target, windowFeatures)\\n\\t\\t} else {\\n\\t\\t\\treturn originalDocumentOpen.call(document, url, target, windowFeatures)\\n\\t\\t}\\n\\t}\\n\\n\\t// @ts-expect-error\\n\\tdefineStrictProperty('open', windowOpen, globalThis, true)\\n\\n\\t// @ts-expect-error\\n\\tdefineStrictProperty('open', documentOpen, document, true)\\n}\\n\",\"import { makeStringClear } from '../helpers'\\n\\nconst createElement = document.createElement\\n\\nconst createElementReplacement = (elementType: string, options: any) => {\\n\\tconst newElement = createElement.call(document, elementType, options)\\n\\tconst originalSetAttribute = Element.prototype.setAttribute\\n\\tconst originalSetAttributeNS = Element.prototype.setAttributeNS\\n\\n\\tif (makeStringClear(elementType) === 'iframe') {\\n\\t\\t// @ts-expect-error\\n\\t\\tglobalThis.defineStrictProperty(\\n\\t\\t\\t'srcdoc',\\n\\t\\t\\t{\\n\\t\\t\\t\\tget: () => {},\\n\\t\\t\\t\\tset: () => {\\n\\t\\t\\t\\t\\tconsole.error('`srcdoc` is not allowed in iframe elements.')\\n\\t\\t\\t\\t},\\n\\t\\t\\t},\\n\\t\\t\\tnewElement,\\n\\t\\t\\tfalse\\n\\t\\t)\\n\\n\\t\\tconst setAttributeReplacement = function (name: string, value: any) {\\n\\t\\t\\tif (name.toLowerCase() === 'srcdoc') {\\n\\t\\t\\t\\tconsole.error('`srcdoc` attribute is not allowed to be set.')\\n\\t\\t\\t\\treturn\\n\\t\\t\\t}\\n\\t\\t\\toriginalSetAttribute.call(newElement, name, value)\\n\\t\\t}\\n\\n\\t\\tconst setAttributeNSReplacement = function (namespace: string, name: string, value: any) {\\n\\t\\t\\tif (name.toLowerCase() === 'srcdoc') {\\n\\t\\t\\t\\tconsole.error('`srcdoc` attribute is not allowed to be set.')\\n\\t\\t\\t\\treturn\\n\\t\\t\\t}\\n\\t\\t\\toriginalSetAttributeNS.call(newElement, namespace, name, value)\\n\\t\\t}\\n\\n\\t\\tnewElement.setAttribute = setAttributeReplacement\\n\\t\\tnewElement.setAttributeNS = setAttributeNSReplacement\\n\\t}\\n\\n\\treturn newElement\\n}\\n\\nexport const overrideIframe = () => {\\n\\t// @ts-expect-error\\n\\tglobalThis.defineStrictProperty('createElement', createElementReplacement, document, true)\\n}\\n\",\"import { makeStringClear } from '../helpers'\\n\\nconst CLIENT_HEADER = 'client-binding'\\nconst SECURITY_ERROR_TYPE = 'security_overrideGlobals'\\n\\nconst blockedPaths = ['/_api/v1/access-tokens', '/_api/v2/dynamicmodel', '/_api/one-app-session-web/v3/businesses']\\n\\nconst cleanHeaders = (headers: Record<string, string> | Headers) => {\\n\\tif (headers instanceof Headers) {\\n\\t\\theaders.forEach((_, header) => {\\n\\t\\t\\tif (decodeURIComponent(header).toLowerCase() === CLIENT_HEADER) {\\n\\t\\t\\t\\theaders.delete(header)\\n\\t\\t\\t}\\n\\t\\t})\\n\\t} else {\\n\\t\\tObject.keys(headers).forEach((header) => {\\n\\t\\t\\tconst decodedHeader = decodeURIComponent(header)\\n\\t\\t\\tif (decodedHeader.toLowerCase() === CLIENT_HEADER) {\\n\\t\\t\\t\\tdelete headers[header]\\n\\t\\t\\t}\\n\\t\\t})\\n\\t}\\n\\treturn headers\\n}\\n\\nconst getURLPath = (resource: RequestInfo | URL) => {\\n\\tlet urlString\\n\\tif (globalThis.Request && resource instanceof Request) {\\n\\t\\turlString = resource.url\\n\\t} else if (typeof resource?.toString === 'function') {\\n\\t\\turlString = resource.toString()\\n\\t} else {\\n\\t\\tthrow new Error('Unsupported type for url')\\n\\t}\\n\\n\\tlet urlPath\\n\\ttry {\\n\\t\\treturn new URL(urlString).pathname\\n\\t} catch (e) {\\n\\t\\t// If it fails to parse the URL, it means it's a relative path\\n\\t\\turlPath = urlString.replace(/#.+/gi, '').split('?').shift()!\\n\\t\\treturn urlPath.startsWith('/') ? urlPath : `/${urlPath}`\\n\\t}\\n}\\n\\nconst isAllowedHTTPCall = (resource: RequestInfo | URL) => {\\n\\tlet requestAllowed = true\\n\\n\\tconst urlPath = getURLPath(resource)\\n\\tconst clearUrlPath = makeStringClear(urlPath)\\n\\n\\tif (blockedPaths.some((path) => clearUrlPath.includes(path))) {\\n\\t\\trequestAllowed = false\\n\\t}\\n\\treturn requestAllowed\\n}\\n\\nconst processHeaders = (args: IArguments) => {\\n\\tif (globalThis.Request && args[0] instanceof Request && args[0]?.headers) {\\n\\t\\tcleanHeaders(args[0].headers)\\n\\t} else if (args[1]?.headers) {\\n\\t\\tcleanHeaders(args[1].headers)\\n\\t}\\n\\n\\treturn args\\n}\\n\\nexport const overrideFetch = (module: any = globalThis) => {\\n\\tconst originalFetch = fetch\\n\\n\\t// Overriding the global fetch - blocking specific URLs\\n\\tmodule.defineStrictProperty('fetch', function () {\\n\\t\\tconst cleanArgs = processHeaders(arguments)\\n\\t\\tif (!isAllowedHTTPCall(arguments[0])) {\\n\\t\\t\\treturn new Promise((_resolve, reject) => {\\n\\t\\t\\t\\tconst error = new Error('TB002')\\n\\t\\t\\t\\t// @ts-expect-error\\n\\t\\t\\t\\twindow.fedops?.interactionStarted(error, SECURITY_ERROR_TYPE)\\n\\t\\t\\t\\treject(error)\\n\\t\\t\\t})\\n\\t\\t} else {\\n\\t\\t\\treturn originalFetch.apply(module, Array.from(cleanArgs) as [RequestInfo | URL, RequestInit?])\\n\\t\\t}\\n\\t})\\n}\\n\\nexport const overrideXHR = (module: any = globalThis) => {\\n\\tconst originalXMLHttpRequest = XMLHttpRequest\\n\\n\\tfunction CustomXMLHttpRequest() {\\n\\t\\tconst newRequest = new originalXMLHttpRequest()\\n\\t\\tconst originalOpen = newRequest.open\\n\\t\\tconst originalSetHeaders = newRequest.setRequestHeader\\n\\t\\tnewRequest.open = function () {\\n\\t\\t\\tconst url = arguments[1]\\n\\t\\t\\tif (arguments.length < 2 || isAllowedHTTPCall(url)) {\\n\\t\\t\\t\\treturn originalOpen.apply(newRequest, Array.from(arguments) as any)\\n\\t\\t\\t} else {\\n\\t\\t\\t\\tconst error = new Error('TB002')\\n\\t\\t\\t\\t// @ts-expect-error\\n\\t\\t\\t\\twindow.fedops?.interactionStarted(error, SECURITY_ERROR_TYPE)\\n\\t\\t\\t\\tthrow error\\n\\t\\t\\t}\\n\\t\\t}\\n\\t\\tnewRequest.setRequestHeader = function (key, value) {\\n\\t\\t\\tconst headerName = decodeURIComponent(key)\\n\\t\\t\\tif (headerName.toLowerCase() !== CLIENT_HEADER) {\\n\\t\\t\\t\\toriginalSetHeaders.call(newRequest, key, value)\\n\\t\\t\\t}\\n\\t\\t}\\n\\t\\treturn newRequest\\n\\t}\\n\\n\\tObject.keys(originalXMLHttpRequest).forEach((prop) => {\\n\\t\\t;(CustomXMLHttpRequest as any)[prop] = (originalXMLHttpRequest as any)[prop]\\n\\t})\\n\\n\\tmodule.defineStrictProperty('XMLHttpRequest', CustomXMLHttpRequest)\\n}\\n\",\"/**\\n * This file with its imports is being loaded in the security.ejs on production using webpack.\\n * While working locally, the last bundle is being loaded in the security.ejs as minified + uglyfied code.\\n * To see changes from your code locally, after each change you need to run \\\"npx webpack\\\" from the package folder and copy\\n * the content of the generated file in \\\"dist/handleAccessTokens.js\\\" to the security.ejs file.\\n * This is only because yoshi does let us to remove the loaded webpack-dev-server into the bundle and it causes errors locally only.\\n */\\nimport { freezeClientGlobals } from './freezeClientGlobals'\\nimport { initOverridingGlobals } from './helpers'\\nimport { overrideWindowOpen } from './overridingGlobals/window'\\nimport { overrideIframe } from './overridingGlobals/iframe'\\nimport { overrideFetch, overrideXHR } from './overridingGlobals/fetchAndXHR'\\nimport { overrideTimeout } from './overridingGlobals/timeout'\\nimport { removeServiceWorker } from './overridingGlobals/serviceWorker'\\n\\nperformance.mark('overrideGlobals started')\\n\\n// @ts-expect-error\\nconst { isExcludedFromSecurityExperiments, experiments } = window.viewerModel\\n\\nconst isSecurityHardeningsEnabled = !isExcludedFromSecurityExperiments && experiments['specs.thunderbolt.securityExperiments']\\n\\ntry {\\n\\t// Init overriding globals\\n\\tinitOverridingGlobals()\\n\\n\\t// Start override globals\\n\\toverrideWindowOpen()\\n\\n\\tif (isSecurityHardeningsEnabled) {\\n\\t\\toverrideIframe()\\n\\t}\\n\\n\\tif (experiments['specs.thunderbolt.hardenFetchAndXHR'] && isSecurityHardeningsEnabled) {\\n\\t\\toverrideFetch()\\n\\t\\toverrideXHR()\\n\\t}\\n\\n\\tremoveServiceWorker()\\n\\n\\tfreezeClientGlobals(isSecurityHardeningsEnabled)\\n\\n\\tif (isSecurityHardeningsEnabled) {\\n\\t\\toverrideTimeout()\\n\\t}\\n} catch (e) {\\n\\t// @ts-expect-error\\n\\tif (window?.viewerModel?.mode.debug) {\\n\\t\\tconsole.error(e)\\n\\t}\\n\\n\\tconst error = new Error('TB006')\\n\\t// @ts-expect-error\\n\\twindow.fedops?.reportError(error, 'security_overrideGlobals')\\n\\n\\t// @ts-expect-error\\n\\tif (window.Sentry) {\\n\\t\\t// @ts-expect-error\\n\\t\\twindow.Sentry.captureException(error)\\n\\t} else {\\n\\t\\t// @ts-expect-error\\n\\t\\tglobalThis.defineStrictProperty('sentryBuffer', [error], window, false)\\n\\t}\\n}\\n\\nperformance.mark('overrideGlobals ended')\\n\",\"export const removeServiceWorker = () => {\\n\\tif (navigator && 'serviceWorker' in navigator) {\\n\\t\\t// @ts-ignore We don't care about the rest of the properties as we're not allowing to register\\n\\t\\tnavigator.serviceWorker.register = () => console.log('Service worker registration is not allowed')\\n\\t\\treturn Promise.resolve()\\n\\t}\\n}\\n\",\"import type { ClientGlobals } from './types'\\nimport makeObjectPropertiesReadOnly from './makeObjectPropertiesReadOnly'\\n\\nexport const freezeClientGlobals = (isSecurityHardeningsEnabled: boolean) => {\\n\\tlet globalMethodsToFreeze: Array<ClientGlobals> = []\\n\\tlet globalObjectsToFreeze: Array<ClientGlobals> = []\\n\\n\\tglobalObjectsToFreeze = globalObjectsToFreeze.concat(['TextEncoder', 'TextDecoder'])\\n\\n\\tif (isSecurityHardeningsEnabled) {\\n\\t\\tglobalObjectsToFreeze = globalObjectsToFreeze.concat(['XMLHttpRequestEventTarget', 'EventTarget'])\\n\\t}\\n\\n\\tglobalObjectsToFreeze = globalObjectsToFreeze.concat(['URL', 'JSON'])\\n\\n\\tif (isSecurityHardeningsEnabled) {\\n\\t\\tglobalMethodsToFreeze = globalMethodsToFreeze.concat(['addEventListener', 'removeEventListener'])\\n\\t}\\n\\n\\tglobalMethodsToFreeze = globalMethodsToFreeze.concat([\\n\\t\\t'encodeURI',\\n\\t\\t'encodeURIComponent',\\n\\t\\t'decodeURI',\\n\\t\\t'decodeURIComponent',\\n\\t])\\n\\n\\tglobalObjectsToFreeze = globalObjectsToFreeze.concat(['String', 'Number'])\\n\\n\\tif (isSecurityHardeningsEnabled) {\\n\\t\\tglobalObjectsToFreeze.push('Object')\\n\\t}\\n\\n\\tglobalObjectsToFreeze = globalObjectsToFreeze.concat(['Reflect'])\\n\\n\\tglobalMethodsToFreeze.forEach((key) => {\\n\\t\\t// Freeze the object\\n\\t\\tObject.freeze(globalThis[key])\\n\\n\\t\\tif (['addEventListener', 'removeEventListener'].includes(key)) {\\n\\t\\t\\t// @ts-expect-error\\n\\t\\t\\tglobalThis.defineStrictProperty(key, document[key], document, true)\\n\\t\\t}\\n\\n\\t\\t// @ts-expect-error\\n\\t\\tglobalThis.defineStrictProperty(key, globalThis[key], globalThis, true)\\n\\t})\\n\\n\\tglobalObjectsToFreeze.forEach((key) => {\\n\\t\\t/**\\n\\t\\t * We are freezing objects in a specific way for the following reasons:\\n\\t\\t * 1. Object.freeze does not allow extending the object with new properties.\\n\\t\\t * 2. Freezing Object.prototype can prevent changes to the prototype chain, including property additions or\\n\\t\\t * \\t\\tmodifications. When Object.prototype is frozen, attempts to set properties on objects that inherit from it\\n\\t\\t * \\t\\tcan lead to unexpected behavior.\\n\\t\\t * \\t\\tFor more details, see: https://esdiscuss.org/topic/set-and-inherited-readonly-data-properties\\n\\t\\t */\\n\\t\\tmakeObjectPropertiesReadOnly(key, globalThis)\\n\\t})\\n}\\n\",\"export const overrideTimeout = () => {\\n\\t// Preventing string arguments in setTimeout thus skipping the no eval behavior\\n\\t// @ts-expect-error\\n\\tdefineStrictProperty(\\n\\t\\t'preventStringArgument',\\n\\t\\t// This prevents calling any function that shouldn't accept string arguments to do so\\n\\t\\t(functionName: string, argumentNumber: number, accessObject: any) => {\\n\\t\\t\\tconst context = accessObject || globalThis\\n\\t\\t\\tconst originalFunction = context[functionName]\\n\\t\\t\\tconst replacementFunction = function replacer() {\\n\\t\\t\\t\\tconst args = Array.from(arguments)\\n\\t\\t\\t\\tif (typeof args[argumentNumber] === 'string') {\\n\\t\\t\\t\\t\\tconsole.warn(\\n\\t\\t\\t\\t\\t\\t`Calling ${functionName} with a String Argument at index ${argumentNumber} is not allowed`\\n\\t\\t\\t\\t\\t)\\n\\t\\t\\t\\t} else {\\n\\t\\t\\t\\t\\treturn originalFunction.apply(context, args)\\n\\t\\t\\t\\t}\\n\\t\\t\\t}\\n\\t\\t\\t// @ts-expect-error\\n\\t\\t\\tdefineStrictProperty(functionName, replacementFunction, context)\\n\\t\\t}\\n\\t)\\n\\n\\t// @ts-expect-error\\n\\tpreventStringArgument('setTimeout', 0)\\n\\n\\t// @ts-expect-error\\n\\tpreventStringArgument('setInterval', 0)\\n}\\n\"],\"names\":[\"ownKeys\",\"Reflect\",\"ALLOWED_TO_BE_OVERRIDDEN\",\"key\",\"context\",\"protectedObj\",\"enumerable\",\"descriptor\",\"Object\",\"getOwnPropertyDescriptor\",\"error\",\"console\",\"warn\",\"globalThis\",\"defineStrictProperty\",\"prototype\",\"prototypeDescriptors\",\"getOwnPropertyDescriptors\",\"keys\",\"forEach\",\"prop\",\"configurable\",\"includes\",\"String\",\"value\",\"get\",\"set\",\"newDescriptor\",\"writable\",\"defineProperty\",\"makePropertyReadOnly\",\"toString\",\"makeStringClear\",\"str\",\"decodeURIComponent\",\"toLowerCase\",\"trimStart\",\"obj\",\"isCustomSetterAndGetter\",\"overrideWindowOpen\",\"originalOpen\",\"open\",\"originalDocumentOpen\",\"document\",\"windowOpen\",\"url\",\"target\",\"windowFeatures\",\"isEmptyWindow\",\"child\",\"call\",\"window\",\"clearString\",\"startsWith\",\"test\",\"location\",\"protocol\",\"URL\",\"hostname\",\"createElement\",\"createElementReplacement\",\"elementType\",\"options\",\"newElement\",\"originalSetAttribute\",\"Element\",\"setAttribute\",\"originalSetAttributeNS\",\"setAttributeNS\",\"setAttributeReplacement\",\"name\",\"setAttributeNSReplacement\",\"namespace\",\"CLIENT_HEADER\",\"SECURITY_ERROR_TYPE\",\"blockedPaths\",\"cleanHeaders\",\"headers\",\"Headers\",\"_\",\"header\",\"delete\",\"isAllowedHTTPCall\",\"resource\",\"requestAllowed\",\"urlPath\",\"urlString\",\"Request\",\"Error\",\"pathname\",\"e\",\"replace\",\"split\",\"shift\",\"getURLPath\",\"clearUrlPath\",\"some\",\"path\",\"overrideFetch\",\"module\",\"originalFetch\",\"fetch\",\"cleanArgs\",\"args\",\"arguments\",\"apply\",\"Array\",\"from\",\"Promise\",\"_resolve\",\"reject\",\"fedops\",\"interactionStarted\",\"performance\",\"mark\",\"isExcludedFromSecurityExperiments\",\"experiments\",\"viewerModel\",\"isSecurityHardeningsEnabled\",\"initOverridingGlobals\",\"originalXMLHttpRequest\",\"XMLHttpRequest\",\"CustomXMLHttpRequest\",\"newRequest\",\"originalSetHeaders\",\"setRequestHeader\",\"length\",\"overrideXHR\",\"navigator\",\"serviceWorker\",\"register\",\"log\",\"resolve\",\"removeServiceWorker\",\"globalMethodsToFreeze\",\"globalObjectsToFreeze\",\"concat\",\"push\",\"freeze\",\"freezeClientGlobals\",\"functionName\",\"argumentNumber\",\"accessObject\",\"originalFunction\",\"preventStringArgument\",\"mode\",\"debug\",\"reportError\",\"Sentry\",\"captureException\"],\"sourceRoot\":\"\"}"
+                ],
+                "output": "readability",
+                "pwd": "/data/archive/1759604184.531972",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:29:57.747074+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:29:55.162009+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/data/archive/1759604184.531972",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:29:52.877381+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/app/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--no-sandbox\\\", \\\"--no-zygote\\\", \\\"--disable-dev-shm-usage\\\", \\\"--disable-software-rasterizer\\\", \\\"--run-all-compositor-stages-before-draw\\\", \\\"--hide-scrollbars\\\", \\\"--window-size=1440,2000\\\", \\\"--autoplay-policy=no-user-gesture-required\\\", \\\"--no-first-run\\\", \\\"--use-fake-ui-for-media-stream\\\", \\\"--use-fake-device-for-media-stream\\\", \\\"--disable-sync\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-10-04T19:29:51.132608+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.531972/singlefile.html'",
+                "pwd": "/data/archive/1759604184.531972",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:29:44.743484+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:29:57.742290+00:00",
+                "index_texts": null,
+                "output": "static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map",
+                "pwd": "/data/archive/1759604184.531972",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:29:57.732954+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.531972/warc/1759606196",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "https://static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-04T19:29:57.723248+00:00",
+                "index_texts": null,
+                "output": "static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map",
+                "pwd": "/data/archive/1759604184.531972",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:29:56.797460+00:00",
+                "status": "succeeded"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": "media",
+        "pdf": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.531972/output.pdf'",
+        "screenshot": "screenshot.png",
+        "singlefile": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.531972/singlefile.html'",
+        "title": "static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map",
+        "warc": null,
+        "wget": "static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map"
+    },
+    "link_dir": "/data/archive/1759604184.531972",
+    "newest_archive_date": "2025-10-07T01:42:48.262098+00:00",
+    "num_failures": 7,
+    "num_outputs": 8,
+    "oldest_archive_date": "2025-10-04T19:29:41.680648+00:00",
+    "path": "/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "29bc2c36-ffa3-47c4-a839-9d2a80aa90c5",
+    "sources": [
+        "/data/sources/1759604183.819294-crawl-www.ai-crv.ca.txt"
+    ],
+    "tags": ",Canadian AI and Robots & Vision Conference 2025",
+    "tags_str": "Canadian AI and Robots & Vision Conference 2025",
+    "timestamp": "1759604184.531972",
+    "title": "static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map",
+    "updated": "2025-10-07T01:42:48.259154+00:00",
+    "updated_date": "2025-10-07 01:42",
+    "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/overrideGlobals.inline.68e65733.bundle.min.js.map"
+}

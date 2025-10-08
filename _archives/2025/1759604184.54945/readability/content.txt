@@ -1,0 +1,174 @@
+Machine learning and sequential decision making systems are increasingly deployed in high-stakes domains such as healthcare, finance, and autonomous systems. However, the opaque nature of these models raises concerns about transparency, accountability, and robustness. This workshop aims to advance research in explainability for machine learning and sequential decision-making by exploring methodologies to interpret model-driven decisions, understand causal mechanisms, and ensure fairness and reliability in real-world use cases.
+
+    
+    
+    Submission Deadline: 18th May, 2025, 11:59 PM (AoE).
+    
+    The workshop will be held on  26th May in Calgary.
+    
+    For latest news about the workshop, follow @ddxmlcrv on X/Twitter.
+    
+    Confirmed Speakers
+    
+  
+        
+        
+              
+                David Meger
+                Associate Professor
+                McGill University, Mila
+                Fairness in Reinforcement Learning with Bisimulation Metrics
+                
+              
+            
+        
+          
+          
+              
+                Svetlana Yanushkevich
+                Professor
+                University of Calgary
+                LLMs for Expert Elicitation in Probabilistic Causal Modeling
+                
+              
+            
+        
+          
+          
+              
+                Hassan Sajjad
+                Associate Professor
+                Dalhousie University
+                 Latent Concept-Based Explanation of NLP Models
+                
+              
+              
+      
+  
+  
+  
+  
+    Tutorials
+    
+  
+        
+        
+            
+              Samira Ebrahimi Kahou
+              Assistant Professor
+              University of Calgary, Mila, CIFAR AI Chair
+               Explainability in Machine Learning
+              
+            
+          
+  
+        
+        
+            
+              Ulrich Aïvodji
+              Assistant Professor
+              ETS Montreal, Mila
+              Overview of Interpretability and Explainability Methods, and Practical Considerations 
+              
+            
+          
+  
+      
+    
+  
+
+
+
+    
+    
+        Organizers
+        
+
+                
+                            
+  
+                            
+                            
+                                    Ankur Garg
+                                    
+  
+                                     University of Calgary
+                                    
+  
+                                    
+                                
+                        
+
+
+                
+                            
+  
+                            
+                            
+                                    Manizheh GhaemiDizaji
+                                    
+  
+                                     University of Calgary
+                                    
+  
+                                    
+                                
+                        
+
+
+                
+                            
+  
+                            
+                            
+                                    Rishav Rishav
+                                    
+  
+                                     Mila, University of Calgary
+                                    
+  
+                                    
+                                
+                        
+
+
+
+                
+                            
+  
+                            
+                            
+                                    Samira Ebahimi Kahou
+                                    
+  
+                                     University of Calgary, Mila, CIFAR AI Chair
+                                    
+  
+                                    
+                                
+                        
+
+
+                
+
+            
+    
+
+    
+    
+        Program Committee
+        
+                    
+                        Ankur Garg
+                        Manizheh GhaemiDizaji
+                        Rishav Rishav
+                        Kiana Kazeminejad  
+                        Gona Rahmaniani
+                    
+                
+    
+
+    
+    Questions?
+    Contact us at
+    explainableml2025@gmail.com  or @ddxmlcrv.

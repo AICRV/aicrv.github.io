@@ -1,0 +1,374 @@
+{
+    "archive_path": "archive/1759604184.549432",
+    "base_url": "www.ai-crv.ca/speakers",
+    "basename": "speakers",
+    "bookmarked_date": "2025-10-04 18:56",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/www.ai-crv.ca/speakers",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=www.ai-crv.ca",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": "www.ai-crv.ca/speakers.html"
+    },
+    "domain": "www.ai-crv.ca",
+    "extension": "",
+    "hash": "G7M1V3NYQS0MRGXWMHCM",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://www.ai-crv.ca/speakers"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:02:52.337524+00:00",
+                "index_texts": null,
+                "output": "https://web.archive.org/web/20251004190236/https://www.ai-crv.ca/speakers",
+                "pwd": "/data/archive/1759604184.549432",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:02:21.104350+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://www.ai-crv.ca/speakers"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:01:42.446413+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/data/archive/1759604184.549432",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:01:35.797254+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=www.ai-crv.ca"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:01:07.319034+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/data/archive/1759604184.549432",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:01:05.441265+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.ai-crv.ca/speakers"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:01:07.675911+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/data/archive/1759604184.549432",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:01:07.326523+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://www.ai-crv.ca/speakers"
+                ],
+                "cmd_version": "2024.12.13",
+                "end_ts": "2025-10-04T19:02:21.100477+00:00",
+                "index_texts": [],
+                "output": "media",
+                "pwd": "/data/archive/1759604184.549432",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:02:19.787082+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/app/node_modules/@postlight/parser/cli.js",
+                    "https://www.ai-crv.ca/speakers"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-10-04T19:02:19.771204+00:00",
+                "index_texts": null,
+                "output": "mercury",
+                "pwd": "/data/archive/1759604184.549432",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:02:18.587544+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://www.ai-crv.ca/speakers"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:01:28.852281+00:00",
+                "index_texts": null,
+                "output": "output.pdf",
+                "pwd": "/data/archive/1759604184.549432",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:01:21.224580+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/app/node_modules/readability-extractor/readability-extractor",
+                    "/tmp/tmpc0qmns_6",
+                    "https://www.ai-crv.ca/speakers"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-10-04T19:02:18.467564+00:00",
+                "index_texts": [
+                    "SpeakersThis page will showcase detailed information about the speakers featured at the Canadian AI and Robots & Vision Conference 2025. Learn more about our keynote speakers, as well as symposium and workshop speakers, who are leaders in artificial intelligence, robotics, and computer vision. Speaker bios, talk titles, abstract, and session times will be added as they are confirmed. Please check back regularly for updates as we finalize the speaker lineup.Canadian AI Conference Keynote SpeakersSageev Oore27 May 2025Professor Faculty of Computer Science at Dalhousie UniversityTalk title to be announcedBio\n\nSageev Oore is a faculty member in Computer Science at Dalhousie University, an Affiliate Faculty Member at the Vector Institute for Artificial Intelligence, and a professional musician. Sageev works on fundamental deep learning research, particularly in relation to audio, music, computational creativity, mental health, and robustness. He works with clinicians to track depression severity through speech acoustics. He has held roles including Research Faculty Member at the Vector Institute, Canada CIFAR AI Chair, and Visiting Research Scientist at Google. His work has received awards and nominations at NeurIPS, AAAI, and CVPR. Sageev is grateful to collaborate with the wonderful graduate students in his lab, who make things work.\n\nAlongside his scientific pursuits, Sageev is a multiple award-winning musician. He has performed with orchestras as a classical soloist (e.g. Mozart, Chopin, Rachmaninoff concerti) and as an improviser. He has played with hundreds of musicians, at jazz festivals across the country, and collaborates in art and research (in different & fun proportions) with his siblings\u2014Daniel, Jasmine, and Jonathan.\n\nHe completed his undergraduate degree in Math (Dalhousie), MSc and PhD in Computer Science (University of Toronto) with Geoffrey Hinton, and studied piano with music teachers affiliated with Dalhousie, Juilliard, York, and UBC.Nathalie Japkowicz28 May 2025Professor, Department of Computer Science, American UniversityTalk title: Lifelong Learning for Anomaly Detection: An Emerging ParadigmAbstract\n\nAnomaly Detection is an important branch of machine learning whose purpose is to identify unusual instances or patterns in the data. It has great practical value as it helps identify errors or natural outliers, as well as faults in a system, fraudulent transactions, or malicious events. To date, Anomaly Detection has been mostly performed offline on static datasets or online on dynamic datasets. The offline version does not consider changes in the data while the online version proposes mechanisms for adapting to evolving data. A disadvantage of online Anomaly Detection, however, is that while adapting to new circumstances, it forgets old ones. This can be detrimental for fast-evolving domains with recurrent patterns, especially if timely responses are essential. It is particularly problematic in adversarial settings where the malicious agent can exploit this weakness. In this talk, we propose the Lifelong Anomaly Detection paradigm to address this shortcoming, along with pyCLAD, the software package we designed in parallel. We also present three approaches to lifelong anomaly detection designed in our lab: CPDGA, VLAD, and TropeFinder.\n\n\u200b\n\nBio\n\nNathalie Japkowicz is a professor in the Computer Science Department at American University, which she chaired from July 2018 to June 2024. Prior to that, she directed the Laboratory for Research on Machine Learning applied to Defense and Security at the University of Ottawa in Canada. She is a Professor and AI/Machine Learning researcher particularly interested in lifelong machine learning, anomaly detection, hate speech monitoring, machine learning evaluation, and the handling of uncharacteristic data including datasets plagued by class imbalances. She trained over 30 graduate students. Her research has been funded by American University\u2019s Signature Research Initiative, DARPA\u2019s L2M program, NSERC, DRDC, Health Canada, and various private companies. Her publications include Evaluating Learning Algorithms: A Classification Perspective at Cambridge University Press (2011), an edited book in the Springer Series on Big Data (2016), and over 150 book chapters, journal articles, and conference or workshop papers. Her recent co-authored book entitled Machine Learning Evaluation: Towards Reliable and Responsible AI at Cambridge University Press appeared in November 2024. She received five best paper awards, including the prestigious European Conference on Machine Learning 2014 Test of Time award, and was awarded the Canadian Artificial Intelligence Association Distinguished Service Award in 2021.Geoffrey Rockwell29 May 2025Philosophy and Digital Humanities, Canada CIFAR AI Chair, Amii Fellow, University of AlbertaTalk title: Moral Responsibility and AIAbstract\n\nThe Government of Canada and companies like Microsoft have organized their AI ethics under the rubric of \u201cResponsible AI\u201d but they don\u2019t define moral responsibility in a way that guide ethics initiatives. In this talk I will return to philosophical discussions of moral responsibility as participation in a moral commons and the ability to respond (response-ability) on ethical issues. I will review Strawson\u2019s widely discussed paper \u201cFreedom and Resentment\u201d and discuss what we can learn from it as we negotiate responsibly managed artificial intelligence.\n\n\u200b\n\nBio\n\nDr. Geoffrey Martin Rockwell is a Professor of Philosophy and Digital Humanities at the University of Alberta. He presently holds a Canada CIFAR AI Chair at the Alberta Machine Intelligence Institute. He has a Ph.D. in Philosophy from the University of Toronto and has published on subjects such as artificial intelligence and ethics, philosophical dialogue, textual visualization and analysis, digital humanities, instructional technology, computer games and multimedia. His books include Defining Dialogue: From Socrates to the Internet (Humanity Books, 2003) and Hermeneutica, co-authored with St\u00e9fan Sinclair (MIT Press, 2016). Hermeneutica is part of a hybrid text and tool project with Voyant Tools (voyant-tools.org), an award-winning suite of analytical tools. He recently co-edited Right Research: Modelling Sustainable Research Practices in the Anthropocene (Open Book Publishers, 2021) and On Making in the Digital Humanities (UCL Press, 2023).Conference on Robots and Vision Keynote SpeakersJulie A. AdamsOregon State UniversityTalk Title: The Human-Robot Ratio (m:N) Theory: Limitations and ConsiderationsAbstract\n\nThe traditional human-to-robot ratio, or m:N theory states that the number of robots limits humans ability to manage and maintain overall team performance. This theory was developed primarily based on ground robot capabilities 10-15 years ago. While some traditional m:N limitations persist, both applied research and commercial systems debunk this traditional theory, particularly for very large numbers of robots (m<<N). This keynote will discuss the limitations of the theory, provide evidence that contradicts the theory, and discuss human factors aspects that will have an impact on the number of robots a single human can safely deploy. Results and examples will include simulated large autonomous uncrewed aircraft with associated necessary interactions with air traffic control, heterogeneous swarms deployed in urban environments, and commercial delivery uncrewed aircraft.\n\n\u200b\n\nBio\n\nDr. Adams is the founder of the Human-Machine Teaming Laboratory and the Associate Director of Research of the Collaborative Robotics and Intelligent Systems (CoRIS) Institute. Adams has focused on human-machine teaming and distributed artificial intelligence for thirty-five years. Throughout her career she has focused on unmanned systems, but also focused on crewed civilian and military aircraft at Honeywell, Inc. and commercial, consumer and industrial systems at the Eastman Kodak Company. Her research, which is grounded in robotics applications for domains such as first response, archaeology, oceanography, and the U.S. military, focuses on distributed artificial intelligence, swarms, robotics and human-machine teaming. Dr. Adams is an NSF CAREER award recipient, a Human Factors and Ergonomics Society Fellow as well as a member of the National Academies Board on Army Research and Development and the DARPA Information Science and Technology Study Group.Leonid SigalUniversity of British ColumbiaTalk Title: The Curious Case of Foundational and VLM ModelsAbstract\n\nThe capabilities and the use of foundational (FM) and vision-language (VLM) models in computer vision have exploded over the past few years. This has led to a broad paradigm shift in the field. In this talk I will focus on the recent work from my group that navigates this quickly evolving research landscape. Addressing challenges such as building foundational models with better generalization, increasing their context length, adopting them to ever evolving task landscape and routing information among them for more complex reasoning visual problems. I will also discuss some curious benefits and challenges of working with such models, including emergent (localization) capabilities and in-consistency in their responses.\n\n\u200b\n\nBio\n\nProf. Leonid Sigal is a Professor at the University of British Columbia (UBC). He was appointed CIFAR AI Chair at the Vector Institute in 2019 and an NSERC Tier 2 Canada Research Chair in Computer Vision and Machine Learning in 2018. Prior to this, he was a Senior Research Scientist, and a group lead, at Disney Research. He completed his Ph.D at Brown University in 2008; received his B.Sc. degrees in Computer Science and Mathematics from Boston University in 1999, his M.A. from Boston University in 1999, and his M.S. from Brown University in 2003. Leonid's research interests lie in the areas of computer vision, machine learning, and computer graphics; with the emphasis on approaches for visual and multi-modal representation learning, recognition, understanding and generative modeling. He has won a number of research awards, including Killam Accelerator Fellowship in 2021 and has published over 100 papers in venues such as CVPR, ICCV, ECCV, NeurIPS, ICLR, and Siggraph.\u00a0Conference on Robots and Vision Symposium SpeakersBernadette BucherUniversity of MichiganTalk Title: Building Visual Representations with Foundation Models for Mobile ManipulationAbstract\n\nRapid improvements over the past few years in computer vision have enabled high performing geometric state estimation on moving camera systems in day-to-day environments. Furthermore, recent substantial improvements in language understanding and vision-language grounding have enabled rapid advancements in semantic scene understanding. In this presentation, I will demonstrate how we can build visual representations from these foundational vision-language models to enable new robotic capabilities in navigation, manipulation, and mobile manipulation. I will also discuss new robotics research directions opened up by these advancements in vision-language understanding.\n\n\u200b\n\nBio\n\nBernadette Bucher is an Assistant Professor in the Robotics Department at University of Michigan. She leads the Mapping and Motion Lab which focuses on learning interpretable visual representations and estimating their uncertainty for use in robotics, particularly mobile manipulation. Her work has been recognized by a Best Paper Award in Cognitive Robotics at ICRA 2024 and is funded by NASA and General Motors. Before joining University of Michigan this fall, she was a research scientist at the Boston Dynamics AI Institute, a senior software engineer at Lockheed Martin Corporation, and an intern at NVIDIA Research. She earned her PhD from University of Pennsylvania and bachelor\u2019s and Masters degrees from University of Alabama.Marie CharbonneauUniversity of CalgaryTalk Title: Contact-based interaction for better human-robot collaborationsAbstract\n\nTouch is a central component of humans' interactions with others and with the world. While robots are increasingly being developed to work alongside people, their capacity to interact with humans through touch is yet underdeveloped. This talk will explore why this may be the case, why it matters, and recent research at the Waterloo RoboHub and Calgary Human-Robot Collaboration lab towards making robots more physically interactive.\n\n\u200b\n\nBio\n\nDr. Marie Charbonneau works to make human-robot interactions safe, comfortable, and intuitive. Dr. Charbonneau joined the University of Calgary as Assistant Professor in September 2021, following post-doctoral work in humanoid robotics at the University of Waterloo and a PhD in Advanced and Humanoid Robotics from the Istituto Italiano di Tecnologia and the Universit\u00e0 Degli Studi di Genova. Dr. Charbonneau\u2019s work in whole-body control regulates the forces between robots and their environment, towards ensuring respectful and reliable interactions with people. For instance, Dr. Charbonneau has programmed a humanoid robot to waltz with human partners, and currently works on improving a robot's awareness of and response to physical contacts.Melissa GreeffQueen's UniversityTalk Title: Robots Helping Robots: Enhancing Cross-Modal Interactions Between Aerial, Ground, and Surface Vessel RobotsAbstract\n\nSingle aerial robot systems can achieve high speed flight in challenging GPS-denied conditions enabling remote surveillance, package delivery and infrastructure inspection. However, we can further enhance robot operability in diverse environments (from air to land to marine) by augmenting the autonomous capabilities of single aerial, ground or surface vessels through cross-modal interactions. In this talk, we will discuss two different applications that benefit from cross-modality. Firstly, we explore how to leverage aerial robot imagery to enable GPS-denied, zero-shot autonomous navigation for ground vehicles in untraversed environments. Secondly, we explore how to co-ordinate autonomous aerial and surface vessels to enable the landing of aerial vehicles on surface vessels to recharge in remote marine or limnology applications. This is done by accommodating spatial and temporal uncertainties in the waves that can make landing challenging. These preliminary technologies have the potential to enable more persistent operation of robots in diverse environments.\n\n\u200b\n\nBio\n\nDr Melissa Greeff is an assistant professor in Electrical and Computer Engineering at Queen\u2019s University. She is an Ingenuity Labs Robotics and AI Institute Member and a Faculty Affiliate at the Vector Institute for Artificial Intelligence. She leads Robora Lab. Her research interests include aerial robots, vision-based navigation, and safe learning-based control. She has published in various international robotics and control systems venues including IEEE Robotics and Auto. Letters, Annual Review of Control, Robotics, and Autonomous Systems, ICRA, IROS and CDC. She has helped co-organize various workshops on safe robot learning and benchmarking at various international conferences. Her research is supported by NSERC, CFI, MITACs, the Department of National Defense (DND) and various industry collaborators. Dr. Greeff \u2018s expertise is in building autonomous aerial systems including conducting field trials at various locations across Canada. She was listed as one of 50 women in robotics you need to know about in 2023 by the Women in Robotics organization.Angel ChangSimon Fraser University | CIFAR AI Chair at AMIIBio\n\nDr. Angel Chang is an Associate Professor at Simon Fraser University. She was previously a visiting research scientist at Facebook AI Research and a research scientist at Eloquent Labs, where she worked on dialogue systems. Dr. Chang earned her Ph.D. in Computer Science from Stanford University, where she was a member of the Natural Language Processing Group under the supervision of Professor Chris Manning. Her research lies at the intersection of language, 3D vision, and embodied AI, with a focus on connecting natural language to 3D representations of shapes and scenes. She is particularly interested in grounding language for embodied agents operating in indoor environments. Dr. Chang has developed methods for synthesizing 3D scenes and shapes from text and contributed to the creation of influential datasets for 3D scene understanding. Her broader interests include the semantics of shapes and scenes, common sense knowledge representation and acquisition, and reasoning using probabilistic models.Mrigank RochanUniversity of SaskatchewanTalk Title: Advancing Video Abstraction with Deep LearningAbstract\n\nAs video data continues to grow exponentially in volume and complexity, the development of intelligent systems to manage and summarize videos has become a pressing need. Video abstraction, a key task in computer vision and video understanding, aims to create a short, informative visual summary of a video, enabling users to quickly gain valuable insights about the video without watching it entirely. With applications spanning entertainment, sports, surveillance, healthcare, and video search, this technology has the potential to transform how we interact with video content and unlock the full potential of video data. In this talk, I will discuss our recent research and innovative solutions leveraging deep learning to advance the state of the art in video abstraction.\n\n\u200b\n\nBio\n\nDr. Mrigank Rochan is an Assistant Professor in the Department of Computer Science at the University of Saskatchewan, where he leads a research group focusing on computer vision and deep learning. Prior to this, he was a Senior Researcher with the Autonomous Driving Perception team at Huawei Noah's Ark Lab in Toronto. He earned his PhD from the University of Manitoba, and his doctoral thesis was awarded the 2020 Canadian Image Processing and Pattern Recognition Society (CIPPRS) John Barron Doctoral Dissertation Award, a national award presented annually to the top PhD thesis in computer or robot vision in Canada. His research has been published in top-tier computer vision and robotics venues, including CVPR, ICCV, ECCV, ICRA, and TPAMI. Dr. Rochan\u2019s research is currently supported by the University of Saskatchewan, Google, and NSERC.Vahab KhoshdelUniversity of ManitobaBio\n\nVahab Khoshdel, PhD, P.Eng. is an Assistant Professor in the Department of Electrical and Computer Engineering at the University of Manitoba. He holds dual PhDs\u2014one in Robotics from Ferdowsi University of Mashhad (Iran) and another in Biomedical Engineering from the University of Manitoba. His research interests lie at the intersection of machine learning, computer vision, and robotics, with applications in medical imaging, agriculture, and power systems. In addition to his academic work, Dr. Khoshdel has extensive experience in the computer industry, where he has led interdisciplinary research and development teams. He has overseen the design and deployment of AI-driven solutions in both startup and consulting environments, translating cutting-edge research into production-level systems.Responsible AI SpeakersJulita VassilevaUniversity of SaskatchewanTalk title to be announcedBio\n\nJulita Vassileva is a professor at the University of Saskatchewan, focusing on human-centered AI . Her research spans user modeling, personalization, recommender systems, intelligent tutoring systems, multi-agent systems, social computing, trust and reputation mechanisms, persuasive technology, and behavior change. She has nearly 300 publications and has supervised over 60 graduate students. Additionally, she is the section editor of Frontiers in AI: Human Learning and Behaviour Change, co-editor of the HCI section of PeerJ Computer Science, and a member of the editorial boards of User Modeling and User-Adapted Interaction, International Journal of AI in Education, and ACM Transactions of Social Computing.Gideon ChristianUniversity of CalgaryTalk title to be announcedBio\n\nDr. Gideon Christian is an Associate Professor and University Research Chair in AI and Law at the University of Calgary. Prior to joining the University of Calgary, he was technology lawyer with the federal Department of Justice where he deployed technology in high profile litigation involving the Government of Canada. His research interests are in artificial intelligence and law, legal impacts of new and emerging technologies among other areas. Dr. Christian\u2019s research seeks to identify elements of racial bias in laws, policies and in emerging technologies. His current research seeks to develop the concept of algorithmic racism which is defined as race-based bias arising from the use of AI-powered tools in the analysis of data in decision making resulting in unfair outcomes to individuals from a particular segment of the society characterised by race. Dr. Christian has appeared before the House of Commons Committee on Citizenship and Immigration (CIMM) as an expert in the use of AI in immigration decisions. He was the Ontario Bar Association 2024 Chief Justice of Ontario Fellow in Research. He was named by the Calgary Herald as one of the top 20 Compelling Calgarians in 2024, and was awarded the ITL Trailblazer in Technology Award in 2025.Nils ForkertUniversity of CalgaryTalk title to be announcedBio\n\nDr. Nils Daniel Forkert, PhD, is a Professor at the University of Calgary in the Departments of Radiology and Clinical Neurosciences. He received his German diploma in Computer Science in 2009 from the University of Hamburg, his master\u2019s degree in medical physics in 2012 from the Technical University of Kaiserslautern, his PhD in computer science in 2013 from the University of Hamburg, and completed a postdoctoral fellowship at Stanford University before joining the University of Calgary as an Assistant Professor in 2014. He is an imaging and machine learning scientist who develops new image processing methods, predictive algorithms, and software tools for the analysis of medical data. This includes the extraction of clinically relevant parameters and biomarkers from medical data describing the morphology and function of organs with the aim of supporting clinical studies and preclinical research as well as developing computer-aided diagnosis and patient-specific, precision-medicine, prediction models using machine learning based on multi-modal medical data. Dr. Forkert is a Canada Research Chair (Tier 2) in Medical Image Analysis, and Director of the Child Health Data Science Program of the Alberta Children's Hospital Research Institute as well as the Theme Lead for Machine Learning in Neuroscience of the Hotchkiss Brain Institute at the University of Calgary. He has published over 210 peer-reviewed manuscripts, over 90 full-length proceedings papers, 1 book, and 2 book chapters and has received major funding from the Canadian Institutes of Health Research (CIHR), Natural Sciences and Engineering Research Council, the Heart and Stroke Foundation, Calgary Foundation, and the National Institutes of Health as a PI or co-PI.'LLM & Applications' Workshop SpeakerHamidreza EslamiDirector, Fraser Health AuthorityTalk Title: Responsible Innovation: Revolutionizing Healthcare with Generative AIBio\n\nHamidreza Eslami is a seasoned data science leader with over a decade of experience applying advanced analytics in both service and healthcare environments. With a background in Industrial Engineering and Management Science, he brings a systems-thinking approach to solving complex operational and clinical challenges.\n\nFor the past eight years, he has played a pivotal role at Fraser Health Authority, where he strategically leads the development and deployment of AI solutions that have measurably improved care delivery and system performance for nearly two million residents. His work spans machine learning, operations research, and the responsible use of Generative AI - including applications in clinical documentation, decision support, and virtual assistants - ensuring that innovation translates into meaningful, safe, and equitable outcomes.\n\nHamidreza also contributes to workforce development as a faculty member at the British Columbia Institute of Technology\u2019s School of Business, where he mentors future professionals in data-driven decision-making.Xiaoxiao LiCIFAR AI Chair, University of British ColumbiaTalk Title: Foundation Models in Healthcare: Advances, Pitfalls, and Path ForwardBio\n\nDr. Xiaoxiao Li is currently an assistant professor in the Department of Electrical and Computer Engineering at the University of British Columbia, a faculty member at Vector Institute. Dr. Li is recognized as a Canada Research Chair (Tier II) in responsible AI and a Cifar AI Chair. Dr. Li\u2019s research interests primarily lie at the intersection of AI and healthcare, theory and techniques for artificial general intelligence (AGI), and AI trustworthiness. Dr. Li aims to develop the next-generation responsible AI algorithms and systems.'GenAI in Education' Workshop SpeakerPhil NewtonSwansea University, UKBio\n\nProfessor Philip M. Newton, Ph.D. is the Head of Learning and Teaching at Swansea University Medical School in the United Kingdom, where he is also programme director for the Research in Health Professions Education programme. He teaches neuroscience to medical students and the principles of evidence-based education to anyone who will listen.\n\n\n\nPhil received his Ph.D from the University of Leeds in the UK where he studied Cell Biology. He was a postdoc and then junior faculty at the University of California, San Francisco where he studied genetic models of posttraumatic stress disorder, alcoholism and addiction to try and determine the neurological basis for these disorders.\n\n\n\nIn addition to his research on neuroscience, he also investigates academic integrity and the ethical use of artificial intelligence by higher education students.'Explainability in ML' Workshop SpeakerDavid MegerAssociate Professor, McGill University, MilaTalk Title: Fairness in Reinforcement Learning with Bisimulation MetricsBio\n\nDr. David Meger is an Associate Professor at the School of Computer Science at McGill University. He is Co-Director of the Mobile Robotics Laboratory, a member of the Centre for Intelligent Machines, co-PI in the NSERC Canadian Robotics Network and an Associate Member of Mila, the Quebec AI Institute. David\u2019s PhD research at the University of British Columbia led to Curious George, a robot that won several international contests in live object search. During his postdoctoral research at McGill, he pioneered the use of RL in underwater control, leading to a best paper nomination at ICRA. The research of his current group spans 3D computer vision, visual navigation, imitation learning, RL for continuous control, all applied to indoor autonomy and field robotics. Prof. Meger\u2019s research has led to state-of-the-art software solutions that are widely used around the world and reimplemented in leading AI toolkits, such as TD3, an RL method to learn behaviors on continuous control systems, and BCQ, an offline RL approach. David has been awarded the CIPPRS Award for Service to the Canadian Computer Vision community in 2017. He served as co-chair of the Computer and Robot Vision conference in 2013 and 2014 and was local arrangements chair of ICRA 2019. Prof. Meger was the Co-General Chair of the CS-CAN Co-Located Conferences including the Conference on Robot Vision and the Canadian AI Conference in 2023.\u00a0Svetlana YanushkevichProfessor, University of CalgaryTalk Title: LLMs for Expert Elicitation in Probabilistic Causal ModelingBio\n\nDr. Yanushkevich is an electrical engineer focusing on biometrics. She has also applied machine learning to logic design and is known for her earlier research in reversible computing. She is a full professor in the Department of Electrical and Software Engineering at the University of Calgary, where she heads the Biometric Technologies Laboratory.\u00a0\n\nDr. Yanushkevich's work emphasizes the development of decision support and risk assessment strategies that enhance transparency and trust in AI systems. Her contributions to explainable machine learning are instrumental in advancing the field toward more accountable and interpretable AI solutions.\n\nShe is also the Associate Dean for Research in the Schulich School of Engineering here at the University of Calgary.Hassan SajjadAssociate Professor, Dalhousie UniversityTalk Title: Latent Concept-Based Explanation of NLP ModelsBio\n\nDr. Sajjad is an Associate Professor in the Faculty of Computer Science and Director of HyperMatrix at Dalhousie University, Halifax, Canada. He is an AI researcher with domain expertise in Natural Language Processing and Safe and Trustworthy AI. Moreover, he is a consultant and a mentor blended with entrepreneurial interests.\n\nHe is a leading researcher in the field of explainable machine learning, with a focus on large language models. Dr. Sajjad has contributed to the development of methods like Latent Concept Attribution, which aim to provide deeper insights into the decision-making processes of deep learning models.Samira Ebrahimi KahouAssistant Professor, University of Calgary, Mila, CIFAR AI ChaiTalk Title: Explainability in Machine LearningBio\n\nSamira is an Assistant Professor at the University of Calgary, an Adjunct Professor at \u00c9cole de technologie sup\u00e9rieure and an Adjunct Professor at McGill University. She is a member of the Queb\u00e9c AI Institute (Mila) and holds a Canada CIFAR AI Chair. Samira received her Ph.D. in Computer Engineering from Polytechnique Montr\u00e9al/Mila with an award for the best thesis in the department. Samira also worked as a Postdoctoral Fellow at McGill and as a Researcher at Microsoft Research Montr\u00e9al.Samira\u2019s pioneering work in visual reasoning includes the two well-known datasets \u201cSomething Something\u201d and \u201cFigureQA\u201d. Her current focus is on enhancing generalization and interpretability in machine learning, with a particular focus on large language models and sequential decision making. Samira also works on diverse applications of machine learning, e.g. for drug dosage recommendation, medical imaging, or environmental forecasting. Samira\u2019s work has been published in top-tier venues, such as NeurIPS, ICLR, ICML, ICCV, CVPR, TMLR and CoRL. She is a recipient of the Ten-Year Technical Impact Runner-Up Award at the 25th ACM International Conference on Multimodal Interaction.Ulrich A\u00efvodjiAssistant Professor, ETS Montreal, MilaTalk Title: Overview of Interpretability and Explainability Methods, and Practical ConsiderationsBio\n\nUlrich A\u00efvodji is an Assistant Professor at the \u00c9cole de Technologie Sup\u00e9rieure (\u00c9TS) in Montreal. His research focuses on the development of trustworthy AI systems, with focus on key topics such as privacy, security, algorithmic fairness, explainability, and interpretability. He is an associate academic member of Mila \u2013 Quebec Artificial Intelligence Institute and a regular member of OBVIA (International Observatory on the Societal Impacts of AI and Digital Technology). Additionally, he contributes as a lead expert to the CIFAR-Mila AI Insights for Policymakers group, participating in discussions on AI governance and policy. He completed his PhD in Computer Science from the University of Toulouse III \u2013 Paul Sabatier and LAAS-CNRS, and was previously a postdoctoral researcher at the Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al (UQAM)."
+                ],
+                "output": "readability",
+                "pwd": "/data/archive/1759604184.549432",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:02:17.628392+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://www.ai-crv.ca/speakers"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:01:35.780310+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549432/screenshot.png'",
+                "pwd": "/data/archive/1759604184.549432",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:01:28.855850+00:00",
+                "status": "failed"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/app/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--no-sandbox\\\", \\\"--no-zygote\\\", \\\"--disable-dev-shm-usage\\\", \\\"--disable-software-rasterizer\\\", \\\"--run-all-compositor-stages-before-draw\\\", \\\"--hide-scrollbars\\\", \\\"--window-size=1440,2000\\\", \\\"--autoplay-policy=no-user-gesture-required\\\", \\\"--no-first-run\\\", \\\"--use-fake-ui-for-media-stream\\\", \\\"--use-fake-device-for-media-stream\\\", \\\"--disable-sync\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://www.ai-crv.ca/speakers",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-10-04T19:01:21.219804+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549432/singlefile.html'",
+                "pwd": "/data/archive/1759604184.549432",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:01:07.683379+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.ai-crv.ca/speakers"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:02:17.625555+00:00",
+                "index_texts": null,
+                "output": "Speakers | Canadian AI Conferen",
+                "pwd": "/data/archive/1759604184.549432",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:02:17.610571+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.549432/warc/1759604502",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "https://www.ai-crv.ca/speakers"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-04T19:02:17.598693+00:00",
+                "index_texts": null,
+                "output": "www.ai-crv.ca/speakers.html",
+                "pwd": "/data/archive/1759604184.549432",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:01:42.449579+00:00",
+                "status": "succeeded"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "https://web.archive.org/web/20251004190236/https://www.ai-crv.ca/speakers",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": "media",
+        "pdf": "output.pdf",
+        "screenshot": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549432/screenshot.png'",
+        "singlefile": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549432/singlefile.html'",
+        "title": "Speakers | Canadian AI Conferen",
+        "warc": null,
+        "wget": "www.ai-crv.ca/speakers.html"
+    },
+    "link_dir": "/data/archive/1759604184.549432",
+    "newest_archive_date": "2025-10-04T19:02:21.104350+00:00",
+    "num_failures": 2,
+    "num_outputs": 10,
+    "oldest_archive_date": "2025-10-04T19:01:05.441265+00:00",
+    "path": "/speakers",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "9829fe62-b5d6-4609-b65d-c8f94a98bce6",
+    "sources": [
+        "/data/sources/1759604183.819294-crawl-www.ai-crv.ca.txt"
+    ],
+    "tags": ",Canadian AI and Robots & Vision Conference 2025",
+    "tags_str": "Canadian AI and Robots & Vision Conference 2025",
+    "timestamp": "1759604184.549432",
+    "title": "Speakers | Canadian AI Conferen",
+    "updated": "2025-10-07T00:01:23.428566+00:00",
+    "updated_date": "2025-10-07 00:01",
+    "url": "https://www.ai-crv.ca/speakers"
+}

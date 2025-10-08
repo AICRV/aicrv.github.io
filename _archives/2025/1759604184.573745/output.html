@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en" class="js-focus-visible" data-js-focus-visible=""><head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <!-- The "none" directive is equivalent to using both the noindex and nofollow tags simultaneously -->
+  <meta name="robots" content="none, noarchive">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="icon" type="image/png" href="https://sentry-next.wixpress.com/_static/1759570567/sentry/images/favicon.png">
+
+  <link rel="apple-touch-icon" href="https://sentry-next.wixpress.com/_static/1759570567/sentry/images/logos/apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="https://sentry-next.wixpress.com/_static/1759570567/sentry/images/logos/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="https://sentry-next.wixpress.com/_static/1759570567/sentry/images/logos/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="https://sentry-next.wixpress.com/_static/1759570567/sentry/images/logos/apple-touch-icon-152x152.png">
+  
+
+  <link rel="mask-icon" sizes="any" href="https://sentry-next.wixpress.com/_static/1759570567/sentry/images/logos/logo-sentry.svg" color="#FB4226">
+
+  <link href="/_static/dist/sentry/entrypoints/sentry.css" rel="stylesheet">
+
+
+  <title>Sign In | Sentry</title>
+
+  
+    <script>window.__initialData = {"customerDomain":null,"singleOrganization":false,"supportEmail":"serhiimi@wix.com","urlPrefix":"https://sentry-next.wixpress.com","version":{"current":"23.1.1","latest":"25.9.0","build":"e06ad2c88f25079b49565eadc231f958838e041e","upgradeAvailable":true},"features":["organizations:create"],"distPrefix":"/_static/dist/sentry/","needsUpgrade":false,"dsn":"https://17e18a8d82004ec19f90a7e9d22de623@sentry-next.wixpress.com/1","statuspage":null,"messages":[],"apmSampling":0.0,"isOnPremise":true,"isSelfHosted":true,"invitesEnabled":true,"gravatarBaseUrl":"https://secure.gravatar.com","termsUrl":null,"privacyUrl":null,"lastOrganization":null,"languageCode":"en","userIdentity":{"ip_address":"10.42.223.79"},"csrfCookieName":"sc","superUserCookieName":"su","superUserCookieDomain":null,"sentryConfig":{"dsn":"https://17e18a8d82004ec19f90a7e9d22de623@sentry-next.wixpress.com/1","release":"frontend@23.1.1+e06ad2c88f25079b49565eadc231f958838e041e","environment":"production","whitelistUrls":[]},"demoMode":false,"enableAnalytics":false,"validateSUForm":true,"disableU2FForSUForm":false,"links":{"organizationUrl":null,"regionUrl":null,"sentryUrl":"https://sentry-next.wixpress.com"},"isAuthenticated":false,"user":null};</script>
+  
+
+  <script>// if the ads.js file loads below it will mark this variable as false
+    window.adblockSuspected = true;
+    // Initialize this so that we can queue up tasks when Sentry SPA is initialized
+    window.__onSentryInit = window.__onSentryInit || [];</script>
+
+  <script>try {
+    var reg = new RegExp(/\/organizations\/(.+?(?=(\/|$)))(\/|$)/, 'i');
+    var organization = window.location.pathname;
+    var slug = organization.match(reg)[1];
+
+    function promiseRequest(url) {
+      return new Promise(function (resolve, reject) {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', url);
+        xhr.onload = function () {
+          try {
+            this.status >= 200 && this.status < 300
+              ? resolve([JSON.parse(xhr.response), this.statusText, xhr])
+              : reject([this.status, this.statusText]);
+          } catch (e) {
+            reject();
+          }
+        };
+        xhr.onerror = function () {
+          reject([this.status, this.statusText]);
+        };
+        xhr.send();
+      });
+    }
+
+    function makeUrl(suffix) {
+      return '/api/0/organizations/' + slug + suffix;
+    }
+
+    // There are probably more, but this is at least one case where
+    // this should not be treated as a slug
+    if (slug !== 'new') {
+      var preloadPromises = {orgSlug: slug};
+      window.__sentry_preload = preloadPromises;
+
+      preloadPromises.organization = promiseRequest(makeUrl('/?detailed=0'));
+      preloadPromises.projects = promiseRequest(
+        makeUrl('/projects/?all_projects=1&collapse=latestDeploys')
+      );
+      preloadPromises.teams = promiseRequest(makeUrl('/teams/'));
+    }
+  } catch (_) {}</script>
+
+  
+  
+    
+    <script src="/_static/dist/sentry/entrypoints/app.js"></script>
+  
+
+  
+  
+
+  
+  <script src="/_static/1759570567/sentry/js/ads.js"></script>
+  
+<style>/*********************************************************
+* General
+*/
+pre[class*="language-"],
+code[class*="language-"] {
+  color: #f2edf6;
+  font-size: 15px;
+  text-shadow: none;
+  direction: ltr;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  line-height: 1.5;
+  -moz-tab-size: 4;
+  -o-tab-size: 4;
+  tab-size: 4;
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
+pre[class*="language-"]::selection,
+code[class*="language-"]::selection,
+pre[class*="language-"]::mozselection,
+code[class*="language-"]::mozselection {
+  text-shadow: none;
+  background: #865891;
+}
+@media print {
+  pre[class*="language-"],
+  code[class*="language-"] {
+    text-shadow: none;
+  }
+}
+pre[class*="language-"] {
+  padding: 1em;
+  overflow: auto;
+  background: #251f3d;
+}
+:not(pre) > code[class*="language-"] {
+  padding: .1em .3em;
+  border-radius: .3em;
+  color: #d25f7c;
+  background: #f8f9fb;
+}
+/*********************************************************
+* Tokens
+*/
+.namespace {
+  opacity: .7;
+}
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+  color: #77658b;
+}
+.token.punctuation {
+  color: #b3acc1;
+}
+.token.property,
+.token.tag,
+.token.boolean,
+.token.number,
+.token.constant,
+.token.symbol,
+.token.deleted {
+  color: #eab944;
+}
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+  color: #7ebe8e;
+}
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string {
+  color: #a470a7;
+  background: transparent;
+}
+.token.atrule,
+.token.attr-value,
+.token.keyword {
+  color: #e386aa;
+}
+.token.function {
+  color: #7cc5c4;
+}
+.token.regex,
+.token.important,
+.token.variable {
+  color: #e58759;
+}
+.token.important,
+.token.bold {
+  font-weight: bold;
+}
+.token.italic {
+  font-style: italic;
+}
+.token.entity {
+  cursor: help;
+}
+/*********************************************************
+* Line highlighting
+*/
+pre[data-line] {
+  position: relative;
+}
+pre[class*="language-"] > code[class*="language-"] {
+  position: relative;
+  z-index: 1;
+}
+.line-highlight {
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: inherit 0;
+  margin-top: 1em;
+  background: #382f5c;
+  box-shadow: inset 5px 0 0 #d25f7c;
+  z-index: 0;
+  pointer-events: none;
+  line-height: inherit;
+  white-space: pre;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8uLy4uL25vZGVfbW9kdWxlcy9wcmlzbS1zZW50cnkvaW5kZXguY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztDQUVDO0FBQ0Q7O0VBRUUsY0FBYztFQUNkLGVBQWU7RUFDZixpQkFBaUI7RUFDakIsY0FBYztFQUNkLGdCQUFnQjtFQUNoQixnQkFBZ0I7RUFDaEIsb0JBQW9CO0VBQ3BCLGtCQUFrQjtFQUNsQixnQkFBZ0I7RUFDaEIsZ0JBQWdCO0VBQ2hCLGNBQWM7RUFDZCxXQUFXO0VBQ1gscUJBQXFCO0VBQ3JCLGtCQUFrQjtFQUNsQixpQkFBaUI7RUFDakIsYUFBYTtBQUNmO0FBQ0E7Ozs7RUFJRSxpQkFBaUI7RUFDakIsbUJBQW1CO0FBQ3JCO0FBQ0E7RUFDRTs7SUFFRSxpQkFBaUI7RUFDbkI7QUFDRjtBQUNBO0VBQ0UsWUFBWTtFQUNaLGNBQWM7RUFDZCxtQkFBbUI7QUFDckI7QUFDQTtFQUNFLGtCQUFrQjtFQUNsQixtQkFBbUI7RUFDbkIsY0FBYztFQUNkLG1CQUFtQjtBQUNyQjtBQUNBOztDQUVDO0FBQ0Q7RUFDRSxXQUFXO0FBQ2I7QUFDQTs7OztFQUlFLGNBQWM7QUFDaEI7QUFDQTtFQUNFLGNBQWM7QUFDaEI7QUFDQTs7Ozs7OztFQU9FLGNBQWM7QUFDaEI7QUFDQTs7Ozs7O0VBTUUsY0FBYztBQUNoQjtBQUNBOzs7OztFQUtFLGNBQWM7RUFDZCx1QkFBdUI7QUFDekI7QUFDQTs7O0VBR0UsY0FBYztBQUNoQjtBQUNBO0VBQ0UsY0FBYztBQUNoQjtBQUNBOzs7RUFHRSxjQUFjO0FBQ2hCO0FBQ0E7O0VBRUUsaUJBQWlCO0FBQ25CO0FBQ0E7RUFDRSxrQkFBa0I7QUFDcEI7QUFDQTtFQUNFLFlBQVk7QUFDZDtBQUNBOztDQUVDO0FBQ0Q7RUFDRSxrQkFBa0I7QUFDcEI7QUFDQTtFQUNFLGtCQUFrQjtFQUNsQixVQUFVO0FBQ1o7QUFDQTtFQUNFLGtCQUFrQjtFQUNsQixPQUFPO0VBQ1AsUUFBUTtFQUNSLGtCQUFrQjtFQUNsQixlQUFlO0VBQ2YsbUJBQW1CO0VBQ25CLGlDQUFpQztFQUNqQyxVQUFVO0VBQ1Ysb0JBQW9CO0VBQ3BCLG9CQUFvQjtFQUNwQixnQkFBZ0I7QUFDbEIiLCJzb3VyY2VzQ29udGVudCI6WyIvKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqXG4qIEdlbmVyYWxcbiovXG5wcmVbY2xhc3MqPVwibGFuZ3VhZ2UtXCJdLFxuY29kZVtjbGFzcyo9XCJsYW5ndWFnZS1cIl0ge1xuICBjb2xvcjogI2YyZWRmNjtcbiAgZm9udC1zaXplOiAxNXB4O1xuICB0ZXh0LXNoYWRvdzogbm9uZTtcbiAgZGlyZWN0aW9uOiBsdHI7XG4gIHRleHQtYWxpZ246IGxlZnQ7XG4gIHdoaXRlLXNwYWNlOiBwcmU7XG4gIHdvcmQtc3BhY2luZzogbm9ybWFsO1xuICB3b3JkLWJyZWFrOiBub3JtYWw7XG4gIGxpbmUtaGVpZ2h0OiAxLjU7XG4gIC1tb3otdGFiLXNpemU6IDQ7XG4gIC1vLXRhYi1zaXplOiA0O1xuICB0YWItc2l6ZTogNDtcbiAgLXdlYmtpdC1oeXBoZW5zOiBub25lO1xuICAtbW96LWh5cGhlbnM6IG5vbmU7XG4gIC1tcy1oeXBoZW5zOiBub25lO1xuICBoeXBoZW5zOiBub25lO1xufVxucHJlW2NsYXNzKj1cImxhbmd1YWdlLVwiXTo6c2VsZWN0aW9uLFxuY29kZVtjbGFzcyo9XCJsYW5ndWFnZS1cIl06OnNlbGVjdGlvbixcbnByZVtjbGFzcyo9XCJsYW5ndWFnZS1cIl06Om1venNlbGVjdGlvbixcbmNvZGVbY2xhc3MqPVwibGFuZ3VhZ2UtXCJdOjptb3pzZWxlY3Rpb24ge1xuICB0ZXh0LXNoYWRvdzogbm9uZTtcbiAgYmFja2dyb3VuZDogIzg2NTg5MTtcbn1cbkBtZWRpYSBwcmludCB7XG4gIHByZVtjbGFzcyo9XCJsYW5ndWFnZS1cIl0sXG4gIGNvZGVbY2xhc3MqPVwibGFuZ3VhZ2UtXCJdIHtcbiAgICB0ZXh0LXNoYWRvdzogbm9uZTtcbiAgfVxufVxucHJlW2NsYXNzKj1cImxhbmd1YWdlLVwiXSB7XG4gIHBhZGRpbmc6IDFlbTtcbiAgb3ZlcmZsb3c6IGF1dG87XG4gIGJhY2tncm91bmQ6ICMyNTFmM2Q7XG59XG46bm90KHByZSkgPiBjb2RlW2NsYXNzKj1cImxhbmd1YWdlLVwiXSB7XG4gIHBhZGRpbmc6IC4xZW0gLjNlbTtcbiAgYm9yZGVyLXJhZGl1czogLjNlbTtcbiAgY29sb3I6ICNkMjVmN2M7XG4gIGJhY2tncm91bmQ6ICNmOGY5ZmI7XG59XG4vKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqXG4qIFRva2Vuc1xuKi9cbi5uYW1lc3BhY2Uge1xuICBvcGFjaXR5OiAuNztcbn1cbi50b2tlbi5jb21tZW50LFxuLnRva2VuLnByb2xvZyxcbi50b2tlbi5kb2N0eXBlLFxuLnRva2VuLmNkYXRhIHtcbiAgY29sb3I6ICM3NzY1OGI7XG59XG4udG9rZW4ucHVuY3R1YXRpb24ge1xuICBjb2xvcjogI2IzYWNjMTtcbn1cbi50b2tlbi5wcm9wZXJ0eSxcbi50b2tlbi50YWcsXG4udG9rZW4uYm9vbGVhbixcbi50b2tlbi5udW1iZXIsXG4udG9rZW4uY29uc3RhbnQsXG4udG9rZW4uc3ltYm9sLFxuLnRva2VuLmRlbGV0ZWQge1xuICBjb2xvcjogI2VhYjk0NDtcbn1cbi50b2tlbi5zZWxlY3Rvcixcbi50b2tlbi5hdHRyLW5hbWUsXG4udG9rZW4uc3RyaW5nLFxuLnRva2VuLmNoYXIsXG4udG9rZW4uYnVpbHRpbixcbi50b2tlbi5pbnNlcnRlZCB7XG4gIGNvbG9yOiAjN2ViZThlO1xufVxuLnRva2VuLm9wZXJhdG9yLFxuLnRva2VuLmVudGl0eSxcbi50b2tlbi51cmwsXG4ubGFuZ3VhZ2UtY3NzIC50b2tlbi5zdHJpbmcsXG4uc3R5bGUgLnRva2VuLnN0cmluZyB7XG4gIGNvbG9yOiAjYTQ3MGE3O1xuICBiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDtcbn1cbi50b2tlbi5hdHJ1bGUsXG4udG9rZW4uYXR0ci12YWx1ZSxcbi50b2tlbi5rZXl3b3JkIHtcbiAgY29sb3I6ICNlMzg2YWE7XG59XG4udG9rZW4uZnVuY3Rpb24ge1xuICBjb2xvcjogIzdjYzVjNDtcbn1cbi50b2tlbi5yZWdleCxcbi50b2tlbi5pbXBvcnRhbnQsXG4udG9rZW4udmFyaWFibGUge1xuICBjb2xvcjogI2U1ODc1OTtcbn1cbi50b2tlbi5pbXBvcnRhbnQsXG4udG9rZW4uYm9sZCB7XG4gIGZvbnQtd2VpZ2h0OiBib2xkO1xufVxuLnRva2VuLml0YWxpYyB7XG4gIGZvbnQtc3R5bGU6IGl0YWxpYztcbn1cbi50b2tlbi5lbnRpdHkge1xuICBjdXJzb3I6IGhlbHA7XG59XG4vKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqXG4qIExpbmUgaGlnaGxpZ2h0aW5nXG4qL1xucHJlW2RhdGEtbGluZV0ge1xuICBwb3NpdGlvbjogcmVsYXRpdmU7XG59XG5wcmVbY2xhc3MqPVwibGFuZ3VhZ2UtXCJdID4gY29kZVtjbGFzcyo9XCJsYW5ndWFnZS1cIl0ge1xuICBwb3NpdGlvbjogcmVsYXRpdmU7XG4gIHotaW5kZXg6IDE7XG59XG4ubGluZS1oaWdobGlnaHQge1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIGxlZnQ6IDA7XG4gIHJpZ2h0OiAwO1xuICBwYWRkaW5nOiBpbmhlcml0IDA7XG4gIG1hcmdpbi10b3A6IDFlbTtcbiAgYmFja2dyb3VuZDogIzM4MmY1YztcbiAgYm94LXNoYWRvdzogaW5zZXQgNXB4IDAgMCAjZDI1ZjdjO1xuICB6LWluZGV4OiAwO1xuICBwb2ludGVyLWV2ZW50czogbm9uZTtcbiAgbGluZS1oZWlnaHQ6IGluaGVyaXQ7XG4gIHdoaXRlLXNwYWNlOiBwcmU7XG59Il0sInNvdXJjZVJvb3QiOiIifQ== */</style></head>
+
+
+
+<body class="narrow auth org-login">
+  
+  <div class="app">
+    
+
+    
+    
+
+
+
+
+
+
+<div id="blk_alerts" class="messages-container"><div class="alert-list"></div></div>
+<div id="blk_indicators"></div>
+
+<script>window.__onSentryInit = window.__onSentryInit || [];
+  window.__onSentryInit.push({
+    name: 'renderReact',
+    component: 'SystemAlerts',
+    container: '#blk_alerts',
+    props: {
+      className: 'alert-list',
+    },
+  });
+  window.__onSentryInit.push({
+    name: 'renderReact ',
+    component: 'Indicators',
+    container: '#blk_indicators',
+    props: {
+      className: 'indicators-container',
+    },
+  });</script>
+
+
+
+
+    
+
+
+
+    <div class="container">
+      <div class="content">
+        
+<div class="pattern-bg"></div>
+
+<div class="box">
+  <div class="auth-sidebar">
+    <a href="/">
+      <span class="icon-sentry-logo"></span>
+    </a>
+  </div>
+  <section class="org-login">
+    
+  
+
+  <div class="auth-container p-t-1 border-bottom">
+    <h3>Sign in to continue</h3>
+    <ul class="nav nav-tabs auth-toggle m-b-0">
+      <li class="active">
+        <a href="#login" data-toggle="tab">Sign In</a>
+      </li>
+      
+      <li>
+        <a href="#sso" data-toggle="tab">Single Sign-On</a>
+      </li>
+    </ul>
+  </div>
+  <div class="tab-content">
+    <div class="tab-pane active" id="login">
+      <div class="auth-container">
+        <div class="auth-form-column">
+          <form class="form-stacked" action="" method="post" autocomplete="off">
+            <input type="hidden" name="csrfmiddlewaretoken" value="QD9QucZJCsXF5o9D5YFLVVfz3ab4N3ESQ2crvsf67qH8VZOEmFoFO4s7GlCB3TOf">
+
+            <input type="hidden" name="op" value="login">
+
+            
+
+
+            
+              
+
+
+    
+    <div id="div_id_username" class="form-group">
+        
+            <label for="id_username" class="control-label  requiredField">
+                Account<span class="asteriskField">*</span>
+            </label>
+        
+
+        
+
+        
+
+        
+            
+                <div class="controls ">
+                        
+                        <input type="text" name="username" placeholder="username or email" tabindex="1" maxlength="128" class="textinput textInput form-control" required="" id="id_username">
+                        
+                    
+
+
+    
+
+
+
+
+    
+
+
+
+                </div>
+            
+        
+    </div>
+    
+
+
+            
+              
+
+
+    
+    <div id="div_id_password" class="form-group">
+        
+            <label for="id_password" class="control-label  requiredField">
+                Password<span class="asteriskField">*</span>
+            </label>
+        
+
+        
+
+        
+
+        
+            
+                <div class="controls ">
+                        
+                        <input type="password" name="password" placeholder="password" tabindex="2" class="textinput textInput form-control" required="" id="id_password">
+                        
+                    
+
+
+    
+
+
+
+
+    
+
+
+
+                </div>
+            
+        
+    </div>
+    
+
+
+            
+
+            <div class="auth-footer m-t-1">
+              <button type="submit" class="btn btn-primary">Continue</button>
+              <a class="secondary" href="/account/recover/">Lost your password?</a>
+            </div>
+          </form>
+        </div>
+        
+      </div>
+    </div>
+    <div class="tab-pane" id="register">
+      <div class="auth-container">
+        <div class="auth-form-column">
+          <form class="form-stacked" action="" method="post" autocomplete="off">
+            <input type="hidden" name="csrfmiddlewaretoken" value="QD9QucZJCsXF5o9D5YFLVVfz3ab4N3ESQ2crvsf67qH8VZOEmFoFO4s7GlCB3TOf">
+
+            <input type="hidden" name="op" value="register">
+
+            
+
+
+            
+
+            
+
+            <div class="auth-footer m-t-1">
+              <button type="submit" class="btn btn-primary">Continue</button>
+              <a class="secondary" href="https://sentry.io/privacy/" target="_blank">
+                Privacy Policy
+              </a>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+    <div class="tab-pane" id="sso">
+      <div class="auth-container">
+        <div class="auth-form-column">
+          <form class="form-stacked" method="post">
+            <input type="hidden" name="csrfmiddlewaretoken" value="QD9QucZJCsXF5o9D5YFLVVfz3ab4N3ESQ2crvsf67qH8VZOEmFoFO4s7GlCB3TOf">
+
+            <input type="hidden" name="op" value="sso">
+
+            <div class="control-group required">
+              <div class="controls">
+                <label class="control-label">Organization ID</label>
+                <input type="text" class="form-control" name="organization" placeholder="acme" required="">
+                <p class="help-block">Your ID is the slug either before or after the hostname. For example, <code><strong>acme</strong></code> is the slug in either <code>sentry-next.wixpress.com/<strong>acme</strong>/</code> or <code><strong>acme</strong>.sentry-next.wixpress.com/</code>.</p>
+              </div>
+            </div>
+            <div class="auth-footer m-t-1">
+              <button class="btn btn-primary">Continue</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  </section>
+</div>
+
+
+      </div>
+    </div>
+  </div>
+  
+
+  
+  
+  <script>document.addEventListener('DOMContentLoaded', function() {
+      const el = document.querySelector('#sign-out');
+      if (el) {
+        el.addEventListener('click', function() {
+          document.modalLogoutForm.submit();
+        });
+      }
+    });</script>
+
+
+
+</body></html>

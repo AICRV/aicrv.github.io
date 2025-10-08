@@ -1,0 +1,374 @@
+{
+    "archive_path": "archive/1759604184.549413",
+    "base_url": "www.ai-crv.ca/call-for-workshops",
+    "basename": "call-for-workshops",
+    "bookmarked_date": "2025-10-04 18:56",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/www.ai-crv.ca/call-for-workshops",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=www.ai-crv.ca",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": "www.ai-crv.ca/call-for-workshops.html"
+    },
+    "domain": "www.ai-crv.ca",
+    "extension": "",
+    "hash": "JW4P31CSGYK1EVZWT96X",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://www.ai-crv.ca/call-for-workshops"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:19:28.726467+00:00",
+                "index_texts": null,
+                "output": "https://web.archive.org/web/20251004191914/https://www.ai-crv.ca/call-for-workshops",
+                "pwd": "/data/archive/1759604184.549413",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:18:51.585932+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://www.ai-crv.ca/call-for-workshops"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:18:37.549560+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/data/archive/1759604184.549413",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:18:35.218721+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=www.ai-crv.ca"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:18:15.276490+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/data/archive/1759604184.549413",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:18:13.222382+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.ai-crv.ca/call-for-workshops"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:18:15.405010+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/data/archive/1759604184.549413",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:18:15.283638+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://www.ai-crv.ca/call-for-workshops"
+                ],
+                "cmd_version": "2024.12.13",
+                "end_ts": "2025-10-04T19:18:51.582089+00:00",
+                "index_texts": [],
+                "output": "media",
+                "pwd": "/data/archive/1759604184.549413",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:18:50.507739+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/app/node_modules/@postlight/parser/cli.js",
+                    "https://www.ai-crv.ca/call-for-workshops"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-10-04T19:18:50.495705+00:00",
+                "index_texts": null,
+                "output": "mercury",
+                "pwd": "/data/archive/1759604184.549413",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:18:49.353288+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://www.ai-crv.ca/call-for-workshops"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:18:31.892780+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549413/output.pdf'",
+                "pwd": "/data/archive/1759604184.549413",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:18:25.784121+00:00",
+                "status": "failed"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/app/node_modules/readability-extractor/readability-extractor",
+                    "/tmp/tmpra6287tb",
+                    "https://www.ai-crv.ca/call-for-workshops"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-10-04T19:18:49.332864+00:00",
+                "index_texts": [
+                    "Call for WorkshopsThe\u00a038th Canadian Conference on Artificial Intelligence (Canadian AI 2025)\u00a0and 22nd Conference on Robots and Vision (CRV 2025) are pleased to invite proposals for\u00a0workshops\u00a0to be held alongside the main conference, which will be held from\u00a0May 26\u201329, 2024. Workshops provide a platform for focused discussions, knowledge sharing, and collaboration on specific topics. In addition to the topics of interest for Canadian AI and CRV conferences, we also encourage proposals that foster\u00a0interdisciplinary and transdisciplinary research on applications of AI, and strongly support workshops that are co-chaired by\u00a0researchers from different institutions\u00a0to encourage cross-institutional collaboration and diversity in perspectives.\n\nPlease find more information below.We invite proposals on a broad range of AI-related topics, as well as those focusing on novel application areas where AI can have a transformative impact. Additionally, we strongly encourage workshop proposals in novel and transformative application areas, including but not limited to Climate science and sustainability, Public policy and governance, Humanities and social sciences (e.g., AI in literature, historical research), Arts, culture, and digital heritage preservation, AI for global health, pandemic preparedness, and policy.\n\n\n\nWorkshops that bring together researchers from different disciplines and institutions are highly encouraged, as these collaborations can lead to groundbreaking insights and innovations. Proposals with co-organizers from multiple institutions are particularly welcomed, as they foster diverse perspectives and strengthen the interdisciplinary nature of the discussions to explore how AI can bridge gaps between disciplines and play a transformative role in addressing societal challenges.Workshop FormatWorkshops can be structured as full-day or half-day events and should promote interaction and collaboration. Suggested formats include a combination of invited talks, panel discussions, paper presentations, and breakout sessions to encourage deep dives into specific challenges or emerging topics.Proposal Submission GuidelinesWorkshop proposals should include the following information:\n\n\u200b\n\n\n\nTitle\u00a0of the workshop.\n\n\nAbstract\u00a0(up to 500 words) describing the workshop\u2019s objectives, relevance, and expected outcomes.\n\n\nTopics and Novel Areas: A list of topics to be covered, emphasizing both established AI areas and novel application domains.\n\n\nOrganizers: Names, affiliations, contact information, and a brief biography of each organizer. Proposals with organizers from multiple institutions are highly encouraged.\n\n\nPotential Invited Speakers: Names of potential or confirmed invited speakers, if applicable.\n\n\nWorkshop Structure: A proposed schedule (full-day or half-day) outlining the structure of the event (keynotes, discussions, paper presentations, etc.).\n\n\nTarget Audience: The intended audience, including estimated size and diversity of attendees (academic researchers, industry professionals, students).\n\n\nCall for Participation: A draft of the call for participation that will be used to solicit contributions for the workshop.\n\n\nPrevious Editions\u00a0(if applicable): Information about past editions of the workshop (if previously held), including participant numbers and feedback.\n\n\nSpecial Requirements: Any specific logistical or technical requirements.\n\n\n\n\u200b\u200bSubmission ProcedurePlease submit your workshop proposal in PDF format\u00a0using this linkImportant DatesProposal Submission Deadline: Feb 2, 2024\n\n\u200b\n\nNotification of Acceptance: Feb 17, 2025\n\n\u200b\n\nWorkshop Dates: May 26\u201329, 2025Contact InformationFor any questions regarding workshop proposals, please contact us at ai@ucalgary.ca.\n\nWe look forward to receiving your innovative workshop proposals and to welcoming you to Canadian AI 2025 and CRV 2025 for an enriching intellectual exchange!"
+                ],
+                "output": "readability",
+                "pwd": "/data/archive/1759604184.549413",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:18:48.791567+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://www.ai-crv.ca/call-for-workshops"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:18:35.211983+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/data/archive/1759604184.549413",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:18:31.903697+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/app/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--no-sandbox\\\", \\\"--no-zygote\\\", \\\"--disable-dev-shm-usage\\\", \\\"--disable-software-rasterizer\\\", \\\"--run-all-compositor-stages-before-draw\\\", \\\"--hide-scrollbars\\\", \\\"--window-size=1440,2000\\\", \\\"--autoplay-policy=no-user-gesture-required\\\", \\\"--no-first-run\\\", \\\"--use-fake-ui-for-media-stream\\\", \\\"--use-fake-device-for-media-stream\\\", \\\"--disable-sync\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://www.ai-crv.ca/call-for-workshops",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-10-04T19:18:25.761980+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549413/singlefile.html'",
+                "pwd": "/data/archive/1759604184.549413",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:18:15.408685+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.ai-crv.ca/call-for-workshops"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:18:48.789309+00:00",
+                "index_texts": null,
+                "output": "Call for Workshops | Canadian AI Conferen",
+                "pwd": "/data/archive/1759604184.549413",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:18:48.779491+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.549413/warc/1759605517",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "https://www.ai-crv.ca/call-for-workshops"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-04T19:18:48.774896+00:00",
+                "index_texts": null,
+                "output": "www.ai-crv.ca/call-for-workshops.html",
+                "pwd": "/data/archive/1759604184.549413",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:18:37.558686+00:00",
+                "status": "succeeded"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "https://web.archive.org/web/20251004191914/https://www.ai-crv.ca/call-for-workshops",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": "media",
+        "pdf": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549413/output.pdf'",
+        "screenshot": "screenshot.png",
+        "singlefile": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549413/singlefile.html'",
+        "title": "Call for Workshops | Canadian AI Conferen",
+        "warc": null,
+        "wget": "www.ai-crv.ca/call-for-workshops.html"
+    },
+    "link_dir": "/data/archive/1759604184.549413",
+    "newest_archive_date": "2025-10-04T19:18:51.585932+00:00",
+    "num_failures": 2,
+    "num_outputs": 10,
+    "oldest_archive_date": "2025-10-04T19:18:13.222382+00:00",
+    "path": "/call-for-workshops",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "95459d4e-7e3f-415d-81fb-48f2d001245d",
+    "sources": [
+        "/data/sources/1759604183.819294-crawl-www.ai-crv.ca.txt"
+    ],
+    "tags": ",Canadian AI and Robots & Vision Conference 2025",
+    "tags_str": "Canadian AI and Robots & Vision Conference 2025",
+    "timestamp": "1759604184.549413",
+    "title": "Call for Workshops | Canadian AI Conferen",
+    "updated": "2025-10-07T00:01:27.486008+00:00",
+    "updated_date": "2025-10-07 00:01",
+    "url": "https://www.ai-crv.ca/call-for-workshops"
+}

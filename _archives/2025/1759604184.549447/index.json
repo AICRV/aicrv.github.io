@@ -1,0 +1,396 @@
+{
+    "archive_path": "archive/1759604184.549447",
+    "base_url": "www.ai-crv.ca/community-and-ai",
+    "basename": "community-and-ai",
+    "bookmarked_date": "2025-10-04 18:56",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/www.ai-crv.ca/community-and-ai",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=www.ai-crv.ca",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": "www.ai-crv.ca/community-and-ai.html"
+    },
+    "domain": "www.ai-crv.ca",
+    "extension": "",
+    "hash": "18SS5JGGSV34EEW9F2VH",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "120",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://www.ai-crv.ca/community-and-ai"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-05T06:58:20.500702+00:00",
+                "index_texts": null,
+                "output": "https://web.archive.org/web/20251005065804/https://www.ai-crv.ca/community-and-ai",
+                "pwd": "/data/archive/1759604184.549447",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-05T06:58:01.032991+00:00",
+                "status": "succeeded"
+            },
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://www.ai-crv.ca/community-and-ai"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:13:55.745886+00:00",
+                "index_texts": null,
+                "output": "TimeoutExpired: Command '['curl', '--silent', '--location', '--compressed', '--head', '--max-time', '60', '--user-agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)', 'https://web.archive.org/save/https://www.ai-crv.ca/community-and-ai']' timed out after 60 seconds",
+                "pwd": "/data/archive/1759604184.549447",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:12:55.713646+00:00",
+                "status": "failed"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://www.ai-crv.ca/community-and-ai"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:12:33.224597+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/data/archive/1759604184.549447",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:12:27.848631+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=www.ai-crv.ca"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:12:04.951301+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/data/archive/1759604184.549447",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:12:02.832162+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.ai-crv.ca/community-and-ai"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:12:05.090383+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/data/archive/1759604184.549447",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:12:04.957254+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://www.ai-crv.ca/community-and-ai"
+                ],
+                "cmd_version": "2024.12.13",
+                "end_ts": "2025-10-04T19:12:55.710391+00:00",
+                "index_texts": [],
+                "output": "media",
+                "pwd": "/data/archive/1759604184.549447",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:12:54.658600+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/app/node_modules/@postlight/parser/cli.js",
+                    "https://www.ai-crv.ca/community-and-ai"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-10-04T19:12:54.648466+00:00",
+                "index_texts": null,
+                "output": "mercury",
+                "pwd": "/data/archive/1759604184.549447",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:12:53.543915+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://www.ai-crv.ca/community-and-ai"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:12:21.928223+00:00",
+                "index_texts": null,
+                "output": "output.pdf",
+                "pwd": "/data/archive/1759604184.549447",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:12:16.627907+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/app/node_modules/readability-extractor/readability-extractor",
+                    "/tmp/tmptcj56f_y",
+                    "https://www.ai-crv.ca/community-and-ai"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-10-04T19:12:53.519216+00:00",
+                "index_texts": [
+                    "This workshop aims to explore the integration of multimodal inputs, particularly visual and textural data, into Automatic Speech Recognition (ASR) systems to enhance their performance and applicability. By bringing together researchers and practitioners, we will discuss recent advancements, challenges, and future directions in Multimodal Natural Language Processing (MNLP) with a focus on ASR.\n\n\u200b\n\nTraditional ASR systems primarily rely on acoustic signals to transcribe speech. However, human communication is inherently multimodal, often involving visual cues such as lip movements, gestures, and contextual imagery. Integrating these additional modalities can significantly improve the accuracy and robustness of ASR systems, especially in noisy environments or when dealing with ambiguous linguistic content. This workshop seeks to:\n\n\n\nHighlight Recent Research: Present cutting-edge studies that incorporate visual/textural information into ASR, demonstrating improved performance and new capabilities.\n\n\nDiscuss Technical Challenges: Identify and address the technical hurdles in fusing multimodal data, such as synchronization, data representation, and model integration.\n\n\nExplore Applications: Examine real-world applications where multimodal ASR offers significant advantages, including assistive technologies, human-computer interaction, and multimedia content analysis.\n\n\nFoster Collaboration: Create a platform for interdisciplinary collaboration among researchers in speech processing, computer vision, and natural language processing.\n\n\n\n\u200b\u200b\n\n\u200b\u200b\n\nWorkshop Highlights\n\nThe workshop will be structured as a full-day event, comprising:\n\n\n\nKeynote Speeches: Invited talks from leading experts in multimodal ASR and MNLP.\n\n\nPaper Presentations: Oral presentations of peer-reviewed research papers.\n\n\nPoster Sessions: Interactive sessions for researchers to showcase their work and engage in detailed discussions.\n\n\nPanel Discussion: A moderated discussion on the future directions of multimodal ASR, involving academia and industry experts.\n\n\nHands-on Tutorials: Practical sessions demonstrating tools and techniques for integrating multimodal data into ASR systems.\n\n\n\n\u200b\n\n\u200b\n\nTarget Audience\n\n\n\nResearchers and Academics: Individuals working in ASR, computer vision, and MNLP.\n\n\nIndustry Professionals: Practitioners developing speech recognition applications and interested in multimodal integration.\n\n\nGraduate Students: Students seeking to deepen their understanding of multimodal approaches in speech recognition.\n\n\n\n\u200b\n\n\u200b\n\n\u200b\u200b\u200bCall for Papers\u200b\n\nWe invite submissions on topics including, but not limited to:\n\n\n\nMultimodal Data Fusion: Techniques for combining audio and visual/textural data in ASR systems.\n\n\nModel Architectures: Innovative neural architectures for multimodal ASR.\n\n\nDataset Development: Creation and annotation of datasets containing synchronized audio and visual data.\n\n\nApplication Case Studies: Real-world implementations of multimodal ASR systems.\n\n\nEvaluation Metrics: Methods for assessing the performance of multimodal ASR systems.\n\n\n\n\u200b\u200b\n\n\u200b\n\nSubmission Guidelines\n\n\n\nPaper Length: Long papers (up to 12 pages) and short papers (up to 6 pages), including references.\n\n\nFormat: Submissions should follow the conference's specified template.\n\n\nReview Process: All submissions will undergo double-blind peer review.\n\n\nSubmission Link: [placeholder]\n\n\n\n\u200b\n\n\u200b\n\nImportant Dates\n\n\n\nPaper Submission Deadline: [Insert Date]\u200b\n\n\nNotification of Acceptance: [Insert Date]\u200b\n\n\nCamera-Ready Papers Due: [Insert Date]\u200b\n\n\nWorkshop Date: [Insert Date]\u200b\n\n\n\n\u200b\n\n\u200b\n\nWorkshop Organizers \n\n\n\nSam Rahbar, DialPad, info@srahbar.com\n\n\n[Name], [Affiliation], [Contact Information]\u200b\n\n\n[Name], [Affiliation], [Contact Information]\u200b\n\n\n\n\u200b\n\n\u200b\n\nPotential Invited Speakers\n\n\n\nDr. [Name], [Affiliation], expertise in multimodal ASR.\u200b\n\n\nDr. [Name], [Affiliation], known for work in MNLP.\n\n\n\n\u200b\n\n\u200b\n\nWorkshop Schedule\n\n\n\n9:00 AM - 9:15 AM: Opening Remarks\u200b\n\n\n9:15 AM - 10:00 AM: Keynote Speech 1\u200b\n\n\n10:00 AM - 11:00 AM: Paper Session 1\u200b\n\n\n11:00 AM - 11:15 AM: Coffee Break\u200b\n\n\n11:15 AM - 12:15 PM: Paper Session 2\u200b\n\n\n12:15 PM - 1:15 PM: Lunch Break\u200b\n\n\n1:15 PM - 2:00 PM: Keynote Speech 2\u200b\n\n\n2:00 PM - 3:00 PM: Poster Session\u200b\n\n\n3:00 PM - 3:15 PM: Coffee Break\u200b\n\n\n3:15 PM - 4:15 PM: Panel Discussion\u200b\n\n\n4:15 PM - 5:15 PM: Hands-on Tutorial\u200b\n\n\n5:15 PM - 5:30 PM: Closing Remarks\u200b\n\n\n\n\u200b\u200b\u200b\n\n\u200b"
+                ],
+                "output": "readability",
+                "pwd": "/data/archive/1759604184.549447",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:12:52.989447+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://www.ai-crv.ca/community-and-ai"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:12:27.841171+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/data/archive/1759604184.549447",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:12:21.931383+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/app/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--no-sandbox\\\", \\\"--no-zygote\\\", \\\"--disable-dev-shm-usage\\\", \\\"--disable-software-rasterizer\\\", \\\"--run-all-compositor-stages-before-draw\\\", \\\"--hide-scrollbars\\\", \\\"--window-size=1440,2000\\\", \\\"--autoplay-policy=no-user-gesture-required\\\", \\\"--no-first-run\\\", \\\"--use-fake-ui-for-media-stream\\\", \\\"--use-fake-device-for-media-stream\\\", \\\"--disable-sync\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://www.ai-crv.ca/community-and-ai",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-10-04T19:12:16.623487+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549447/singlefile.html'",
+                "pwd": "/data/archive/1759604184.549447",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:12:05.093143+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.ai-crv.ca/community-and-ai"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:12:52.986186+00:00",
+                "index_texts": null,
+                "output": "Community and AI | Canadian AI Conferen",
+                "pwd": "/data/archive/1759604184.549447",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:12:52.968815+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.549447/warc/1759605153",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "https://www.ai-crv.ca/community-and-ai"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-04T19:12:52.955692+00:00",
+                "index_texts": null,
+                "output": "www.ai-crv.ca/community-and-ai.html",
+                "pwd": "/data/archive/1759604184.549447",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:12:33.233419+00:00",
+                "status": "succeeded"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "TimeoutExpired: Command '['curl', '--silent', '--location', '--compressed', '--head', '--max-time', '60', '--user-agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)', 'https://web.archive.org/save/https://www.ai-crv.ca/community-and-ai']' timed out after 60 seconds",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": "media",
+        "pdf": "output.pdf",
+        "screenshot": "screenshot.png",
+        "singlefile": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549447/singlefile.html'",
+        "title": "Community and AI | Canadian AI Conferen",
+        "warc": null,
+        "wget": "www.ai-crv.ca/community-and-ai.html"
+    },
+    "link_dir": "/data/archive/1759604184.549447",
+    "newest_archive_date": "2025-10-05T06:58:01.032991+00:00",
+    "num_failures": 2,
+    "num_outputs": 11,
+    "oldest_archive_date": "2025-10-04T19:12:02.832162+00:00",
+    "path": "/community-and-ai",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "40fc3715-fbf1-468f-bb88-27ba9989ee46",
+    "sources": [
+        "/data/sources/1759604183.819294-crawl-www.ai-crv.ca.txt"
+    ],
+    "tags": ",Canadian AI and Robots & Vision Conference 2025",
+    "tags_str": "Canadian AI and Robots & Vision Conference 2025",
+    "timestamp": "1759604184.549447",
+    "title": "Community and AI | Canadian AI Conferen",
+    "updated": "2025-10-07T00:01:25.920072+00:00",
+    "updated_date": "2025-10-07 00:01",
+    "url": "https://www.ai-crv.ca/community-and-ai"
+}

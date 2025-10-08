@@ -1,0 +1,645 @@
+{
+    "archive_path": "archive/1759604184.582722",
+    "base_url": "localhost:",
+    "basename": "",
+    "bookmarked_date": "2025-10-04 18:56",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/localhost:",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=localhost:",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": null
+    },
+    "domain": "localhost:",
+    "extension": "",
+    "hash": "14CG22054V3R00RW0HKP",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "120",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/http://localhost:"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-06T00:56:07.259963+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-06T00:56:06.773548+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "120",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/http://localhost:"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-05T07:40:10.380845+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-05T07:40:09.403189+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/http://localhost:"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T20:04:52.054761+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T20:04:51.663740+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "120",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/http://localhost:"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-07T02:06:54.674772+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-07T02:06:54.477875+00:00",
+                "status": "failed"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "http://localhost:"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T20:04:50.404900+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T20:04:49.913527+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=localhost:"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T20:04:47.370375+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T20:04:46.359395+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "120",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "http://localhost:"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-06T00:54:06.552390+00:00",
+                "index_texts": null,
+                "output": "ConnectionError: None: Max retries exceeded with url: / (Caused by None)",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-06T00:54:06.549279+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "120",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "http://localhost:"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-05T07:38:00.860866+00:00",
+                "index_texts": null,
+                "output": "ConnectionError: None: Max retries exceeded with url: / (Caused by None)",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-05T07:38:00.853135+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "http://localhost:"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T20:04:47.386447+00:00",
+                "index_texts": null,
+                "output": "ConnectionError: None: Max retries exceeded with url: / (Caused by None)",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T20:04:47.380662+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "120",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "http://localhost:"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-07T02:04:54.225562+00:00",
+                "index_texts": null,
+                "output": "ConnectionError: None: Max retries exceeded with url: / (Caused by None)",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-07T02:04:54.220715+00:00",
+                "status": "failed"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "http://localhost:"
+                ],
+                "cmd_version": "2024.12.13",
+                "end_ts": "2025-10-04T20:04:51.658258+00:00",
+                "index_texts": [],
+                "output": "ArchiveError: Failed to save media",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T20:04:51.169608+00:00",
+                "status": "failed"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/app/node_modules/@postlight/parser/cli.js",
+                    "http://localhost:",
+                    "--format=text"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-10-04T20:04:51.162007+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Got /app/node_modules/@postlight/parser/cli.js response code: 1).",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T20:04:50.936831+00:00",
+                "status": "failed"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "http://localhost:"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T20:04:49.166169+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.582722/output.pdf'",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T20:04:48.570605+00:00",
+                "status": "failed"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/app/node_modules/readability-extractor/readability-extractor",
+                    "/tmp/tmp63oaxm02",
+                    "http://localhost:"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-10-04T20:04:50.907381+00:00",
+                "index_texts": [
+                    "localhost refused to connect.\n        \n        \n                \n                  Try:\n                  \n                    Checking the connectionChecking the proxy and the firewall\n                  \n                \n                ERR_CONNECTION_REFUSED\n                \n                  null\n                \n              \n        \n        \n        \n        \n      \n    \n    \n      \n        Check your Internet connection\n        Check any cables and reboot any routers, modems, or other network\n    devices you may be using.\n      \n        Allow Chromium to access the network in your firewall or antivirus\n          settings.\n        If it is already listed as a program allowed to access the network, try\n      removing it from the list and adding it again.\n      \n        If you use a proxy server\u2026\n        Check your proxy settings or contact your network administrator to\n      make sure the proxy server is working. If you don't believe you should\n      be using a proxy server:\n      Go to\n          the Chromium menu >\n          Settings\n          >\n          Show advanced settings\u2026\n          >\n          Change proxy settings\u2026\n          and make sure your configuration is set to \"no proxy\" or \"direct.\""
+                ],
+                "output": "readability",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T20:04:50.426944+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "http://localhost:"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T20:04:49.910160+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.582722/screenshot.png'",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T20:04:49.170164+00:00",
+                "status": "failed"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/app/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--no-sandbox\\\", \\\"--no-zygote\\\", \\\"--disable-dev-shm-usage\\\", \\\"--disable-software-rasterizer\\\", \\\"--run-all-compositor-stages-before-draw\\\", \\\"--hide-scrollbars\\\", \\\"--window-size=1440,2000\\\", \\\"--autoplay-policy=no-user-gesture-required\\\", \\\"--no-first-run\\\", \\\"--use-fake-ui-for-media-stream\\\", \\\"--use-fake-device-for-media-stream\\\", \\\"--disable-sync\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "http://localhost:",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-10-06T00:56:06.671163+00:00",
+                "index_texts": null,
+                "output": "TimeoutExpired: Command '['/app/node_modules/single-file-cli/single-file', '--browser-executable-path=chromium-browser', '--browser-args=[\\\\\"--headless=new\\\\\", \\\\\"--no-sandbox\\\\\", \\\\\"--no-zygote\\\\\", \\\\\"--disable-dev-shm-usage\\\\\", \\\\\"--disable-software-rasterizer\\\\\", \\\\\"--run-all-compositor-stages-before-draw\\\\\", \\\\\"--hide-scrollbars\\\\\", \\\\\"--window-size=1440,2000\\\\\", \\\\\"--autoplay-policy=no-user-gesture-required\\\\\", \\\\\"--no-first-run\\\\\", \\\\\"--use-fake-ui-for-media-stream\\\\\", \\\\\"--use-fake-device-for-media-stream\\\\\", \\\\\"--disable-sync\\\\\", \\\\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\\\", \\\\\"--window-size=1440,2000\\\\\"]', 'http://localhost:', 'singlefile.html']' timed out after 120 seconds",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-06T00:54:06.554568+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "/app/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--no-sandbox\\\", \\\"--no-zygote\\\", \\\"--disable-dev-shm-usage\\\", \\\"--disable-software-rasterizer\\\", \\\"--run-all-compositor-stages-before-draw\\\", \\\"--hide-scrollbars\\\", \\\"--window-size=1440,2000\\\", \\\"--autoplay-policy=no-user-gesture-required\\\", \\\"--no-first-run\\\", \\\"--use-fake-ui-for-media-stream\\\", \\\"--use-fake-device-for-media-stream\\\", \\\"--disable-sync\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "http://localhost:",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-10-05T07:40:07.707943+00:00",
+                "index_texts": null,
+                "output": "TimeoutExpired: Command '['/app/node_modules/single-file-cli/single-file', '--browser-executable-path=chromium-browser', '--browser-args=[\\\\\"--headless=new\\\\\", \\\\\"--no-sandbox\\\\\", \\\\\"--no-zygote\\\\\", \\\\\"--disable-dev-shm-usage\\\\\", \\\\\"--disable-software-rasterizer\\\\\", \\\\\"--run-all-compositor-stages-before-draw\\\\\", \\\\\"--hide-scrollbars\\\\\", \\\\\"--window-size=1440,2000\\\\\", \\\\\"--autoplay-policy=no-user-gesture-required\\\\\", \\\\\"--no-first-run\\\\\", \\\\\"--use-fake-ui-for-media-stream\\\\\", \\\\\"--use-fake-device-for-media-stream\\\\\", \\\\\"--disable-sync\\\\\", \\\\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\\\", \\\\\"--window-size=1440,2000\\\\\"]', 'http://localhost:', 'singlefile.html']' timed out after 120 seconds",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-05T07:38:00.865400+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "/app/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--no-sandbox\\\", \\\"--no-zygote\\\", \\\"--disable-dev-shm-usage\\\", \\\"--disable-software-rasterizer\\\", \\\"--run-all-compositor-stages-before-draw\\\", \\\"--hide-scrollbars\\\", \\\"--window-size=1440,2000\\\", \\\"--autoplay-policy=no-user-gesture-required\\\", \\\"--no-first-run\\\", \\\"--use-fake-ui-for-media-stream\\\", \\\"--use-fake-device-for-media-stream\\\", \\\"--disable-sync\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "http://localhost:",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-10-04T20:04:48.562411+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: SingleFile was not able to archive the page",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T20:04:47.392211+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "/app/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--no-sandbox\\\", \\\"--no-zygote\\\", \\\"--disable-dev-shm-usage\\\", \\\"--disable-software-rasterizer\\\", \\\"--run-all-compositor-stages-before-draw\\\", \\\"--hide-scrollbars\\\", \\\"--window-size=1440,2000\\\", \\\"--autoplay-policy=no-user-gesture-required\\\", \\\"--no-first-run\\\", \\\"--use-fake-ui-for-media-stream\\\", \\\"--use-fake-device-for-media-stream\\\", \\\"--disable-sync\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "http://localhost:",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-10-07T02:06:54.356226+00:00",
+                "index_texts": null,
+                "output": "TimeoutExpired: Command '['/app/node_modules/single-file-cli/single-file', '--browser-executable-path=chromium-browser', '--browser-args=[\\\\\"--headless=new\\\\\", \\\\\"--no-sandbox\\\\\", \\\\\"--no-zygote\\\\\", \\\\\"--disable-dev-shm-usage\\\\\", \\\\\"--disable-software-rasterizer\\\\\", \\\\\"--run-all-compositor-stages-before-draw\\\\\", \\\\\"--hide-scrollbars\\\\\", \\\\\"--window-size=1440,2000\\\\\", \\\\\"--autoplay-policy=no-user-gesture-required\\\\\", \\\\\"--no-first-run\\\\\", \\\\\"--use-fake-ui-for-media-stream\\\\\", \\\\\"--use-fake-device-for-media-stream\\\\\", \\\\\"--disable-sync\\\\\", \\\\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\\\", \\\\\"--window-size=1440,2000\\\\\"]', 'http://localhost:', 'singlefile.html']' timed out after 120 seconds",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-07T02:04:54.229085+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "http://localhost:"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T20:04:50.424722+00:00",
+                "index_texts": null,
+                "output": "localhost",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T20:04:50.422255+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=120",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.582722/warc/1759712166",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "http://localhost:"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-06T00:56:06.770904+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Wget failed or got an error from the server",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-06T00:56:06.731218+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=120",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.582722/warc/1759650008",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "http://localhost:"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-05T07:40:08.966188+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Wget failed or got an error from the server",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-05T07:40:08.437951+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.582722/warc/1759608290",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "http://localhost:"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-04T20:04:50.419917+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Wget failed or got an error from the server",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T20:04:50.408157+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=120",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.582722/warc/1759802814",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "http://localhost:"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-07T02:06:54.474116+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Wget failed or got an error from the server",
+                "pwd": "/data/archive/1759604184.582722",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-07T02:06:54.427940+00:00",
+                "status": "failed"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": "ArchiveError: Failed to save media",
+        "pdf": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.582722/output.pdf'",
+        "screenshot": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.582722/screenshot.png'",
+        "singlefile": "TimeoutExpired: Command '['/app/node_modules/single-file-cli/single-file', '--browser-executable-path=chromium-browser', '--browser-args=[\\\\\"--headless=new\\\\\", \\\\\"--no-sandbox\\\\\", \\\\\"--no-zygote\\\\\", \\\\\"--disable-dev-shm-usage\\\\\", \\\\\"--disable-software-rasterizer\\\\\", \\\\\"--run-all-compositor-stages-before-draw\\\\\", \\\\\"--hide-scrollbars\\\\\", \\\\\"--window-size=1440,2000\\\\\", \\\\\"--autoplay-policy=no-user-gesture-required\\\\\", \\\\\"--no-first-run\\\\\", \\\\\"--use-fake-ui-for-media-stream\\\\\", \\\\\"--use-fake-device-for-media-stream\\\\\", \\\\\"--disable-sync\\\\\", \\\\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\\\", \\\\\"--window-size=1440,2000\\\\\"]', 'http://localhost:', 'singlefile.html']' timed out after 120 seconds",
+        "title": "localhost",
+        "warc": null,
+        "wget": "ArchiveError: Wget failed or got an error from the server"
+    },
+    "link_dir": "/data/archive/1759604184.582722",
+    "newest_archive_date": "2025-10-07T02:06:54.477875+00:00",
+    "num_failures": 20,
+    "num_outputs": 4,
+    "oldest_archive_date": "2025-10-04T20:04:46.359395+00:00",
+    "path": "",
+    "schema": "Link",
+    "scheme": "http",
+    "snapshot_id": "29584124-8c24-4060-9aed-f81fadc6f248",
+    "sources": [
+        "/data/sources/1759604183.819294-crawl-www.ai-crv.ca.txt"
+    ],
+    "tags": ",Canadian AI and Robots & Vision Conference 2025",
+    "tags_str": "Canadian AI and Robots & Vision Conference 2025",
+    "timestamp": "1759604184.582722",
+    "title": "localhost",
+    "updated": "2025-10-07T02:04:54.220455+00:00",
+    "updated_date": "2025-10-07 02:04",
+    "url": "http://localhost:"
+}

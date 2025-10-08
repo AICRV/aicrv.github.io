@@ -1,0 +1,17 @@
+{
+    "Status-Code": 403,
+    "Content-Type": "text/plain",
+    "Content-Length": "9",
+    "Connection": "keep-alive",
+    "Server": "openresty/1.27.1.2",
+    "Date": "Sat, 04 Oct 2025 19:25:42 GMT",
+    "Access-Control-Allow-Origin": "*",
+    "Cache-Control": "no-cache, private, must-revalidate, proxy-revalidate, no-store",
+    "Timing-Allow-Origin": "*",
+    "X-Seen-By": "gcp.us-central-1.media-router-78dbb59d78-klhg6",
+    "Via": "1.1 google, 1.1 ff2012aca0ae72bb05b003fad40aa354.cloudfront.net (CloudFront)",
+    "X-Cache": "Error from cloudfront",
+    "X-Amz-Cf-Pop": "LOS50-P2",
+    "Alt-Svc": "h3=\":443\"; ma=86400",
+    "X-Amz-Cf-Id": "STq2gzpw79xaJFzl_DmpPGDafdOgaj13CD6VHIyU_o5kbwWnTULmfQ=="
+}

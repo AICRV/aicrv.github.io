@@ -1,0 +1,178 @@
+{
+    "archive_path": "archive/1759604184.570451",
+    "base_url": "polymer.github.io/CONTRIBUTORS.txt",
+    "basename": "CONTRIBUTORS.txt",
+    "bookmarked_date": "2025-10-04 18:56",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/polymer.github.io/CONTRIBUTORS.txt",
+        "dom_path": "polymer.github.io/CONTRIBUTORS.txt",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=polymer.github.io",
+        "headers_path": "headers.json",
+        "htmltotext_path": "polymer.github.io/CONTRIBUTORS.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "polymer.github.io/CONTRIBUTORS.txt",
+        "pdf_path": "polymer.github.io/CONTRIBUTORS.txt",
+        "readability_path": "polymer.github.io/CONTRIBUTORS.txt",
+        "screenshot_path": "polymer.github.io/CONTRIBUTORS.txt",
+        "singlefile_path": "polymer.github.io/CONTRIBUTORS.txt",
+        "title": "CONTRIBUTORS.txt",
+        "warc_path": "warc/",
+        "wget_path": "polymer.github.io/CONTRIBUTORS.txt"
+    },
+    "domain": "polymer.github.io",
+    "extension": "txt",
+    "hash": "1NPS16WN4KGE45WCMDGA",
+    "history": {
+        "archive_org": [],
+        "dom": [],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=polymer.github.io"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T20:04:43.689315+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/data/archive/1759604184.570451",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T20:04:41.777097+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "http://polymer.github.io/CONTRIBUTORS.txt"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T20:04:43.909822+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/data/archive/1759604184.570451",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T20:04:43.698028+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "htmltotext": [],
+        "media": [],
+        "mercury": [],
+        "pdf": [],
+        "readability": [],
+        "screenshot": [],
+        "singlefile": [],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "http://polymer.github.io/CONTRIBUTORS.txt"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T20:04:43.977115+00:00",
+                "index_texts": null,
+                "output": "polymer.github.io/CONTRIBUTORS.txt",
+                "pwd": "/data/archive/1759604184.570451",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T20:04:43.973533+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.570451/warc/1759608283",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "http://polymer.github.io/CONTRIBUTORS.txt"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-04T20:04:43.969804+00:00",
+                "index_texts": null,
+                "output": "polymer.github.io/CONTRIBUTORS.txt",
+                "pwd": "/data/archive/1759604184.570451",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T20:04:43.914454+00:00",
+                "status": "succeeded"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": true,
+    "latest": {
+        "archive_org": null,
+        "dom": null,
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": null,
+        "pdf": null,
+        "screenshot": null,
+        "singlefile": null,
+        "title": "polymer.github.io/CONTRIBUTORS.txt",
+        "warc": null,
+        "wget": "polymer.github.io/CONTRIBUTORS.txt"
+    },
+    "link_dir": "/data/archive/1759604184.570451",
+    "newest_archive_date": "2025-10-04T20:04:43.973533+00:00",
+    "num_failures": 0,
+    "num_outputs": 4,
+    "oldest_archive_date": "2025-10-04T20:04:41.777097+00:00",
+    "path": "/CONTRIBUTORS.txt",
+    "schema": "Link",
+    "scheme": "http",
+    "snapshot_id": "4d4ff438-23c9-4e11-b486-53c5772706d7",
+    "sources": [
+        "/data/sources/1759604183.819294-crawl-www.ai-crv.ca.txt"
+    ],
+    "tags": ",Canadian AI and Robots & Vision Conference 2025",
+    "tags_str": "Canadian AI and Robots & Vision Conference 2025",
+    "timestamp": "1759604184.570451",
+    "title": "polymer.github.io/CONTRIBUTORS.txt",
+    "updated": "2025-10-07T02:04:54.046840+00:00",
+    "updated_date": "2025-10-07 02:04",
+    "url": "http://polymer.github.io/CONTRIBUTORS.txt"
+}

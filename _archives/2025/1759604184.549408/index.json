@@ -1,0 +1,374 @@
+{
+    "archive_path": "archive/1759604184.549408",
+    "base_url": "www.ai-crv.ca/canadian-ai-conference-call-for-papers",
+    "basename": "canadian-ai-conference-call-for-papers",
+    "bookmarked_date": "2025-10-04 18:56",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/www.ai-crv.ca/canadian-ai-conference-call-for-papers",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=www.ai-crv.ca",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": "www.ai-crv.ca/canadian-ai-conference-call-for-papers.html"
+    },
+    "domain": "www.ai-crv.ca",
+    "extension": "",
+    "hash": "V7DGW98EKRSVFMT3NZHN",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://www.ai-crv.ca/canadian-ai-conference-call-for-papers"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:18:13.119644+00:00",
+                "index_texts": null,
+                "output": "https://web.archive.org/web/20251004191751/https://www.ai-crv.ca/canadian-ai-conference-call-for-papers",
+                "pwd": "/data/archive/1759604184.549408",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:17:48.256191+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://www.ai-crv.ca/canadian-ai-conference-call-for-papers"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:17:26.605194+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/data/archive/1759604184.549408",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:17:20.596685+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=www.ai-crv.ca"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:16:53.411197+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/data/archive/1759604184.549408",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:16:51.489870+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.ai-crv.ca/canadian-ai-conference-call-for-papers"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:16:54.313838+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/data/archive/1759604184.549408",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:16:53.423605+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://www.ai-crv.ca/canadian-ai-conference-call-for-papers"
+                ],
+                "cmd_version": "2024.12.13",
+                "end_ts": "2025-10-04T19:17:48.251167+00:00",
+                "index_texts": [],
+                "output": "media",
+                "pwd": "/data/archive/1759604184.549408",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:17:47.042445+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/app/node_modules/@postlight/parser/cli.js",
+                    "https://www.ai-crv.ca/canadian-ai-conference-call-for-papers"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-10-04T19:17:47.031302+00:00",
+                "index_texts": null,
+                "output": "mercury",
+                "pwd": "/data/archive/1759604184.549408",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:17:45.798502+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://www.ai-crv.ca/canadian-ai-conference-call-for-papers"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:17:12.683355+00:00",
+                "index_texts": null,
+                "output": "output.pdf",
+                "pwd": "/data/archive/1759604184.549408",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:17:06.912223+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/app/node_modules/readability-extractor/readability-extractor",
+                    "/tmp/tmpsfvj9leq",
+                    "https://www.ai-crv.ca/canadian-ai-conference-call-for-papers"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-10-04T19:17:45.776525+00:00",
+                "index_texts": [
+                    "Call for PapersWelcome to the official Call for Papers page for the Canadian AI and Robot & Vision Conference 2025. We invite researchers, scholars, and industry professionals to submit their original work and achievements in the fields of Artificial Intelligence, Robot\u00a0 and Vision to this esteemed conference and the associated awards.Artificial Intelligence\u00a0Topics of InterestThe 38th Canadian Conference on Artificial Intelligence invites papers that present original work in all areas of Artificial Intelligence, either theoretical or applied. Topics of interest include, but are not limited to:\n\nAgent Systems\n\n\nAI Applications\n\n\nAutomated Reasoning\n\n\nCase\u2010based Reasoning\n\n\nCognitive Models\n\n\nConstraint Satisfaction\n\n\nData Mining\n\n\nDeep Learning and Neural Models\n\n\nE\u2010Commerce\n\n\nEthics in AI, AI for social good\n\n\nEvolutionary Computation\n\n\nExplainable AI\n\n\nFair, Secure, Private, and Trusted AI\n\n\nGames\u200b\n\n\n\n\u200b\u200bInformation Retrieval and Search\u200b\n\n\nKnowledge Management\n\n\nKnowledge Representation\n\n\nLarge Language Models\n\n\nMachine Learning\n\n\nMultimedia Processing\n\n\nNatural Language Processing\n\n\nPlanning\n\n\nRobotics\n\n\nSwarm Intelligence\n\n\nUnbiased, safe and trusted AI\n\n\nUncertainty\n\n\nUser Modeling\n\n\nWeb Mining and Applications\n\nWe also welcome the submission of position papers, which present evidence-based arguments for a particular point of view without necessarily presenting a new system. There will be an option during the submission process to indicate that a paper is a position paper.Submission deadline: Extended to Thursday, Feb 20, \u00a02025\u00a0(11:59 p.m. AoE time zone)\n\n\u200b\n\nAuthor notification: Extended to Friday, April 11, 2025\n\n\u200b\n\nCamera-ready copy due: Extended to Friday, April 25, 2025\u00a0(11:59 p.m. AoE time zone)\n\n\u200b\n\nConference dates: May 26-29 2025A Best Paper Award and a Best Student Paper Award will be given at the conference respectively to the authors of each best paper, as judged by the Best Paper Award Selection Committee. For the Best Student Paper Award, the first author must be a registered student at the time of submitting the paper.Submission details\u200bWe invite submissions of both long and short papers. Long papers must be no longer than 12 pages, and short papers must be no longer than 6 pages, including references, formatted using the conference template. The authors should consult the authors\u2019 guidelines and use this proceedings template for LaTeX to prepare their papers. Alternatively, we provide this Microsoft Word template for authors unfamiliar with LaTeX.\n\n\n\nPapers submitted to the conference must not have already been published, or accepted for publication, or be under review by a journal or another conference (preprint is acceptable if the title is different). Submissions will go through a double-blind review process by Program Committee members to assess originality, significance, technical merit, and clarity of presentation. As such, submissions must be anonymized, and papers that fail to do so will be desk rejected without a review.\n\n\n\nThe submission link is:\u00a0https://cmt3.research.microsoft.com/CANADIANAI2025/\n\nThe link opens for submissions on November 1st, 2024.Publication and Presentation\n\n\u200bThe conference proceedings will be published in PubPub open access online format and submitted to be indexed/abstracted in leading indexing services such as DBLP, ACM, Google Scholar.\n\n\n\nAuthors of accepted long papers will be allotted time for an oral presentation during the conference. Accepted short papers will also be allotted time for a 5-minute oral presentation, followed by a poster session presentation. It is mandatory for at least one author of each accepted paper to attend the conference in person to present their work. Authors are expected to agree to this requirement before submitting their paper for review.\n\n\n\nFurthermore, the corresponding author of each paper must complete and sign a copyright form on behalf of all authors associated with the paper. It is important that the corresponding author who signs the copyright form match the corresponding author listed on the paper. For the final submission, please use the camera-ready template that will soon be linked above (LaTeX or Word)."
+                ],
+                "output": "readability",
+                "pwd": "/data/archive/1759604184.549408",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:17:45.145374+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://www.ai-crv.ca/canadian-ai-conference-call-for-papers"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:17:20.592249+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/data/archive/1759604184.549408",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:17:12.689444+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/app/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--no-sandbox\\\", \\\"--no-zygote\\\", \\\"--disable-dev-shm-usage\\\", \\\"--disable-software-rasterizer\\\", \\\"--run-all-compositor-stages-before-draw\\\", \\\"--hide-scrollbars\\\", \\\"--window-size=1440,2000\\\", \\\"--autoplay-policy=no-user-gesture-required\\\", \\\"--no-first-run\\\", \\\"--use-fake-ui-for-media-stream\\\", \\\"--use-fake-device-for-media-stream\\\", \\\"--disable-sync\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://www.ai-crv.ca/canadian-ai-conference-call-for-papers",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-10-04T19:17:06.904039+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549408/singlefile.html'",
+                "pwd": "/data/archive/1759604184.549408",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:16:54.317324+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.ai-crv.ca/canadian-ai-conference-call-for-papers"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:17:45.142055+00:00",
+                "index_texts": null,
+                "output": "Canadian AI Conference | Canadian AI Conferen",
+                "pwd": "/data/archive/1759604184.549408",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:17:45.128159+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.549408/warc/1759605446",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "https://www.ai-crv.ca/canadian-ai-conference-call-for-papers"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-04T19:17:45.120545+00:00",
+                "index_texts": null,
+                "output": "www.ai-crv.ca/canadian-ai-conference-call-for-papers.html",
+                "pwd": "/data/archive/1759604184.549408",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:17:26.614890+00:00",
+                "status": "succeeded"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "https://web.archive.org/web/20251004191751/https://www.ai-crv.ca/canadian-ai-conference-call-for-papers",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": "media",
+        "pdf": "output.pdf",
+        "screenshot": "screenshot.png",
+        "singlefile": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549408/singlefile.html'",
+        "title": "Canadian AI Conference | Canadian AI Conferen",
+        "warc": null,
+        "wget": "www.ai-crv.ca/canadian-ai-conference-call-for-papers.html"
+    },
+    "link_dir": "/data/archive/1759604184.549408",
+    "newest_archive_date": "2025-10-04T19:17:48.256191+00:00",
+    "num_failures": 1,
+    "num_outputs": 11,
+    "oldest_archive_date": "2025-10-04T19:16:51.489870+00:00",
+    "path": "/canadian-ai-conference-call-for-papers",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "8e320041-3801-4094-b75e-a3e6503b67da",
+    "sources": [
+        "/data/sources/1759604183.819294-crawl-www.ai-crv.ca.txt"
+    ],
+    "tags": ",Canadian AI and Robots & Vision Conference 2025",
+    "tags_str": "Canadian AI and Robots & Vision Conference 2025",
+    "timestamp": "1759604184.549408",
+    "title": "Canadian AI Conference | Canadian AI Conferen",
+    "updated": "2025-10-07T00:01:27.145287+00:00",
+    "updated_date": "2025-10-07 00:01",
+    "url": "https://www.ai-crv.ca/canadian-ai-conference-call-for-papers"
+}

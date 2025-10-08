@@ -1,0 +1,136 @@
+This workshop aims to explore the integration of multimodal inputs, particularly visual and textural data, into Automatic Speech Recognition (ASR) systems to enhance their performance and applicability. By bringing together researchers and practitioners, we will discuss recent advancements, challenges, and future directions in Multimodal Natural Language Processing (MNLP) with a focus on ASR. ​ Traditional ASR systems primarily rely on acoustic signals to transcribe speech. However, human communication is inherently multimodal, often involving visual cues such as lip movements, gestures, and contextual imagery. Integrating these additional modalities can significantly improve the accuracy and robustness of ASR systems, especially in noisy environments or when dealing with ambiguous linguistic content. This workshop seeks to: 
+
+Highlight Recent Research: Present cutting-edge studies that incorporate visual/textural information into ASR, demonstrating improved performance and new capabilities.
+
+
+Discuss Technical Challenges: Identify and address the technical hurdles in fusing multimodal data, such as synchronization, data representation, and model integration.
+
+
+Explore Applications: Examine real-world applications where multimodal ASR offers significant advantages, including assistive technologies, human-computer interaction, and multimedia content analysis.
+
+
+Foster Collaboration: Create a platform for interdisciplinary collaboration among researchers in speech processing, computer vision, and natural language processing.
+
+ ​​ ​​ Workshop Highlights The workshop will be structured as a full-day event, comprising: 
+
+Keynote Speeches: Invited talks from leading experts in multimodal ASR and MNLP.
+
+
+Paper Presentations: Oral presentations of peer-reviewed research papers.
+
+
+Poster Sessions: Interactive sessions for researchers to showcase their work and engage in detailed discussions.
+
+
+Panel Discussion: A moderated discussion on the future directions of multimodal ASR, involving academia and industry experts.
+
+
+Hands-on Tutorials: Practical sessions demonstrating tools and techniques for integrating multimodal data into ASR systems.
+
+ ​ ​ Target Audience 
+
+Researchers and Academics: Individuals working in ASR, computer vision, and MNLP.
+
+
+Industry Professionals: Practitioners developing speech recognition applications and interested in multimodal integration.
+
+
+Graduate Students: Students seeking to deepen their understanding of multimodal approaches in speech recognition.
+
+ ​ ​ ​​​Call for Papers​ We invite submissions on topics including, but not limited to: 
+
+Multimodal Data Fusion: Techniques for combining audio and visual/textural data in ASR systems.
+
+
+Model Architectures: Innovative neural architectures for multimodal ASR.
+
+
+Dataset Development: Creation and annotation of datasets containing synchronized audio and visual data.
+
+
+Application Case Studies: Real-world implementations of multimodal ASR systems.
+
+
+Evaluation Metrics: Methods for assessing the performance of multimodal ASR systems.
+
+ ​​ ​ Submission Guidelines 
+
+Paper Length: Long papers (up to 12 pages) and short papers (up to 6 pages), including references.
+
+
+Format: Submissions should follow the conference's specified template.
+
+
+Review Process: All submissions will undergo double-blind peer review.
+
+
+Submission Link: [placeholder]
+
+ ​ ​ Important Dates 
+
+Paper Submission Deadline: [Insert Date]​
+
+
+Notification of Acceptance: [Insert Date]​
+
+
+Camera-Ready Papers Due: [Insert Date]​
+
+
+Workshop Date: [Insert Date]​
+
+ ​ ​ Workshop Organizers  
+
+Sam Rahbar, DialPad, info@srahbar.com
+
+
+[Name], [Affiliation], [Contact Information]​
+
+
+[Name], [Affiliation], [Contact Information]​
+
+ ​ ​ Potential Invited Speakers 
+
+Dr. [Name], [Affiliation], expertise in multimodal ASR.​
+
+
+Dr. [Name], [Affiliation], known for work in MNLP.
+
+ ​ ​ Workshop Schedule 
+
+9:00 AM - 9:15 AM: Opening Remarks​
+
+
+9:15 AM - 10:00 AM: Keynote Speech 1​
+
+
+10:00 AM - 11:00 AM: Paper Session 1​
+
+
+11:00 AM - 11:15 AM: Coffee Break​
+
+
+11:15 AM - 12:15 PM: Paper Session 2​
+
+
+12:15 PM - 1:15 PM: Lunch Break​
+
+
+1:15 PM - 2:00 PM: Keynote Speech 2​
+
+
+2:00 PM - 3:00 PM: Poster Session​
+
+
+3:00 PM - 3:15 PM: Coffee Break​
+
+
+3:15 PM - 4:15 PM: Panel Discussion​
+
+
+4:15 PM - 5:15 PM: Hands-on Tutorial​
+
+
+5:15 PM - 5:30 PM: Closing Remarks​
+
+ ​​​ ​

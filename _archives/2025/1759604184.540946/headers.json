@@ -1,0 +1,19 @@
+{
+    "Status-Code": 200,
+    "access-control-allow-credentials": "true",
+    "access-control-allow-headers": "Accept",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "Link",
+    "link": "</docs/jsonldcontext.jsonld>; rel=\"alternate\"; type=\"application/ld+json\"",
+    "x-cloud-trace-context": "06b2c7c51c29ca18dc6d9ddf42f9c0a4",
+    "server": "Google Frontend",
+    "Content-Length": "8232",
+    "Date": "Sat, 04 Oct 2025 19:37:49 GMT",
+    "Expires": "Sat, 04 Oct 2025 19:47:49 GMT",
+    "Cache-Control": "public, max-age=600",
+    "ETag": "\"XYkB7A\"",
+    "Content-Type": "text/html",
+    "Age": "1",
+    "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+}

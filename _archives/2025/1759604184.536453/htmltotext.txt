@@ -1,0 +1,7 @@
+SVG namespace (https://www.w3.org/StyleSheets/TR/base)  (https://www.w3.org/) (W3C)    http://www.w3.org/2000/svg is an XML namespace, first defined in the 
+Scalable Vector Graphics (SVG) 1.0 Specification and subsequently added to by SVG 1.1, SVG 1.2 and SVG 2. The SVG namespace is (https://www.w3.org/2001/tag/doc/namespaceState.html) mutable  ; names may be added over time by the W3C SVG Working Group by publication in W3C Technical Reports.  The
+latest version of the SVG specification can be found (https://www.w3.org/TR/SVG/) https://www.w3.org/TR/SVG/ .  For more information about SVG, please refer to (https://www.w3.org/Graphics/SVG/) the W3C SVG overview .
+For more information about XML, please refer to (https://www.w3.org/TR/xml/) The Extensible Markup Language
+(XML) 1.0 specification . For more information about XML
+namespaces, please refer to the (https://www.w3.org/TR/xml-names/) Namespaces in XML
+specification . (https://www.w3.org/help/) Webmaster Last modified: $Date: 2025/03/14 23:44:06 $    
