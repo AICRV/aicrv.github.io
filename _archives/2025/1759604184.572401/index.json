@@ -1,0 +1,528 @@
+{
+    "archive_path": "archive/1759604184.572401",
+    "base_url": "siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop",
+    "basename": "thunderbolt",
+    "bookmarked_date": "2025-10-04 18:56",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=siteassets.parastorage.com",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": null
+    },
+    "domain": "siteassets.parastorage.com",
+    "extension": "",
+    "hash": "ZWJV1ACHYQXWG7Q68B71",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "120",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-06T00:24:15.507402+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/data/archive/1759604184.572401",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-06T00:24:15.335531+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "120",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-05T07:05:48.235640+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/data/archive/1759604184.572401",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-05T07:05:48.093871+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:36:43.067334+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/data/archive/1759604184.572401",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:36:42.932273+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "120",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-07T01:47:40.529603+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+                "pwd": "/data/archive/1759604184.572401",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-07T01:47:40.370641+00:00",
+                "status": "failed"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:36:38.529970+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/data/archive/1759604184.572401",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:36:36.258562+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=siteassets.parastorage.com"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:36:22.772319+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/data/archive/1759604184.572401",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:36:21.095537+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:36:24.691157+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/data/archive/1759604184.572401",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:36:22.780819+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop"
+                ],
+                "cmd_version": "2024.12.13",
+                "end_ts": "2025-10-04T19:36:42.922655+00:00",
+                "index_texts": [],
+                "output": "ArchiveError: Failed to save media",
+                "pwd": "/data/archive/1759604184.572401",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:36:41.527820+00:00",
+                "status": "failed"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/app/node_modules/@postlight/parser/cli.js",
+                    "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop",
+                    "--format=text"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-10-04T19:36:41.519224+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Mercury was not able to get article text from the URL",
+                "pwd": "/data/archive/1759604184.572401",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:36:40.350980+00:00",
+                "status": "failed"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:36:33.772059+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.572401/output.pdf'",
+                "pwd": "/data/archive/1759604184.572401",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:36:30.873593+00:00",
+                "status": "failed"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/app/node_modules/readability-extractor/readability-extractor",
+                    "/tmp/tmpsykt3wdy",
+                    "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-10-04T19:36:40.341440+00:00",
+                "index_texts": [
+                    "Request validation failed: invalid param"
+                ],
+                "output": "readability",
+                "pwd": "/data/archive/1759604184.572401",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:36:40.067336+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:36:36.252276+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/data/archive/1759604184.572401",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:36:33.777407+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/app/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--no-sandbox\\\", \\\"--no-zygote\\\", \\\"--disable-dev-shm-usage\\\", \\\"--disable-software-rasterizer\\\", \\\"--run-all-compositor-stages-before-draw\\\", \\\"--hide-scrollbars\\\", \\\"--window-size=1440,2000\\\", \\\"--autoplay-policy=no-user-gesture-required\\\", \\\"--no-first-run\\\", \\\"--use-fake-ui-for-media-stream\\\", \\\"--use-fake-device-for-media-stream\\\", \\\"--disable-sync\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-10-04T19:36:30.869211+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.572401/singlefile.html'",
+                "pwd": "/data/archive/1759604184.572401",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:36:24.697187+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:36:40.059294+00:00",
+                "index_texts": null,
+                "output": "siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop",
+                "pwd": "/data/archive/1759604184.572401",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:36:40.056017+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=120",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.572401/warc/1759710253",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-06T00:24:15.324262+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Wget failed or got an error from the server",
+                "pwd": "/data/archive/1759604184.572401",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-06T00:24:13.905572+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=120",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.572401/warc/1759647946",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-05T07:05:48.088216+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Wget failed or got an error from the server",
+                "pwd": "/data/archive/1759604184.572401",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-05T07:05:46.802614+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.572401/warc/1759606598",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-04T19:36:40.046886+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Wget failed or got an error from the server",
+                "pwd": "/data/archive/1759604184.572401",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:36:38.533912+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=120",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.572401/warc/1759801660",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-07T01:47:40.361238+00:00",
+                "index_texts": null,
+                "output": "ArchiveError: Wget failed or got an error from the server",
+                "pwd": "/data/archive/1759604184.572401",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-07T01:47:40.113326+00:00",
+                "status": "failed"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "ArchiveError: Failed to find \"content-location\" URL header in Archive.org response.",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": "ArchiveError: Failed to save media",
+        "pdf": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.572401/output.pdf'",
+        "screenshot": "screenshot.png",
+        "singlefile": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.572401/singlefile.html'",
+        "title": "siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop",
+        "warc": null,
+        "wget": "ArchiveError: Wget failed or got an error from the server"
+    },
+    "link_dir": "/data/archive/1759604184.572401",
+    "newest_archive_date": "2025-10-07T01:47:40.370641+00:00",
+    "num_failures": 12,
+    "num_outputs": 6,
+    "oldest_archive_date": "2025-10-04T19:36:21.095537+00:00",
+    "path": "/pages/pages/thunderbolt",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "fd407283-0712-4ffd-a32c-17ae2614e051",
+    "sources": [
+        "/data/sources/1759604183.819294-crawl-www.ai-crv.ca.txt"
+    ],
+    "tags": ",Canadian AI and Robots & Vision Conference 2025",
+    "tags_str": "Canadian AI and Robots & Vision Conference 2025",
+    "timestamp": "1759604184.572401",
+    "title": "siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop",
+    "updated": "2025-10-07T01:47:40.112706+00:00",
+    "updated_date": "2025-10-07 01:47",
+    "url": "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dynamicSlots%2C.excludePagesFromSkipToContent%2C.fiveGridLineStudioSkins%2C.fixMsbStateBox%2C.isClassNameToRootEnabled%2C.newStyleApi%2C.propsCarmiMappersMigration1%2C.propsCarmiMappersMigration2%2C.propsCarmiMappersMigration4%2C.propsCarmiMappersMigration5%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useDynamicRefShemasInCatharsis%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5053.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.ai-crv.ca&fileId=a33813a5.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&metaSiteId=ddacc79e-7bc4-4680-b594-ddac34daf7f0&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=8cbad9_f44e4fce86d3a76c0c50949997f6fe4c_385.json&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.14399.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=427500ab-e593-40df-8f50-fbc35d34a371&siteRevision=385&staticHTMLComponentUrl=https%3A%2F%2Fwww-ai-crv-ca.filesusr.com%2F&viewMode=desktop"
+}

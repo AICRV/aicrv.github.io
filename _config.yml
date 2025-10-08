@@ -13,6 +13,10 @@ markdown: kramdown
 sass:
   style: compressed
 
+include:
+  - _archives
+  - index.html
+
 # Additional exclude from processing
 exclude:
   - vendor
@@ -87,6 +91,8 @@ conference:
         menu:
           - name: 2026 (current)
             disabled: true
+          - name: 2025
+            relative_url: /_archives/2025/1759604183.819294/www.ai-crv.ca/
 
   # Link Preview for Sharing
   link_preview:

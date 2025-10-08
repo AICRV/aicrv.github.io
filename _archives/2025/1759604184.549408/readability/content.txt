@@ -1,0 +1,119 @@
+Call for PapersWelcome to the official Call for Papers page for the Canadian AI and Robot & Vision Conference 2025. We invite researchers, scholars, and industry professionals to submit their original work and achievements in the fields of Artificial Intelligence, Robot  and Vision to this esteemed conference and the associated awards.Artificial Intelligence Topics of InterestThe 38th Canadian Conference on Artificial Intelligence invites papers that present original work in all areas of Artificial Intelligence, either theoretical or applied. Topics of interest include, but are not limited to:
+
+Agent Systems
+
+
+AI Applications
+
+
+Automated Reasoning
+
+
+Case‐based Reasoning
+
+
+Cognitive Models
+
+
+Constraint Satisfaction
+
+
+Data Mining
+
+
+Deep Learning and Neural Models
+
+
+E‐Commerce
+
+
+Ethics in AI, AI for social good
+
+
+Evolutionary Computation
+
+
+Explainable AI
+
+
+Fair, Secure, Private, and Trusted AI
+
+
+Games​
+
+
+
+​​Information Retrieval and Search​
+
+
+Knowledge Management
+
+
+Knowledge Representation
+
+
+Large Language Models
+
+
+Machine Learning
+
+
+Multimedia Processing
+
+
+Natural Language Processing
+
+
+Planning
+
+
+Robotics
+
+
+Swarm Intelligence
+
+
+Unbiased, safe and trusted AI
+
+
+Uncertainty
+
+
+User Modeling
+
+
+Web Mining and Applications
+
+We also welcome the submission of position papers, which present evidence-based arguments for a particular point of view without necessarily presenting a new system. There will be an option during the submission process to indicate that a paper is a position paper.Submission deadline: Extended to Thursday, Feb 20,  2025 (11:59 p.m. AoE time zone)
+
+​
+
+Author notification: Extended to Friday, April 11, 2025
+
+​
+
+Camera-ready copy due: Extended to Friday, April 25, 2025 (11:59 p.m. AoE time zone)
+
+​
+
+Conference dates: May 26-29 2025A Best Paper Award and a Best Student Paper Award will be given at the conference respectively to the authors of each best paper, as judged by the Best Paper Award Selection Committee. For the Best Student Paper Award, the first author must be a registered student at the time of submitting the paper.Submission details​We invite submissions of both long and short papers. Long papers must be no longer than 12 pages, and short papers must be no longer than 6 pages, including references, formatted using the conference template. The authors should consult the authors’ guidelines and use this proceedings template for LaTeX to prepare their papers. Alternatively, we provide this Microsoft Word template for authors unfamiliar with LaTeX.
+
+
+
+Papers submitted to the conference must not have already been published, or accepted for publication, or be under review by a journal or another conference (preprint is acceptable if the title is different). Submissions will go through a double-blind review process by Program Committee members to assess originality, significance, technical merit, and clarity of presentation. As such, submissions must be anonymized, and papers that fail to do so will be desk rejected without a review.
+
+
+
+The submission link is: https://cmt3.research.microsoft.com/CANADIANAI2025/
+
+The link opens for submissions on November 1st, 2024.Publication and Presentation
+
+​The conference proceedings will be published in PubPub open access online format and submitted to be indexed/abstracted in leading indexing services such as DBLP, ACM, Google Scholar.
+
+
+
+Authors of accepted long papers will be allotted time for an oral presentation during the conference. Accepted short papers will also be allotted time for a 5-minute oral presentation, followed by a poster session presentation. It is mandatory for at least one author of each accepted paper to attend the conference in person to present their work. Authors are expected to agree to this requirement before submitting their paper for review.
+
+
+
+Furthermore, the corresponding author of each paper must complete and sign a copyright form on behalf of all authors associated with the paper. It is important that the corresponding author who signs the copyright form match the corresponding author listed on the paper. For the final submission, please use the camera-ready template that will soon be linked above (LaTeX or Word).

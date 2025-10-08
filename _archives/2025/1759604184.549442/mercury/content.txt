@@ -1,0 +1,113 @@
+Large Language Models (LLMs) are transforming AI with their powerful natural language processing capabilities. This workshop provides a platform to explore the latest advancements, applications, and challenges in LLMs while fostering collaboration between researchers, practitioners, and students. Key objectives include: 
+
+Showcasing novel applications in healthcare, personal assistants, information extraction, among others.
+
+
+Addressing challenges in fine-tuning, alignment, scalability, and efficient inference.
+
+
+Providing hands-on tutorials for students and newcomers.
+
+ ​ ​ Topics of Interest​ 
+
+LLMs, Prompt Engineering, Fine-Tuning
+
+
+Efficient Architectures, LLM-based Agents, Multi-Modal Models
+
+
+Real-Time Inference, AI Safety, Evaluation Techniques
+
+ ​ ​ Keynote Speakers 
+
+Hamidreza Eslami, Director, Fraser Health Authority
+
+
+Xiaoxiao Li, CIFAR AI Chair, University of British Columbia
+
+ ​ ​ Organizers 
+
+Najeeb Khan, Ph.D. – Applied Scientist, Amazon
+
+
+Farhad Maleki, Ph.D. – Assistant Professor, University of Calgary
+
+
+Alireza Morsali, Ph.D. – Senior Data Scientist, Global Relay
+
+ ​ ​ Call for Participation We invite researchers, practitioners, and students to submit papers (up to 6 pages) on topics such as: 
+
+Novel LLM Applications (personal assistants, healthcare, etc.)
+
+
+Prompt Engineering Techniques
+
+
+Fine-Tuning & Alignment Strategies
+
+
+Efficient Architectures & Optimization
+
+
+Evaluation Methods for Practical Use Cases
+
+ ​ 🔗 Paper Submission Form ​ ​ Workshop Highlights Keynote Talks – Presentations by leading experts in LLM research.
+Paper Presentations – Showcase of innovative research & applications.
+Hands-on Tutorials – Practical sessions covering: 
+
+Advanced Prompting Techniques & RAG
+
+
+Alignment & Fine-Tuning Strategies
+
+
+LLM Evaluation Methods
+
+
+Efficient Inference Techniques
+
+ ​ ​ Important Dates 
+
+Paper Submission Deadline: May 1, 2025 AoE
+
+
+Notification of Acceptance: May 15, 2025
+
+
+Workshop Date: May 26, 2025
+
+ ​​ ​ Workshop Location​ Taylor Institute, Room 148 ​ ​ Workshop Schedule ​ 
+
+09:30-10:00  |  Keynote: Responsible Innovation: Revolutionizing Healthcare with Generative AI
+
+
+10:00-10:30  |  Keynote: Foundation Models in Healthcare: Advances, Pitfalls, and Path Forward
+
+
+10:30-11:00  |  Coffee Break
+
+
+11:00-12:00  |  Session 1 - Intro to LLM
+
+
+12:00-12:10  |  Presentation: Automatic Extraction of Performance Metrics from the Scientific Literature
+
+
+12:15-12:25  |  Presentation: Using Negative Nudging to Measure LLM Hallucinations
+
+
+12:30-02:00  |  Lunch
+
+
+02:00-03:00  |  Session 2 - Finetuning
+
+
+03:00-03:30  |  Coffee Break
+
+
+03:30-04:00  |  Building AI systems with Databricks
+
+
+04:00-05:30  |  Session 3 - Agentic AI
+
+ ​ ​ Workshop Starter Repo Github link ​ ​​ ​ Contact us at ai@ucalgary.ca for any inquiries. ​ ​

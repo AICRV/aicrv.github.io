@@ -1,0 +1,374 @@
+{
+    "archive_path": "archive/1759604184.54941",
+    "base_url": "www.ai-crv.ca/crv-call-for-papers",
+    "basename": "crv-call-for-papers",
+    "bookmarked_date": "2025-10-04 18:56",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/www.ai-crv.ca/crv-call-for-papers",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=www.ai-crv.ca",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": "www.ai-crv.ca/crv-call-for-papers.html"
+    },
+    "domain": "www.ai-crv.ca",
+    "extension": "",
+    "hash": "1MFJPSTGBTWFWZZC4QG7",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://www.ai-crv.ca/crv-call-for-papers"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:12:02.750181+00:00",
+                "index_texts": null,
+                "output": "https://web.archive.org/web/20251004191146/https://www.ai-crv.ca/crv-call-for-papers",
+                "pwd": "/data/archive/1759604184.54941",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:11:43.808015+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://www.ai-crv.ca/crv-call-for-papers"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:11:22.425038+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/data/archive/1759604184.54941",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:11:16.433356+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=www.ai-crv.ca"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:10:50.847169+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/data/archive/1759604184.54941",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:10:48.586340+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.ai-crv.ca/crv-call-for-papers"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:10:50.989167+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/data/archive/1759604184.54941",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:10:50.853024+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://www.ai-crv.ca/crv-call-for-papers"
+                ],
+                "cmd_version": "2024.12.13",
+                "end_ts": "2025-10-04T19:11:43.803712+00:00",
+                "index_texts": [],
+                "output": "media",
+                "pwd": "/data/archive/1759604184.54941",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:11:42.696221+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/app/node_modules/@postlight/parser/cli.js",
+                    "https://www.ai-crv.ca/crv-call-for-papers"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-10-04T19:11:42.685175+00:00",
+                "index_texts": null,
+                "output": "mercury",
+                "pwd": "/data/archive/1759604184.54941",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:11:41.520275+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://www.ai-crv.ca/crv-call-for-papers"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:11:09.709638+00:00",
+                "index_texts": null,
+                "output": "output.pdf",
+                "pwd": "/data/archive/1759604184.54941",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:11:04.406002+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/app/node_modules/readability-extractor/readability-extractor",
+                    "/tmp/tmp2v0922zj",
+                    "https://www.ai-crv.ca/crv-call-for-papers"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-10-04T19:11:41.507303+00:00",
+                "index_texts": [
+                    "Review Process: By submitting a paper to CRV, the authors agree to the review process and understand that papers are processed by the submission system to match each manuscript to the best possible chairs and reviewers.\n\n\u200b\n\nSingle-Blind Review: CRV reviewing is single-blind, in that authors do not know the names of the reviewers of their papers, but the reviewers do know the names of the authors.\n\n\u200b\n\nPlagiarism: Plagiarism consists of appropriating the words or results of another, without credit. Generally, reviewers can recognize plagiarism when they see it; it is unlikely that a reviewer will be uncertain whether plagiarism has occurred. Our policy on plagiarism is to refer suspected cases to the IEEE Intellectual Property office, which has an established mechanism for dealing with plagiarism and wide powers of excluding offending authors from future conferences and from IEEE journals. You can find information on this office, their procedures, and their definitions of five levels of plagiarism at\u00a0this link. We will be actively checking for plagiarism.\n\n\u200b\n\nLarge Language Models: Authors may use any tool(s), including Large Language Models (LLMs), that they find productive in preparing a paper, but must be aware that they are responsible for any misrepresentation, factual inaccuracy or plagiarism in their paper. Papers containing citations of non-existent material will be rejected when found, and may be desk-rejected. Similarly, papers containing obvious factual inaccuracies will be rejected when found and may be desk-rejected. If asked, authors must produce the prompts or other inputs to tools they used in the process of preparing the paper and the corresponding text that was generated by the tools.\n\n\u200b\n\nConfidentiality: Submissions to CRV are confidential and are not published documents. Reviewers have the responsibility to protect the confidentiality of the ideas represented in them. The ideas contained in the submissions are considered new or proprietary by the authors, and may still be considered confidential by the authors\u2019 employers. These organizations do not consider submitting a paper to CRV to constitute a public disclosure.\n\n\u200b\n\nAuthor Registration: Before submission, please ensure that at least one author of each submission is committed to register and attend CRV 2025 if the submission is accepted."
+                ],
+                "output": "readability",
+                "pwd": "/data/archive/1759604184.54941",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:11:41.004858+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://www.ai-crv.ca/crv-call-for-papers"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:11:16.429876+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/data/archive/1759604184.54941",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:11:09.712709+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/app/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--no-sandbox\\\", \\\"--no-zygote\\\", \\\"--disable-dev-shm-usage\\\", \\\"--disable-software-rasterizer\\\", \\\"--run-all-compositor-stages-before-draw\\\", \\\"--hide-scrollbars\\\", \\\"--window-size=1440,2000\\\", \\\"--autoplay-policy=no-user-gesture-required\\\", \\\"--no-first-run\\\", \\\"--use-fake-ui-for-media-stream\\\", \\\"--use-fake-device-for-media-stream\\\", \\\"--disable-sync\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://www.ai-crv.ca/crv-call-for-papers",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-10-04T19:11:04.398253+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.54941/singlefile.html'",
+                "pwd": "/data/archive/1759604184.54941",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:10:50.991893+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.ai-crv.ca/crv-call-for-papers"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:11:41.001744+00:00",
+                "index_texts": null,
+                "output": "Conference on Robots & Vision | Canadian AI Conferen",
+                "pwd": "/data/archive/1759604184.54941",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:11:40.988995+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.54941/warc/1759605082",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "https://www.ai-crv.ca/crv-call-for-papers"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-04T19:11:40.982342+00:00",
+                "index_texts": null,
+                "output": "www.ai-crv.ca/crv-call-for-papers.html",
+                "pwd": "/data/archive/1759604184.54941",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:11:22.428258+00:00",
+                "status": "succeeded"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "https://web.archive.org/web/20251004191146/https://www.ai-crv.ca/crv-call-for-papers",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": "media",
+        "pdf": "output.pdf",
+        "screenshot": "screenshot.png",
+        "singlefile": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.54941/singlefile.html'",
+        "title": "Conference on Robots & Vision | Canadian AI Conferen",
+        "warc": null,
+        "wget": "www.ai-crv.ca/crv-call-for-papers.html"
+    },
+    "link_dir": "/data/archive/1759604184.54941",
+    "newest_archive_date": "2025-10-04T19:11:43.808015+00:00",
+    "num_failures": 1,
+    "num_outputs": 11,
+    "oldest_archive_date": "2025-10-04T19:10:48.586340+00:00",
+    "path": "/crv-call-for-papers",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "4ccc0366-96c4-4657-b8a5-09265b8d6675",
+    "sources": [
+        "/data/sources/1759604183.819294-crawl-www.ai-crv.ca.txt"
+    ],
+    "tags": ",Canadian AI and Robots & Vision Conference 2025",
+    "tags_str": "Canadian AI and Robots & Vision Conference 2025",
+    "timestamp": "1759604184.54941",
+    "title": "Conference on Robots & Vision | Canadian AI Conferen",
+    "updated": "2025-10-07T00:01:25.634987+00:00",
+    "updated_date": "2025-10-07 00:01",
+    "url": "https://www.ai-crv.ca/crv-call-for-papers"
+}

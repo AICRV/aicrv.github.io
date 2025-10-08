@@ -1,0 +1,241 @@
+{
+    "archive_path": "archive/1759604184.549396",
+    "base_url": "static.wixstatic.com/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png",
+    "basename": "1_edited.png",
+    "bookmarked_date": "2025-10-04 18:56",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/static.wixstatic.com/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png",
+        "dom_path": "static.wixstatic.com/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=static.wixstatic.com",
+        "headers_path": "headers.json",
+        "htmltotext_path": "static.wixstatic.com/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "static.wixstatic.com/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png",
+        "pdf_path": "static.wixstatic.com/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png",
+        "readability_path": "static.wixstatic.com/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png",
+        "screenshot_path": "static.wixstatic.com/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png",
+        "singlefile_path": "static.wixstatic.com/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png",
+        "title": "1_edited.png",
+        "warc_path": "warc/",
+        "wget_path": "static.wixstatic.com/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png"
+    },
+    "domain": "static.wixstatic.com",
+    "extension": "png",
+    "hash": "19NK17DGP445J5H5K8NR",
+    "history": {
+        "archive_org": [],
+        "dom": [],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=static.wixstatic.com"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:23:44.640762+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/data/archive/1759604184.549396",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:23:42.661371+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://static.wixstatic.com/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:23:45.557706+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/data/archive/1759604184.549396",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:23:44.648063+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "htmltotext": [],
+        "media": [],
+        "mercury": [],
+        "pdf": [],
+        "readability": [],
+        "screenshot": [],
+        "singlefile": [],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "120",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://static.wixstatic.com/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-06T00:03:49.748468+00:00",
+                "index_texts": null,
+                "output": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte",
+                "pwd": "/data/archive/1759604184.549396",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-06T00:03:49.741846+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "120",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://static.wixstatic.com/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-05T06:58:33.393233+00:00",
+                "index_texts": null,
+                "output": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte",
+                "pwd": "/data/archive/1759604184.549396",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-05T06:58:33.382005+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://static.wixstatic.com/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:23:46.678146+00:00",
+                "index_texts": null,
+                "output": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte",
+                "pwd": "/data/archive/1759604184.549396",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:23:46.673849+00:00",
+                "status": "failed"
+            },
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "120",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://static.wixstatic.com/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-07T00:01:44.725231+00:00",
+                "index_texts": null,
+                "output": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte",
+                "pwd": "/data/archive/1759604184.549396",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-07T00:01:44.713890+00:00",
+                "status": "failed"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.549396/warc/1759605825",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "https://static.wixstatic.com/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-04T19:23:46.671003+00:00",
+                "index_texts": null,
+                "output": "static.wixstatic.com/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png",
+                "pwd": "/data/archive/1759604184.549396",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:23:45.567970+00:00",
+                "status": "succeeded"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": true,
+    "latest": {
+        "archive_org": null,
+        "dom": null,
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": null,
+        "pdf": null,
+        "screenshot": null,
+        "singlefile": null,
+        "title": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte",
+        "warc": null,
+        "wget": "static.wixstatic.com/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png"
+    },
+    "link_dir": "/data/archive/1759604184.549396",
+    "newest_archive_date": "2025-10-07T00:01:44.713890+00:00",
+    "num_failures": 4,
+    "num_outputs": 3,
+    "oldest_archive_date": "2025-10-04T19:23:42.661371+00:00",
+    "path": "/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "408b74a4-76d8-4fe2-8646-8511935c30c5",
+    "sources": [
+        "/data/sources/1759604183.819294-crawl-www.ai-crv.ca.txt"
+    ],
+    "tags": ",Canadian AI and Robots & Vision Conference 2025",
+    "tags_str": "Canadian AI and Robots & Vision Conference 2025",
+    "timestamp": "1759604184.549396",
+    "title": null,
+    "updated": "2025-10-07T00:01:44.707932+00:00",
+    "updated_date": "2025-10-07 00:01",
+    "url": "https://static.wixstatic.com/media/999169_901eae9715ed419eb5fa5c0a1d1de0a6~mv2.png/v1/fill/w_486,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1_edited.png"
+}

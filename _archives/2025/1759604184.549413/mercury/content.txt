@@ -1,0 +1,32 @@
+Workshop proposals should include the following information:​
+
+Title of the workshop.
+
+
+Abstract (up to 500 words) describing the workshop’s objectives, relevance, and expected outcomes.
+
+
+Topics and Novel Areas: A list of topics to be covered, emphasizing both established AI areas and novel application domains.
+
+
+Organizers: Names, affiliations, contact information, and a brief biography of each organizer. Proposals with organizers from multiple institutions are highly encouraged.
+
+
+Potential Invited Speakers: Names of potential or confirmed invited speakers, if applicable.
+
+
+Workshop Structure: A proposed schedule (full-day or half-day) outlining the structure of the event (keynotes, discussions, paper presentations, etc.).
+
+
+Target Audience: The intended audience, including estimated size and diversity of attendees (academic researchers, industry professionals, students).
+
+
+Call for Participation: A draft of the call for participation that will be used to solicit contributions for the workshop.
+
+
+Previous Editions (if applicable): Information about past editions of the workshop (if previously held), including participant numbers and feedback.
+
+
+Special Requirements: Any specific logistical or technical requirements.
+
+​​

@@ -1,0 +1,14 @@
+{
+    "Status-Code": 404,
+    "date": "Sat, 04 Oct 2025 19:38:58 GMT",
+    "Content-Length": "0",
+    "x-seen-by": "ui2Pjuc3zC1HEw7V2qXeyh9slopJdhD+WySraMrpIY8=,m0j2EEknGIVUW/liY8BLLptsxZyAlvTbEQ6xIGrB2xKWWveFEnegpnkLxzZh8fhS,jdDt270t0fniy2BugWKBrXMD8165f3lNRrmetcrrjKtEQfi00LSS7LJu7sdkoLsDqvcy+TeNMVj0myj0VUXAOA==,r6yY0ta7bIKrqK70x072lU+f7XgrRGeU/P8E8Ud21/4=",
+    "x-wix-request-id": "1759606738.86285658334223042452, 1759606738.86285658334223042452",
+    "server": "Pepyaka",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "via": "1.1 google",
+    "glb-x-seen-by": "wMMTADooq5AJ3cFomJ/MuXOQWGce7NCZXKms1ErOpBs=",
+    "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+}

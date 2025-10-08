@@ -1,0 +1,56 @@
+All submissions must be written in English and should clearly state the research problem, the proposed solution and approach and the description of the progress to date, including significant results. Program committee members will review each submission. Extended abstract submissions will be considered for oral presentations and will be selected based on clarity of the submission, difficulty of the problem, novelty of the solution, and quality of the research.
+
+We welcome the following types of submissions based on unpublished or previously published work related to your thesis.
+
+
+
+Abstract (2 pages) – poster presentation
+
+
+Extended abstracts (4 pages) – considered for an oral presentation
+
+
+
+The references can use an additional 2 pages. Only extended abstracts will be considered for an oral presentation. The authors should consult the authors’ guidelines for the Canadian AI 2025 conference and use the provided proceedings template for LaTeX or Microsoft Word to prepare their submissions. The “abstract” section can be omitted for the two-page abstract submission. All submissions should be anonymized.
+
+The lead author of each accepted submission is required to present the work in-person at the symposium. The authors must agree to this requirement prior to submitting their work for review. Upon acceptance, the authors and their thesis supervisor(s) should sign a copyright form to publish the work in the Canadian AI proceedings. Program committee members will review each submission. Acceptance to symposium is based on clarity of the submission, significance of the problem, novelty of the solution, and quality of the research, and evidence of promise such as peer-reviewed papers or technical reports.
+
+All students are encouraged to attend and participate in the Symposium, whether or not they are the first author or if they have accepted papers in the symposium.
+
+To submit your work, please go to the AI 2025 – Graduate Student Symposium Submission site and follow the instructions.Q1. Do I have to be a graduate student to submit an abstract?
+
+
+A1. The first author, or a solo author, has to be a graduate student. An undergraduate student can be a co-author if he/she has helped with experiments. Note that the abstract has to be presented by the graduate student.
+
+​
+
+​
+
+Q2. Can I submit an abstract of my completed dissertation?
+
+
+A2. Yes, this is an acceptable submission. The symposium aims to help students to define and make progress on their thesis. Therefore, work-in-progress with experimental validations can also be submitted.
+
+
+
+​
+
+Q3. We are two graduate students and want to submit one abstract for our two research projects.  Is this OK?
+
+A3. We encourage you to submit separate abstracts. If a joint project is better explained via one abstract, then you can try to make the case in your cover letter.
+
+
+
+​
+
+Q4. I have an abstract accepted by GSS.  Can I have some financial support to attend GSS?
+
+A4. We encourage you to apply for GSS funding in your cover letter.  Presenting students will compete for (partial) funding of their GSS expenses.  You can also apply for financial support for the conference volunteers. Depending on how much funding we can secure, we will try to provide (partial) travel funding for selected accepted abstracts. There is no need to apply for this directly and all accepted abstract will be automatically considered. You can also apply for financial support to serve as Canadian AI volunteers.
+
+
+
+​
+
+Q5. I do not have an abstract accepted by GSS. Can I apply for financial support to attend?
+
+A5. We are working to keep the cost of attending the GSS as low as possible (see the Canadian AI conference website). Financial support is designed for students whose abstracts have been accepted. You can also apply for financial support for the conference volunteers.

@@ -1,0 +1,20 @@
+{
+    "Status-Code": 404,
+    "Server": "nginx",
+    "Date": "Sat, 04 Oct 2025 19:23:00 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Vary": "Accept-Encoding",
+    "Expires": "Wed, 11 Jan 1984 05:00:00 GMT",
+    "Cache-Control": "no-cache, must-revalidate, max-age=0, no-store, private",
+    "X-Cache-Enabled": "True",
+    "X-Content-Type-Options": "nosniff",
+    "X-XSS-Protection": "1; mode=block",
+    "Link": "<https://agriculturecentre.ca/wp-json/>; rel=\"https://api.w.org/\"",
+    "X-Httpd-Modphp": "1",
+    "Host-Header": "6b7412fb82ca5edfd0917e3957f05d89",
+    "X-Proxy-Cache": "MISS",
+    "X-Proxy-Cache-Info": "0 NC:000000 UP:",
+    "Content-Encoding": "gzip"
+}

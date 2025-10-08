@@ -1,0 +1,374 @@
+{
+    "archive_path": "archive/1759604184.549426",
+    "base_url": "www.ai-crv.ca/canadian-ai-conference-program",
+    "basename": "canadian-ai-conference-program",
+    "bookmarked_date": "2025-10-04 18:56",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/www.ai-crv.ca/canadian-ai-conference-program",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=www.ai-crv.ca",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": "www.ai-crv.ca/canadian-ai-conference-program.html"
+    },
+    "domain": "www.ai-crv.ca",
+    "extension": "",
+    "hash": "D9YQBFZP8AZKP4GWF0HA",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://www.ai-crv.ca/canadian-ai-conference-program"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:15:13.004834+00:00",
+                "index_texts": null,
+                "output": "https://web.archive.org/web/20251004191457/https://www.ai-crv.ca/canadian-ai-conference-program",
+                "pwd": "/data/archive/1759604184.549426",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:14:54.150690+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://www.ai-crv.ca/canadian-ai-conference-program"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:14:32.185184+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/data/archive/1759604184.549426",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:14:24.411907+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=www.ai-crv.ca"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:13:57.927691+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/data/archive/1759604184.549426",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:13:55.829139+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.ai-crv.ca/canadian-ai-conference-program"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:13:58.060398+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/data/archive/1759604184.549426",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:13:57.936162+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://www.ai-crv.ca/canadian-ai-conference-program"
+                ],
+                "cmd_version": "2024.12.13",
+                "end_ts": "2025-10-04T19:14:54.146722+00:00",
+                "index_texts": [],
+                "output": "media",
+                "pwd": "/data/archive/1759604184.549426",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:14:52.811579+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/app/node_modules/@postlight/parser/cli.js",
+                    "https://www.ai-crv.ca/canadian-ai-conference-program"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-10-04T19:14:52.792981+00:00",
+                "index_texts": null,
+                "output": "mercury",
+                "pwd": "/data/archive/1759604184.549426",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:14:51.145988+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://www.ai-crv.ca/canadian-ai-conference-program"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:14:17.998606+00:00",
+                "index_texts": null,
+                "output": "output.pdf",
+                "pwd": "/data/archive/1759604184.549426",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:14:12.088781+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/app/node_modules/readability-extractor/readability-extractor",
+                    "/tmp/tmprqkn045q",
+                    "https://www.ai-crv.ca/canadian-ai-conference-program"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-10-04T19:14:51.059341+00:00",
+                "index_texts": [
+                    "Detailed ProgramMost events take place at the Taylor Institute for Teaching and Learning (Google Maps), in Room 160.The banquet on Wednesday will be held in Hall AB - MacEwan Student Centre, 402 Collegiate Blvd NW, Calgary.9:00 \u2014 9:30\u00a0 \u00a0 \u00a0 \u00a0Welcome and Opening Remarks9:30 \u2014 10:30\u00a0 \u00a0 \u00a0Session 1 - Knowledge RepresentationRoom 160\n\nChair: TBA\n\n\u200b\n\n9:30\u00a0 \u00a067\u00a0 On the Semantics of Actual Causality in Situation Calculus Concurrent Game Structures\n\nMohammad Hossein Karimian (University of Regina); Shakil Khan (University of Regina) \u2709; Yves Lesp\u00e9rance (York University)\n\n\n\n9:50\u00a0 \u00a0185\u00a0 Dynamic Causal Attention with Sparse Temporal Networks for Interpretable Causal Discovery in Multivariate Time Series\n\nMiloud Mihoubi (University Of t\u00e9luq) \u2709; Meriem Zerkouk (University of T\u00e9luq); Belkacem Chikhaoui (University of T\u00e9luq)\n\n\n\n10:10\u00a0 \u00a0198\u00a0 SAT for Upward Book Embedding: An Empirical Study\n\nRustem Kakimov (Lakehead); Xing Tan (Lakehead) \u270911:00 \u2014 12:30\u00a0 \u00a0 \u00a0Session 2 - Reinforcement Learning and OptimizationRoom 160\n\nChair: TBA\n\n\u200b\n\n11:00\u00a0 \u00a02\u00a0 SPADE: Solving the Multi-Depot Vehicle Routing Problem with Inter-Depot Routes Using Multi-Agent Deep Reinforcement Learning\n\nArash Mozhdehi (University of Calgary); Mahdi Mohammadizadeh (University of Calgary); Saeid Kalantari (University of Calgary); Beom Sae (Shawn) Kim (University of Calgary); Xin Wang (University of Calgary) \u2709\n\n\u200b\n\n11:18\u00a0 \u00a028\u00a0 The QBF Cover encoding for Harary Tic-Tac-Toe\u2019s\n\nSteve Boucher (UQAM); Roger Villemaire (Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al) \u2709\n\n\u200b\n\n11:36\u00a0 \u00a034\u00a0 Towards Inference in Arithmetic Circuits by Exploiting Barren Variables\n\nCory Butz (University of Regina) \u2709; Jhonatan Oliveira (Talawa AI); Kadence Meredith (University of Regina)\n\n\u200b\n\n11:54\u00a0 \u00a0113\u00a0 Balanced-Boundary IoU: A Holistic Algorithm Towards Improving Segmentation Evaluation Metric\n\nSidratul Montaha (University of Calgary) \u2709; Rashik Rahman (University of Calgary); Nathan Weiss (University of Calgary)\n\n\u200b\n\n12:12\u00a0 \u00a0150\u00a0 Agile Reinforcement Learning for Real-Time Task Scheduling in Edge Computing\n\nAmin Avan (Ontario Tech University) \u2709; Akramul Azim (Ontario Tech University); Qusay Mahmoud (Ontario Tech University)14:00 \u2014 15:00\u00a0 \u00a0 \u00a0Session 3 - Speech and LanguageRoom 160\n\nChair: TBA\n\n\u200b\n\n14:00\u00a0 \u00a073 \u00a0Neural Wavelet Packet-Based Bidirectional Autoencoder for Multi-Resolution Speech Enhancement\n\nAlaa Nfissi (Concordia University) \u2709; Wassim Bouachir (T\u00c9LUQ University); Nizar Bouguila (Concordia University)\n\n\u200b\n\n14:20\u00a0 \u00a0166 \u00a0The Power of Adaptation: Boosting In-Context Learning through Adaptive Prompting\n\nShuzhang Cai (University of Texas at Dallas); Twumasi Mensah-Boateng (University of North Texas); Xander Kuksov (University of North Texas ); Jing Yuan (University of North Texas); Shaojie Tang (University at Buffalo) \u2709\n\n\u200b\n\n14:40\u00a0 \u00a0170 \u00a0Attenuating Catastrophic Forgetting of Token-Level Knowledge in Contrastive Sentence Embeddings with Attentive Pooling\n\nLiao Saifei (University of Toronto) \u2709; Jingceng Niu (University of Toronto); Gerald Penn (University of Toronto)14:00 \u2014 15:00\u00a0 \u00a0 \u00a0Session 3 - Speech and LanguageRoom 160\n\nChair: TBA\n\n\u200b\n\n15:00\u00a0 \u00a023 \u00a0Improving Patient-Clinical Trial Matching Using Convolution Neural Networks\n\nYousif Salman (Wilfrid Laurier University); Emad Mohammed (Wilfrid Laurier University) \u2709; Cassandra Hui (HealMary)\n\n\n\n15:18\u00a0 \u00a050\u00a0 InceptoFormer: A Multi-Signal Neural Framework for Parkinson\u2019s Disease Severity Evaluation from Gait\n\nSafwen Naimi (T\u00c9LUQ) \u2709; Arij Said (T\u00c9LUQ); Wassim Bouachir (T\u00c9LUQ); Guillaume-Alexandre Bilodeau (Polytechnique Montr\u00e9al)\n\n\n\n15:36\u00a0 \u00a059 \u00a0Transfer Learning for Multi-Lead ECG Analysis in Cardiac Arrest Risk Classification\n\nZahra Safari (University of Calgary); Emad Mohammed (Wilfrid Laurier University) \u2709; Behrouz Far (University of Calgary)\n\n\n\n15:54\u00a0 \u00a0155 \u00a0Real-Time Plant Disease Detection Using YOLOv8 on a Low Resources Device\n\nUsama Mohiuddin (Wilfrid Laurier University); Emad Mohammed (Wilfrid Laurier University) \u2709\n\n\n\n16:12\u00a0 \u00a0200 \u00a0A Comparison of Autoencoders and Variational Autoencoders for Anomaly Detection in Dermoscopic Skin Lesion Imagery\n\nAndrew McIntyre (Acadia University) \u270911:00 \u2014 12:30\u00a0 \u00a0 \u00a0Session 5 - Large Language Models (LLMs) and Natural Language Processing (NLP)Room 160\n\nChair: TBA\n\n\n\n11:00\u00a0 \u00a081 \u00a0Aligning Language Models Using Multi-Objective Deep Reinforcement Learning\n\nYage Zhang (Department of Computer Science, Brock University); Xiaodan Zhu (Department of Electrical and Computer Engineering, Queen's University); Yifeng Li (Department of Computer Science, Brock University) \u2709\n\n\n\n11:18\u00a0 \u00a0103 \u00a0Enhancing Memory Recall in LLMs with Gauss-Tin: A Hybrid Instructional and Gaussian Replay Approach\n\niing muttakhiroh (Concordia University) \u2709; Thomas Fevens (Concordia University)\n\n\n\n11:36\u00a0 \u00a0106 \u00a0Let\u2019s CONFER: A Dataset for Evaluating Natural Language Inference Models on CONditional InFERence and Presupposition\n\nTara Azin (Carleton University) \u2709; Daniel Dumitrescu (University of Ottawa); Diana Inkpen (University of Ottawa); Raj Singh (Carleton University)\n\n\n\n11:54\u00a0 \u00a0158 \u00a0On Pre-training and Self-training\n\nYiheng Wang (Peking University); Jiayu Lin (Peking University); Zuoquan Lin (Peking University) \u2709\n\n\n\n12:12\u00a0 \u00a0162 \u00a0On the Influence of Discourse Relations in Persuasive Texts\n\nNawar Turk (Concordia University - CLaC Lab) \u2709; Sevag Kaspar (Concordia University); Leila Kosseim (Concordia University)14:00 \u2014 15:00\u00a0 \u00a0 \u00a0 \u00a0Session 6 - Machine Learning \u2013 ClassificationRoom 160\n\nChair: TBA\n\n\n\n14:00\u00a0 \u00a024\u00a0 Fast Graph Neural Network for Image Classification\n\nMustafa Mohammadi Gharasuie (University of Windsor) \u2709; Luis Rueda (University of Windsor)\u00a0\n\n\n\n14:20\u00a0 \u00a0128 \u00a0Enhancing Predictive Coding Networks for Multi-Modal Generation and Classification\n\nEhsan Ganjidoost (University of Waterloo) \u2709\n\n\n\n14:40\u00a0 \u00a0145 \u00a0Reliability-Driven LiDAR-Camera Fusion for Robust 3D Object Detection\n\nReza Sadeghian (University of Ottawa) \u2709; Niloofar Hooshyaripour (University of Ottawa); Chris Joslin (Carleton University); WonSook Lee (University of Ottawa)15:30 \u2014 17:00\u00a0 \u00a0 \u00a0 Session 7 - Applications II - Security, Adversarial ML, and Anomaly DetectionRoom 160\n\nChair:TBA\n\n\n\n15:30\u00a0 \u00a094 \u00a0On the Impact of Imbalance Handling Techniques in Deep Learning Models for Malware Detection\n\nDan Zhu (New York Institute of Technology); Shijia Zhang (New York Institute of Technology); Jing Li (New York Institute of Technology); Sara Khanchi (New York Institute of Technology) \u2709\n\n\n\n15:48\u00a0 \u00a0164 \u00a0Generating Malicious Demonstration Policies to Exploit Vulnerabilities in Inverse Reinforcement Learning\n\nArezoo Alipanah (University of Waterloo) \u2709; Yash Pant (University of Waterloo)\n\n\n\n16:06\u00a0 \u00a0177 \u00a0Detecting Aimbot Usage in Minecraft Using a Long Short-Term Memory Model\n\nJames Vandersluis (University of Waterloo) \u2709; Alexander Wong (University of Waterloo)\n\n\n\n16:24\u00a0 \u00a0188\u00a0 SAGNN+CS: A Resilient Graph Neural Network Framework Against Backdoor Threats\n\nAbhijeet Dhali (Brock University) \u2709; Renata Dividino (Brock University)\n\n\n\n16:42\u00a0 \u00a0203 \u00a0Handling Concept Drift in Fraud Detection: A Replication Study\n\nMustafa Topal (AI4U Inc.) \u2709; Aysun Bozanta (Bo\u011fazi\u00e7i University); Eray Erer (Bo\u011fazi\u00e7i University); Ay\u015fe Ba\u015far (Toronto Metropolitan University)11:00 \u2014 12:30\u00a0 \u00a0 \u00a0 \u00a0Session 8 - Vision and Multimodal SystemsRoom 160\n\nChair:TBA\n\n\n\n11:00 \u00a0 95 \u00a0Multimodal Emotion Recognition with Cross-Attentive Learning and Feature Fusion\n\nAlaa Nfissi (Concordia University) \u2709; Ines Jemmali (Concordia University); Wassim Bouachir (T\u00c9LUQ University); Nizar Bouguila (Concordia University)\n\n\n\n11:18\u00a0 \u00a098\u00a0 MAC: Multimodal Attentive Contrastive Learning Framework\n\nHabibeh Naderi (Dalhousie University) \u2709; Behrouz Haji Soleimani (Kinaxis); Stan Matwin (Dalhousie University)\n\n\n\n11:36\u00a0 \u00a065 \u00a0Exploring Superposition and Interference in State-of-the-Art Low-Parameter Vision Models\n\nLilian Hollard (LICIIS) \u2709\n\n\n\n11:54\u00a0 \u00a0127 \u00a0Taxonomic Reasoning for Rare Arthropods: Combining Dense Image Captioning and RAG for Interpretable Classification\n\nNathaniel Lesperance (University of Guelph) \u2709; Sujeevan Ratnasingham (Centre for Biodiversity Genomics); Graham Taylor (University of Guelph)\n\n\n\n12:12\u00a0 \u00a0184 \u00a0Contextual Attention-Based Multimodal Fusion of LLM and CNN for Sentiment Analysis\n\nMeriem Zerkouk (University of TELUQ) \u2709; Miloud Mihoubi (University of TELUQ); Belkacem Chikhaoui (University of TELUQ)14:00 \u2014 15:00\u00a0 \u00a0 \u00a0 \u00a0\u00a0Graduate Students Symposium15:30 \u2014 17:00\u00a0 \u00a0 \u00a0 \u00a0\u00a0Session 9 - Short Papers POSTERSRoom TI Gallery\n\n\u00a053 \u00a0Continual Prediction Learning Techniques to Support Users' Grasp Selection on a Multi-Articulating Prosthetic Hand\n\nAnnette Lau (University of Alberta) \u2709; Michael R. Dawson (University of Alberta); Patrick M. Pilarski (University of Alberta)\n\n\n\n\u00a056 \u00a03D Gaussian Splatting and Camera Poses Joint Optimization for Motion Blur Images via Low-pass Filter\n\nXuanqi Zhang (University of Ottawa) \u2709; Wonsook Lee (University of Ottawa); Chris Joslin (Carleton University)\n\n\n\n\u00a068 \u00a0How Robust Are Higher-Order Graph Neural Networks to Backdoor Attacks?\n\nAbhijeet Dhali (Brock University) \u2709; Renata Dividino (Brock University)\n\n\n\n\u00a079 \u00a0Analysis of Canadian Wildfire Tweets Over Seven Years\n\nBraeden Sherritt (Carleton University); Isar Nejadgholi (The National Research Council Canada); Marzieh Amini (Carleton University) \u2709\n\n\n\n\u00a0121 \u00a0Evaluating the Effectiveness of Cost-Efficient Large Language Models in Benchmark Biomedical Tasks\n\nIsrat Jahan (York University); Md Tahmid Rahman Laskar (Dialpad) \u2709; Chun Peng (York University); Jimmy Huang (York University)\n\n\n\n\u00a0123 \u00a0A Context-Aware LLM-Based Action Safety Evaluator for Automation Agents\n\nChia-Hao Lin (New York Institute of Technology ); Amin Milani Fard (New York Institute of Technology ) \u2709\n\n\n\n\u00a0131 \u00a0Vectorized Context-Aware Embeddings for GAT-Based Collaborative Filtering\n\nDanial Ebrat (University of Windsor) \u2709; Sepideh Ahmadian (University of Windsor); Luis Rueda (University of Windsor)\n\n\u200b\n\n\u00a0146 \u00a0SF2D: Semi-supervised Federated Learning for Fall Detection using (Un)labelled Data in Edge-Cloud\n\nSeyed Alireza Rahimi Azghadi (University of New Bruswick) \u2709; Hung Truong Nguyen Thanh (University of New Bruswick); Irina Kondratova (NRC); H\u00e9l\u00e8ne Fournier (NRC); Monica Wachowicz (RMIT); francis palma (University of New Bruswick); Ren\u00e9 Richard (NRC); Hung Cao (University of New Bruswick)\n\n\n\n\u00a0153 \u00a0Discovering and Evaluating Politeness Editing Strategies\n\nAhmad Aljanaideh (Bentley University) \u2709; Saeb Ganideh (Toronto Metropolitan University); Michael Pumphrey (University of Guelph); Mohammad Al Janaideh (University of Guelph)\n\n\n\n\u00a0189 \u00a0Comparing Traditional and Deep Learning Approaches for Product Matching: Performance on Unseen Entities\n\nJeremy Foxcroft (University of Guelph) \u2709; Eric Sartor (University of Guelph); Luiza Antonie (University of Guelph)\n\n\n\n\u00a0191 \u00a0A Minimalist Swarm Robotic Controller for Foraging\n\nAndrew Vardy ( Memorial University of Newfoundland) \u2709\n\n\n\n\u00a0195 \u00a0Cardioformer: Advancing AI in ECG Analysis with Multi-Granularity Patching and ResNet\n\nMd Kamrujjaman Mobin (Shahjalal University of Science and Technology, Sylhet.) \u2709; Md Saiful Islam (Athabasca University, Canada); Sadik Al Barid (Shahjalal University of Science and Technology, Sylhet.); Md Masum (Shahjalal University of Science and Technology, Sylhet.)\n\n\n\n\u00a0197 \u00a0From Control to Flourishing: Responsible Generative AI and the Limits of Meaningful Human Control\n\nTugba Yoldas (University of Alberta) \u2709\n\n\n\n\u00a0202 \u00a0Intra-Layer Recurrence in Transformers for Language Modeling\n\nAnthony Nguyen (Algoma University); Wenjun Lin (Algoma University) \u270911:00 \u2014 12:30\u00a0 \u00a0 \u00a0 \u00a0Session 10 - Explainability, Interpretability, Ethics and Safe AIRoom 160\n\nChair: TBA\n\n\n\n11:00\u00a0 \u00a04 \u00a0Topology-Driven Solver Selection for Stochastic Shortest Path MDPs via Explainable Machine Learning\n\nMathieu Gravel (Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al); Ja\u00ebl Champagne Gareau (Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al) \u2709\n\n\n\n11:18\u00a0 \u00a042 \u00a0Enhancing Legal Text Entailment: Evaluating Model Architectures, Training Approaches, and Interpretability\n\nMichel Custeau (University of Ottawa) \u2709; Diana Inkpen (University of Ottawa)\n\n\n\n11:36\u00a0 \u00a048 \u00a0XGD: Explainable AI-Guided Knowledge Distillation with Feature Refinement for Semantic Segmentation\n\nHung Nguyen (University of New Brunswick) \u2709; Khang Nguyen (FPT Software); Binh Truong (FPT Software); Khanh Nguyen (FPT Software); Loc Nguyen (Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg); Francis Palma (University of New Brunswick); Hung Cao (University of New Brunswick)\n\n\n\n11:54\u00a0 \u00a0108 \u00a0Faithful Perturbations and Evaluations for Post-Hoc Local Explanation Methods\n\nIain Smith (University of Alberta) \u2709; Osmar Zaiane (University of Alberta)\n\n\n\n12:12 \u00a0 130 \u00a0Ethical Risk Assessment of the Data Harnessing Process of LLM supported on Consensus of Well-known Multi-Ethical Frameworks\n\nJaved KHAN (Kent State University) \u2709; Sharmila Rahman Prithula (Kent State University)14:00 \u2014 15:00\u00a0 \u00a0 \u00a0 \u00a0Session 11 - Machine Learning and InterpretabilityRoom 160\n\nChair: TBA\n\n\n\n14:00 \u00a0 32\u00a0\u00a0Meta-Unsupervised Representation Learning: A New Approach to Factorization and Interpretability\n\nAmeer Ahmed Khan (Bishop's University) \u2709; Rachid Hedjam (Bishop's University); Mebarka Allaoui (Bishop's University); Guoqiang Zhong (Ocean University of China)\n\n\n\n14:20\u00a0 \u00a041 \u00a0Unsupervised Feature Selection Using Orthogonally Constrained Matrix Factorization with Hessian Regularization and Non-Convex Sparsity\n\nZubeka Dang (Seneca Polytechnic); Anna Jazayeri (Seneca Polytechnic); Ran Arino (Seneca Polytechnic); Anna Briskina (Seneca Polytechnic); Amir Moslemi (Sunnybrook research institute; Department of physics, Toronto Metropolitan university) \u2709\n\n\n\n14:40\u00a0 \u00a0196 \u00a0Discrete-Survival Compatibility Score for Donor-Recipient Matching in Liver Transplantation\n\nYingke Wang (University of Waterloo) \u2709; Eunice Tan (University Health Network); Yingji Sun (University Health Network); Mamatha Bhat (University Health Network); Xi He (University of Waterloo, Vector Institute); Sirisha Rambhatla (University of Waterloo)15:30 \u2014 16:24\u00a0 \u00a0 \u00a0 \u00a0Session 12 - Applications III - Financial and Cryptocurrency Market ApplicationsRoom 160\n\nChair: TBA\n\n\n\n15:30\u00a0 \u00a018 \u00a0A Domain-Specific Transformer Approach for Financial Statement Fraud Detection\n\nMatin N. Ashtiani (University of Ottawa) \u2709; Shanzi Rui (University of Ottawa); Bijan Raahemi (University of Ottawa)\n\n\n\n15:48 \u00a0 119 \u00a0Financial Market Prediction using Contrastive Learning-based News Representation and Multi-Resolution Market Data\n\nSaeede Anbaee Farimani (Mashhad Branch Islamic Azad University); Majid Vafaei Jahan (Mashhad Branch Islamic Azad University); Pouya Soltani (Mashhad Branch Islamic Azad University ); Amin Milani Fard (New York Institute of Technology ) \u2709\n\n\n\n16:06\u00a0 \u00a0125 \u00a0Enhancing Cryptocurrency Price Prediction by Applying Temporal Fusion Transformers on Subseries\n\nArash Peik (Yazd University); Mohammad Ali Zare Chahooki (Yazd University ); Amin Milani Fard (New York Institute of Technology ) \u2709; Mehdi Agha Sarram (Yazd University)"
+                ],
+                "output": "readability",
+                "pwd": "/data/archive/1759604184.549426",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:14:50.209392+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://www.ai-crv.ca/canadian-ai-conference-program"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:14:24.407160+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549426/screenshot.png'",
+                "pwd": "/data/archive/1759604184.549426",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:14:18.006076+00:00",
+                "status": "failed"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/app/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--no-sandbox\\\", \\\"--no-zygote\\\", \\\"--disable-dev-shm-usage\\\", \\\"--disable-software-rasterizer\\\", \\\"--run-all-compositor-stages-before-draw\\\", \\\"--hide-scrollbars\\\", \\\"--window-size=1440,2000\\\", \\\"--autoplay-policy=no-user-gesture-required\\\", \\\"--no-first-run\\\", \\\"--use-fake-ui-for-media-stream\\\", \\\"--use-fake-device-for-media-stream\\\", \\\"--disable-sync\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://www.ai-crv.ca/canadian-ai-conference-program",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-10-04T19:14:12.079581+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549426/singlefile.html'",
+                "pwd": "/data/archive/1759604184.549426",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:13:58.062172+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.ai-crv.ca/canadian-ai-conference-program"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:14:50.203152+00:00",
+                "index_texts": null,
+                "output": "Canadian AI Conference | Canadian AI Conferen",
+                "pwd": "/data/archive/1759604184.549426",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:14:50.183839+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.549426/warc/1759605272",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "https://www.ai-crv.ca/canadian-ai-conference-program"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-04T19:14:50.177250+00:00",
+                "index_texts": null,
+                "output": "www.ai-crv.ca/canadian-ai-conference-program.html",
+                "pwd": "/data/archive/1759604184.549426",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:14:32.189024+00:00",
+                "status": "succeeded"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "https://web.archive.org/web/20251004191457/https://www.ai-crv.ca/canadian-ai-conference-program",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": "media",
+        "pdf": "output.pdf",
+        "screenshot": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549426/screenshot.png'",
+        "singlefile": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549426/singlefile.html'",
+        "title": "Canadian AI Conference | Canadian AI Conferen",
+        "warc": null,
+        "wget": "www.ai-crv.ca/canadian-ai-conference-program.html"
+    },
+    "link_dir": "/data/archive/1759604184.549426",
+    "newest_archive_date": "2025-10-04T19:14:54.150690+00:00",
+    "num_failures": 2,
+    "num_outputs": 10,
+    "oldest_archive_date": "2025-10-04T19:13:55.829139+00:00",
+    "path": "/canadian-ai-conference-program",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "81737e89-6915-42e2-b0da-12aec728f1b9",
+    "sources": [
+        "/data/sources/1759604183.819294-crawl-www.ai-crv.ca.txt"
+    ],
+    "tags": ",Canadian AI and Robots & Vision Conference 2025",
+    "tags_str": "Canadian AI and Robots & Vision Conference 2025",
+    "timestamp": "1759604184.549426",
+    "title": "Canadian AI Conference | Canadian AI Conferen",
+    "updated": "2025-10-07T00:01:26.199032+00:00",
+    "updated_date": "2025-10-07 00:01",
+    "url": "https://www.ai-crv.ca/canadian-ai-conference-program"
+}

@@ -1,0 +1,374 @@
+{
+    "archive_path": "archive/1759604184.549437",
+    "base_url": "www.ai-crv.ca/responsible-ai",
+    "basename": "responsible-ai",
+    "bookmarked_date": "2025-10-04 18:56",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/www.ai-crv.ca/responsible-ai",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=www.ai-crv.ca",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": "www.ai-crv.ca/responsible-ai.html"
+    },
+    "domain": "www.ai-crv.ca",
+    "extension": "",
+    "hash": "AH9CWT9R1SB7XQNRDVYV",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://www.ai-crv.ca/responsible-ai"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:04:17.867383+00:00",
+                "index_texts": null,
+                "output": "https://web.archive.org/web/20251004190401/https://www.ai-crv.ca/responsible-ai",
+                "pwd": "/data/archive/1759604184.549437",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:03:58.142557+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://www.ai-crv.ca/responsible-ai"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:03:25.020421+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/data/archive/1759604184.549437",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:03:19.715896+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=www.ai-crv.ca"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:02:54.749055+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/data/archive/1759604184.549437",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:02:52.482870+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.ai-crv.ca/responsible-ai"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:02:54.902079+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/data/archive/1759604184.549437",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:02:54.754694+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://www.ai-crv.ca/responsible-ai"
+                ],
+                "cmd_version": "2024.12.13",
+                "end_ts": "2025-10-04T19:03:58.138030+00:00",
+                "index_texts": [],
+                "output": "media",
+                "pwd": "/data/archive/1759604184.549437",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:03:57.034870+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/app/node_modules/@postlight/parser/cli.js",
+                    "https://www.ai-crv.ca/responsible-ai"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-10-04T19:03:57.021098+00:00",
+                "index_texts": null,
+                "output": "mercury",
+                "pwd": "/data/archive/1759604184.549437",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:03:55.517900+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://www.ai-crv.ca/responsible-ai"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:03:13.668508+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549437/output.pdf'",
+                "pwd": "/data/archive/1759604184.549437",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:03:06.434327+00:00",
+                "status": "failed"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/app/node_modules/readability-extractor/readability-extractor",
+                    "/tmp/tmp57ng5ozw",
+                    "https://www.ai-crv.ca/responsible-ai"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-10-04T19:03:55.464808+00:00",
+                "index_texts": [
+                    "Responsible AIFollowing the successful third edition of the\u00a0Responsible AI event in 2024, we are excited that the event will be held again in 2025. We strongly believe in the importance and urgency of the Responsible and Ethical Development of Artificial Intelligence for Social Good.\n\nAs outlined by the\u00a0UNESCO Recommendation on the Ethics of Artificial Intelligence, AI technology may have unintended by-products that lead to discrimination, reinforce inequalities, infringe upon human rights, socially sort and disrupt democratic processes, limit access to services and intensify surveillance and unfair treatment of marginalized and minority groups. As such, we are committed to organizing a cohesive and dynamic program that embodies the paradigm of responsible development of AI so that AI researchers and practitioners can engage in critical analysis and integration of fairness, ethics, transparency, and algorithmic accountability in their work.\u200bThis year's program will consist of the following events and will be open to all participants of the Canadian AI conference:\n\n\u200b\n\n\n\nThree Invited Talks of 30 minutes each. The talks will consist of speakers with practical and theoretical expertise at the intersection of various domains and Responsible AI\n\n\nA student 3-minute-thesis (3MT) competition\n\n\nA student research poster session\n\n\nA panel featuring leaders in Responsible AI\n\n\nA live AI Ethics debate\n\nResponsible AI Co-chairsEbrahim Bagheri\n\nProfessor\n\nFaculty of Information, University of Toronto\n\nWebsite\n\n\u200b\n\nZack Marshall\n\nAssociate Professor\n\nUniversity of Calgary\n\nWebsiteResponsible AI arrangements chairCalvin Hillis\n\nPhD Student\n\nToronto Metropolitan University\n\nWebsiteProgram Schedule27 May 2025\n\n\u200b\n\n09:00 \u2014 09:30\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Invited speaker 1\n\n09:30 \u2014 10:30\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Invited speakers 2 and 3\n\n10:30 \u2014 11:00\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Coffee\n\n11:00 \u2014 12:30\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a03MT and Posters\n\n12:30 \u2014 14:00\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Lunch and Posters\n\n14:00 \u2014 15:00\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Debates\n\n15:00 \u2014 15:30\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Coffee\n\n15:30 \u2014 17:00\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Panel\n\n\u200b\n\n\u200b\n\n\u200b\n\n\u200b\n\n\u200b\n\n\u200b\n\n\u200b\n\n\u200b\n\n\u200b\n\n\u200bWorkshop Location\u200b\n\n\n\nTaylor Institute, Room 110Invited speakersJulita VassilevaUniversity of SaskatchewanTalk title to be announcedBio\n\nJulita Vassileva is a professor at the University of Saskatchewan, focusing on human-centered AI . Her research spans user modeling, personalization, recommender systems, intelligent tutoring systems, multi-agent systems, social computing, trust and reputation mechanisms, persuasive technology, and behavior change. She has nearly 300 publications and has supervised over 60 graduate students. Additionally, she is the section editor of Frontiers in AI: Human Learning and Behaviour Change, co-editor of the HCI section of PeerJ Computer Science, and a member of the editorial boards of User Modeling and User-Adapted Interaction, International Journal of AI in Education, and ACM Transactions of Social Computing.Gideon ChristianUniversity of CalgaryTalk title to be announcedBio\n\nDr. Gideon Christian is an Associate Professor and University Research Chair in AI and Law at the University of Calgary. Prior to joining the University of Calgary, he was technology lawyer with the federal Department of Justice where he deployed technology in high profile litigation involving the Government of Canada. His research interests are in artificial intelligence and law, legal impacts of new and emerging technologies among other areas. Dr. Christian\u2019s research seeks to identify elements of racial bias in laws, policies and in emerging technologies. His current research seeks to develop the concept of algorithmic racism which is defined as race-based bias arising from the use of AI-powered tools in the analysis of data in decision making resulting in unfair outcomes to individuals from a particular segment of the society characterised by race. Dr. Christian has appeared before the House of Commons Committee on Citizenship and Immigration (CIMM) as an expert in the use of AI in immigration decisions. He was the Ontario Bar Association 2024 Chief Justice of Ontario Fellow in Research. He was named by the Calgary Herald as one of the top 20 Compelling Calgarians in 2024, and was awarded the ITL Trailblazer in Technology Award in 2025.Nils ForkertUniversity of CalgaryTalk title to be announcedBio\n\nDr. Nils Daniel Forkert, PhD, is a Professor at the University of Calgary in the Departments of Radiology and Clinical Neurosciences. He received his German diploma in Computer Science in 2009 from the University of Hamburg, his master\u2019s degree in medical physics in 2012 from the Technical University of Kaiserslautern, his PhD in computer science in 2013 from the University of Hamburg, and completed a postdoctoral fellowship at Stanford University before joining the University of Calgary as an Assistant Professor in 2014. He is an imaging and machine learning scientist who develops new image processing methods, predictive algorithms, and software tools for the analysis of medical data. This includes the extraction of clinically relevant parameters and biomarkers from medical data describing the morphology and function of organs with the aim of supporting clinical studies and preclinical research as well as developing computer-aided diagnosis and patient-specific, precision-medicine, prediction models using machine learning based on multi-modal medical data. Dr. Forkert is a Canada Research Chair (Tier 2) in Medical Image Analysis, and Director of the Child Health Data Science Program of the Alberta Children's Hospital Research Institute as well as the Theme Lead for Machine Learning in Neuroscience of the Hotchkiss Brain Institute at the University of Calgary. He has published over 210 peer-reviewed manuscripts, over 90 full-length proceedings papers, 1 book, and 2 book chapters and has received major funding from the Canadian Institutes of Health Research (CIHR), Natural Sciences and Engineering Research Council, the Heart and Stroke Foundation, Calgary Foundation, and the National Institutes of Health as a PI or co-PI.PanelistsTyler WilliamsonUniversity of CalgaryBio\n\nTyler Williamson is the Director of the Centre for Health Informatics, Director of the Health Data Science Program, Co-Director of the Real-World Evidence Consortium, and a Professor of Biostatistics in the Department of Community Health Sciences at the University of Calgary. He is a member of the O\u2019Brien Institute of Public Health, the Libin Cardiovascular Institute, and the Alberta Children\u2019s Hospital Research Institute. He received his PhD from the University of Calgary in 2011. Dr. Williamson has won numerous awards for his leadership and scholarship including being named one of Avenue Calgary\u2019s Top 40 Under 40 in 2020. He has active collaborations with the World Health Organization, Health Canada, Alberta Health, Canada Health Infoway, and many others. His program of research revolves around electronic medical record data, including methods for improving and using EMR data as well as national leadership in health data policy and interoperability.Malek MouhoubUniversity of ReginaBio\n\nDr. Malek Mouhoub is a Professor and SaskPower Research Chair in Artificial Intelligence at the University of Regina in Canada. Dr. Mouhoub was the head of the Department, from 2016 to 2019 and SaskPower Research Chair in Artificial Intelligence, from 2022 to 2024. Dr. Mouhoub\u2019s research interests include Constraint Solving, Spatial and Temporal Reasoning, Preference Reasoning, Constraint and Preference Learning, Scheduling and Planning, Vehicle Routing, Precision Farming, Efficient Grid-wide Energy Consumption, and Urban Planning. Dr. Mouhoub's research is primarily supported by the Natural Sciences and Engineering Research Council of Canada (NSERC), the Canada Foundation for Innovation (CFI), and the Mathematics of Information Technology and Complex Systems (MITACS) federal grants. Dr. Mouhoub is the past treasurer and member of the executive of the Canadian Artificial Intelligence Association (CAIAC). Dr. Mouhoub received the 2022 CAIAC Distinguished Service Award.Osmar ZaianeUniversity of AlbertaBio\n\nOsmar R. Za\u00efane is a Professor in Computing Science at the University of Alberta, Canada, Fellow of the Alberta Machine Intelligence Institute (Amii), and Canada CIFAR AI Chair. He is also a Fellow of the Canadian Academy of Engineering. Dr. Zaiane obtained his Ph.D. from Simon Fraser University, Canada, in 1999. He has published more than 400 papers in refereed international conferences and journals. He is Associate Editor of many International Journals on data mining and data analytics and served as program chair and general chair for scores of international conferences in the field of knowledge discovery and data mining. Dr. Zaiane received numerous awards including the Killam Professorship award, the McCalla Research Professorship, and the ACM SIGKDD Service Award from the ACM Special Interest Group on Data Mining, which runs the world\u2019s premier data science, big data, and data mining association and conference.Lauren DwyerMount Royal UniversityBio\n\nDr. Lauren Dwyer is an Assistant Professor with Mount Royal University's Information Design undergraduate program researching the role of emerging technologies in communication studies. Dr. Dwyer holds a PhD from Toronto Metropolitan University and York University\u2019s joint Communication and Culture program, where she explored how social robots can be designed to enhance human communication and emotional experiences. Formerly SAIT\u2019s Academic Chair for Artificial Intelligence and Data Analytics, she oversaw the development of programs that focus on utilizing data and AI to drive innovation in various fields. Her research interests currently lie at the intersection of emerging technology and human communication, particularly in relation to journalism, the social unconscious, behaviour modification and artificial intelligence. By approaching these complex topics through a communication studies lens, she has been able to shed new light on the potential impact of technology on human emotions and social connections.Faith MajekolagbeUniversity of AlbertaBio\n\nFaith is an Assistant Professor at the Faculty of Law, University of Alberta, and a Faculty Associate at the Berkman Klein Center for Internet & Society, Harvard University. Her research focuses on intellectual property and technology law. Recently, she has been exploring the intersection of copyright and generative AI, including the roles and limits of copyright law in fostering an ethical and fair AI ecosystem.Xin WangUniversity of CalgaryBio\n\nDr. Xin Wang is a Professor and Schulich Research Chair in the Department of Geomatics Engineering at the University of Calgary. Her research focuses on spatial data mining, big spatio-temporal data analytics, artificial intelligence, machine learning for spatial applications, and AI for logistics and transportation. Dr. Wang also specializes in GIS applications in oil and gas, ontology and knowledge engineering in GIS, web GIS, and location-based social networks. Dr. Wang's outstanding contributions have been recognized through multiple prestigious awards, including the 2024 Parex Innovation Fellowship and the 2022 ASTech Award for Outstanding Innovation in Digital Technologies Research. She received the Tecterra Women of Impact Award in 2021, highlighting her significant influence and achievements. She also received the Outstanding Achievement Award from the University of Calgary in 2023. Within the Schulich School of Engineering, she has been honored with the Outstanding Research Impact Award (2023), Research Achievement Award (2018), and Graduate Educator Award (2017). In addition, Dr. Wang was awarded the 2023 Distinguished Service Award by the Canadian Artificial Intelligence Association (CAIAC), where she served as an executive member and treasurer from 2015 to 2021."
+                ],
+                "output": "readability",
+                "pwd": "/data/archive/1759604184.549437",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:03:54.804802+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://www.ai-crv.ca/responsible-ai"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:03:19.710587+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549437/screenshot.png'",
+                "pwd": "/data/archive/1759604184.549437",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:03:13.674222+00:00",
+                "status": "failed"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/app/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--no-sandbox\\\", \\\"--no-zygote\\\", \\\"--disable-dev-shm-usage\\\", \\\"--disable-software-rasterizer\\\", \\\"--run-all-compositor-stages-before-draw\\\", \\\"--hide-scrollbars\\\", \\\"--window-size=1440,2000\\\", \\\"--autoplay-policy=no-user-gesture-required\\\", \\\"--no-first-run\\\", \\\"--use-fake-ui-for-media-stream\\\", \\\"--use-fake-device-for-media-stream\\\", \\\"--disable-sync\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://www.ai-crv.ca/responsible-ai",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-10-04T19:03:06.429308+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549437/singlefile.html'",
+                "pwd": "/data/archive/1759604184.549437",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:02:54.903957+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.ai-crv.ca/responsible-ai"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:03:54.802089+00:00",
+                "index_texts": null,
+                "output": "Responsible AI | Canadian AI Conferen",
+                "pwd": "/data/archive/1759604184.549437",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:03:54.789174+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.549437/warc/1759604605",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "https://www.ai-crv.ca/responsible-ai"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-04T19:03:54.772482+00:00",
+                "index_texts": null,
+                "output": "www.ai-crv.ca/responsible-ai.html",
+                "pwd": "/data/archive/1759604184.549437",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:03:25.023163+00:00",
+                "status": "succeeded"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "https://web.archive.org/web/20251004190401/https://www.ai-crv.ca/responsible-ai",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": "media",
+        "pdf": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549437/output.pdf'",
+        "screenshot": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549437/screenshot.png'",
+        "singlefile": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549437/singlefile.html'",
+        "title": "Responsible AI | Canadian AI Conferen",
+        "warc": null,
+        "wget": "www.ai-crv.ca/responsible-ai.html"
+    },
+    "link_dir": "/data/archive/1759604184.549437",
+    "newest_archive_date": "2025-10-04T19:03:58.142557+00:00",
+    "num_failures": 3,
+    "num_outputs": 9,
+    "oldest_archive_date": "2025-10-04T19:02:52.482870+00:00",
+    "path": "/responsible-ai",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "f6937c50-b92f-46ee-8067-7847d6ab85d1",
+    "sources": [
+        "/data/sources/1759604183.819294-crawl-www.ai-crv.ca.txt"
+    ],
+    "tags": ",Canadian AI and Robots & Vision Conference 2025",
+    "tags_str": "Canadian AI and Robots & Vision Conference 2025",
+    "timestamp": "1759604184.549437",
+    "title": "Responsible AI | Canadian AI Conferen",
+    "updated": "2025-10-07T00:01:23.869206+00:00",
+    "updated_date": "2025-10-07 00:01",
+    "url": "https://www.ai-crv.ca/responsible-ai"
+}

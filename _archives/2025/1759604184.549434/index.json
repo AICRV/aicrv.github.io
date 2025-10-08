@@ -1,0 +1,374 @@
+{
+    "archive_path": "archive/1759604184.549434",
+    "base_url": "www.ai-crv.ca/student-symposium",
+    "basename": "student-symposium",
+    "bookmarked_date": "2025-10-04 18:56",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/www.ai-crv.ca/student-symposium",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=www.ai-crv.ca",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": "www.ai-crv.ca/student-symposium.html"
+    },
+    "domain": "www.ai-crv.ca",
+    "extension": "",
+    "hash": "1K74A0S9NQ9SS45QSWSQ",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://www.ai-crv.ca/student-symposium"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:01:05.344304+00:00",
+                "index_texts": null,
+                "output": "https://web.archive.org/web/20251004190048/https://www.ai-crv.ca/student-symposium",
+                "pwd": "/data/archive/1759604184.549434",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:00:30.343755+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://www.ai-crv.ca/student-symposium"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:00:07.527158+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/data/archive/1759604184.549434",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T18:59:59.453532+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=www.ai-crv.ca"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T18:59:35.007543+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/data/archive/1759604184.549434",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T18:59:32.808003+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.ai-crv.ca/student-symposium"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T18:59:35.338328+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/data/archive/1759604184.549434",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T18:59:35.017353+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://www.ai-crv.ca/student-symposium"
+                ],
+                "cmd_version": "2024.12.13",
+                "end_ts": "2025-10-04T19:00:30.340197+00:00",
+                "index_texts": [],
+                "output": "media",
+                "pwd": "/data/archive/1759604184.549434",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:00:29.250509+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/app/node_modules/@postlight/parser/cli.js",
+                    "https://www.ai-crv.ca/student-symposium"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-10-04T19:00:29.239112+00:00",
+                "index_texts": null,
+                "output": "mercury",
+                "pwd": "/data/archive/1759604184.549434",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:00:27.930501+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://www.ai-crv.ca/student-symposium"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T18:59:52.976447+00:00",
+                "index_texts": null,
+                "output": "output.pdf",
+                "pwd": "/data/archive/1759604184.549434",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T18:59:46.725352+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/app/node_modules/readability-extractor/readability-extractor",
+                    "/tmp/tmpv9w2gwei",
+                    "https://www.ai-crv.ca/student-symposium"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-10-04T19:00:27.912271+00:00",
+                "index_texts": [
+                    "All submissions must be written in English and should clearly state the research problem, the proposed solution and approach and the description of the progress to date, including significant results. Program committee members will review each submission. Extended abstract submissions will be considered for oral presentations and will be selected based on clarity of the submission, difficulty of the problem, novelty of the solution, and quality of the research.\n\nWe welcome the following types of submissions based on unpublished or previously published work related to your thesis.\n\n\n\nAbstract (2 pages) \u2013 poster presentation\n\n\nExtended abstracts (4 pages) \u2013 considered for an oral presentation\n\n\n\nThe references can use an additional 2 pages. Only extended abstracts will be considered for an oral presentation. The authors should consult the authors\u2019\u00a0guidelines for the Canadian AI 2025 conference\u00a0and use the provided proceedings template for LaTeX or Microsoft Word to prepare their submissions. The \u201cabstract\u201d section can be omitted for the two-page abstract submission. All submissions should be anonymized.\n\nThe lead author of each accepted submission is required to present the work in-person at the symposium. The authors must agree to this requirement prior to submitting their work for review. Upon acceptance, the authors and their thesis supervisor(s) should sign a copyright form to publish the work in the Canadian AI proceedings. Program committee members will review each submission. Acceptance to symposium is based on clarity of the submission, significance of the problem, novelty of the solution, and quality of the research, and evidence of promise such as peer-reviewed papers or technical reports.\n\nAll students are encouraged to attend and participate in the Symposium, whether or not they are the first author or if they have accepted papers in the symposium.\n\nTo submit your work, please go to the\u00a0AI 2025 \u2013 Graduate Student Symposium Submission site and follow the instructions.Q1. Do I have to be a graduate student to submit an abstract?\n\n\nA1. The first author, or a solo author, has to be a graduate student. An undergraduate student can be a co-author if he/she has helped with experiments. Note that the abstract has to be presented by the graduate student.\n\n\u200b\n\n\u200b\n\nQ2. Can I submit an abstract of my completed dissertation?\n\n\nA2. Yes, this is an acceptable submission. The symposium aims to help students to define and make progress on their thesis. Therefore, work-in-progress with experimental validations can also be submitted.\n\n\n\n\u200b\n\nQ3. We are two graduate students and want to submit one abstract for our two research projects.\u00a0 Is this OK?\n\nA3.\u00a0We encourage you to submit separate abstracts. If a joint project is better explained via one abstract, then you can try to make the case in your cover letter.\n\n\n\n\u200b\n\nQ4.\u00a0I have an abstract accepted by GSS.\u00a0 Can I have some financial support to attend GSS?\n\nA4.\u00a0We encourage you to apply for GSS funding in your cover letter.\u00a0 Presenting students will compete for (partial) funding of their GSS expenses.\u00a0 You can also apply for financial support for the conference volunteers. Depending on how much funding we can secure, we will try to provide (partial) travel funding for selected accepted abstracts. There is no need to apply for this directly and all accepted abstract will be automatically considered. You can also apply for financial support to serve as Canadian AI volunteers.\n\n\n\n\u200b\n\nQ5.\u00a0I do not have an abstract accepted by GSS. Can I apply for financial support to attend?\n\nA5.\u00a0We are working to keep the cost of attending the GSS as low as possible (see the Canadian AI conference website). Financial support is designed for students whose abstracts have been accepted. You can also apply for financial support for the conference volunteers."
+                ],
+                "output": "readability",
+                "pwd": "/data/archive/1759604184.549434",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:00:27.395835+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://www.ai-crv.ca/student-symposium"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T18:59:59.449583+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549434/screenshot.png'",
+                "pwd": "/data/archive/1759604184.549434",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T18:59:52.978862+00:00",
+                "status": "failed"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/app/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--no-sandbox\\\", \\\"--no-zygote\\\", \\\"--disable-dev-shm-usage\\\", \\\"--disable-software-rasterizer\\\", \\\"--run-all-compositor-stages-before-draw\\\", \\\"--hide-scrollbars\\\", \\\"--window-size=1440,2000\\\", \\\"--autoplay-policy=no-user-gesture-required\\\", \\\"--no-first-run\\\", \\\"--use-fake-ui-for-media-stream\\\", \\\"--use-fake-device-for-media-stream\\\", \\\"--disable-sync\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://www.ai-crv.ca/student-symposium",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-10-04T18:59:46.722700+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549434/singlefile.html'",
+                "pwd": "/data/archive/1759604184.549434",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T18:59:35.346468+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.ai-crv.ca/student-symposium"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:00:27.391848+00:00",
+                "index_texts": null,
+                "output": "Student Symposium | Canadian AI Conferen",
+                "pwd": "/data/archive/1759604184.549434",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:00:27.376654+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.549434/warc/1759604407",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "https://www.ai-crv.ca/student-symposium"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-04T19:00:27.364893+00:00",
+                "index_texts": null,
+                "output": "www.ai-crv.ca/student-symposium.html",
+                "pwd": "/data/archive/1759604184.549434",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:00:07.529756+00:00",
+                "status": "succeeded"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "https://web.archive.org/web/20251004190048/https://www.ai-crv.ca/student-symposium",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": "media",
+        "pdf": "output.pdf",
+        "screenshot": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549434/screenshot.png'",
+        "singlefile": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549434/singlefile.html'",
+        "title": "Student Symposium | Canadian AI Conferen",
+        "warc": null,
+        "wget": "www.ai-crv.ca/student-symposium.html"
+    },
+    "link_dir": "/data/archive/1759604184.549434",
+    "newest_archive_date": "2025-10-04T19:00:30.343755+00:00",
+    "num_failures": 2,
+    "num_outputs": 10,
+    "oldest_archive_date": "2025-10-04T18:59:32.808003+00:00",
+    "path": "/student-symposium",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "cd7b84b9-089f-4e69-ada3-15acae2432ab",
+    "sources": [
+        "/data/sources/1759604183.819294-crawl-www.ai-crv.ca.txt"
+    ],
+    "tags": ",Canadian AI and Robots & Vision Conference 2025",
+    "tags_str": "Canadian AI and Robots & Vision Conference 2025",
+    "timestamp": "1759604184.549434",
+    "title": "Student Symposium | Canadian AI Conferen",
+    "updated": "2025-10-07T00:01:23.054932+00:00",
+    "updated_date": "2025-10-07 00:01",
+    "url": "https://www.ai-crv.ca/student-symposium"
+}

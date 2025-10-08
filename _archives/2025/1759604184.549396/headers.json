@@ -1,0 +1,20 @@
+{
+    "Status-Code": 200,
+    "Content-Type": "image/png",
+    "Content-Length": "39387",
+    "Connection": "keep-alive",
+    "Server": "openresty/1.27.1.2",
+    "Date": "Sat, 04 Oct 2025 18:57:15 GMT",
+    "Access-Control-Allow-Origin": "*",
+    "Cache-Control": "public, max-age=2592000, immutable",
+    "X-Seen-By": "image-manipulator-698889fbf5-ffx4w",
+    "X-Wixmp-Trace": "projects/wix-media-infrastructure/traces/33c6uWZlaOzg840e3EyJZU1Xwpi",
+    "Timing-Allow-Origin": "*",
+    "Via": "1.1 google, 1.1 e07f2d5aee657e39da5dfa1bbf54bfec.cloudfront.net (CloudFront)",
+    "Vary": "Accept",
+    "X-Cache": "Hit from cloudfront",
+    "X-Amz-Cf-Pop": "LOS50-P2",
+    "Alt-Svc": "h3=\":443\"; ma=86400",
+    "X-Amz-Cf-Id": "MEmAsOZaC_FTcVtAu7Yh-dtx7287L1zRSSFToNVUIvlHyL8JdD46og==",
+    "Age": "1590"
+}

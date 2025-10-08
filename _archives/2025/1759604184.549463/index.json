@@ -1,0 +1,374 @@
+{
+    "archive_path": "archive/1759604184.549463",
+    "base_url": "www.ai-crv.ca/accommodation",
+    "basename": "accommodation",
+    "bookmarked_date": "2025-10-04 18:56",
+    "canonical": {
+        "archive_org_path": "https://web.archive.org/web/www.ai-crv.ca/accommodation",
+        "dom_path": "output.html",
+        "favicon_path": "favicon.ico",
+        "git_path": "git/",
+        "google_favicon_path": "https://www.google.com/s2/favicons?domain=www.ai-crv.ca",
+        "headers_path": "headers.json",
+        "htmltotext_path": "htmltotext.txt",
+        "index_path": "index.html",
+        "media_path": "media/",
+        "mercury_path": "mercury/content.html",
+        "pdf_path": "output.pdf",
+        "readability_path": "readability/content.html",
+        "screenshot_path": "screenshot.png",
+        "singlefile_path": "singlefile.html",
+        "warc_path": "warc/",
+        "wget_path": "www.ai-crv.ca/accommodation.html"
+    },
+    "domain": "www.ai-crv.ca",
+    "extension": "",
+    "hash": "E045XJTEA8G8BR8JZBZD",
+    "history": {
+        "archive_org": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://web.archive.org/save/https://www.ai-crv.ca/accommodation"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:21:45.502907+00:00",
+                "index_texts": null,
+                "output": "https://web.archive.org/web/20251004192129/https://www.ai-crv.ca/accommodation",
+                "pwd": "/data/archive/1759604184.549463",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:21:26.361711+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "dom": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--dump-dom",
+                    "https://www.ai-crv.ca/accommodation"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:21:11.996179+00:00",
+                "index_texts": null,
+                "output": "output.html",
+                "pwd": "/data/archive/1759604184.549463",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:21:06.387264+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "favicon": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--output",
+                    "favicon.ico",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.google.com/s2/favicons?domain=www.ai-crv.ca"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:20:48.924437+00:00",
+                "index_texts": null,
+                "output": "favicon.ico",
+                "pwd": "/data/archive/1759604184.549463",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:20:46.629057+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "git": [],
+        "headers": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--head",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.ai-crv.ca/accommodation"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:20:49.061076+00:00",
+                "index_texts": null,
+                "output": "headers.json",
+                "pwd": "/data/archive/1759604184.549463",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:20:48.945517+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "htmltotext": [],
+        "media": [
+            {
+                "cmd": [
+                    "yt-dlp",
+                    "--write-description",
+                    "--write-info-json",
+                    "--write-annotations",
+                    "--write-thumbnail",
+                    "--no-call-home",
+                    "--write-sub",
+                    "--write-auto-subs",
+                    "--convert-subs=srt",
+                    "--yes-playlist",
+                    "--continue",
+                    "--no-abort-on-error",
+                    "--ignore-errors",
+                    "--geo-bypass",
+                    "--add-metadata",
+                    "--format=(bv*+ba/b)[filesize<=750m][filesize_approx<=?750m]/(bv*+ba/b)",
+                    "https://www.ai-crv.ca/accommodation"
+                ],
+                "cmd_version": "2024.12.13",
+                "end_ts": "2025-10-04T19:21:26.358471+00:00",
+                "index_texts": [],
+                "output": "media",
+                "pwd": "/data/archive/1759604184.549463",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:21:25.190461+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "mercury": [
+            {
+                "cmd": [
+                    "/app/node_modules/@postlight/parser/cli.js",
+                    "https://www.ai-crv.ca/accommodation"
+                ],
+                "cmd_version": "1.0.0",
+                "end_ts": "2025-10-04T19:21:25.177037+00:00",
+                "index_texts": null,
+                "output": "mercury",
+                "pwd": "/data/archive/1759604184.549463",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:21:23.976177+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "pdf": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--print-to-pdf",
+                    "https://www.ai-crv.ca/accommodation"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:21:03.674294+00:00",
+                "index_texts": null,
+                "output": "output.pdf",
+                "pwd": "/data/archive/1759604184.549463",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:21:00.562658+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "readability": [
+            {
+                "cmd": [
+                    "/app/node_modules/readability-extractor/readability-extractor",
+                    "/tmp/tmp2qqzwc9k",
+                    "https://www.ai-crv.ca/accommodation"
+                ],
+                "cmd_version": "0.0.11",
+                "end_ts": "2025-10-04T19:21:23.959906+00:00",
+                "index_texts": [
+                    "AccommodationWe are pleased to partner with UCalgary Accommodations and Events to offer convenient on-campus stays with comfortable rooms and modern amenities. Located at the University of Calgary, where the conference is being held, these accommodations provide an affordable and practical option for participants.Online booking instructionsMay 25-30, 2025Room RatesTwo Bedroom Dormitory Apartment, International House$129.00 night - Single/Double$129.00 night - Single/Double$169.00 night - Single/Double$129.00 night - Single/DoubleStandard Single Room, International HouseOne-Bedroom Suite, International HouseTwo Bedroom Dormitory Apartment, Yamnuska HallRates are subject to 6% Room Fee, 4% Alberta Tourism Levy and 5% Goods and Services Tax (total 15.54%).Parking\n\nOvernight parking rate is $12.00 per day, per vehicle. Please pay at the Front Desk prior to parking. License plate is required.\n\n\n\nChanges\n\nFor any questions about reservations, changes or cancellations, please contact us at stay@ucalgary.caUCalgary Accommodations and Events - Room DescriptionsTwo Bedroom Dormitory Apartments (International House)*\n\nOne double bed with a dresser, bookcase, armoire, desk and a chair in each bedroom with a lockable door \n\n\nNo TV\n\n\nSleeps up to 4 individuals per 2 bedroom apartment\n\n\nPrivate bathroom with shower, sink, and toilet\n\n\nBreakfast bar with sink, microwave, fridge.\n\n\nComplimentary Wi-Fi\n\n\nIn-building laundry ($)\n\n\nHousekeeping service every 5th day\n\nStandard Single Rooms (International House)*\n\nOne queen bed\n\n\nMini-fridge, Microwave, Keurig Coffee Maker (coffee)\n\n\nDesk with Chair\n\n\nNo TV\n\n\nComplimentary Wi-Fi\n\n\nComfortable for up to two people\n\n\nCampus recreation passes available for purchase at discounted rate\n\n\nHousekeeping service every 5th day\n\nOne Bedroom Suite (International House)*\n\nOne King bed in the bedroom\n\n\nLiving room with queen-size pull-out sofa\n\n\nSleeps up to 4 individuals\n\n\nDesk with chair\n\n\nFull wet bar including Minifridge, microwave and Keurig coffee maker\n\n\nWith their larger size, One Bedroom Suites are ideal for guests who require additional space\n\n\nCampus recreation passes available for purchase at discounted rate\n\n\nHousekeeping service every 5th day\n\nTwo Bedroom Dormitory Apartment (Yamnuska Hall)*\n\nOne double bed with a dresser, bookcase, armoire, desk and a chair in each bedroom with lockable door. No TV.\n\n\nSleeps 2 to 4 individuals\n\n\nPrivate bathroom with shower, sink, and toilet\n\n\nBreakfast bar with sink, microwave, fridge and breakfast table\n\n\nComplimentary Wi-Fi\n\n\nIn-building laundry ($)\n\n\nCampus recreation passes available for $5 each\n\n\nHousekeeping service every 5th day\n\n*Actual rooms may vary from pictures. Please see room descriptions for actual amenities. \n\n**We do provide 1 bath towel per person, linens, pillows, blankets and soap in all the rooms.Front Desk and Check-in Location\n\n@ International House / 169 University Gate NW / Calgary, AB T2N 1N4\n\n\u200b\n\nContact\n\nTelephone: 403-210-9200 / Email: stay@ucalgary.caReservationsCLICK HERE for online reservations. Please select the BOOK YOUR STAY- ACCOMMODATIONS tab, enter Booking Code CDNAI2025 and Apply Code in order to book these special rates.\n\n\n\nMinimum 2 night stay is required\n\n\nFirst night Room and Tax advanced payment is processed at time of booking to confirm the reservation.\n\n\nPlease book by April 25, 2025 to ensure availability\n\n\nIn case of changes and cancellations for your reservation, please e-mail at stay@ucalgary.ca\n\n\nCheck-in time: 4:00pm/ Check-out time: by 11:00am For technical issues please copy and paste this link into the brow\n\n\n\n\u200b\n\n\u200b\n\nFor technical issues please copy and paste this link into the browser of your choice: https://ucalgary.starrezhousing.com/StarRezConferenceX/Accommodation Suggestions\u200b\u200b\u200b\n\nWhile we do not have official hotel blocks reserved for the conference, there are several nearby options close to the University of Calgary. Attendees are encouraged to book accommodations directly with the hotel of their choice. The following are some examples of hotels within walking or short transit distance of campus:\u200b\n\n\u200b\n\nHilton Garden Inn Calgary Downtown\u00a0\u2013 711 4 St. SE Suite A, Calgary, AB\n\n\ud83d\ude8c Approx. 30 minutes by bus\nConference attendees are eligible for a discounted rate at this hotel. To access the discount:\n\n\n\nVisit the Hilton booking page.\n\n\nSelect \u201cSpecial Rates.\u201d\n\n\nUnder the \u201cCorporate Account\u201d box, enter the code 3252378.\nThe discounted rate will be applied at the time of booking.\n\n\n\n\u200b\n\nAlt Hotel on University District\u00a0\u2013 482 Mclaurin St, NW, Calgary, AB\n\n\ud83d\udeb6\u200d\u2642\ufe0f Approx. 15 minutes on foot\n\ud83d\ude8c Approx. 15 minutes by bus\n\n\u200b\n\nBest Western Plus Village Park Inn Calgary\u00a0\u2013 1804 Crowchild Trail Northwest, Calgary, AB\n\n\u200b\ud83d\udeb6\u200d\u2642\ufe0f Approx. 40 minutes on foot\n\ud83d\ude8c Approx. 20 minutes by bus"
+                ],
+                "output": "readability",
+                "pwd": "/data/archive/1759604184.549463",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:21:23.387984+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "screenshot": [
+            {
+                "cmd": [
+                    "/usr/bin/chromium-browser",
+                    "--headless=new",
+                    "--no-sandbox",
+                    "--no-zygote",
+                    "--disable-dev-shm-usage",
+                    "--disable-software-rasterizer",
+                    "--run-all-compositor-stages-before-draw",
+                    "--hide-scrollbars",
+                    "--window-size=1440,2000",
+                    "--autoplay-policy=no-user-gesture-required",
+                    "--no-first-run",
+                    "--use-fake-ui-for-media-stream",
+                    "--use-fake-device-for-media-stream",
+                    "--disable-sync",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)",
+                    "--window-size=1440,2000",
+                    "--screenshot",
+                    "https://www.ai-crv.ca/accommodation"
+                ],
+                "cmd_version": "Chromium 131.0.6778.33",
+                "end_ts": "2025-10-04T19:21:06.384392+00:00",
+                "index_texts": null,
+                "output": "screenshot.png",
+                "pwd": "/data/archive/1759604184.549463",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:21:03.678170+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "singlefile": [
+            {
+                "cmd": [
+                    "/app/node_modules/single-file-cli/single-file",
+                    "--browser-executable-path=chromium-browser",
+                    "--browser-args=[\\\"--headless=new\\\", \\\"--no-sandbox\\\", \\\"--no-zygote\\\", \\\"--disable-dev-shm-usage\\\", \\\"--disable-software-rasterizer\\\", \\\"--run-all-compositor-stages-before-draw\\\", \\\"--hide-scrollbars\\\", \\\"--window-size=1440,2000\\\", \\\"--autoplay-policy=no-user-gesture-required\\\", \\\"--no-first-run\\\", \\\"--use-fake-ui-for-media-stream\\\", \\\"--use-fake-device-for-media-stream\\\", \\\"--disable-sync\\\", \\\"--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/)\\\", \\\"--window-size=1440,2000\\\"]",
+                    "https://www.ai-crv.ca/accommodation",
+                    "singlefile.html"
+                ],
+                "cmd_version": "1.1.54",
+                "end_ts": "2025-10-04T19:21:00.557909+00:00",
+                "index_texts": null,
+                "output": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549463/singlefile.html'",
+                "pwd": "/data/archive/1759604184.549463",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:20:49.064990+00:00",
+                "status": "failed"
+            }
+        ],
+        "title": [
+            {
+                "cmd": [
+                    "curl",
+                    "--silent",
+                    "--location",
+                    "--compressed",
+                    "--max-time",
+                    "60",
+                    "--user-agent",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) curl/curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                    "https://www.ai-crv.ca/accommodation"
+                ],
+                "cmd_version": "curl 8.10.1 (aarch64-unknown-linux-gnu)",
+                "end_ts": "2025-10-04T19:21:23.384874+00:00",
+                "index_texts": null,
+                "output": "Accommodation | Canadian AI Conferen",
+                "pwd": "/data/archive/1759604184.549463",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:21:23.373891+00:00",
+                "status": "succeeded"
+            }
+        ],
+        "wget": [
+            {
+                "cmd": [
+                    "wget",
+                    "--no-verbose",
+                    "--adjust-extension",
+                    "--convert-links",
+                    "--force-directories",
+                    "--backup-converted",
+                    "--span-hosts",
+                    "--no-parent",
+                    "-e",
+                    "robots=off",
+                    "--timeout=60",
+                    "--restrict-file-names=windows",
+                    "--warc-file=/data/archive/1759604184.549463/warc/1759605672",
+                    "--page-requisites",
+                    "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 ArchiveBox/0.7.3 (+https://github.com/ArchiveBox/ArchiveBox/) wget/GNU Wget 1.21.3",
+                    "--compression=auto",
+                    "https://www.ai-crv.ca/accommodation"
+                ],
+                "cmd_version": "GNU Wget 1.21.3",
+                "end_ts": "2025-10-04T19:21:23.370213+00:00",
+                "index_texts": null,
+                "output": "www.ai-crv.ca/accommodation.html",
+                "pwd": "/data/archive/1759604184.549463",
+                "schema": "ArchiveResult",
+                "start_ts": "2025-10-04T19:21:12.000355+00:00",
+                "status": "succeeded"
+            }
+        ]
+    },
+    "icons": null,
+    "is_archived": true,
+    "is_static": false,
+    "latest": {
+        "archive_org": "https://web.archive.org/web/20251004192129/https://www.ai-crv.ca/accommodation",
+        "dom": "output.html",
+        "favicon": "favicon.ico",
+        "git": null,
+        "media": "media",
+        "pdf": "output.pdf",
+        "screenshot": "screenshot.png",
+        "singlefile": "PermissionError: [Errno 1] Operation not permitted: '/data/archive/1759604184.549463/singlefile.html'",
+        "title": "Accommodation | Canadian AI Conferen",
+        "warc": null,
+        "wget": "www.ai-crv.ca/accommodation.html"
+    },
+    "link_dir": "/data/archive/1759604184.549463",
+    "newest_archive_date": "2025-10-04T19:21:26.361711+00:00",
+    "num_failures": 1,
+    "num_outputs": 11,
+    "oldest_archive_date": "2025-10-04T19:20:46.629057+00:00",
+    "path": "/accommodation",
+    "schema": "Link",
+    "scheme": "https",
+    "snapshot_id": "994eb4aa-0f22-418e-bde8-c3c0f5d83593",
+    "sources": [
+        "/data/sources/1759604183.819294-crawl-www.ai-crv.ca.txt"
+    ],
+    "tags": ",Canadian AI and Robots & Vision Conference 2025",
+    "tags_str": "Canadian AI and Robots & Vision Conference 2025",
+    "timestamp": "1759604184.549463",
+    "title": "Accommodation | Canadian AI Conferen",
+    "updated": "2025-10-07T00:01:43.208577+00:00",
+    "updated_date": "2025-10-07 00:01",
+    "url": "https://www.ai-crv.ca/accommodation"
+}
