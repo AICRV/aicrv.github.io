@@ -73,6 +73,8 @@ conference:
     links:
       - name: Call for Workshops
         relative_url: /workshops/
+      - name: Call for Nectar Track
+        relative_url: /nectar-track/
       - name: Program
         relative_url: /program/
       - name: Talks
