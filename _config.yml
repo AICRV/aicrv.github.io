@@ -75,10 +75,16 @@ conference:
       url: 'https://aicrv.github.io'
     breakpoint: md
     links:
-      - name: Call for Workshops
-        relative_url: /workshops/
-      - name: Call for Nectar Track
-        relative_url: /nectar-track/
+      - name: Calls for Participation
+        menu:
+          - name: Call for Workshops
+            relative_url: /calls/workshops/
+          - name: Call for Nectar Track
+            relative_url: /calls/nectar-track/
+          - name: Call for Papers (CRV)
+            relative_url: /calls/papers-crv/
+          - name: Call for Papers (AI)
+            relative_url: https://www.caiac.ca/en/conferences/canadianai-2026/call-papers
       - name: Program
         relative_url: /program/
       - name: Talks
