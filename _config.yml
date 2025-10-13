@@ -124,12 +124,12 @@ conference:
         absolute_url: ''
 
   # Information boxes
-  info_bars:
-    - title: The Call for Workshops is now Live!
-      color: primary
-      main_only: true
-      text: |
-        See [here](workshops/) for details!
+#  info_bars:
+#    - title: The Calls for Workshops is now Live!
+#      color: primary
+#      main_only: true
+#      text: |
+#        See [here](workshops/) for details!
  #   - text: This is just some random content for demonstration purposes.
  #     color: warning
  #     pages_only: true
