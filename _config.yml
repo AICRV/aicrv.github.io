@@ -37,6 +37,9 @@ collections:
   rooms:
     output: true
     permalink: /:collection/:title/
+  committee:
+    output: true
+    permalink: /:collection/:title/
 
 defaults:
   - scope:
@@ -54,6 +57,11 @@ defaults:
       type: rooms
     values:
       layout: room
+  - scope:
+      path: ""
+      type: committee
+    values:
+      layout: committee
 
 
 conference:
@@ -93,6 +101,8 @@ conference:
         relative_url: /speakers/
       - name: Location
         relative_url: /location/
+      - name: Committee
+        relative_url: /committee/
       - name: Previous Editions
         menu:
           - name: 2026 (current)
@@ -167,6 +177,9 @@ conference:
 
   speakers:
     # Show first and last name
+    show_firstname: true
+
+  committee:
     show_firstname: true
 
   location:
