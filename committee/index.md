@@ -39,6 +39,18 @@ Jodrey School of Computer Science, Acadia University
 
 ---
 
+## CRV Program Chairs
+
+[**Katie Ovens**](https://klovens.github.io/)
+
+University of Calgary
+
+[**Reza Faieghi**](https://www.torontomu.ca/aerospace/people/faculty/reza-faieghi/)
+
+Toronto Metropolitan University
+
+
+
 ## Graduate Student Symposium Track Chairs
 
 To be determined.
