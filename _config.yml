@@ -93,6 +93,8 @@ conference:
             relative_url: /calls/papers-crv/
           - name: Call for Papers (AI)
             relative_url: https://www.caiac.ca/en/conferences/canadianai-2026/call-papers
+          - name: Call for Demos
+            relative_url: /calls/demos/
       - name: Program
         relative_url: /program/
       - name: Talks
@@ -103,6 +105,8 @@ conference:
         relative_url: /location/
       - name: Committee
         relative_url: /committee/
+      - name: Sponsoring
+        relative_url: /sponsorship/
       - name: Previous Editions
         menu:
           - name: 2026 (current)
@@ -211,3 +215,7 @@ conference:
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true
+
+
+plugins:
+  - jekyll-redirect-from

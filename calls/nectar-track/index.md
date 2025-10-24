@@ -1,5 +1,7 @@
 ---
 layout: page
+redirect_from:
+  - /nectar-track/
 ---
 
 ## Call for Nectar Track Contributions at CAI \+ CRV
