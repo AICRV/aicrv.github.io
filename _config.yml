@@ -37,6 +37,9 @@ collections:
   rooms:
     output: true
     permalink: /:collection/:title/
+  committee:
+    output: true
+    permalink: /:collection/:title/
 
 defaults:
   - scope:
@@ -54,6 +57,11 @@ defaults:
       type: rooms
     values:
       layout: room
+  - scope:
+      path: ""
+      type: committee
+    values:
+      layout: committee
 
 
 conference:
@@ -75,10 +83,18 @@ conference:
       url: 'https://aicrv.github.io'
     breakpoint: md
     links:
-      - name: Call for Workshops
-        relative_url: /workshops/
-      - name: Call for Nectar Track
-        relative_url: /nectar-track/
+      - name: Calls for Participation
+        menu:
+          - name: Call for Workshops
+            relative_url: /calls/workshops/
+          - name: Call for Nectar Track
+            relative_url: /calls/nectar-track/
+          - name: Call for Papers (CRV)
+            relative_url: /calls/papers-crv/
+          - name: Call for Papers (AI)
+            relative_url: https://www.caiac.ca/en/conferences/canadianai-2026/call-papers
+          - name: Call for Demos
+            relative_url: /calls/demos/
       - name: Program
         relative_url: /program/
       - name: Talks
@@ -87,6 +103,10 @@ conference:
         relative_url: /speakers/
       - name: Location
         relative_url: /location/
+      - name: Committee
+        relative_url: /committee/
+      - name: Sponsoring
+        relative_url: /sponsorship/
       - name: Previous Editions
         menu:
           - name: 2026 (current)
@@ -118,12 +138,12 @@ conference:
         absolute_url: ''
 
   # Information boxes
-  info_bars:
-    - title: The Call for Workshops is now Live!
-      color: primary
-      main_only: true
-      text: |
-        See [here](workshops/) for details!
+#  info_bars:
+#    - title: The Calls for Workshops is now Live!
+#      color: primary
+#      main_only: true
+#      text: |
+#        See [here](workshops/) for details!
  #   - text: This is just some random content for demonstration purposes.
  #     color: warning
  #     pages_only: true
@@ -163,6 +183,9 @@ conference:
     # Show first and last name
     show_firstname: true
 
+  committee:
+    show_firstname: true
+
   location:
     # Disable links to locations
     hide: true
@@ -192,3 +215,7 @@ conference:
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true
+
+
+plugins:
+  - jekyll-redirect-from
