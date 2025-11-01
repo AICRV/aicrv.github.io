@@ -3,7 +3,7 @@ preposition: at
 description: >-
   The international AI, computer vision, and robotics held in Canada  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://aicrv.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 
 # theme: jekyll-theme-conference
 
