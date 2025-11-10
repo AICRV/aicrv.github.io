@@ -12,6 +12,8 @@ We will accept papers on machine learning, natural language processing, robotics
 
 **Please complete this [form](https://forms.gle/zsF2Ggbi2tvbFLLx9) by the deadline to submit\!**
 
+If you have a demo, please submit to the [demo track](../demos/)!
+
 ### **1\. Spotlight Track on Recently Published and Accepted Papers**
 
 #### **Objective** 
@@ -20,7 +22,7 @@ This session showcases outstanding papers in AI (machine learning, NLP, robotics
 
 #### **Event Details**
 
-* Papers selected by the organizing committee will be featured as oral presentations.  
+* Papers selected by the organizing committee will be featured as oral presentations.
 * Authors will additionally have the option to bring posters to facilitate further discussion and interaction with the audience.  
 * Interactive Q&A sessions and dynamic poster discussions will actively engage students and participants.
 
@@ -33,16 +35,16 @@ Authors should complete this [**form**](https://forms.gle/zsF2Ggbi2tvbFLLx9) and
 #### **Objective** 
 (i) present preliminary ideas, (ii) share hurdles and lessons learned, (iii) propose bold research directions, and (iv) receive feedback while engaging with peers, mentors, and industry.
 
-A mixed poster-and-demo session for students and early-stage researchers to present preliminary ideas, share hurdles, suggest brave new directions, and share learned insights from past and ongoing projects as well as gain valuable feedback, and engage with peers, mentors, and industry professionals. This initiative fosters innovation and professional growth for the next generation of researchers.
+A  poster session for students and early-stage researchers to present preliminary ideas, share hurdles, suggest brave new directions, and share learned insights from past and ongoing projects as well as gain valuable feedback, and engage with peers, mentors, and industry professionals. This initiative fosters innovation and professional growth for the next generation of researchers.
 
 #### **Event Details**
 
-* Selected participants will present their ideas during a dedicated posters and demos session, interacting with senior researchers and industry representatives.  
+* Selected participants will present their ideas during a dedicated poster session, interacting with senior researchers and industry representatives.  
 * Each presenter may be paired with a mentor for personalized feedback.
 
 #### **How to Apply**
 
-Submit the [**form**](https://forms.gle/zsF2Ggbi2tvbFLLx9) with a one-page abstract (optional second page for figures; references excluded) and an optional video (required for demos) by the deadline. Evaluation criteria: originality, feasibility, and potential impact. All presenters must participate in person with posters and/or demos at Canadian AI or CRV 2026\.
+Submit the [**form**](https://forms.gle/zsF2Ggbi2tvbFLLx9) with a one-page abstract (optional second page for figures; references excluded) and an optional video by the deadline. Evaluation criteria: originality, feasibility, and potential impact. All presenters must participate in person with posters at Canadian AI or CRV 2026\.
 
 ### **Important Dates**
 
