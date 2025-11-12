@@ -38,7 +38,7 @@ Please submit the following through our online form:
 * **Final video validation:** April 24, 2026  
 * **AI/CRV 2026 Conference:** May 25 \- 28, 2026
 
-Note: For late breaking demos (after the Feb 3th deadline), an option is to submit to the nectar track (link to the nectar track) which accepts submission up to March 30th.
+Note: For late breaking demos (after the Feb 3th deadline), an option is to submit to the [nectar track](../nectar-track/)  which accepts submission up to March 30th.
 
 ## **Submission Link**
 
@@ -46,5 +46,5 @@ Note: For late breaking demos (after the Feb 3th deadline), an option is to subm
 
 For any questions, please contact the Demo Chair:
 
-Alexandre Girard  
-alexandre.girard2@usherbrooke.ca  
+Alexandre Girard
+alexandre.girard2@usherbrooke.ca
