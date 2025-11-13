@@ -4,4 +4,4 @@ layout: location
 
 The conference will take place at Simon Fraser University. 
 
-More details coming soon...
+![SFU map](../assets/img/sfu-map.png)

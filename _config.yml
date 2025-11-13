@@ -188,22 +188,23 @@ conference:
 
   location:
     # Disable links to locations
-    hide: true
+    hide: false
     # URL of location / room overview page
     url: '/location'
     # Main page title shown on location/room navigation bar
     navbar_title: 'Location'
     # Show map on location main page.  Set `map: false` if you don't want to
     # display it.
-    map:
-      # Initial map center point
-      home_coord: 49.2791, -122.9202
-      # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
-      # The following do match the Bootstrap design not too badly:
-      #   - Thunderforest.Neighbourhood
-      #   - Esri.WorldTopoMap
-      map_provider: "OpenStreetMap.Mapnik"
-      default_zoom: 17
+    map: false
+    #map:
+    #  # Initial map center point
+    #  home_coord: 49.2791, -122.9202
+    #  # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+    #  # The following do match the Bootstrap design not too badly:
+    #  #   - Thunderforest.Neighbourhood
+    #  #   - Esri.WorldTopoMap
+    #  map_provider: "OpenStreetMap.Mapnik"
+    #  default_zoom: 17
 
 
   program:

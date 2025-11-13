@@ -64,7 +64,12 @@
 
       {% endif %}
     {% endfor %}
-  {% endfor %}
+        {% endfor %}
+
+          {% if site.conference.location.map %}
+    <div id="map" class="mt-4 mb-3"></div>
+  {% endif %}
+
 
   {%- include partials/footer.html -%}
 {%- endunless -%}
