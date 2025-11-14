@@ -77,10 +77,10 @@ conference:
 
   # Navigation bar
   navigation:
-    logo:
-      name: Canadian Conference on AI, CV & Robotics
-      # img: ''
-      url: 'https://aicrv.github.io'
+#    logo:
+#      name: Canadian Conference on AI, CV & Robotics
+#      # img: ''
+#      url: 'https://aicrv.github.io'
     breakpoint: md
     links:
       - name: Calls for Participation
