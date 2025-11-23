@@ -47,4 +47,4 @@ Note: For late breaking demos (after the Feb 3th deadline), an option is to subm
 For any questions, please contact the Demo Chair:
 
 Alexandre Girard
-alexandre.girard2@usherbrooke.ca
+aicrv2026demos@googlegroups.com
