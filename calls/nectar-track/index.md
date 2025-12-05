@@ -48,8 +48,8 @@ Submit the [**form**](https://forms.gle/zsF2Ggbi2tvbFLLx9) with a one-page abstr
 
 ### **Important Dates**
 
-* Round 1 Deadline: December 5, 2025  
-* Round 1 Decisions: December 19, 2025  
+* Round 1 Deadline: ~~December 5~~ December 15, 2025
+* Round 1 Decisions: ~~December 19~~ January 5, 2025
 * Round 2 Deadline: March 30, 2026  
 * Round 2 Decisions: April 3, 2026
 
