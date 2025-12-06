@@ -8,7 +8,7 @@ redirect_from:
 
 The **Canadian AI Conference (CAI)** and **Conference on Robotics and Vision (CRV),** scheduled to take place jointly at **SFU Burnaby (Vancouver BC)** from **May 25–29, 2026**, invite you to participate in the Nectar Track Sessions. These sessions aim to bring together participants across all career stages to foster collaboration, innovation, and professional growth while spotlighting emerging ideas and exceptional research in AI related fields. We welcome your contributions to two unique opportunities designed to engage and inspire the Canadian AI community. Participants without papers at Canadian AI/CRV 2026 will be given priority for the Nectar Track.
 
-We will accept papers on machine learning, natural language processing, robotics, and computer vision to two tracks: the spotlight track for recently published and accepted work, and the exploration edge track for presenting preliminary work. There will be two application rounds: **Dec. 5 2025** and **Mar. 30 2026**. Submission is lightweight:
+We will accept papers on machine learning, natural language processing, robotics, and computer vision to two tracks: the spotlight track for recently published and accepted work, and the exploration edge track for presenting preliminary work. There will be two application rounds: **Dec. 15 2025** and **Mar. 30 2026**. Submission is lightweight:
 
 **Please complete this [form](https://forms.gle/zsF2Ggbi2tvbFLLx9) by the deadline to submit\!**
 
