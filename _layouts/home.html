@@ -1,112 +1,208 @@
 {% include partials/header.html %}
 
-  <div class="jumbotron">
-    <h1 class="display-3 text-break">
-      {% if site.conference.main.logo.img %}
-        <img src="{{ site.conference.main.logo.img | prepend: '/assets/images/' | prepend: site.baseurl }}" class="w-75 d-none d-md-inline" alt="{{ site.title }}" />
-        <img src="{{ site.conference.main.logo.img | prepend: '/assets/images/' | prepend: site.baseurl }}" class="w-100 d-md-none" alt="{{ site.title }}" />
-      {% elsif page.title %}
-        {{ page.title }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </h1>
-    {% if site.description != none %}
-      <p class="lead">
-        {{ site.description | markdownify | replace: '<p>', '<p class="lead">' }}
-      </p>
-    {% endif %}
+  <section class="announcement-bar full-bleed">
+    <div class="container announcement-inner">
+      <span class="announcement-text">Early Registration Deadline Approaching in</span>
+      <div class="countdown" data-countdown="2026-03-01T00:00:00Z">
+        <span class="countdown-item">
+          <span class="countdown-value" data-part="days">00</span>
+          <span class="countdown-label">DD</span>
+        </span>
+        <span class="countdown-item">
+          <span class="countdown-value" data-part="hours">00</span>
+          <span class="countdown-label">HH</span>
+        </span>
+        <span class="countdown-item">
+          <span class="countdown-value" data-part="minutes">00</span>
+          <span class="countdown-label">MM</span>
+        </span>
+        <span class="countdown-item">
+          <span class="countdown-value" data-part="seconds">00</span>
+          <span class="countdown-label">SS</span>
+        </span>
+      </div>
+    </div>
+  </section>
 
-    <hr class="my-4">
+  <section class="hero full-bleed">
+    <div class="hero-media" role="img" aria-label="Conference venue in Vancouver"></div>
+    <div class="container hero-inner">
+      <div class="hero-card reveal" style="--delay: 80ms;">
+        <p class="hero-kicker">Canadian AI/Robots &amp; Vision Conference 2026</p>
+        <h1>Canadian AI/Robots &amp; Vision Conference 2026</h1>
+        <p class="hero-meta">May 25-29, 2026 | Metro, Vancouver</p>
+        <div class="hero-actions">
+          <a class="btn btn-solid" href="#registration">Register</a>
+          <a class="btn btn-ghost" href="#program">View Schedule</a>
+        </div>
+      </div>
+    </div>
+  </section>
 
-    {{ content }}
+  <section class="quick-links">
+    <div class="container quick-links-inner reveal" style="--delay: 140ms;">
+      <a class="pill-link" href="{{ site.baseurl }}/committee/">Conference Organizers</a>
+      <a class="pill-link" href="{{ site.baseurl }}/committee/">Workshop Organizers</a>
+    </div>
+  </section>
 
-    {% if site.conference.main.links %}
-      <div class="lead d-print-none">
-      {% assign btn_default = 'btn btn-outline-primary btn-lg mt-2 ml-1' %}
-      {% for link in site.conference.main.links %}
+  <section class="section welcome" id="welcome">
+    <div class="container section-grid">
+      <div>
+        <h2>Welcome to Canadian AI/Robots &amp; Vision Conference 2026</h2>
+      </div>
+      <div class="section-body">
+        {{ content }}
+      </div>
+    </div>
+  </section>
 
-        {% if link.menu %}
-          <div class="dropdown d-inline">
-            <a class="{{ btn_default }} dropdown-toggle" href="#" role="button" id="main-dropdown{{ forloop.index0 }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              {{ link.name }}
-            </a>
-            <div class="dropdown-menu" aria-labelledby="main-dropdown{{ forloop.index0 }}">
-              {% assign parent_link = link %}
-              {% for link in parent_link.menu %}
-                {% assign link_styleclass = "dropdown-item" %}
-                {% include partials/get_link.html %}
-                {{ link_tag }}
-                  {{ link.name }}
-                </a>
-              {% endfor %}
-            </div>
+  <section class="section venue" id="venue">
+    <div class="container section-grid section-grid--reverse">
+      <div class="section-body">
+        <h2>Conference Venue</h2>
+        <p>Join us at Simon Fraser University with sessions across the Diamond Alumni Centre, Halpern Centre, and the Student Union Building.</p>
+        <a class="btn btn-dark btn-sm" href="https://www.sfu.ca/">Open in Map</a>
+      </div>
+      <div class="venue-card">
+        <img src="{{ site.baseurl }}/assets/img/sfu-map.png" alt="Map of Simon Fraser University campus" />
+        <div class="venue-legend">Diamond Alumni Centre | Halpern Centre | Student Union Building</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section news" id="announcement">
+    <div class="container">
+      <div class="section-head">
+        <h2>News and Announcement</h2>
+        <p>Fresh updates from the organizing committee, speakers, and workshops.</p>
+      </div>
+      <div class="news-grid">
+        <article class="news-card news-card--large" style="--card-gradient: linear-gradient(140deg, #1f2238 0%, #3f4372 55%, #00a8e8 100%);">
+          <div class="news-content">
+            <span class="news-tag">Announcement</span>
+            <h3>Keynotes Announced</h3>
           </div>
+        </article>
+        <article class="news-card" style="--card-gradient: linear-gradient(140deg, #3f4372 0%, #00a8e8 100%);">
+          <div class="news-content">
+            <span class="news-tag">Update</span>
+            <h3>Student Travel Awards</h3>
+          </div>
+        </article>
+        <article class="news-card" style="--card-gradient: linear-gradient(140deg, #053225 0%, #1f6b5d 100%);">
+          <div class="news-content">
+            <span class="news-tag">Workshop</span>
+            <h3>New Workshop Tracks</h3>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
 
-        {% elsif link.live %}
-          {%- include partials/get_live_timestamps.html -%}
+  <section class="section program" id="program">
+    <div class="container section-grid">
+      <div class="program-grid">
+        <article class="program-card" style="--card-gradient: linear-gradient(145deg, #1b1f34 0%, #3f4372 100%);">
+          <h3>Canadian AI Conference</h3>
+          <p>Talks | DD Day, YYYY</p>
+        </article>
+        <article class="program-card" style="--card-gradient: linear-gradient(145deg, #00314e 0%, #00a8e8 100%);">
+          <h3>Generative AI in Education</h3>
+          <p>Workshop | DD Day, YYYY</p>
+        </article>
+        <article class="program-card" style="--card-gradient: linear-gradient(145deg, #4a1d2f 0%, #c0315f 100%);">
+          <h3>LLM x Applications</h3>
+          <p>Workshop | DD Day, YYYY</p>
+        </article>
+        <article class="program-card" style="--card-gradient: linear-gradient(145deg, #1b2b21 0%, #053225 100%);">
+          <h3>Explainability in ML</h3>
+          <p>Workshop | DD Day, YYYY</p>
+        </article>
+        <article class="program-card" style="--card-gradient: linear-gradient(145deg, #27334f 0%, #3f4372 100%);">
+          <h3>Conference on Robots &amp; Vision</h3>
+          <p>Talks | DD Day, YYYY</p>
+        </article>
+        <article class="program-card" style="--card-gradient: linear-gradient(145deg, #0b6aa0 0%, #00a8e8 100%);">
+          <h3>AI in Agriculture</h3>
+          <p>Workshop | DD Day, YYYY</p>
+        </article>
+      </div>
+      <div class="section-body">
+        <h2>Program</h2>
+        <p>From keynote sessions and workshops to track-specific talks, the program spans AI, robotics, and vision with a focus on real-world impact.</p>
+        <a class="btn btn-outline" href="{{ site.baseurl }}/program/">Detailed Program</a>
+      </div>
+    </div>
+  </section>
 
-          {%- if link.name == blank -%}
-            {%- assign link_name = site.data.lang[site.conference.lang].live.stream | default: "Live Stream" -%}
-          {%- elsif link.name -%}
-            {%- assign link_name = link.name -%}
-          {%- else -%}
-            {%- assign link_name = nil -%}
-          {%- endif -%}
+  <section class="section speakers" id="speakers">
+    <div class="container section-grid">
+      <div>
+        <h2>Speakers</h2>
+        <p>Meet leaders in AI, computer vision, and robotics from academia, industry, and public research labs.</p>
+      </div>
+      <div class="speaker-grid">
+        <div class="speaker-card">
+          <div class="speaker-photo"></div>
+          <h3>Member Name</h3>
+          <p>Affiliation</p>
+        </div>
+        <div class="speaker-card">
+          <div class="speaker-photo"></div>
+          <h3>Member Name</h3>
+          <p>Affiliation</p>
+        </div>
+        <div class="speaker-card">
+          <div class="speaker-photo"></div>
+          <h3>Member Name</h3>
+          <p>Affiliation</p>
+        </div>
+        <div class="speaker-card">
+          <div class="speaker-photo"></div>
+          <h3>Member Name</h3>
+          <p>Affiliation</p>
+        </div>
+        <div class="speaker-card">
+          <div class="speaker-photo"></div>
+          <h3>Member Name</h3>
+          <p>Affiliation</p>
+        </div>
+        <div class="speaker-card">
+          <div class="speaker-photo"></div>
+          <h3>Member Name</h3>
+          <p>Affiliation</p>
+        </div>
+      </div>
+    </div>
+  </section>
 
-          {%- if link_name -%}
-            <span class="live-show d-none" data-start="{{ live_starts }}" data-end="{{ live_ends }}">
-              {% if site.conference.live.streaming.enable %}
-                <a
-                  class="{{ btn_default }}"
-                  title="{{ link_name }}"
-                {%- if site.conference.live.streaming.external %}
-                  href="{{ site.conference.live.streaming.external }}"
-                {%- else %}
-                  data-toggle="modal" data-target="#stream-modal" data-room="" href="#"
-                {%- endif -%}
-                >
-              {% else %}
-                {% assign link_styleclass = btn_default %}
-                {% include partials/get_link.html %}
-                {{ link_tag }}
-              {% endif %}
+  <section class="section sponsors full-bleed" id="sponsors">
+    <div class="container sponsors-inner">
+      <h2>Meet Our Sponsor Partners</h2>
+      <div class="sponsor-grid">
+        <div class="sponsor-card"></div>
+        <div class="sponsor-card"></div>
+        <div class="sponsor-card"></div>
+        <div class="sponsor-card"></div>
+        <div class="sponsor-card"></div>
+        <div class="sponsor-card"></div>
+        <div class="sponsor-card"></div>
+        <div class="sponsor-card"></div>
+        <div class="sponsor-card"></div>
+      </div>
+      <a class="sponsor-link" href="{{ site.baseurl }}/sponsorship/">Become a Sponsor &gt;</a>
+    </div>
+  </section>
 
-                {{ link_name }}
-
-                <span class="live-button badge badge-dark font-weight-normal text-left">
-                  <object data="{{ site.baseurl }}/assets/icons/live.svg" type="image/svg+xml">!</object>
-                  {{ site.data.lang[site.conference.lang].live.live | default: "Live" }}
-                </span>
-              </a>
-            </span>
-          {%- endif -%}
-
-          {%- if link.name_inactive == blank -%}
-            {%- assign link_name_inactive = site.data.lang[site.conference.lang].live.stream | default: "Live Stream" -%}
-          {%- elsif link.name_inactive -%}
-            {%- assign link_name_inactive = link.name_inactive -%}
-          {%- else -%}
-            {%- assign link_name_inactive = nil -%}
-          {%- endif -%}
-
-          {%- if link_name_inactive -%}
-            <span class="live-hide {{ btn_default }} disabled" data-start="{{ live_starts }}" data-end="{{ live_ends }}">
-              {{ link_name_inactive }}
-            </span>
-          {%- endif -%}
-
-        {% else %}
-          {% assign link_styleclass = btn_default %}
-          {% include partials/get_link.html %}
-          {{ link_tag }}
-            {{ link.name }}
-          </a>
-        {% endif %}
-      {% endfor %}
-      </p>
-    {% endif %}
-
-  </div>
+  <section class="section registration" id="registration">
+    <div class="container registration-card">
+      <div>
+        <h2>Registration</h2>
+        <p>Early registration is open with discounted rates for students and members.</p>
+      </div>
+      <a class="btn btn-solid" href="#">Register Now</a>
+    </div>
+  </section>
 
 {% include partials/footer.html %}

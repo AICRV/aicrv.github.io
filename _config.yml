@@ -83,36 +83,38 @@ conference:
 #      url: 'https://aicrv.github.io'
     breakpoint: md
     links:
-      - name: Calls for Participation
+      - name: Attending AI/CRV
         menu:
-          - name: Call for Workshops
+          - name: Schedule
+            relative_url: /#program
+          - name: Venue
+            relative_url: /#venue
+          - name: Registration
+            relative_url: /#registration
+          - name: Announcement
+            relative_url: /#announcement
+      - name: Calls for Contributions
+        menu:
+          - name: Calls for Papers
+            relative_url: /calls/papers-ai/
+          - name: Calls for Workshops
             relative_url: /calls/workshops/
-          - name: Call for Nectar Track
+          - name: Calls for Nectar Track Contributions
             relative_url: /calls/nectar-track/
-          - name: Call for Papers (CRV)
-            relative_url: /calls/papers-crv/
-          - name: Call for Papers (AI)
-            relative_url: https://www.caiac.ca/en/conferences/canadianai-2026/call-papers
-          - name: Call for Demos
+          - name: Calls for Demos
             relative_url: /calls/demos/
       - name: Program
         relative_url: /program/
-      - name: Talks
-        relative_url: /talks/
-      - name: Speakers
-        relative_url: /speakers/
-      - name: Location
-        relative_url: /location/
-      - name: Committee
-        relative_url: /committee/
-      - name: Sponsoring
-        relative_url: /sponsorship/
-      - name: Previous Editions
+      - name: Organizers
         menu:
-          - name: 2026 (current)
-            disabled: true
-          - name: 2025
-            relative_url: /_archives/2025/1759604183.819294/www.ai-crv.ca/
+          - name: Conference Organizers
+            relative_url: /committee/
+          - name: Workshop Organizers
+            relative_url: /committee/
+      - name: Sponsorship
+        relative_url: /sponsorship/
+      - name: Accommodation
+        relative_url: /location/
 
   # Link Preview for Sharing
   link_preview:
