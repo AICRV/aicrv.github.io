@@ -42,7 +42,7 @@ Note: For late breaking demos (after the Feb 3th deadline), an option is to subm
 
 ## **Submission Link**
 
-[https://forms.gle/Jfvx4K7ogMJExoWg6](https://forms.gle/Jfvx4K7ogMJExoWg6)	
+[https://forms.gle/Jfvx4K7ogMJExoWg6](https://forms.gle/Mr6WTDdcAy5e5mrr8)	
 
 For any questions, please contact the Demo Chair:
 
