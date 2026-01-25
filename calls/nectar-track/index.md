@@ -2,8 +2,8 @@
 layout: calls
 hero_title: Canadian AI/Robots & Vision Conference 2026
 hero_subtitle: Calls for Nectar Track Contributions
-hero_image: https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1800&q=80
-hero_alt: Researchers working together in a collaborative space
+hero_image: /assets/img/P4_1_101201.jpg
+hero_alt: Students collaborating in a meeting room
 redirect_from:
   - /nectar-track/
 ---

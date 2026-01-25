@@ -114,7 +114,7 @@ conference:
       - name: Sponsorship
         relative_url: /sponsorship/
       - name: Accommodation
-        relative_url: /location/
+        relative_url: /accommodation/
 
   # Link Preview for Sharing
   link_preview:

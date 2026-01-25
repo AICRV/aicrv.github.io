@@ -2,8 +2,8 @@
 layout: calls
 hero_title: Canadian AI/Robots & Vision Conference 2026
 hero_subtitle: Calls for Papers
-hero_image: https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1800&q=80
-hero_alt: Researchers collaborating around a laptop
+hero_image: /assets/img/P2_1_100945.jpg
+hero_alt: Students collaborating around laptops
 ---
 
 <div class="calls-row">

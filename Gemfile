@@ -4,4 +4,7 @@ source "https://rubygems.org"
 gemspec
 
 
-gem 'jekyll-redirect-from'
+gem 'bigdecimal'
+gem 'logger'
+gem "jekyll"
+gem "jekyll-redirect-from"

@@ -394,7 +394,6 @@ main.container {
 .hero-media {
   position: absolute;
   inset: 0;
-  background-image: linear-gradient(120deg, rgba(10, 14, 26, 0.2), rgba(10, 14, 26, 0.1)), url('https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?auto=format&fit=crop&w=1800&q=80');
   background-size: cover;
   background-position: center;
   filter: saturate(1.1);
@@ -406,24 +405,24 @@ main.container {
 }
 
 .hero-card {
-  max-width: 560px;
-  background: rgba(192, 49, 95, 0.75);
+  max-width: 400px;
+  background: rgba(192, 49, 95, 0.85);
   color: #ffffff;
-  padding: 32px 34px;
+  padding: 28px 30px;
   border-radius: 14px;
   box-shadow: 0 24px 50px rgba(0, 0, 0, 0.25);
 }
 
-.hero-kicker {
-  text-transform: uppercase;
-  font-size: 0.75rem;
-  letter-spacing: 0.1em;
+.hero-card h1 {
+  font-size: 1.75rem;
+  line-height: 1.25;
   margin-bottom: 12px;
 }
 
 .hero-meta {
   font-size: 1rem;
-  margin: 16px 0 24px;
+  margin: 0 0 20px;
+  line-height: 1.5;
 }
 
 .hero-actions {
@@ -496,6 +495,72 @@ main.container {
   color: #6b6f7b;
 }
 
+.venue-map-wrapper {
+  position: relative;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 20px 40px rgba(24, 24, 40, 0.12);
+}
+
+.venue-map-image {
+  width: 100%;
+  display: block;
+}
+
+.venue-markers {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.venue-marker {
+  position: absolute;
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  font-size: 0.75rem;
+  color: var(--aicrv-ink);
+  pointer-events: auto;
+}
+
+.marker-dot {
+  width: 12px;
+  height: 12px;
+  background: var(--aicrv-pink);
+  border-radius: 50%;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.marker-label {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-weight: 600;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  line-height: 1.3;
+}
+
+.venue-marker--diamond {
+  top: 15%;
+  right: 5%;
+}
+
+.venue-marker--halpern {
+  top: 40%;
+  right: 10%;
+}
+
+.venue-marker--diamond-aud {
+  bottom: 35%;
+  left: 35%;
+}
+
+.venue-marker--sub {
+  bottom: 30%;
+  left: 45%;
+}
+
 .section-head {
   margin-bottom: 28px;
   max-width: 720px;
@@ -534,6 +599,61 @@ main.container {
   border-radius: 999px;
 }
 
+.news-layout {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 32px;
+  align-items: start;
+}
+
+.news-featured h3 {
+  font-size: 1.25rem;
+  margin-bottom: 12px;
+  font-weight: 700;
+}
+
+.news-featured p {
+  color: #4b4f5e;
+  line-height: 1.7;
+  font-size: 0.95rem;
+}
+
+.news-cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.news-cards .news-image-card:first-child {
+  grid-row: span 2;
+}
+
+.news-image-card {
+  position: relative;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 12px 28px rgba(14, 17, 30, 0.12);
+}
+
+.news-image-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.news-image-card h4 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 16px;
+  margin: 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent);
+  color: #ffffff;
+  font-size: 1rem;
+}
+
 .program-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -554,6 +674,58 @@ main.container {
 
 .program-card h3 {
   font-size: 1.1rem;
+}
+
+.program-image-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+}
+
+.program-image-grid .program-image-card:first-child {
+  grid-column: span 1;
+  grid-row: span 2;
+}
+
+.program-image-card {
+  position: relative;
+  border-radius: 14px;
+  overflow: hidden;
+  aspect-ratio: 4/3;
+  box-shadow: 0 14px 28px rgba(14, 17, 30, 0.15);
+}
+
+.program-image-card:first-child {
+  aspect-ratio: auto;
+}
+
+.program-image-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.program-image-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 14px 16px;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.75), transparent);
+  color: #ffffff;
+}
+
+.program-image-overlay h3 {
+  font-size: 0.95rem;
+  margin: 0 0 4px;
+  font-weight: 600;
+}
+
+.program-image-overlay p {
+  margin: 0;
+  font-size: 0.8rem;
+  opacity: 0.85;
 }
 
 .speakers {
@@ -580,6 +752,42 @@ main.container {
   margin-bottom: 12px;
 }
 
+.speakers-header {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 32px;
+  margin-bottom: 32px;
+  align-items: start;
+}
+
+.speakers-header h2 {
+  margin-bottom: 0;
+}
+
+.speakers-description p {
+  color: #4b4f5e;
+  line-height: 1.7;
+  margin: 0;
+}
+
+.speaker-grid-full {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+}
+
+.speaker-card h3 {
+  font-size: 1rem;
+  margin-bottom: 4px;
+}
+
+.speaker-card p {
+  color: #6b6f7b;
+  font-size: 0.85rem;
+  margin: 0;
+  line-height: 1.5;
+}
+
 .sponsors {
   background: var(--aicrv-pink);
   color: #ffffff;
@@ -602,6 +810,11 @@ main.container {
   background: rgba(255, 255, 255, 0.9);
   border-radius: 12px;
   height: 90px;
+}
+
+.sponsor-cta {
+  text-align: right;
+  margin-top: 20px;
 }
 
 .sponsor-link {
@@ -719,12 +932,41 @@ main.container {
     grid-column: span 1;
   }
 
+  .news-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .news-cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .news-cards .news-image-card:first-child {
+    grid-row: span 1;
+  }
+
   .program-grid {
     grid-template-columns: 1fr;
   }
 
+  .program-image-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .program-image-grid .program-image-card:first-child {
+    grid-column: span 1;
+    grid-row: span 1;
+  }
+
   .speaker-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .speaker-grid-full {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .speakers-header {
+    grid-template-columns: 1fr;
   }
 
   .footer-grid {
@@ -766,6 +1008,18 @@ main.container {
   }
 
   .speaker-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .speaker-grid-full {
+    grid-template-columns: 1fr;
+  }
+
+  .news-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .program-image-grid {
     grid-template-columns: 1fr;
   }
 

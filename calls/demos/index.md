@@ -2,8 +2,8 @@
 layout: calls
 hero_title: Canadian AI/Robots & Vision Conference 2026
 hero_subtitle: Calls for Demos
-hero_image: https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1800&q=80
-hero_alt: Demo track hardware in action
+hero_image: /assets/img/P5_1_100910.jpg
+hero_alt: Students working with 3D printers in a lab
 ---
 
 <div class="calls-row">

@@ -2,8 +2,8 @@
 layout: calls
 hero_title: Canadian AI/Robots & Vision Conference 2026
 hero_subtitle: Calls for Workshops
-hero_image: https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1800&q=80
-hero_alt: Conference audience in a workshop session
+hero_image: /assets/img/P3_1_101085.jpg
+hero_alt: Conference attendees in lecture hall
 redirect_from:
   - /workshops/
 ---
