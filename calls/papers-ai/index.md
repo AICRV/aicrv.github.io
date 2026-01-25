@@ -19,7 +19,7 @@ hero_alt: Students collaborating around laptops
 <div class="calls-papers-grid">
   <div class="calls-card" id="canadian-ai">
     <div class="calls-card-media">
-      <img src="https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?auto=format&fit=crop&w=1200&q=80" alt="Conference attendees listening to a talk">
+      <img src="./assets/img/P2_2_1_101084.png" alt="Conference attendees listening to a talk">
     </div>
     <div class="calls-card-body">
       <h3>Canadian AI Conference</h3>
@@ -31,7 +31,7 @@ hero_alt: Students collaborating around laptops
 
   <div class="calls-card is-reverse" id="student-symposium">
     <div class="calls-card-media">
-      <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1200&q=80" alt="Students collaborating in a workshop setting">
+      <img src="./assets/img/P2_2_2_101206.png" alt="Students collaborating in a workshop setting">
     </div>
     <div class="calls-card-body">
       <h3>Canadian AI Conference</h3>
@@ -43,7 +43,7 @@ hero_alt: Students collaborating around laptops
 
   <div class="calls-card" id="crv">
     <div class="calls-card-media">
-      <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" alt="Robotics and vision hardware close-up">
+      <img src="./assets/img/P2_2_3_101215.png" alt="Robotics and vision hardware close-up">
     </div>
     <div class="calls-card-body">
       <h3>Conference on Robots &amp; Vision</h3>
