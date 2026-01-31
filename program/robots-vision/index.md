@@ -1,17 +1,16 @@
 ---
 layout: subpage
-title: Responsible AI
+title: Conference on Robots & Vision
 hero_title: Canadian AI/Robots & Vision Conference 2026
-hero_subtitle: Canadian AI Conference
-hero_image: /assets/img/P6_1_101084.jpg
-hero_alt: Audience listening to a presentation
-tabs_include: partials/program_tabs.html
+hero_subtitle: Conference on Robots & Vision
+hero_image: /assets/img/P8_1_101215.jpg
+hero_alt: Robotics lab equipment
 ---
 
 <section class="section">
   <div class="section-grid">
     <div>
-      <h2>Responsible AI</h2>
+      <h2>Conference on Robots &amp; Vision</h2>
     </div>
     <div class="section-body">
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>

@@ -1,0 +1,5 @@
+{% assign current_url = page.url %}
+<div class="calls-tab-row">
+  <a class="calls-tab{% if current_url == '/program/' or current_url contains '/program/responsible-ai' %} is-active{% endif %}" href="{{ site.baseurl }}/program/">Responsible AI</a>
+  <a class="calls-tab{% if current_url contains '/program/student-symposium' %} is-active{% endif %}" href="{{ site.baseurl }}/program/student-symposium/">Student Symposium</a>
+</div>

@@ -1,0 +1,8 @@
+{% assign active_tab = page.active_tab | default: "llm" %}
+<div class="calls-tab-row">
+  <a class="calls-tab{% if active_tab == 'llm' %} is-active{% endif %}" href="{{ site.baseurl }}/program/workshops/">LLM &amp; Applications</a>
+  <a class="calls-tab{% if active_tab == 'genai' %} is-active{% endif %}" href="{{ site.baseurl }}/program/workshops/">GenAI in Education</a>
+  <a class="calls-tab{% if active_tab == 'community' %} is-active{% endif %}" href="{{ site.baseurl }}/program/workshops/">Community and AI</a>
+  <a class="calls-tab{% if active_tab == 'explain' %} is-active{% endif %}" href="{{ site.baseurl }}/program/workshops/">Explain ability in ML</a>
+  <a class="calls-tab{% if active_tab == 'agriculture' %} is-active{% endif %}" href="{{ site.baseurl }}/program/workshops/">AI in Agriculture</a>
+</div>

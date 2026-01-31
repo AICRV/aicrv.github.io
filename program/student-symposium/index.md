@@ -1,17 +1,17 @@
 ---
 layout: subpage
-title: Responsible AI
+title: Student Symposium
 hero_title: Canadian AI/Robots & Vision Conference 2026
 hero_subtitle: Canadian AI Conference
-hero_image: /assets/img/P6_1_101084.jpg
-hero_alt: Audience listening to a presentation
+hero_image: /assets/img/P7_1_101206.jpg
+hero_alt: Students listening in a lecture hall
 tabs_include: partials/program_tabs.html
 ---
 
 <section class="section">
   <div class="section-grid">
     <div>
-      <h2>Responsible AI</h2>
+      <h2>Student Symposium</h2>
     </div>
     <div class="section-body">
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>

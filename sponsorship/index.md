@@ -5,13 +5,13 @@ layout: page
 <style>
 /* Sponsorship Page Styles */
 .sponsorship-page {
-  margin-top: -1rem;
+  /* margin-top: -1rem; */
 }
 
 /* Hero Section */
 .sponsorship-hero {
   position: relative;
-  min-height: 460px;
+  min-height: 640px;
   display: flex;
   align-items: center;
   overflow: hidden;

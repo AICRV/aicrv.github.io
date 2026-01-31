@@ -104,13 +104,21 @@ conference:
           - name: Calls for Demos
             relative_url: /calls/demos/
       - name: Program
-        relative_url: /program/
+        menu:
+          - name: Responsible AI
+            relative_url: /program/
+          - name: Student Symposium
+            relative_url: /program/student-symposium/
+          - name: Workshops
+            relative_url: /program/workshops/
+          - name: Conference on Robots & Vision
+            relative_url: /program/robots-vision/
       - name: Organizers
         menu:
           - name: Conference Organizers
             relative_url: /committee/
           - name: Workshop Organizers
-            relative_url: /committee/
+            relative_url: /committee/workshop-organizers/
       - name: Sponsorship
         relative_url: /sponsorship/
       - name: Accommodation

@@ -5,13 +5,13 @@ layout: page
 <style>
 /* Accommodation Page Styles */
 .accommodation-page {
-  margin-top: -1rem;
+  /* margin-top: -1rem; */
 }
 
 /* Hero Section */
 .accommodation-hero {
   position: relative;
-  min-height: 460px;
+  min-height: 640px;
   display: flex;
   align-items: center;
   overflow: hidden;
