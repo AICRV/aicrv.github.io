@@ -4,13 +4,12 @@
 {% assign hero_title = page.hero_title | default: "Canadian AI/Robots & Vision Conference 2026" %}
 {% assign hero_subtitle = page.hero_subtitle | default: "Calls for Contributions" %}
 
-<section class="calls-hero full-bleed" style="--hero-image: url('{{ hero_image }}');">
+<section class="calls-hero full-bleed aicrv-banner" style="--hero-image: url('{{ hero_image }}');">
   <div class="calls-hero-media" role="img" aria-label="{{ page.hero_alt | default: 'Conference scene' }}"></div>
-  <div class="container calls-hero-inner">
-    <div class="calls-hero-card reveal" style="--delay: 80ms;">
-      <h1>{{ hero_title }}</h1>
-      <p class="calls-hero-subtitle">{{ hero_subtitle }}</p>
-    </div>
+  <div class="aicrv-banner-panel" aria-hidden="true"></div>
+  <div class="aicrv-banner-text">
+    <h1>{{ hero_title }}</h1>
+    <p class="aicrv-banner-meta">{{ hero_subtitle }}</p>
   </div>
 </section>
 
