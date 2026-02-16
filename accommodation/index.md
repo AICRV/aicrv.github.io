@@ -8,54 +8,6 @@ layout: page
   /* margin-top: -1rem; */
 }
 
-/* Hero Section */
-.accommodation-hero {
-  position: relative;
-  min-height: 640px;
-  display: flex;
-  align-items: center;
-  overflow: hidden;
-}
-
-.accommodation-hero-media {
-  position: absolute;
-  inset: 0;
-  background-image: linear-gradient(120deg, rgba(10, 14, 26, 0.15), rgba(10, 14, 26, 0.08)), url('{{ site.baseurl }}/assets/img/P13_1_101210.jpg');
-  background-size: cover;
-  background-position: center;
-}
-
-.accommodation-hero-inner {
-  position: relative;
-  z-index: 1;
-  width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 24px;
-}
-
-.accommodation-hero-card {
-  max-width: 520px;
-  background: rgba(192, 49, 95, 0.82);
-  color: #ffffff;
-  padding: 32px 36px;
-  border-radius: 14px;
-  box-shadow: 0 24px 50px rgba(0, 0, 0, 0.25);
-}
-
-.accommodation-hero-card h1 {
-  font-size: 2.2rem;
-  margin-bottom: 8px;
-  font-family: 'Space Grotesk', sans-serif;
-}
-
-.accommodation-hero-subtitle {
-  margin: 0;
-  font-size: 1.1rem;
-  font-weight: 500;
-  opacity: 0.95;
-}
-
 /* Section with two-column layout */
 .accommodation-section {
   padding: 80px 24px;
@@ -259,18 +211,6 @@ layout: page
 }
 
 @media (max-width: 600px) {
-  .accommodation-hero {
-    min-height: 360px;
-  }
-
-  .accommodation-hero-card {
-    padding: 24px 28px;
-  }
-
-  .accommodation-hero-card h1 {
-    font-size: 1.6rem;
-  }
-
   .accommodation-section {
     padding: 50px 20px;
   }
@@ -322,13 +262,12 @@ layout: page
 
 <div class="accommodation-page full-bleed">
   <!-- Hero Section -->
-  <section class="accommodation-hero">
-    <div class="accommodation-hero-media"></div>
-    <div class="accommodation-hero-inner">
-      <div class="accommodation-hero-card">
-        <h1>Canadian AI/Robots & Vision Conference 2026</h1>
-        <p class="accommodation-hero-subtitle">Accommodation</p>
-      </div>
+  <section class="calls-hero aicrv-banner" style="--hero-image: url('{{ site.baseurl }}/assets/img/P13_1_101210.jpg');">
+    <div class="calls-hero-media" role="img" aria-label="Accommodation"></div>
+    <div class="aicrv-banner-panel" aria-hidden="true"></div>
+    <div class="aicrv-banner-text">
+      <h1>Canadian AI/Robots & Vision Conference 2026</h1>
+      <p class="aicrv-banner-meta">Accommodation</p>
     </div>
   </section>
 

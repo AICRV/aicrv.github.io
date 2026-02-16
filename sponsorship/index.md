@@ -8,54 +8,6 @@ layout: page
   /* margin-top: -1rem; */
 }
 
-/* Hero Section */
-.sponsorship-hero {
-  position: relative;
-  min-height: 640px;
-  display: flex;
-  align-items: center;
-  overflow: hidden;
-}
-
-.sponsorship-hero-media {
-  position: absolute;
-  inset: 0;
-  background-image: linear-gradient(120deg, rgba(10, 14, 26, 0.15), rgba(10, 14, 26, 0.08)), url('{{ site.baseurl }}/assets/img/P12_1_sponsorship.jpg');
-  background-size: cover;
-  background-position: center;
-}
-
-.sponsorship-hero-inner {
-  position: relative;
-  z-index: 1;
-  width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 24px;
-}
-
-.sponsorship-hero-card {
-  max-width: 520px;
-  background: rgba(192, 49, 95, 0.82);
-  color: #ffffff;
-  padding: 32px 36px;
-  border-radius: 14px;
-  box-shadow: 0 24px 50px rgba(0, 0, 0, 0.25);
-}
-
-.sponsorship-hero-card h1 {
-  font-size: 2.2rem;
-  margin-bottom: 8px;
-  font-family: 'Space Grotesk', sans-serif;
-}
-
-.sponsorship-hero-subtitle {
-  margin: 0;
-  font-size: 1.1rem;
-  font-weight: 500;
-  opacity: 0.95;
-}
-
 /* Become A Sponsor Section */
 .become-sponsor-section {
   padding: 80px 24px;
@@ -291,18 +243,6 @@ layout: page
 }
 
 @media (max-width: 600px) {
-  .sponsorship-hero {
-    min-height: 360px;
-  }
-
-  .sponsorship-hero-card {
-    padding: 24px 28px;
-  }
-
-  .sponsorship-hero-card h1 {
-    font-size: 1.6rem;
-  }
-
   .become-sponsor-section {
     padding: 50px 20px;
   }
@@ -336,13 +276,12 @@ layout: page
 
 <div class="sponsorship-page full-bleed">
   <!-- Hero Section -->
-  <section class="sponsorship-hero">
-    <div class="sponsorship-hero-media"></div>
-    <div class="sponsorship-hero-inner">
-      <div class="sponsorship-hero-card">
-        <h1>Canadian AI/Robots & Vision Conference 2026</h1>
-        <p class="sponsorship-hero-subtitle">Sponsorship</p>
-      </div>
+  <section class="calls-hero aicrv-banner" style="--hero-image: url('{{ site.baseurl }}/assets/img/P12_1_sponsorship.jpg');">
+    <div class="calls-hero-media" role="img" aria-label="Sponsorship"></div>
+    <div class="aicrv-banner-panel" aria-hidden="true"></div>
+    <div class="aicrv-banner-text">
+      <h1>Canadian AI/Robots & Vision Conference 2026</h1>
+      <p class="aicrv-banner-meta">Sponsorship</p>
     </div>
   </section>
 
