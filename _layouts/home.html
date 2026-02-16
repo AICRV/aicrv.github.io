@@ -1,5 +1,10 @@
 {% include partials/header.html %}
 
+  {%- comment -%}
+    Countdown banner: controlled by `show_countdown_banner` in _config.yml.
+    Set it to true to re-enable this section.
+  {%- endcomment -%}
+  {%- if site.show_countdown_banner -%}
   <section class="announcement-bar full-bleed">
     <div class="container announcement-inner">
       <span class="announcement-text">Early Registration Deadline Approaching in</span>
@@ -23,6 +28,7 @@
       </div>
     </div>
   </section>
+  {%- endif -%}
 
   <section class="hero full-bleed aicrv-banner">
     <div class="hero-media" role="img" aria-label="Conference venue in Vancouver" style="background-image: linear-gradient(120deg, rgba(10, 14, 26, 0.3), rgba(10, 14, 26, 0.15)), url('{{ site.baseurl }}/assets/img/P1_1_100923.jpg');"></div>
@@ -120,27 +126,6 @@
           </div>
         </article>
         <article class="program-image-card">
-          <img src="{{ site.baseurl }}/assets/img/P1_4_2_101281.png" alt="GenAI in Education" />
-          <div class="program-image-overlay">
-            <h3>GenAI in Education</h3>
-            <p>MM DD, YYYY</p>
-          </div>
-        </article>
-        <article class="program-image-card">
-          <img src="{{ site.baseurl }}/assets/img/P1_4_3_101207.png" alt="Community and AI" />
-          <div class="program-image-overlay">
-            <h3>Community and AI</h3>
-            <p>MM DD, YYYY</p>
-          </div>
-        </article>
-        <article class="program-image-card">
-          <img src="{{ site.baseurl }}/assets/img/P1_4_4_101215.png" alt="LLM & Applications" />
-          <div class="program-image-overlay">
-            <h3>LLM &amp; Applications</h3>
-            <p>MM DD, YYYY</p>
-          </div>
-        </article>
-        <article class="program-image-card">
           <img src="{{ site.baseurl }}/assets/img/P1_4_5_101275.png" alt="Conference on Robots & Vision" />
           <div class="program-image-overlay">
             <h3>Conference on Robots &amp; Vision</h3>
@@ -148,16 +133,44 @@
           </div>
         </article>
         <article class="program-image-card">
-          <img src="{{ site.baseurl }}/assets/img/P1_4_6_101268.png" alt="Explain Ability in ML" />
+          <img src="{{ site.baseurl }}/assets/img/P1_4_2_101281.png" alt="Responsible AI Track" />
           <div class="program-image-overlay">
-            <h3>Explain Ability in ML</h3>
+            <h3>Responsible AI Track</h3>
             <p>MM DD, YYYY</p>
           </div>
         </article>
         <article class="program-image-card">
-          <img src="{{ site.baseurl }}/assets/img/P1_4_7_101288.png" alt="AI in Agriculture" />
+          <img src="{{ site.baseurl }}/assets/img/P1_4_3_101207.png" alt="Industry Track" />
           <div class="program-image-overlay">
-            <h3>AI in Agriculture</h3>
+            <h3>Industry Track</h3>
+            <p>MM DD, YYYY</p>
+          </div>
+        </article>
+        <article class="program-image-card">
+          <img src="{{ site.baseurl }}/assets/img/P1_4_4_101215.png" alt="Data and Model Protection in Generative AI" />
+          <div class="program-image-overlay">
+            <h3>Data and Model Protection in Generative AI</h3>
+            <p>MM DD, YYYY</p>
+          </div>
+        </article>
+        <article class="program-image-card">
+          <img src="{{ site.baseurl }}/assets/img/P1_4_6_101268.png" alt="AI Strategy and Governance in Business" />
+          <div class="program-image-overlay">
+            <h3>AI Strategy and Governance in Business</h3>
+            <p>MM DD, YYYY</p>
+          </div>
+        </article>
+        <article class="program-image-card">
+          <img src="{{ site.baseurl }}/assets/img/P1_4_7_101288.png" alt="AI for Science and Remote Sensing" />
+          <div class="program-image-overlay">
+            <h3>AI for Science and Remote Sensing</h3>
+            <p>MM DD, YYYY</p>
+          </div>
+        </article>
+        <article class="program-image-card">
+          <img src="{{ site.baseurl }}/assets/img/P1_4_2_101281.png" alt="AI in Banking" />
+          <div class="program-image-overlay">
+            <h3>AI in Banking</h3>
             <p>MM DD, YYYY</p>
           </div>
         </article>

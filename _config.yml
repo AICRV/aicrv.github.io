@@ -65,6 +65,13 @@ defaults:
       layout: committee
 
 
+  # ------------------------------------------------------------------
+  # Countdown banner toggle
+  # Set to true to show the countdown banner on the homepage.
+  # Set to false (or remove) to hide it.
+  # ------------------------------------------------------------------
+show_countdown_banner: false
+
 conference:
 
   # Language
@@ -104,7 +111,7 @@ conference:
             relative_url: /calls/demos/
       - name: Program
         menu:
-          - name: Responsible AI
+          - name: Canadian AI
             relative_url: /program/
           - name: Student Symposium
             relative_url: /program/student-symposium/
@@ -112,6 +119,18 @@ conference:
             relative_url: /program/workshops/
           - name: Conference on Robots & Vision
             relative_url: /program/robots-vision/
+          - name: "Workshop: Responsible AI Track"
+            relative_url: /program/workshops/responsible-ai-track/
+          - name: "Workshop: Industry Track"
+            relative_url: /program/workshops/industry-track/
+          - name: "Workshop: Data and Model Protection in Generative AI"
+            relative_url: /program/workshops/data-model-protection/
+          - name: "Workshop: AI Strategy and Governance in Business"
+            relative_url: /program/workshops/ai-strategy-governance/
+          - name: "Workshop: AI for Science and Remote Sensing"
+            relative_url: /program/workshops/ai-science-remote-sensing/
+          - name: "Workshop: AI in Banking"
+            relative_url: /program/workshops/ai-in-banking/
       - name: Organizers
         menu:
           - name: Conference Organizers

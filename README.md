@@ -34,6 +34,7 @@ The theme was created for the yearly Winterkongress conference of the [Digital S
   - [Navigation Bar](#navigation-bar)
   - [Open Graph Link Preview](#open-graph-link-preview)
   - [Main Landing Page](#main-landing-page)
+  - [Countdown banner](#countdown-banner)
   - [Information Boxes](#information-boxes)
   - [Live Indications & Streaming](#live-indications--streaming)
   - [Map](#map)
@@ -353,6 +354,15 @@ conference:
         disabled: true
         absolute_url: ''
 ```
+
+### Countdown banner
+
+The homepage can show an optional countdown banner (e.g. to early registration deadline). It is controlled by a top-level option in `_config.yml`:
+
+- `show_countdown_banner: true` — show the banner (default when enabled).
+- `show_countdown_banner: false` or omit — hide the banner.
+
+To **re-enable** the countdown after hiding it, set `show_countdown_banner: true` in `_config.yml`.
 
 ### Information Boxes
 

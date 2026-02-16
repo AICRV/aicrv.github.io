@@ -23,9 +23,8 @@ hero_alt: Students collaborating around laptops
     </div>
     <div class="calls-card-body">
       <h3>Canadian AI Conference</h3>
-      <p><strong>Responsible AI</strong></p>
-      <p>Submit full papers, short papers, and reports covering responsible AI, machine learning, and natural language processing.</p>
-      <a class="btn btn-dark btn-sm" href="https://www.caiac.ca/en/conferences/canadianai-2026/home">More Info</a>
+      <p>Submit full papers, short papers, and reports covering artificial intelligence, machine learning, natural language processing, and more.</p>
+      <a class="btn btn-dark btn-sm" href="https://www.caiac.ca/en/conferences/canadianai-2026/call-papers">More Info</a>
     </div>
   </div>
 
@@ -37,7 +36,7 @@ hero_alt: Students collaborating around laptops
       <h3>Canadian AI Conference</h3>
       <p><strong>Student Symposium</strong></p>
       <p>Early-stage researchers and students are invited to share emerging work, receive feedback, and connect with peers.</p>
-      <a class="btn btn-dark btn-sm" href="https://www.caiac.ca/en/conferences/canadianai-2026/home">More Info</a>
+      <a class="btn btn-dark btn-sm" href="https://www.caiac.ca/en/conferences/canadianai-2026/graduate-student-symposium">More Info</a>
     </div>
   </div>
 

@@ -1,8 +1,9 @@
-{% assign active_tab = page.active_tab | default: "llm" %}
+{% assign active_tab = page.active_tab | default: "overview" %}
 <div class="calls-tab-row">
-  <a class="calls-tab{% if active_tab == 'llm' %} is-active{% endif %}" href="{{ site.baseurl }}/program/workshops/">LLM &amp; Applications</a>
-  <a class="calls-tab{% if active_tab == 'genai' %} is-active{% endif %}" href="{{ site.baseurl }}/program/workshops/">GenAI in Education</a>
-  <a class="calls-tab{% if active_tab == 'community' %} is-active{% endif %}" href="{{ site.baseurl }}/program/workshops/">Community and AI</a>
-  <a class="calls-tab{% if active_tab == 'explain' %} is-active{% endif %}" href="{{ site.baseurl }}/program/workshops/">Explain ability in ML</a>
-  <a class="calls-tab{% if active_tab == 'agriculture' %} is-active{% endif %}" href="{{ site.baseurl }}/program/workshops/">AI in Agriculture</a>
+  <a class="calls-tab{% if active_tab == 'responsible-ai' %} is-active{% endif %}" href="{{ site.baseurl }}/program/workshops/responsible-ai-track/">Responsible AI Track</a>
+  <a class="calls-tab{% if active_tab == 'industry' %} is-active{% endif %}" href="{{ site.baseurl }}/program/workshops/industry-track/">Industry Track</a>
+  <a class="calls-tab{% if active_tab == 'data-protection' %} is-active{% endif %}" href="{{ site.baseurl }}/program/workshops/data-model-protection/">Data and Model Protection in Generative AI</a>
+  <a class="calls-tab{% if active_tab == 'ai-governance' %} is-active{% endif %}" href="{{ site.baseurl }}/program/workshops/ai-strategy-governance/">AI Strategy and Governance in Business</a>
+  <a class="calls-tab{% if active_tab == 'ai-science' %} is-active{% endif %}" href="{{ site.baseurl }}/program/workshops/ai-science-remote-sensing/">AI for Science and Remote Sensing</a>
+  <a class="calls-tab{% if active_tab == 'ai-banking' %} is-active{% endif %}" href="{{ site.baseurl }}/program/workshops/ai-in-banking/">AI in Banking</a>
 </div>
