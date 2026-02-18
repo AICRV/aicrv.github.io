@@ -1,0 +1,37 @@
+# Invited speakers: Canadian AI (CAIAC) + Conference on Robots and Vision (CRV)
+# Sources: https://www.caiac.ca/en/conferences/canadianai-2026/invited-speakers
+#          https://www.computerrobotvision.org/invited.html
+
+canadian_ai:
+  - name: Kevin Leyton-Brown
+    affiliation: The University of British Columbia (UBC), Vancouver
+    talk: "Algorithm synthesis with theoretical guarantees"
+    url: "https://www.caiac.ca/en/conferences/canadianai-2026/invited-speakers"
+  - name: Sheila McIlraith
+    affiliation: University of Toronto
+    talk: "Talk title to be announced"
+    url: "https://www.caiac.ca/en/conferences/canadianai-2026/invited-speakers"
+
+crv_keynotes:
+  - name: Dr. Mac Schwager
+    affiliation: Stanford University (Aeronautics and Astronautics)
+    role: Keynote
+    url: "https://www.computerrobotvision.org/invited.html"
+  - name: Dr. Ian Stavness
+    affiliation: University of Saskatchewan (Computer Science)
+    role: Keynote
+    url: "https://www.computerrobotvision.org/invited.html"
+
+crv_symposium:
+  - name: Dr. Risto Ojala
+    affiliation: Aalto University, Finland
+    role: Symposium
+    url: "https://www.computerrobotvision.org/invited.html"
+  - name: Dr. Mahdis Bisheban
+    affiliation: University of Calgary (Mechanical and Manufacturing Engineering)
+    role: Symposium
+    url: "https://www.computerrobotvision.org/invited.html"
+  - name: Dr. Yani Ioannou
+    affiliation: University of Calgary (Schulich School of Engineering)
+    role: Symposium
+    url: "https://www.computerrobotvision.org/invited.html"

@@ -14,41 +14,121 @@ tabs_include: partials/organizer_tabs.html
       <h2>Conference Organizers</h2>
     </div>
     <div class="section-body">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-      <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p>AI/CRV 2026 is organized by the Canadian Artificial Intelligence Association (CAIAC) and the Conference on Robots and Vision. Committee details are also available on the <a href="https://www.caiac.ca/en/conferences/canadianai-2026/committees" target="_blank" rel="noopener">CAIAC committees page</a>.</p>
     </div>
   </div>
 
+  <h3 class="h5 mt-4 mb-3">AI/CRV General Chairs</h3>
   <div class="organizer-grid">
+    {% for o in site.data.organizers.general_chairs %}
     <div class="organizer-card">
-      <div class="organizer-photo"></div>
-      <h3>Member Name</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+      <div class="organizer-photo" aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
+      <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
     </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">AI Program Chairs</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.ai_program_chairs %}
     <div class="organizer-card">
-      <div class="organizer-photo"></div>
-      <h3>Member Name</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+      <div class="organizer-photo" aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
+      <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
     </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">Graduate Student Symposium Track Chairs</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.gss_chairs %}
     <div class="organizer-card">
-      <div class="organizer-photo"></div>
-      <h3>Member Name</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+      <div class="organizer-photo" aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
+      <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
     </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">Sponsorship Chairs</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.sponsorship_chairs %}
     <div class="organizer-card">
-      <div class="organizer-photo"></div>
-      <h3>Member Name</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+      <div class="organizer-photo" aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
+      {% if o.email %}<p class="small"><a href="mailto:{{ o.email }}">{{ o.email }}</a></p>{% endif %}
+      <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
     </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">AI/CRV Finance Chair</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.finance_chair %}
     <div class="organizer-card">
-      <div class="organizer-photo"></div>
-      <h3>Member Name</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+      <div class="organizer-photo" aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
+      <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
     </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">AI/CRV Publicity Chairs</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.publicity_chairs %}
     <div class="organizer-card">
-      <div class="organizer-photo"></div>
-      <h3>Member Name</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+      <div class="organizer-photo" aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
+      <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
     </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">Industry Chair</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.industry_chair %}
+    <div class="organizer-card">
+      <div class="organizer-photo" aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
+      <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
+    </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">AI/CRV Local Arrangement Chair</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.local_arrangement_chair %}
+    <div class="organizer-card">
+      <div class="organizer-photo" aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
+      <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
+    </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">AI/CRV Registration Chair</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.registration_chair %}
+    <div class="organizer-card">
+      <div class="organizer-photo" aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
+      <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
+    </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">Assistants</h3>
+  <div class="section-body">
+    <p>Website maintenance and conference assistants. Names to be listed here as confirmed.</p>
   </div>
 </section>

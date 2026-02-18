@@ -97,6 +97,12 @@ conference:
             relative_url: /#program
           - name: Venue
             relative_url: /#venue
+          - name: Speakers
+            relative_url: /speakers/
+          - name: Campus Map
+            absolute_url: "https://roomfinder.sfu.ca/apps/sfuroomfinder_web/"
+          - name: Accommodation
+            relative_url: /accommodation/
           - name: Registration
             absolute_url: "https://sfu.ungerboeck.net/prod/emc00/PublicSignIn.aspx?&aat=2b4f4836445a426d6a59775969304a6e4f6f4d48377864594a326e71783557612b6d4f39627057783459383d"
       - name: Calls for Contributions

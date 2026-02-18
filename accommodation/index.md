@@ -38,6 +38,10 @@ layout: page
   margin: 0;
 }
 
+.accommodation-tax-note {
+  margin-top: 1rem !important;
+}
+
 /* Booking Section */
 .booking-section {
   padding: 0 24px 80px;
@@ -276,100 +280,62 @@ layout: page
     <div class="accommodation-section-inner">
       <h2 class="accommodation-section-title">Accommodation</h2>
       <div class="accommodation-section-content">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>Options for staying near Simon Fraser University (SFU) during AI/CRV 2026: on-campus residence, on-campus hotel, and off-campus hotel.</p>
+        <p class="accommodation-tax-note"><strong>All prices below are plus applicable taxes.</strong></p>
       </div>
     </div>
   </section>
 
-  <!-- Online Booking Instructions Section -->
+  <!-- Dorms -->
   <section class="booking-section">
     <div class="booking-inner">
-      <h2 class="booking-section-title">Online Booking Instructions</h2>
-
-      <!-- Room Card -->
+      <h2 class="booking-section-title">Dorms (On-campus residence)</h2>
       <div class="room-card">
         <div class="room-card-header">
           <div class="room-card-info">
-            <h3>Room Type</h3>
-            <p>$000.00 per night - Single/Double</p>
+            <h3>Courtyard Residence Housing</h3>
+            <p><strong>CYR Private Residence Rooms:</strong> $70.00 per night + tax</p>
           </div>
-          <a href="#" class="btn-apply">Apply</a>
         </div>
-        <div class="room-features">
-          <ul>
-            <li>Lorem ipsum dolor sit amet</li>
-            <li>consectetur adipiscing elit</li>
-            <li>sed do eiusmod tempor incididunt</li>
-            <li>ut labore et dolore magna aliqua</li>
-          </ul>
-          <ul>
-            <li>Lorem ipsum dolor sit amet</li>
-            <li>consectetur adipiscing elit</li>
-            <li>sed do eiusmod tempor incididunt</li>
-            <li>ut labore et dolore magna aliqua</li>
-          </ul>
-          <ul>
-            <li>Lorem ipsum dolor sit amet</li>
-            <li>consectetur adipiscing elit</li>
-            <li>sed do eiusmod tempor incididunt</li>
-            <li>ut labore et dolore magna aliqua</li>
-          </ul>
-        </div>
-      </div>
-
-      <p class="booking-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-      <p class="booking-description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-  </section>
-
-  <!-- Reservations Section -->
-  <section class="reservations-section">
-    <div class="reservations-inner">
-      <h2 class="reservations-title">Reservations</h2>
-      <div class="reservations-content">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       </div>
     </div>
   </section>
 
-  <!-- Accommodation Suggestions Section -->
+  <!-- On-campus hotel -->
   <section class="suggestions-section">
     <div class="suggestions-inner">
-      <h2 class="suggestions-title">Accommodation Suggestions</h2>
-
-      <!-- Room Card -->
+      <h2 class="suggestions-title">On-campus hotel: The Simon</h2>
       <div class="room-card">
         <div class="room-card-header">
           <div class="room-card-info">
-            <h3>Room Type</h3>
-            <p>$000.00 per night - Single/Double</p>
+            <h3>Double Queen &amp; Queen Room</h3>
+            <p>$209.00 per night + tax</p>
           </div>
-          <a href="#" class="btn-apply">Apply</a>
-        </div>
-        <div class="room-features">
-          <ul>
-            <li>Lorem ipsum dolor sit amet</li>
-            <li>consectetur adipiscing elit</li>
-            <li>sed do eiusmod tempor incididunt</li>
-            <li>ut labore et dolore magna aliqua</li>
-          </ul>
-          <ul>
-            <li>Lorem ipsum dolor sit amet</li>
-            <li>consectetur adipiscing elit</li>
-            <li>sed do eiusmod tempor incididunt</li>
-            <li>ut labore et dolore magna aliqua</li>
-          </ul>
-          <ul>
-            <li>Lorem ipsum dolor sit amet</li>
-            <li>consectetur adipiscing elit</li>
-            <li>sed do eiusmod tempor incididunt</li>
-            <li>ut labore et dolore magna aliqua</li>
-          </ul>
         </div>
       </div>
+      <div class="room-card">
+        <div class="room-card-header">
+          <div class="room-card-info">
+            <h3>Kitchenette Room</h3>
+            <p>$234.00 per night + tax</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
-      <p class="booking-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-      <p class="booking-description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <!-- Off-campus hotel -->
+  <section class="booking-section">
+    <div class="booking-inner">
+      <h2 class="booking-section-title">Off-campus hotel</h2>
+      <div class="room-card">
+        <div class="room-card-header">
+          <div class="room-card-info">
+            <h3>Executive Plaza Hotel</h3>
+            <p>Price to be confirmed.</p>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
 </div>

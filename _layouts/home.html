@@ -59,7 +59,10 @@
       <div class="section-body">
         <h2>Conference Venue</h2>
         <p>The event location would be XXXXX.</p>
-        <a class="btn btn-dark btn-sm" href="https://www.google.com/maps" target="_blank">Open in Maps</a>
+        <div class="venue-actions">
+          <a class="btn btn-dark btn-sm" href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/" target="_blank" rel="noopener">Campus Map (SFU)</a>
+          <a class="btn btn-outline btn-sm" href="https://www.google.com/maps" target="_blank" rel="noopener">Open in Google Maps</a>
+        </div>
       </div>
       <div class="venue-map-wrapper">
         <img src="{{ site.baseurl }}/assets/img/P1_2_Map.png" alt="Map of Simon Fraser University campus" class="venue-map-image" />
@@ -183,50 +186,27 @@
       <div class="speakers-header">
         <h2>Speakers</h2>
         <div class="speakers-description">
-          <p>(Speakers for Workshop XXXXXXX). Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <p>Invited speakers from the Canadian AI Conference and the Conference on Robots and Vision.</p>
         </div>
       </div>
       <div class="speaker-grid-full">
+        {% for s in site.data.speakers.canadian_ai limit: 2 %}
         <div class="speaker-card">
-          <div class="speaker-photo"></div>
-          <h3>Member Name</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+          <div class="speaker-photo" aria-hidden="true"></div>
+          <h3>{{ s.name }}</h3>
+          <p>{{ s.affiliation }}</p>
         </div>
+        {% endfor %}
+        {% for s in site.data.speakers.crv_keynotes limit: 2 %}
         <div class="speaker-card">
-          <div class="speaker-photo"></div>
-          <h3>Member Name</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+          <div class="speaker-photo" aria-hidden="true"></div>
+          <h3>{{ s.name }}</h3>
+          <p>{{ s.affiliation }}</p>
         </div>
-        <div class="speaker-card">
-          <div class="speaker-photo"></div>
-          <h3>Member Name</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-        </div>
-        <div class="speaker-card">
-          <div class="speaker-photo"></div>
-          <h3>Member Name</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-        </div>
-        <div class="speaker-card">
-          <div class="speaker-photo"></div>
-          <h3>Member Name</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-        </div>
-        <div class="speaker-card">
-          <div class="speaker-photo"></div>
-          <h3>Member Name</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-        </div>
-        <div class="speaker-card">
-          <div class="speaker-photo"></div>
-          <h3>Member Name</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-        </div>
-        <div class="speaker-card">
-          <div class="speaker-photo"></div>
-          <h3>Member Name</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-        </div>
+        {% endfor %}
+      </div>
+      <div class="text-center mt-4">
+        <a class="btn btn-dark" href="{{ site.baseurl }}/speakers/">View all speakers</a>
       </div>
     </div>
   </section>
@@ -234,16 +214,19 @@
   <section class="section sponsors full-bleed" id="sponsors">
     <div class="container sponsors-inner">
       <h2>Meet Our Sponsor Partners</h2>
-      <div class="sponsor-grid">
-        <div class="sponsor-card"></div>
-        <div class="sponsor-card"></div>
-        <div class="sponsor-card"></div>
-        <div class="sponsor-card"></div>
-        <div class="sponsor-card"></div>
-        <div class="sponsor-card"></div>
-        <div class="sponsor-card"></div>
-        <div class="sponsor-card"></div>
-        <div class="sponsor-card"></div>
+      <div class="sponsor-grid sponsor-grid-four">
+        <a class="sponsor-card sponsor-card-link" href="https://vectorinstitute.ai" target="_blank" rel="noopener" title="Vector Institute">
+          <img src="{{ site.baseurl }}/assets/img/sponsors/vector.svg" alt="Vector Institute" class="sponsor-logo" />
+        </a>
+        <a class="sponsor-card sponsor-card-link" href="https://www.dobot.cc" target="_blank" rel="noopener" title="Dobot">
+          <img src="{{ site.baseurl }}/assets/img/sponsors/dobot.svg" alt="Dobot" class="sponsor-logo" />
+        </a>
+        <a class="sponsor-card sponsor-card-link" href="https://wayve.ai" target="_blank" rel="noopener" title="Wayve">
+          <img src="{{ site.baseurl }}/assets/img/sponsors/wayve.svg" alt="Wayve" class="sponsor-logo" />
+        </a>
+        <a class="sponsor-card sponsor-card-link" href="https://www.rbc.com" target="_blank" rel="noopener" title="RBC">
+          <img src="{{ site.baseurl }}/assets/img/sponsors/rbc.svg" alt="RBC" class="sponsor-logo" />
+        </a>
       </div>
       <div class="sponsor-cta">
         <a class="sponsor-link" href="{{ site.baseurl }}/sponsorship/">Become a Sponsor &gt;</a>

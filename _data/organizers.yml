@@ -1,0 +1,70 @@
+# Committees: AI/CRV 2026 (from CAIAC committees page)
+# Source: https://www.caiac.ca/en/conferences/canadianai-2026/committees
+
+general_chairs:
+  - name: Ke Li
+    affiliation: School of Computing Science, Simon Fraser University
+    url: "https://www.sfu.ca/fas/computing/people/faculty/faculty-members/keli.html"
+  - name: Mo Chen
+    affiliation: School of Computing Science, Simon Fraser University; Alberta Machine Intelligence Institute (Amii)
+    url: "https://www.sfu.ca/fas/computing/people/faculty/faculty-members/mo-chen.html"
+
+ai_program_chairs:
+  - name: Carson Leung
+    affiliation: Department of Computer Science, University of Manitoba
+    url: "https://umanitoba.ca/science/directory/computer-science/carson-leung"
+  - name: Lydia Bouzar-Benlabiod
+    affiliation: Jodrey School of Computer Science, Acadia University
+    url: "https://cs.acadiau.ca/Lydia-BOUZAR-BENLABIOD.html"
+
+gss_chairs:
+  - name: Ritu Chaturvedi
+    affiliation: School of Computer Science, University of Guelph
+    url: "https://www.uoguelph.ca/computing/people/ritu-chaturvedi"
+  - name: Tara Azin
+    affiliation: Department of Cognitive Science, Carleton University
+    url: "https://carleton.ca/cognitivescience/people/tara-azin/"
+
+sponsorship_chairs:
+  - name: Luiza Antonie
+    affiliation: School of Computer Science, University of Guelph; CAIAC Treasurer
+    email: "treasurer@caiac.ca"
+    url: "https://www.uoguelph.ca/computing/people/luiza-antonie"
+  - name: Jun Jin
+    affiliation: Electrical & Computer Engineering, University of Alberta; Amii
+    url: "https://apps.ualberta.ca/directory/person/jjin5"
+  - name: Lueder Kahrs
+    affiliation: Institute of Biomedical Engineering, University of Toronto
+    url: "https://bme.utoronto.ca/faculty-research/core-faculty/lueder-kahrs/"
+
+finance_chair:
+  - name: Hang Ma
+    affiliation: School of Computing Science, Simon Fraser University
+    url: "https://www.sfu.ca/fas/computing/people/faculty/faculty-members/hangma.html"
+
+publicity_chairs:
+  - name: Liam Paull
+    affiliation: Université de Montréal; Mila
+    url: "https://diro.umontreal.ca/repertoire-departement/professeurs/professeur/in/in29390/sg/Liam%20Paull/"
+  - name: Renjie Liao
+    affiliation: University of British Columbia; Vector Institute
+    url: "https://ece.ubc.ca/renjie-liao/"
+
+industry_chair:
+  - name: Annie T.T. Ying
+    affiliation: GitLab, Vancouver
+    url: "https://annieying.ca/"
+
+local_arrangement_chair:
+  - name: Wuyang Chen
+    affiliation: School of Computing Science, Simon Fraser University
+    url: "https://www.sfu.ca/fas/computing/people/faculty/faculty-members/wuyang-chen.html"
+
+registration_chair:
+  - name: Yasaman Etesam
+    affiliation: School of Computing Science, Simon Fraser University
+    url: "https://yasaman-etesam.github.io/"
+
+assistants:
+  - name: "Website / maintenance"
+    note: "Assistants and maintainers to be listed here."
