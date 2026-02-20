@@ -15,7 +15,7 @@ hero_alt: Conference speakers
     <div class="speaker-grid-full mb-5">
       {% for s in site.data.speakers.canadian_ai %}
       <div class="speaker-card">
-        <div class="speaker-photo" aria-hidden="true"></div>
+        <div class="speaker-photo"{% if s.photo %} style="background-image: url('{{ s.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
         <h3>{{ s.name }}</h3>
         <p>{{ s.affiliation }}</p>
         {% if s.talk %}<p class="text-muted small mb-0">{{ s.talk }}</p>{% endif %}
@@ -28,7 +28,7 @@ hero_alt: Conference speakers
     <div class="speaker-grid-full mb-5">
       {% for s in site.data.speakers.crv_keynotes %}
       <div class="speaker-card">
-        <div class="speaker-photo" aria-hidden="true"></div>
+        <div class="speaker-photo"{% if s.photo %} style="background-image: url('{{ s.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
         <h3>{{ s.name }}</h3>
         <p>{{ s.affiliation }}</p>
         <a href="{{ s.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">More info (CRV)</a>
@@ -40,7 +40,7 @@ hero_alt: Conference speakers
     <div class="speaker-grid-full">
       {% for s in site.data.speakers.crv_symposium %}
       <div class="speaker-card">
-        <div class="speaker-photo" aria-hidden="true"></div>
+        <div class="speaker-photo"{% if s.photo %} style="background-image: url('{{ s.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
         <h3>{{ s.name }}</h3>
         <p>{{ s.affiliation }}</p>
         <a href="{{ s.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">More info (CRV)</a>

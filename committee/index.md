@@ -22,7 +22,7 @@ tabs_include: partials/organizer_tabs.html
   <div class="organizer-grid">
     {% for o in site.data.organizers.general_chairs %}
     <div class="organizer-card">
-      <div class="organizer-photo" aria-hidden="true"></div>
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
       <h3>{{ o.name }}</h3>
       <p>{{ o.affiliation }}</p>
       <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
@@ -34,7 +34,7 @@ tabs_include: partials/organizer_tabs.html
   <div class="organizer-grid">
     {% for o in site.data.organizers.ai_program_chairs %}
     <div class="organizer-card">
-      <div class="organizer-photo" aria-hidden="true"></div>
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
       <h3>{{ o.name }}</h3>
       <p>{{ o.affiliation }}</p>
       <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
@@ -46,7 +46,7 @@ tabs_include: partials/organizer_tabs.html
   <div class="organizer-grid">
     {% for o in site.data.organizers.gss_chairs %}
     <div class="organizer-card">
-      <div class="organizer-photo" aria-hidden="true"></div>
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
       <h3>{{ o.name }}</h3>
       <p>{{ o.affiliation }}</p>
       <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
@@ -58,7 +58,7 @@ tabs_include: partials/organizer_tabs.html
   <div class="organizer-grid">
     {% for o in site.data.organizers.sponsorship_chairs %}
     <div class="organizer-card">
-      <div class="organizer-photo" aria-hidden="true"></div>
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
       <h3>{{ o.name }}</h3>
       <p>{{ o.affiliation }}</p>
       {% if o.email %}<p class="small"><a href="mailto:{{ o.email }}">{{ o.email }}</a></p>{% endif %}
@@ -71,7 +71,7 @@ tabs_include: partials/organizer_tabs.html
   <div class="organizer-grid">
     {% for o in site.data.organizers.finance_chair %}
     <div class="organizer-card">
-      <div class="organizer-photo" aria-hidden="true"></div>
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
       <h3>{{ o.name }}</h3>
       <p>{{ o.affiliation }}</p>
       <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
@@ -83,7 +83,7 @@ tabs_include: partials/organizer_tabs.html
   <div class="organizer-grid">
     {% for o in site.data.organizers.publicity_chairs %}
     <div class="organizer-card">
-      <div class="organizer-photo" aria-hidden="true"></div>
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
       <h3>{{ o.name }}</h3>
       <p>{{ o.affiliation }}</p>
       <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
@@ -95,7 +95,7 @@ tabs_include: partials/organizer_tabs.html
   <div class="organizer-grid">
     {% for o in site.data.organizers.industry_chair %}
     <div class="organizer-card">
-      <div class="organizer-photo" aria-hidden="true"></div>
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
       <h3>{{ o.name }}</h3>
       <p>{{ o.affiliation }}</p>
       <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
@@ -107,7 +107,7 @@ tabs_include: partials/organizer_tabs.html
   <div class="organizer-grid">
     {% for o in site.data.organizers.local_arrangement_chair %}
     <div class="organizer-card">
-      <div class="organizer-photo" aria-hidden="true"></div>
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
       <h3>{{ o.name }}</h3>
       <p>{{ o.affiliation }}</p>
       <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
@@ -119,7 +119,7 @@ tabs_include: partials/organizer_tabs.html
   <div class="organizer-grid">
     {% for o in site.data.organizers.registration_chair %}
     <div class="organizer-card">
-      <div class="organizer-photo" aria-hidden="true"></div>
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
       <h3>{{ o.name }}</h3>
       <p>{{ o.affiliation }}</p>
       <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
@@ -129,6 +129,10 @@ tabs_include: partials/organizer_tabs.html
 
   <h3 class="h5 mt-4 mb-3">Assistants</h3>
   <div class="section-body">
-    <p>Website maintenance and conference assistants. Names to be listed here as confirmed.</p>
+    <ul class="mb-0">
+      {% for a in site.data.organizers.assistants %}
+      <li>{{ a.name }}, {{ a.affiliation }}</li>
+      {% endfor %}
+    </ul>
   </div>
 </section>

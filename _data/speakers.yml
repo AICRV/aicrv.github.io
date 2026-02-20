@@ -7,31 +7,38 @@ canadian_ai:
     affiliation: The University of British Columbia (UBC), Vancouver
     talk: "Algorithm synthesis with theoretical guarantees"
     url: "https://www.caiac.ca/en/conferences/canadianai-2026/invited-speakers"
+    photo: "https://www.caiac.ca/sites/default/files/basic_attachments/kevin-leyton-brown.png"
   - name: Sheila McIlraith
     affiliation: University of Toronto
     talk: "Talk title to be announced"
     url: "https://www.caiac.ca/en/conferences/canadianai-2026/invited-speakers"
+    photo: "https://www.caiac.ca/sites/default/files/basic_attachments/Sheila-McIlraith.png"
 
 crv_keynotes:
   - name: Dr. Mac Schwager
     affiliation: Stanford University (Aeronautics and Astronautics)
     role: Keynote
     url: "https://www.computerrobotvision.org/invited.html"
+    photo: "https://www.computerrobotvision.org/assets/img/people/schwager.png"
   - name: Dr. Ian Stavness
     affiliation: University of Saskatchewan (Computer Science)
     role: Keynote
     url: "https://www.computerrobotvision.org/invited.html"
+    photo: "https://www.computerrobotvision.org/assets/img/people/stavness.png"
 
 crv_symposium:
   - name: Dr. Risto Ojala
     affiliation: Aalto University, Finland
     role: Symposium
     url: "https://www.computerrobotvision.org/invited.html"
+    photo: "https://www.computerrobotvision.org/assets/img/people/ojala.jpg"
   - name: Dr. Mahdis Bisheban
     affiliation: University of Calgary (Mechanical and Manufacturing Engineering)
     role: Symposium
     url: "https://www.computerrobotvision.org/invited.html"
+    photo: "https://www.computerrobotvision.org/assets/img/people/bisheban.jpg"
   - name: Dr. Yani Ioannou
     affiliation: University of Calgary (Schulich School of Engineering)
     role: Symposium
     url: "https://www.computerrobotvision.org/invited.html"
+    photo: "https://www.computerrobotvision.org/assets/img/people/ioannou.jpg"

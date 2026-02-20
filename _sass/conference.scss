@@ -881,8 +881,16 @@ main.container {
 .speaker-photo {
   background: repeating-linear-gradient(45deg, #e6e7ef, #e6e7ef 8px, #f0f1f6 8px, #f0f1f6 16px);
   border-radius: 14px;
-  height: 140px;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  min-height: 200px;
   margin-bottom: 12px;
+}
+
+.speaker-photo[style*="background-image"] {
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .speakers-header {
@@ -1339,8 +1347,16 @@ main.container img {
 .organizer-photo {
   background: repeating-linear-gradient(45deg, #e6e7ef, #e6e7ef 8px, #f0f1f6 8px, #f0f1f6 16px);
   border-radius: 14px;
-  height: 180px;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  min-height: 200px;
   margin-bottom: 12px;
+}
+
+.organizer-photo[style*="background-image"] {
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .organizer-card h3 {

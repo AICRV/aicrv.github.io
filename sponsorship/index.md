@@ -130,6 +130,27 @@ layout: page
   font-size: 1rem;
 }
 
+.tier-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 1rem 0;
+}
+
+.tier-list li {
+  position: relative;
+  padding-left: 1.25em;
+  margin-bottom: 0.5em;
+  color: #4b4f5e;
+  line-height: 1.6;
+}
+
+.tier-list li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: var(--aicrv-ink, #1d2035);
+}
+
 /* Sponsors Partners Section */
 .sponsors-partners-section {
   background: var(--aicrv-pink, #c0315f);
@@ -152,7 +173,7 @@ layout: page
 
 .sponsors-logo-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 16px;
   margin-bottom: 30px;
 }
@@ -309,7 +330,24 @@ layout: page
             <h3 class="tier-name">Diamond</h3>
             <span class="tier-price">$20,000</span>
           </div>
-          <p class="tier-description">Our premier sponsorship tier offering maximum visibility and engagement. Diamond sponsors receive exclusive naming rights, keynote speaking opportunities, premium booth placement, logo on all conference materials, dedicated networking sessions with researchers, and first access to recruiting top talent.</p>
+          <ul class="tier-list">
+            <li>4 full registrations</li>
+            <li>Opportunity to give a 5-minute talk at the banquet</li>
+            <li>Display a 1-minute promo video during welcome reception or banquet</li>
+            <li>Dedicated table at welcome reception with sponsor branding</li>
+            <li>Opportunity to contribute content to the official conference newsletter</li>
+            <li>Official recognition during welcome reception and banquet</li>
+            <li>Display one roll-up stand at reception, main conference rooms and registration desk</li>
+            <li>Premium exhibition space at prime location during poster sessions with the largest space and priority placement</li>
+            <li>Opportunity to arrange a recruiting lunch with top talents (catering costs passed on to the sponsor)</li>
+            <li>Opportunity to speak on an industry panel</li>
+            <li>Logo on the Canadian AI/CRV 2026 conference website</li>
+            <li>Access to a private meeting room during the main conference</li>
+            <li>License to use the "Official Conference Sponsor" label</li>
+            <li>Welcome reception sponsorship package included</li>
+            <li>Coffee break sponsorship package included</li>
+            <li>Conference Lanyard Co-Branding (Diamond sponsors' logos printed on attendee lanyards)</li>
+          </ul>
         </div>
       </div>
 
@@ -323,7 +361,20 @@ layout: page
             <h3 class="tier-name">Platinum</h3>
             <span class="tier-price">$10,000</span>
           </div>
-          <p class="tier-description">Platinum sponsors enjoy prominent brand visibility with logo placement on conference website and materials, speaking opportunity at a workshop session, premium booth space, social media recognition, and access to exclusive networking events with industry leaders and researchers.</p>
+          <ul class="tier-list">
+            <li>3 full registrations</li>
+            <li>Display a 1-minute promotional video during welcome reception or banquet</li>
+            <li>Dedicated table at welcome reception with sponsor branding</li>
+            <li>Official recognition during welcome reception and banquet</li>
+            <li>Display one roll-up stand at welcome reception, main conference rooms, and registration desk</li>
+            <li>Large exhibition space during poster sessions</li>
+            <li>Opportunity to arrange a recruiting lunch with top talents (catering costs passed on to the sponsor)</li>
+            <li>Opportunity to speak on an industry panel</li>
+            <li>Logo on the Canadian AI/CRV 2026 conference website</li>
+            <li>Access to a private meeting room during the main conference</li>
+            <li>License to use the "Official Conference Sponsor" label</li>
+            <li>Coffee break sponsorship package included</li>
+          </ul>
         </div>
       </div>
 
@@ -337,7 +388,14 @@ layout: page
             <h3 class="tier-name">Gold</h3>
             <span class="tier-price">$5,000</span>
           </div>
-          <p class="tier-description">Gold sponsors receive excellent exposure with logo on conference website, booth space in the exhibition area, opportunity to distribute promotional materials, recognition in conference program, and complimentary conference registrations for your team members.</p>
+          <ul class="tier-list">
+            <li>2 full registrations</li>
+            <li>Official recognition during welcome reception and banquet</li>
+            <li>Display one roll-up stand at registration desk</li>
+            <li>Exhibition space during poster sessions</li>
+            <li>Logo on the Canadian AI/CRV 2026 conference website</li>
+            <li>License to use the "Official Conference Sponsor" label</li>
+          </ul>
         </div>
       </div>
 
@@ -351,7 +409,13 @@ layout: page
             <h3 class="tier-name">Silver</h3>
             <span class="tier-price">$3,000</span>
           </div>
-          <p class="tier-description">Silver sponsors are recognized with logo placement on the conference website, listing in the conference program, social media mentions, opportunity to include materials in attendee welcome bags, and complimentary conference registrations.</p>
+          <ul class="tier-list">
+            <li>1 full registration</li>
+            <li>Official recognition during welcome reception and banquet</li>
+            <li>Display one roll-up stand at registration desk</li>
+            <li>Logo on the Canadian AI/CRV 2026 conference website</li>
+            <li>License to use the "Official Conference Sponsor" label</li>
+          </ul>
         </div>
       </div>
 
@@ -365,7 +429,39 @@ layout: page
             <h3 class="tier-name">Bronze</h3>
             <span class="tier-price">$1,500</span>
           </div>
-          <p class="tier-description">Bronze sponsors receive recognition with logo on the conference website, acknowledgment during conference sessions, social media recognition, and complimentary conference registration to attend and network with attendees.</p>
+          <ul class="tier-list">
+            <li>Official recognition during welcome reception and banquet</li>
+            <li>Logo on the Canadian AI/CRV 2026 conference website</li>
+            <li>License to use the "Official Conference Sponsor" label</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Additional Opportunities -->
+      <div class="tier-row" style="margin-top: 48px; padding-top: 48px; border-top: 1px solid #e6e7ef;">
+        <div class="tier-content" style="grid-column: 1 / -1;">
+          <h3 class="tier-name mb-3">Additional Opportunities</h3>
+          <p class="tier-description mb-1"><strong>Prize Sponsorship</strong></p>
+          <ul class="tier-list">
+            <li>Best Paper Award ($2,000)</li>
+            <li>Best Student Paper Award ($1,500)</li>
+          </ul>
+          <p class="tier-description mb-1 mt-3"><strong>Keynote Sponsor</strong> — $3,500</p>
+          <ul class="tier-list">
+            <li>Official recognition and display of sponsor logo at the start of keynote talk</li>
+          </ul>
+          <p class="tier-description mb-1 mt-3"><strong>Welcome Reception Sponsor</strong> — $2,500</p>
+          <ul class="tier-list">
+            <li>Space for one piece of advertising material (roll-ups, brochures etc.) during ice breaker</li>
+            <li>Prominent display of the logo during the reception</li>
+          </ul>
+          <p class="tier-description mb-1 mt-3"><strong>Coffee Break Sponsor</strong> — $1,000</p>
+          <ul class="tier-list">
+            <li>Space for one piece of advertising material (folder, brochures etc.) during a coffee break of your choice</li>
+            <li>Prominent display of the logo during the break</li>
+          </ul>
+          <p class="tier-description mb-1 mt-4"><strong>Early Bird Offers</strong></p>
+          <p class="tier-description">Sponsor us before November 30th, 2025, to save 15% with our early bird rates.</p>
         </div>
       </div>
     </div>
@@ -376,36 +472,34 @@ layout: page
     <div class="sponsors-partners-inner">
       <h2 class="sponsors-partners-title">Meet Our Sponsor Partners</h2>
       <div class="sponsors-logo-grid">
-        <div class="sponsor-logo-card">
-          <!-- Sponsor logo placeholder -->
-        </div>
-        <div class="sponsor-logo-card">
-          <!-- Sponsor logo placeholder -->
-        </div>
-        <div class="sponsor-logo-card">
-          <!-- Sponsor logo placeholder -->
-        </div>
-        <div class="sponsor-logo-card">
-          <!-- Sponsor logo placeholder -->
-        </div>
-        <div class="sponsor-logo-card">
-          <!-- Sponsor logo placeholder -->
-        </div>
-        <div class="sponsor-logo-card">
-          <!-- Sponsor logo placeholder -->
-        </div>
-        <div class="sponsor-logo-card">
-          <!-- Sponsor logo placeholder -->
-        </div>
-        <div class="sponsor-logo-card">
-          <!-- Sponsor logo placeholder -->
-        </div>
-        <div class="sponsor-logo-card">
-          <!-- Sponsor logo placeholder -->
-        </div>
+        <a class="sponsor-logo-card" href="https://vectorinstitute.ai" target="_blank" rel="noopener" title="Vector Institute" style="text-decoration: none;">
+          <img src="{{ site.baseurl }}/assets/img/sponsors/vector.png" alt="Vector Institute" style="max-width: 80%; max-height: 60px; object-fit: contain;">
+        </a>
+        <a class="sponsor-logo-card" href="https://www.dobot-robots.com" target="_blank" rel="noopener" title="Dobot" style="text-decoration: none;">
+          <img src="{{ site.baseurl }}/assets/img/sponsors/dobot.svg" alt="Dobot" style="max-width: 80%; max-height: 60px; object-fit: contain;">
+        </a>
+        <a class="sponsor-logo-card" href="https://wayve.ai" target="_blank" rel="noopener" title="Wayve" style="text-decoration: none;">
+          <img src="{{ site.baseurl }}/assets/img/sponsors/wayve.svg" alt="Wayve" style="max-width: 80%; max-height: 60px; object-fit: contain;">
+        </a>
+        <a class="sponsor-logo-card" href="https://www.rbc.com" target="_blank" rel="noopener" title="RBC" style="text-decoration: none;">
+          <img src="{{ site.baseurl }}/assets/img/sponsors/rbc.svg" alt="RBC" style="max-width: 80%; max-height: 60px; object-fit: contain;">
+        </a>
       </div>
       <div class="sponsors-partners-cta">
         <a href="mailto:sponsor@ai-crv.ca?subject=Sponsorship Inquiry">Become a Sponsor <span>›</span></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Full PDF Brochure -->
+  <section class="become-sponsor-section" style="padding-top: 40px;">
+    <div class="tiers-inner">
+      <h2 class="become-sponsor-title" style="text-align: center; margin-bottom: 24px;">Full Sponsorship Brochure</h2>
+      <p style="text-align: center; margin-bottom: 24px; color: #4b4f5e;">View or download the complete sponsorship package.</p>
+      <div style="max-width: 900px; margin: 0 auto;">
+        <object data="{{ site.baseurl }}/assets/pdf/sponsorship.pdf" type="application/pdf" width="100%" height="800" style="border-radius: 12px; border: 1px solid #e6e7ef;">
+          <p>Your browser does not support PDF embedding. <a href="{{ site.baseurl }}/assets/pdf/sponsorship.pdf" target="_blank" rel="noopener">Download the PDF</a>.</p>
+        </object>
       </div>
     </div>
   </section>
