@@ -1,0 +1,53 @@
+{% include partials/header.html %}
+
+{% assign hero_image = page.hero_image | default: "/assets/img/P2_1_100945.jpg" %}
+{% assign hero_title = page.hero_title | default: "Canadian AI/Robots & Vision Conference 2026" %}
+{% assign hero_subtitle = page.hero_subtitle | default: page.title %}
+
+<section class="calls-hero full-bleed aicrv-banner" style="--hero-image: url('{{ hero_image }}');">
+  <div class="calls-hero-media" role="img" aria-label="{{ page.hero_alt | default: 'Conference scene' }}"></div>
+  <div class="aicrv-banner-panel" aria-hidden="true"></div>
+  <div class="aicrv-banner-text">
+    <h1>{{ hero_title }}</h1>
+    <p class="aicrv-banner-meta">{{ hero_subtitle }}</p>
+  </div>
+</section>
+
+{% if page.tabs_include %}
+  <section class="calls-tabs">
+    <div class="container">
+      {% include {{ page.tabs_include }} %}
+    </div>
+  </section>
+{% endif %}
+
+<section class="subpage-content">
+  <div class="container">
+    {{ content }}
+  </div>
+</section>
+
+<section class="section sponsors full-bleed" id="sponsors">
+  <div class="container sponsors-inner">
+    <h2>Meet Our Sponsor Partners</h2>
+    <div class="sponsor-grid sponsor-grid-four">
+      <a class="sponsor-card sponsor-card-link" href="https://vectorinstitute.ai" target="_blank" rel="noopener" title="Vector Institute">
+        <img src="{{ site.baseurl }}/assets/img/sponsors/vector.png" alt="Vector Institute" class="sponsor-logo" />
+      </a>
+      <a class="sponsor-card sponsor-card-link" href="https://www.dobot.cc" target="_blank" rel="noopener" title="Dobot">
+        <img src="{{ site.baseurl }}/assets/img/sponsors/dobot.svg" alt="Dobot" class="sponsor-logo" />
+      </a>
+      <a class="sponsor-card sponsor-card-link" href="https://wayve.ai" target="_blank" rel="noopener" title="Wayve">
+        <img src="{{ site.baseurl }}/assets/img/sponsors/wayve.svg" alt="Wayve" class="sponsor-logo" />
+      </a>
+      <a class="sponsor-card sponsor-card-link" href="https://www.rbc.com" target="_blank" rel="noopener" title="RBC">
+        <img src="{{ site.baseurl }}/assets/img/sponsors/rbc.svg" alt="RBC" class="sponsor-logo" />
+      </a>
+    </div>
+    <div class="sponsor-cta">
+      <a class="sponsor-link" href="{{ site.baseurl }}/sponsorship/">Become a Sponsor &gt;</a>
+    </div>
+  </div>
+</section>
+
+{% include partials/footer.html %}

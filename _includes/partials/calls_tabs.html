@@ -1,0 +1,7 @@
+{% assign current_url = page.url %}
+<div class="calls-tab-row">
+  <a class="calls-tab{% if current_url contains '/calls/papers-ai' %} is-active{% endif %}" href="{{ site.baseurl }}/calls/papers-ai/">Calls for Papers</a>
+  <a class="calls-tab{% if current_url contains '/calls/workshops' %} is-active{% endif %}" href="{{ site.baseurl }}/calls/workshops/">Calls for Workshops</a>
+  <a class="calls-tab{% if current_url contains '/calls/nectar-track' %} is-active{% endif %}" href="{{ site.baseurl }}/calls/nectar-track/">Calls for Nectar Track Contributions</a>
+  <a class="calls-tab{% if current_url contains '/calls/demos' %} is-active{% endif %}" href="{{ site.baseurl }}/calls/demos/">Calls for Demos</a>
+</div>

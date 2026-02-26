@@ -1,14 +1,14 @@
-<nav class="navbar navbar-expand-{{ site.conference.navigation.breakpoint | default: 'md' }} navbar-light bg-light mb-3">
+<nav class="navbar navbar-expand-{{ site.conference.navigation.breakpoint | default: 'md' }} navbar-light site-nav">
   <div class="container">
 
-    <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="navbar-brand" href="{{ site.baseurl }}/">Logo AI/CRV</a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav ml-auto">
         {%- for link in site.conference.navigation.links -%}
 
           {%- if link.menu %}
@@ -20,10 +20,14 @@
                 {%- assign parent_link = link -%}
                 {%- for link in parent_link.menu -%}
                   {%- assign link_styleclass = "dropdown-item" -%}
-                  {%- include partials/get_link.html %}
-                  {{ link_tag }}
-                    {{ link.name }}
-                  </a>
+                  {%- if link.absolute_url -%}
+                    <a class="{{ link_styleclass }}" href="{{ link.absolute_url }}" target="_blank">{{ link.name }}</a>
+                  {%- else -%}
+                    {%- include partials/get_link.html %}
+                    {{ link_tag }}
+                      {{ link.name }}
+                    </a>
+                  {%- endif -%}
                 {%- endfor %}
               </div>
             </li>
@@ -94,6 +98,7 @@
           {%- endif -%}
         {%- endfor %}
       </ul>
+      <a class="btn btn-solid nav-register" href="https://sfu.ungerboeck.net/prod/emc00/PublicSignIn.aspx?&aat=2b4f4836445a426d6a59775969304a6e4f6f4d48377864594a326e71783557612b6d4f39627057783459383d" target="_blank">Register</a>
     </div>
 
     {%- if site.conference.navigation.logo %}

@@ -5,6 +5,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aicrv.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 
+
 # theme: jekyll-theme-conference
 
 
@@ -64,6 +65,13 @@ defaults:
       layout: committee
 
 
+  # ------------------------------------------------------------------
+  # Countdown banner toggle
+  # Set to true to show the countdown banner on the homepage.
+  # Set to false (or remove) to hide it.
+  # ------------------------------------------------------------------
+show_countdown_banner: false
+
 conference:
 
   # Language
@@ -83,36 +91,62 @@ conference:
 #      url: 'https://aicrv.github.io'
     breakpoint: md
     links:
-      - name: Calls for Participation
+      - name: Attending AI/CRV
         menu:
-          - name: Call for Workshops
+          - name: Schedule
+            relative_url: /#program
+          - name: Venue
+            relative_url: /#venue
+          - name: Speakers
+            relative_url: /speakers/
+          - name: Campus Map
+            absolute_url: "https://roomfinder.sfu.ca/apps/sfuroomfinder_web/"
+          - name: Accommodation
+            relative_url: /accommodation/
+          - name: Registration
+            absolute_url: "https://sfu.ungerboeck.net/prod/emc00/PublicSignIn.aspx?&aat=2b4f4836445a426d6a59775969304a6e4f6f4d48377864594a326e71783557612b6d4f39627057783459383d"
+      - name: Calls for Contributions
+        menu:
+          - name: Calls for Papers
+            relative_url: /calls/papers-ai/
+          - name: Calls for Workshops
             relative_url: /calls/workshops/
-          - name: Call for Nectar Track
+          - name: Calls for Nectar Track Contributions
             relative_url: /calls/nectar-track/
-          - name: Call for Papers (CRV)
-            relative_url: /calls/papers-crv/
-          - name: Call for Papers (AI)
-            relative_url: https://www.caiac.ca/en/conferences/canadianai-2026/call-papers
-          - name: Call for Demos
+          - name: Calls for Demos
             relative_url: /calls/demos/
       - name: Program
-        relative_url: /program/
-      - name: Talks
-        relative_url: /talks/
-      - name: Speakers
-        relative_url: /speakers/
-      - name: Location
-        relative_url: /location/
-      - name: Committee
-        relative_url: /committee/
-      - name: Sponsoring
-        relative_url: /sponsorship/
-      - name: Previous Editions
         menu:
-          - name: 2026 (current)
-            disabled: true
-          - name: 2025
-            relative_url: /_archives/2025/1759604183.819294/www.ai-crv.ca/
+          - name: Canadian AI
+            relative_url: /program/
+          - name: Student Symposium
+            relative_url: /program/student-symposium/
+          - name: Workshops
+            relative_url: /program/workshops/
+          - name: Conference on Robots & Vision
+            relative_url: /program/robots-vision/
+          - name: "Workshop: Responsible AI Track"
+            relative_url: /program/workshops/responsible-ai-track/
+          - name: "Workshop: Industry Track"
+            relative_url: /program/workshops/industry-track/
+          - name: "Workshop: Data and Model Protection in Generative AI"
+            relative_url: /program/workshops/data-model-protection/
+          - name: "Workshop: AI Strategy and Governance in Business"
+            relative_url: /program/workshops/ai-strategy-governance/
+          - name: "Workshop: AI for Science and Remote Sensing"
+            relative_url: /program/workshops/ai-science-remote-sensing/
+          - name: "Workshop: AI in Banking"
+            relative_url: /program/workshops/ai-in-banking/
+      - name: Organizers
+        menu:
+          - name: Conference Organizers
+            relative_url: /committee/
+          - name: Workshop Organizers
+            relative_url: /committee/workshop-organizers/
+      - name: Sponsorship
+        relative_url: /sponsorship/
+      - name: Accommodation
+        relative_url: /accommodation/
 
   # Link Preview for Sharing
   link_preview:

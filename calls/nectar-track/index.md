@@ -1,66 +1,71 @@
 ---
-layout: page
+layout: calls
+hero_title: Canadian AI/Robots & Vision Conference 2026
+hero_subtitle: Calls for Nectar Track Contributions
+hero_image: /assets/img/P4_1_101201.jpg
+hero_alt: Students collaborating in a meeting room
 redirect_from:
   - /nectar-track/
 ---
 
-## Call for Nectar Track Contributions at CAI \+ CRV
+<div class="calls-row">
+  <div class="calls-heading">
+    <h2>Calls for Nectar Track Contributions</h2>
+  </div>
+  <div class="calls-copy">
+    <p>The Nectar Track highlights emerging ideas and recently published work across machine learning, NLP, robotics, and computer vision. It brings together researchers and practitioners at all career stages for fast, collaborative exchange.</p>
+    <p>Two non-archival tracks are available: a Spotlight Track for recently accepted papers and an Exploration Edge Track for early-stage research.</p>
+  </div>
+</div>
 
-The **Canadian AI Conference (CAI)** and **Conference on Robotics and Vision (CRV),** scheduled to take place jointly at **SFU Burnaby (Vancouver BC)** from **May 25–29, 2026**, invite you to participate in the Nectar Track Sessions. These sessions aim to bring together participants across all career stages to foster collaboration, innovation, and professional growth while spotlighting emerging ideas and exceptional research in AI related fields. We welcome your contributions to two unique opportunities designed to engage and inspire the Canadian AI community. Participants without papers at Canadian AI/CRV 2026 will be given priority for the Nectar Track.
+<div class="calls-row">
+  <div class="calls-heading">
+    <h3>Submission Details</h3>
+  </div>
+  <div class="calls-copy">
+    <ul>
+      <li>Select Spotlight Track or Exploration Edge Track</li>
+      <li>Provide title, author list, and affiliations</li>
+      <li>Spotlight Track: include paper link and venue details</li>
+      <li>Exploration Edge Track: submit a one-page abstract and optional video</li>
+      <li>List presentation and logistics needs (poster, A/V)</li>
+    </ul>
+  </div>
+</div>
 
-We will accept papers on machine learning, natural language processing, robotics, and computer vision to two tracks: the spotlight track for recently published and accepted work, and the exploration edge track for presenting preliminary work. There will be two application rounds: **Dec. 15 2025** and **Mar. 30 2026**. Both tracks are <u>non-archival</u>. Submission is lightweight:
+<div class="calls-row">
+  <div class="calls-heading">
+    <h3>Publication and Presentation</h3>
+  </div>
+  <div class="calls-copy">
+    <p>Submissions are reviewed for relevance, clarity, and potential impact. Accepted Spotlight contributions may be featured as oral presentations with optional posters, while Exploration Edge submissions are presented in a dedicated poster session.</p>
+    <p>All presenters must attend in person at Canadian AI/CRV 2026.</p>
+  </div>
+</div>
 
-**Please complete this [form](https://forms.gle/zsF2Ggbi2tvbFLLx9) by the deadline to submit\!**
+<div class="calls-dates">
+  <h3>Important Dates</h3>
+  <div class="date-grid">
+    <div class="date-card">
+      <strong>Round 1 Deadline</strong>
+      <span>December 15, 2025</span>
+    </div>
+    <div class="date-card">
+      <strong>Round 1 Decisions</strong>
+      <span>January 5, 2026</span>
+    </div>
+    <div class="date-card">
+      <strong>Round 2 Deadline</strong>
+      <span>March 30, 2026</span>
+    </div>
+    <div class="date-card">
+      <strong>Round 2 Decisions</strong>
+      <span>April 3, 2026</span>
+    </div>
+  </div>
+</div>
 
-If you have a demo, please submit to the [demo track](../demos/)!
-
-### **1\. Spotlight Track on Recently Published and Accepted Papers**
-
-#### **Objective** 
-
-This session showcases outstanding papers in AI (machine learning, NLP, robotics, and vision) accepted at top-tier conferences and journals (e.g., AISTATS, ICML, NeurIPS, ICLR, TMLR, JMLR, ACL, EMNLP, COLM, COLT, ICRA, IROS, RSS, CORL, CVPR, ICCV, ECCV, TPAMI, SIGGRAPH, SIGGRAPH Asia, etc). The goal is to increase their visibility and encourage diverse participation and engagement within the community.
-
-#### **Event Details**
-
-* Papers selected by the organizing committee will be featured as oral presentations.
-* Authors will additionally have the option to bring posters to facilitate further discussion and interaction with the audience.
-* Interactive Q&A sessions and dynamic poster discussions will actively engage students and participants.
-
-#### **How to Apply**
-
-Authors should complete this [**form**](https://forms.gle/zsF2Ggbi2tvbFLLx9) and include a link to their paper and details of the conference where it was accepted by the deadline. Submissions will be evaluated by a committee based on originality, significance, and impact. All participants must present their papers in-person at Canadian AI or CRV 2026\.
-
-### **2\. Exploration Edge Track**
-
-#### **Objective** 
-(i) present preliminary ideas, (ii) share hurdles and lessons learned, (iii) propose bold research directions, and (iv) receive feedback while engaging with peers, mentors, and industry.
-
-A  poster session for students and early-stage researchers to present preliminary ideas, share hurdles, suggest brave new directions, and share learned insights from past and ongoing projects as well as gain valuable feedback, and engage with peers, mentors, and industry professionals. This initiative fosters innovation and professional growth for the next generation of researchers.
-
-#### **Event Details**
-
-* Selected participants will present their ideas during a dedicated poster session, interacting with senior researchers and industry representatives.
-* Each presenter may be paired with a mentor for personalized feedback.
-
-#### **How to Apply**
-
-Submit the [**form**](https://forms.gle/zsF2Ggbi2tvbFLLx9) with a one-page abstract (optional second page for figures; references excluded) and an optional video by the deadline. Evaluation criteria: originality, feasibility, and potential impact. All presenters must participate in person with posters at Canadian AI or CRV 2026\.
-
-### **Important Dates**
-
-* Round 1 Deadline: ~~December 5~~ December 15, 2025
-* Round 1 Decisions: ~~December 19~~ January 5, 2026
-* Round 2 Deadline: March 30, 2026  
-* Round 2 Decisions: April 3, 2026
-
-### **Contact**
-
-We encourage you to participate in these exciting events, which aim to enrich the Canadian AI community.
-
-For any queries, please contact the Canadian AI/CRV 2026 Nectar Track Chairs:
-[aicrv2026nectar@googlegroups.com](mailto:aicrv2026nectar@googlegroups.com)
-
-Amy Wu (Robotics), Queen's University  
-Angel Chang (NLP), SFU  
-Danica Sutherland (ML), UBC  
-Evan Shelhamer (Vision), UBC
+<div class="calls-submit">
+  <a class="btn btn-dark btn-sm" href="https://forms.gle/zsF2Ggbi2tvbFLLx9">Submit</a>
+  <p class="calls-copy">Questions: aicrv2026nectar@googlegroups.com</p>
+</div>

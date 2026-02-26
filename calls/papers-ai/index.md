@@ -1,4 +1,54 @@
 ---
-layout: page
+layout: calls
+hero_title: Canadian AI/Robots & Vision Conference 2026
+hero_subtitle: Calls for Papers
+hero_image: /assets/img/P2_1_100945.jpg
+hero_alt: Students collaborating around laptops
 ---
 
+<div class="calls-row">
+  <div class="calls-heading">
+    <h2>Calls for Papers</h2>
+  </div>
+  <div class="calls-copy">
+    <p>Canadian AI and CRV invite submissions across artificial intelligence, robotics, and computer vision. Papers are reviewed for technical quality, novelty, and clarity, with accepted work presented at the conference.</p>
+    <p>Select the track that best fits your work. Each track below includes its own scope, deadlines, and submission requirements.</p>
+  </div>
+</div>
+
+<div class="calls-papers-grid">
+  <div class="calls-card" id="canadian-ai">
+    <div class="calls-card-media">
+      <img src="/assets/img/P2_2_1_101084.png" alt="Conference attendees listening to a talk">
+    </div>
+    <div class="calls-card-body">
+      <h3>Canadian AI Conference</h3>
+      <p>Submit full papers, short papers, and reports covering artificial intelligence, machine learning, natural language processing, and more.</p>
+      <a class="btn btn-dark btn-sm" href="https://www.caiac.ca/en/conferences/canadianai-2026/call-papers">More Info</a>
+    </div>
+  </div>
+
+  <div class="calls-card is-reverse" id="student-symposium">
+    <div class="calls-card-media">
+      <img src="/assets/img/P2_2_2_101206.png" alt="Students collaborating in a workshop setting">
+    </div>
+    <div class="calls-card-body">
+      <h3>Canadian AI Conference</h3>
+      <p><strong>Student Symposium</strong></p>
+      <p>Early-stage researchers and students are invited to share emerging work, receive feedback, and connect with peers.</p>
+      <a class="btn btn-dark btn-sm" href="https://www.caiac.ca/en/conferences/canadianai-2026/graduate-student-symposium">More Info</a>
+    </div>
+  </div>
+
+  <div class="calls-card" id="crv">
+    <div class="calls-card-media">
+      <img src="/assets/img/P2_2_3_101215.png" alt="Robotics and vision hardware close-up">
+    </div>
+    <div class="calls-card-body">
+      <h3>Conference on Robots &amp; Vision</h3>
+      <p><strong>Robotics and Vision</strong></p>
+      <p>Share advances in robotics, computer vision, and related systems through archival papers and oral presentations.</p>
+      <a class="btn btn-dark btn-sm" href="{{ site.baseurl }}/calls/papers-crv/">More Info</a>
+    </div>
+  </div>
+</div>
