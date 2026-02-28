@@ -3,12 +3,12 @@
 #          https://www.computerrobotvision.org/invited.html
 
 canadian_ai:
-  - name: Kevin Leyton-Brown
-    affiliation: The University of British Columbia (UBC), Vancouver
+  - name: Dr. Kevin Leyton-Brown
+    affiliation: The University of British Columbia (UBC)
     talk: "Algorithm synthesis with theoretical guarantees"
     url: "https://www.caiac.ca/en/conferences/canadianai-2026/invited-speakers"
     photo: "https://www.caiac.ca/sites/default/files/basic_attachments/kevin-leyton-brown.png"
-  - name: Sheila McIlraith
+  - name: Dr. Sheila McIlraith
     affiliation: University of Toronto
     talk: "Talk title to be announced"
     url: "https://www.caiac.ca/en/conferences/canadianai-2026/invited-speakers"
@@ -16,12 +16,12 @@ canadian_ai:
 
 crv_keynotes:
   - name: Dr. Mac Schwager
-    affiliation: Stanford University (Aeronautics and Astronautics)
+    affiliation: Stanford University
     role: Keynote
     url: "https://www.computerrobotvision.org/invited.html"
     photo: "https://www.computerrobotvision.org/assets/img/people/schwager.png"
   - name: Dr. Ian Stavness
-    affiliation: University of Saskatchewan (Computer Science)
+    affiliation: University of Saskatchewan
     role: Keynote
     url: "https://www.computerrobotvision.org/invited.html"
     photo: "https://www.computerrobotvision.org/assets/img/people/stavness.png"
@@ -33,12 +33,12 @@ crv_symposium:
     url: "https://www.computerrobotvision.org/invited.html"
     photo: "https://www.computerrobotvision.org/assets/img/people/ojala.jpg"
   - name: Dr. Mahdis Bisheban
-    affiliation: University of Calgary (Mechanical and Manufacturing Engineering)
+    affiliation: University of Calgary
     role: Symposium
     url: "https://www.computerrobotvision.org/invited.html"
     photo: "https://www.computerrobotvision.org/assets/img/people/bisheban.jpg"
   - name: Dr. Yani Ioannou
-    affiliation: University of Calgary (Schulich School of Engineering)
+    affiliation: University of Calgary
     role: Symposium
     url: "https://www.computerrobotvision.org/invited.html"
     photo: "https://www.computerrobotvision.org/assets/img/people/ioannou.jpg"

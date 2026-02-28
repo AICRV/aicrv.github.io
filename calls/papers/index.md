@@ -1,6 +1,6 @@
 ---
 layout: calls
-hero_title: Canadian AI/Robots & Vision Conference 2026
+hero_title: Canadian Conference on AI, Robots & Vision (AI/CRV) 2026
 hero_subtitle: Calls for Papers
 hero_image: /assets/img/P2_1_100945.jpg
 hero_alt: Students collaborating around laptops
@@ -28,7 +28,18 @@ hero_alt: Students collaborating around laptops
     </div>
   </div>
 
-  <div class="calls-card is-reverse" id="student-symposium">
+  <div class="calls-card is-reverse" id="crv">
+    <div class="calls-card-media">
+      <img src="/assets/img/P2_2_3_101215.png" alt="Robotics and vision hardware close-up">
+    </div>
+    <div class="calls-card-body">
+      <h3>Conference on Robots &amp; Vision</h3>
+      <p>Share advances in robotics, computer vision, and related systems through archival papers and oral presentations.</p>
+      <a class="btn btn-dark btn-sm" href="https://www.computerrobotvision.org/submission.html">More Info</a>
+    </div>
+  </div>
+
+  <div class="calls-card" id="student-symposium">
     <div class="calls-card-media">
       <img src="/assets/img/P2_2_2_101206.png" alt="Students collaborating in a workshop setting">
     </div>
@@ -37,18 +48,6 @@ hero_alt: Students collaborating around laptops
       <p><strong>Student Symposium</strong></p>
       <p>Early-stage researchers and students are invited to share emerging work, receive feedback, and connect with peers.</p>
       <a class="btn btn-dark btn-sm" href="https://www.caiac.ca/en/conferences/canadianai-2026/graduate-student-symposium">More Info</a>
-    </div>
-  </div>
-
-  <div class="calls-card" id="crv">
-    <div class="calls-card-media">
-      <img src="/assets/img/P2_2_3_101215.png" alt="Robotics and vision hardware close-up">
-    </div>
-    <div class="calls-card-body">
-      <h3>Conference on Robots &amp; Vision</h3>
-      <p><strong>Robotics and Vision</strong></p>
-      <p>Share advances in robotics, computer vision, and related systems through archival papers and oral presentations.</p>
-      <a class="btn btn-dark btn-sm" href="{{ site.baseurl }}/calls/papers-crv/">More Info</a>
     </div>
   </div>
 </div>

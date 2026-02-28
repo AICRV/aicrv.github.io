@@ -1,6 +1,6 @@
 ---
 layout: calls
-hero_title: Canadian AI/Robots & Vision Conference 2026
+hero_title: Canadian Conference on AI, Robots & Vision (AI/CRV) 2026
 hero_subtitle: Calls for Nectar Track Contributions
 hero_image: /assets/img/P4_1_101201.jpg
 hero_alt: Students collaborating in a meeting room

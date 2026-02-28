@@ -301,7 +301,7 @@ layout: page
     <div class="calls-hero-media" role="img" aria-label="Sponsorship"></div>
     <div class="aicrv-banner-panel" aria-hidden="true"></div>
     <div class="aicrv-banner-text">
-      <h1>Canadian AI/Robots & Vision Conference 2026</h1>
+      <h1>Canadian Conference on AI, Robots &amp; Vision (AI/CRV) 2026</h1>
       <p class="aicrv-banner-meta">Sponsorship</p>
     </div>
   </section>
@@ -311,7 +311,7 @@ layout: page
     <div class="become-sponsor-inner">
       <h2 class="become-sponsor-title">Become A Sponsor</h2>
       <div class="become-sponsor-content">
-        <p>Join us in supporting the Canadian AI/Robots & Vision Conference 2026. Your sponsorship helps bring together researchers, industry leaders, and students to advance the fields of artificial intelligence, robotics, and computer vision. Connect with top talent, showcase your organization, and contribute to cutting-edge research initiatives.</p>
+        <p>Join us in supporting the Canadian Conference on AI, Robots &amp; Vision (AI/CRV) 2026. Your sponsorship helps bring together researchers, industry leaders, and students to advance the fields of artificial intelligence, robotics, and computer vision. Connect with top talent, showcase your organization, and contribute to cutting-edge research initiatives.</p>
         <a href="mailto:sponsor@ai-crv.ca?subject=Sponsorship Inquiry" class="btn-contact">Contact Us</a>
       </div>
     </div>
@@ -467,6 +467,19 @@ layout: page
     </div>
   </section>
 
+  <!-- Full PDF Brochure -->
+  <section class="become-sponsor-section" style="padding-top: 40px;">
+    <div class="tiers-inner">
+      <h2 class="become-sponsor-title" style="text-align: center; margin-bottom: 24px;">Full Sponsorship Brochure</h2>
+      <p style="text-align: center; margin-bottom: 24px; color: #4b4f5e;">View or download the complete sponsorship package.</p>
+      <div style="max-width: 900px; margin: 0 auto;">
+        <object data="{{ site.baseurl }}/assets/pdf/sponsorship.pdf" type="application/pdf" width="100%" height="800" style="border-radius: 12px; border: 1px solid #e6e7ef;">
+          <p>Your browser does not support PDF embedding. <a href="{{ site.baseurl }}/assets/pdf/sponsorship.pdf" target="_blank" rel="noopener">Download the PDF</a>.</p>
+        </object>
+      </div>
+    </div>
+  </section>
+
   <!-- Meet Our Sponsor Partners -->
   <section class="sponsors-partners-section">
     <div class="sponsors-partners-inner">
@@ -487,19 +500,6 @@ layout: page
       </div>
       <div class="sponsors-partners-cta">
         <a href="mailto:sponsor@ai-crv.ca?subject=Sponsorship Inquiry">Become a Sponsor <span>›</span></a>
-      </div>
-    </div>
-  </section>
-
-  <!-- Full PDF Brochure -->
-  <section class="become-sponsor-section" style="padding-top: 40px;">
-    <div class="tiers-inner">
-      <h2 class="become-sponsor-title" style="text-align: center; margin-bottom: 24px;">Full Sponsorship Brochure</h2>
-      <p style="text-align: center; margin-bottom: 24px; color: #4b4f5e;">View or download the complete sponsorship package.</p>
-      <div style="max-width: 900px; margin: 0 auto;">
-        <object data="{{ site.baseurl }}/assets/pdf/sponsorship.pdf" type="application/pdf" width="100%" height="800" style="border-radius: 12px; border: 1px solid #e6e7ef;">
-          <p>Your browser does not support PDF embedding. <a href="{{ site.baseurl }}/assets/pdf/sponsorship.pdf" target="_blank" rel="noopener">Download the PDF</a>.</p>
-        </object>
       </div>
     </div>
   </section>

@@ -1,7 +1,7 @@
 ---
 layout: subpage
 title: Speakers
-hero_title: Canadian AI/Robots & Vision Conference 2026
+hero_title: Canadian Conference on AI, Robots & Vision (AI/CRV) 2026
 hero_subtitle: Invited Speakers
 hero_image: /assets/img/P2_1_100945.jpg
 hero_alt: Conference speakers

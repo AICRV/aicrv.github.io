@@ -1,7 +1,7 @@
 ---
 layout: subpage
 title: Responsible AI Track
-hero_title: Canadian AI/Robots & Vision Conference 2026
+hero_title: Canadian Conference on AI, Robots & Vision (AI/CRV) 2026
 hero_subtitle: Workshops
 hero_image: /assets/img/P9_1_101291.jpg
 hero_alt: Workshop participants collaborating

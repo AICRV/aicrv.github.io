@@ -1,6 +1,6 @@
 ---
 layout: calls
-hero_title: Canadian AI/Robots & Vision Conference 2026
+hero_title: Canadian Conference on AI, Robots & Vision (AI/CRV) 2026
 hero_subtitle: Calls for Workshops
 hero_image: /assets/img/P3_1_101085.jpg
 hero_alt: Conference attendees in lecture hall

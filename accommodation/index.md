@@ -270,7 +270,7 @@ layout: page
     <div class="calls-hero-media" role="img" aria-label="Accommodation"></div>
     <div class="aicrv-banner-panel" aria-hidden="true"></div>
     <div class="aicrv-banner-text">
-      <h1>Canadian AI/Robots & Vision Conference 2026</h1>
+      <h1>Canadian Conference on AI, Robots & Vision (AI/CRV) 2026</h1>
       <p class="aicrv-banner-meta">Accommodation</p>
     </div>
   </section>

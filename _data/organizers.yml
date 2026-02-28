@@ -31,20 +31,30 @@ gss_chairs:
     url: "https://carleton.ca/cognitivescience/people/tara-azin/"
     photo: "https://carleton.ca/cognitivescience/wp-content/uploads/rsz_taraazin_003-200x200.jpg"
 
+crv_program_chairs:
+  - name: Katie Ovens
+    affiliation: University of Calgary
+    url: "https://profiles.ucalgary.ca/katie-ovens"
+    photo: "https://profiles.ucalgary.ca/sites/default/files/styles/ucws_profile_picture/public/2021-12/katie_profile_picture.jpg?itok=oh8XoEmI"
+  - name: Reza Faieghi
+    affiliation: Toronto Metropolitan University
+    url: "https://www.torontomu.ca/aerospace/people/faculty/reza-faieghi/"
+    photo: "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=42gBGR4AAAAJ&citpid=22"
+
 sponsorship_chairs:
   - name: Luiza Antonie
     affiliation: School of Computer Science, University of Guelph; CAIAC Treasurer
     email: "treasurer@caiac.ca"
     url: "https://www.uoguelph.ca/computing/people/luiza-antonie"
     photo: "https://api.liveugconthub.uoguelph.dev/sites/default/files/migration/ug_profile/files/Antonie%2C%20Luiza%203836%20crop.jpg"
-  - name: Jun Jin
-    affiliation: Electrical & Computer Engineering, University of Alberta; Amii
-    url: "https://apps.ualberta.ca/directory/person/jjin5"
-    photo: "/assets/img/organizers/jun-jin.png"
   - name: Lueder Kahrs
     affiliation: Institute of Biomedical Engineering, University of Toronto
     url: "https://bme.utoronto.ca/faculty-research/core-faculty/lueder-kahrs/"
     photo: "https://bme.utoronto.ca/wp-content/uploads/2022/06/Lueder_Kahrs_500px.jpg"
+  - name: Jun Jin
+    affiliation: Electrical & Computer Engineering, University of Alberta; Amii
+    url: "https://apps.ualberta.ca/directory/person/jjin5"
+    photo: "/assets/img/organizers/jun-jin.png"
 
 finance_chair:
   - name: Hang Ma
@@ -61,6 +71,42 @@ publicity_chairs:
     affiliation: University of British Columbia; Vector Institute
     url: "https://ece.ubc.ca/renjie-liao/"
     photo: "/assets/img/organizers/renjie-liao.png"
+
+workshop_chair:
+  - name: Yaoliang Yu
+    affiliation: University of Waterloo
+    url: "https://cs.uwaterloo.ca/~y328yu/"
+    photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQex6-ECzOrJOhSrL4wMGR_z2HBQ2DXRRRbjhL4HyANOwx1dY03JxVIEjWpBK7iJrICdUZHYw&s"
+
+demo_chair:
+  - name: Alexandre Girard
+    affiliation: Université de Sherbrooke
+    url: "https://www.alexandregirard.com/"
+    photo: "https://sari.usherbrooke.ca/r4:5-mw450-mh450/intranet-recherche/fileadmin/sites/intranet-recherche/images/specialistes/869831.jpg"
+
+nectar_track_chairs:
+  - name: Amy Wu
+    affiliation: Queen's University
+    url: "https://smithengineering.queensu.ca/directory/faculty/amy-wu.html"
+    photo: "https://smithengineering.queensu.ca/directory/_images/wu_amy-480x480.jpg"
+  - name: Angel Chang
+    affiliation: Simon Fraser University
+    url: "https://angelxuanchang.github.io/"
+    photo: "https://angelxuanchang.github.io/files/angel.jpg"
+  - name: Danica Sutherland
+    affiliation: University of British Columbia
+    url: "https://djsutherland.ml/"
+    photo: "https://www.cs.ubc.ca/sites/default/files/styles/profile_page/public/people/md1-4221.JPG?h=d30407f1&itok=8mb9XjPY"
+  - name: Evan Shelhamer
+    affiliation: University of British Columbia
+    url: "https://imaginarynumber.net/"
+    photo: "https://vectorinstitute.ai/wp-content/uploads/2025/01/Evan-Shelhamer-2-1600x0-c-default.png"
+
+international_engagement_chair:
+  - name: Wenhu Chen
+    affiliation: University of Waterloo
+    url: "https://wenhuchen.github.io/"
+    photo: "https://wenhuchen.github.io/images/headshot.jpg"
 
 industry_chair:
   - name: Annie T.T. Ying
@@ -80,6 +126,18 @@ registration_chair:
     url: "https://yasaman-etesam.github.io/"
     photo: "https://yasaman-etesam.github.io/assets/img/aboutme.png"
 
+caiac_treasurer:
+  - name: Luiza Antonie
+    affiliation: School of Computer Science, University of Guelph
+    url: "https://www.uoguelph.ca/computing/people/luiza-antonie"
+    photo: "https://api.liveugconthub.uoguelph.dev/sites/default/files/migration/ug_profile/files/Antonie%2C%20Luiza%203836%20crop.jpg"
+
+cipprs_treasurer:
+  - name: Steven Waslander
+    affiliation: University of Toronto
+    url: "https://www.trailab.utias.utoronto.ca/steven-waslander"
+    photo: "https://static.wixstatic.com/media/40d842_4cffddcc125144029f807881acfef2d5~mv2.jpg/v1/crop/x_0,y_0,w_451,h_338/fill/w_280,h_210,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/steve-waslander-NSERC-2018.jpg"
+
 assistants:
   - name: Anthony Cheng Xian
     affiliation: University of British Columbia
@@ -87,3 +145,9 @@ assistants:
     affiliation: University of British Columbia
   - name: Kaiwen Liu
     affiliation: University of British Columbia
+  - name: Zhejun Yang
+    affiliation: Sheridan College
+  - name: Nataliia Golovachova
+    affiliation: Simon Fraser University
+  - name: Nimz Vu
+    affiliation: Simon Fraser University

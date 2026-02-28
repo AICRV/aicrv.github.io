@@ -106,7 +106,7 @@ conference:
       - name: Calls for Contributions
         menu:
           - name: Calls for Papers
-            relative_url: /calls/papers-ai/
+            relative_url: /calls/papers/
           - name: Calls for Workshops
             relative_url: /calls/workshops/
           - name: Calls for Nectar Track Contributions
@@ -117,23 +117,23 @@ conference:
         menu:
           - name: Canadian AI
             relative_url: /program/
+          - name: Conference on Robots & Vision
+            relative_url: /program/robots-vision/
           - name: Student Symposium
             relative_url: /program/student-symposium/
           - name: Workshops
             relative_url: /program/workshops/
-          - name: Conference on Robots & Vision
-            relative_url: /program/robots-vision/
-          - name: "Workshop: Responsible AI Track"
+          - name: "   Responsible AI Track"
             relative_url: /program/workshops/responsible-ai-track/
-          - name: "Workshop: Industry Track"
+          - name: "   Industry Track"
             relative_url: /program/workshops/industry-track/
-          - name: "Workshop: Data and Model Protection in Generative AI"
+          - name: "   Data and Model Protection in Generative AI"
             relative_url: /program/workshops/data-model-protection/
-          - name: "Workshop: AI Strategy and Governance in Business"
+          - name: "   AI Strategy and Governance in Business"
             relative_url: /program/workshops/ai-strategy-governance/
-          - name: "Workshop: AI for Science and Remote Sensing"
+          - name: "   AI for Science and Remote Sensing"
             relative_url: /program/workshops/ai-science-remote-sensing/
-          - name: "Workshop: AI in Banking"
+          - name: "   AI in Banking"
             relative_url: /program/workshops/ai-in-banking/
       - name: Organizers
         menu:

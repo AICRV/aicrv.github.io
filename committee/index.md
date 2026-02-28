@@ -1,7 +1,7 @@
 ---
 layout: subpage
 title: Conference Organizers
-hero_title: Canadian AI/Robots & Vision Conference 2026
+hero_title: Canadian Conference on AI, Robots & Vision (AI/CRV) 2026
 hero_subtitle: Conference Organizers
 hero_image: /assets/img/P10_1_101060.jpg
 hero_alt: Campus walkway scene
@@ -14,7 +14,7 @@ tabs_include: partials/organizer_tabs.html
       <h2>Conference Organizers</h2>
     </div>
     <div class="section-body">
-      <p>AI/CRV 2026 is organized by the Canadian Artificial Intelligence Association (CAIAC) and the Conference on Robots and Vision. Committee details are also available on the <a href="https://www.caiac.ca/en/conferences/canadianai-2026/committees" target="_blank" rel="noopener">CAIAC committees page</a>.</p>
+      <p>AI/CRV 2026 is organized by the Canadian Artificial Intelligence Association (CAIAC) and the Canadian Image Processing and Pattern Recognition Society (CIPPRS).</p>
     </div>
   </div>
 
@@ -37,24 +37,36 @@ tabs_include: partials/organizer_tabs.html
       <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
       <h3>{{ o.name }}</h3>
       <p>{{ o.affiliation }}</p>
-      <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
+      {% if o.url != "" %}<a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>{% endif %}
     </div>
     {% endfor %}
   </div>
 
-  <h3 class="h5 mt-4 mb-3">Graduate Student Symposium Track Chairs</h3>
+  <h3 class="h5 mt-4 mb-3">CRV Program Chairs</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.crv_program_chairs %}
+    <div class="organizer-card">
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
+      {% if o.url != "" %}<a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>{% endif %}
+    </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">AI Graduate Student Symposium Track Chairs</h3>
   <div class="organizer-grid">
     {% for o in site.data.organizers.gss_chairs %}
     <div class="organizer-card">
       <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
       <h3>{{ o.name }}</h3>
       <p>{{ o.affiliation }}</p>
-      <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
+      {% if o.url != "" %}<a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>{% endif %}
     </div>
     {% endfor %}
   </div>
 
-  <h3 class="h5 mt-4 mb-3">Sponsorship Chairs</h3>
+  <h3 class="h5 mt-4 mb-3">AI/CRV Sponsorship Chairs</h3>
   <div class="organizer-grid">
     {% for o in site.data.organizers.sponsorship_chairs %}
     <div class="organizer-card">
@@ -62,7 +74,7 @@ tabs_include: partials/organizer_tabs.html
       <h3>{{ o.name }}</h3>
       <p>{{ o.affiliation }}</p>
       {% if o.email %}<p class="small"><a href="mailto:{{ o.email }}">{{ o.email }}</a></p>{% endif %}
-      <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
+      {% if o.url != "" %}<a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>{% endif %}
     </div>
     {% endfor %}
   </div>
@@ -74,7 +86,7 @@ tabs_include: partials/organizer_tabs.html
       <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
       <h3>{{ o.name }}</h3>
       <p>{{ o.affiliation }}</p>
-      <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
+      {% if o.url != "" %}<a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>{% endif %}
     </div>
     {% endfor %}
   </div>
@@ -86,31 +98,79 @@ tabs_include: partials/organizer_tabs.html
       <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
       <h3>{{ o.name }}</h3>
       <p>{{ o.affiliation }}</p>
-      <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
+      {% if o.url != "" %}<a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>{% endif %}
     </div>
     {% endfor %}
   </div>
 
-  <h3 class="h5 mt-4 mb-3">Industry Chair</h3>
+  <h3 class="h5 mt-4 mb-3">AI/CRV Workshop Chair</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.workshop_chair %}
+    <div class="organizer-card">
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
+      {% if o.url != "" %}<a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>{% endif %}
+    </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">AI/CRV Demo Chair</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.demo_chair %}
+    <div class="organizer-card">
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
+      {% if o.url != "" %}<a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>{% endif %}
+    </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">AI/CRV Nectar Track Chairs</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.nectar_track_chairs %}
+    <div class="organizer-card">
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
+      {% if o.url != "" %}<a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>{% endif %}
+    </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">AI/CRV International Engagement Chair</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.international_engagement_chair %}
+    <div class="organizer-card">
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
+      {% if o.url != "" %}<a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>{% endif %}
+    </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">AI Industry Track Chair</h3>
   <div class="organizer-grid">
     {% for o in site.data.organizers.industry_chair %}
     <div class="organizer-card">
       <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
       <h3>{{ o.name }}</h3>
       <p>{{ o.affiliation }}</p>
-      <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
+      {% if o.url != "" %}<a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>{% endif %}
     </div>
     {% endfor %}
   </div>
 
-  <h3 class="h5 mt-4 mb-3">AI/CRV Local Arrangement Chair</h3>
+  <h3 class="h5 mt-4 mb-3">AI/CRV Local Arrangements Chair</h3>
   <div class="organizer-grid">
     {% for o in site.data.organizers.local_arrangement_chair %}
     <div class="organizer-card">
       <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
       <h3>{{ o.name }}</h3>
       <p>{{ o.affiliation }}</p>
-      <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
+      {% if o.url != "" %}<a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>{% endif %}
     </div>
     {% endfor %}
   </div>
@@ -122,7 +182,31 @@ tabs_include: partials/organizer_tabs.html
       <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
       <h3>{{ o.name }}</h3>
       <p>{{ o.affiliation }}</p>
-      <a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>
+      {% if o.url != "" %}<a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>{% endif %}
+    </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">CAIAC Treasurer</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.caiac_treasurer %}
+    <div class="organizer-card">
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
+      {% if o.url != "" %}<a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>{% endif %}
+    </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">CIPPRS Treasurer</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.cipprs_treasurer %}
+    <div class="organizer-card">
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
+      {% if o.url != "" %}<a href="{{ o.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">Profile</a>{% endif %}
     </div>
     {% endfor %}
   </div>

@@ -1,7 +1,7 @@
 ---
 layout: subpage
 title: Student Symposium
-hero_title: Canadian AI/Robots & Vision Conference 2026
+hero_title: Canadian Conference on AI, Robots & Vision (AI/CRV) 2026
 hero_subtitle: Canadian AI Conference
 hero_image: /assets/img/P7_1_101206.jpg
 hero_alt: Students listening in a lecture hall

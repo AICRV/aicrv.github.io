@@ -1,7 +1,7 @@
 ---
 layout: subpage
 title: Workshop Organizers
-hero_title: Canadian AI/Robots & Vision Conference 2026
+hero_title: Canadian Conference on AI, Robots & Vision (AI/CRV) 2026
 hero_subtitle: Workshop Organizers
 hero_image: /assets/img/P11_1_101211.jpg
 hero_alt: Conference venue exterior

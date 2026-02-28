@@ -1,7 +1,7 @@
 ---
 layout: subpage
 title: Canadian AI
-hero_title: Canadian AI/Robots & Vision Conference 2026
+hero_title: Canadian Conference on AI, Robots & Vision (AI/CRV) 2026
 hero_subtitle: Canadian AI Conference
 hero_image: /assets/img/P6_1_101084.jpg
 hero_alt: Audience listening to a presentation
