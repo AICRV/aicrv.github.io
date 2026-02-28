@@ -14,7 +14,7 @@ tabs_include: partials/organizer_tabs.html
       <h2>Conference Organizers</h2>
     </div>
     <div class="section-body">
-      <p>AI/CRV 2026 is organized by the Canadian Artificial Intelligence Association (CAIAC) and the Canadian Image Processing and Pattern Recognition Society (CIPPRS).</p>
+      <p>AI/CRV 2026 is organized by the <a href="https://www.caiac.ca/" target="_blank" rel="noopener">Canadian Artificial Intelligence Association (CAIAC)</a> and the <a href="https://www.cipprs.org/" target="_blank" rel="noopener">Canadian Image Processing and Pattern Recognition Society (CIPPRS)</a>.</p>
     </div>
   </div>
 

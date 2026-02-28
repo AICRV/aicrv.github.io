@@ -151,3 +151,25 @@ assistants:
     affiliation: Simon Fraser University
   - name: Nimz Vu
     affiliation: Simon Fraser University
+
+advisory_board:
+  - name: Claire Tomlin
+    affiliation: University of California, Berkeley
+    url: "http://www2.eecs.berkeley.edu/Faculty/Homepages/tomlin.html"
+    photo: "https://www2.eecs.berkeley.edu/Faculty/Photos/Fullsize/tomlin.jpg"
+  - name: Gregory Dudek
+    affiliation: McGill University
+    url: "https://www.mcgill.ca/cim/dudek"
+    photo: "https://www.mcgill.ca/cim/files/cim/styles/medium_focal__220_x_220_/public/dudek_greg.jpg?itok=6arPC9zI"
+  - name: Kevin Murphy
+    affiliation: Google DeepMind
+    url: "https://research.google/people/kevinmurphy/"
+    photo: "https://storage.googleapis.com/gweb-research2023-media/pubtools/307.png"
+  - name: Richard Zemel
+    affiliation: Columbia University
+    url: "https://www.engineering.columbia.edu/faculty-staff/directory/richard-zemel"
+    photo: "https://www.engineering.columbia.edu/sites/default/files/styles/faculty_masthead_image/public/2024-04/Faculty-Richard_Zemel-Faculty-450x450.jpg?itok=_zyVBYmq"
+  - name: Sheila McIlraith
+    affiliation: University of Toronto
+    url: "https://vectorinstitute.ai/team/sheila-mcilraith/"
+    photo: "https://www.cs.toronto.edu/~sheila/img/McIlraith2-lowres.jpg"

@@ -141,6 +141,8 @@ conference:
             relative_url: /committee/
           - name: Workshop Organizers
             relative_url: /committee/workshop-organizers/
+          - name: Advisory Board
+            relative_url: /committee/advisory-board/
       - name: Sponsorship
         relative_url: /sponsorship/
       - name: Accommodation
