@@ -42,11 +42,6 @@ crv_program_chairs:
     photo: "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=42gBGR4AAAAJ&citpid=22"
 
 sponsorship_chairs:
-  - name: Luiza Antonie
-    affiliation: School of Computer Science, University of Guelph; CAIAC Treasurer
-    email: "treasurer@caiac.ca"
-    url: "https://www.uoguelph.ca/computing/people/luiza-antonie"
-    photo: "https://api.liveugconthub.uoguelph.dev/sites/default/files/migration/ug_profile/files/Antonie%2C%20Luiza%203836%20crop.jpg"
   - name: Lueder Kahrs
     affiliation: Institute of Biomedical Engineering, University of Toronto
     url: "https://bme.utoronto.ca/faculty-research/core-faculty/lueder-kahrs/"

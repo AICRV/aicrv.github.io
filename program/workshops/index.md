@@ -15,8 +15,7 @@ active_tab: overview
       <h2>Workshops</h2>
     </div>
     <div class="section-body">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-      <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p>AI/CRV workshops aim to facilitate cross-pollination between different areas of AI and robotics and different fields.</p>
     </div>
   </div>
 </section>
@@ -26,59 +25,57 @@ active_tab: overview
   <div class="program-overview-list">
     <div class="program-overview-card">
       <div>
-        <p class="program-overview-title">Event Title</p>
-        <p>Chair: TBA</p>
+        <p class="program-overview-title">Responsible AI Track</p>
       </div>
       <div class="program-overview-meta">
-        <p><strong>Time:</strong> Lorem ipsum dolor sit amet</p>
-        <p><strong>Room:</strong> Lorem ipsum dolor sit amet</p>
+        <p><strong>Date:</strong> May 26, 2026</p>
+        <p><strong>Room:</strong> TBD</p>
       </div>
     </div>
     <div class="program-overview-card is-plain">
       <div>
-        <p class="program-overview-title">Event Title</p>
-        <p>Chair: TBA</p>
+        <p class="program-overview-title">Industry Track</p>
       </div>
       <div class="program-overview-meta">
-        <p><strong>Time:</strong> Lorem ipsum dolor sit amet</p>
-        <p><strong>Room:</strong> Lorem ipsum dolor sit amet</p>
+        <p><strong>Date:</strong> May 27, 2026</p>
+        <p><strong>Room:</strong> TBD</p>
       </div>
     </div>
     <div class="program-overview-card">
       <div>
-        <p class="program-overview-title">Event Title</p>
-        <p>Chair: TBA</p>
+        <p class="program-overview-title">Data and Model Protection in Generative AI</p>
       </div>
       <div class="program-overview-meta">
-        <p><strong>Time:</strong> Lorem ipsum dolor sit amet</p>
-        <p><strong>Room:</strong> Lorem ipsum dolor sit amet</p>
+        <p><strong>Date:</strong> May 25, 2026</p>
+        <p><strong>Room:</strong> TBD</p>
       </div>
     </div>
-  </div>
-  <div class="calls-submit">
-    <a class="btn btn-dark btn-sm" href="#">Detailed Program</a>
-  </div>
-</section>
-
-<section class="section speakers full-bleed">
-  <div class="container">
-    <div class="speakers-header">
-      <h2>Speakers</h2>
-      <div class="speakers-description">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-      </div>
-    </div>
-    <div class="speaker-feature">
-      <div class="speaker-feature-photo" role="img" aria-label="Speaker portrait placeholder"></div>
+    <div class="program-overview-card is-plain">
       <div>
-        <h3>Speakers</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p class="program-overview-title">AI Strategy and Governance in Business</p>
+      </div>
+      <div class="program-overview-meta">
+        <p><strong>Date:</strong> May 25, 2026</p>
+        <p><strong>Room:</strong> TBD</p>
       </div>
     </div>
-    <div class="speaker-body">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-      <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    <div class="program-overview-card">
+      <div>
+        <p class="program-overview-title">AI for Science and Remote Sensing</p>
+      </div>
+      <div class="program-overview-meta">
+        <p><strong>Date:</strong> May 25, 2026</p>
+        <p><strong>Room:</strong> TBD</p>
+      </div>
+    </div>
+    <div class="program-overview-card is-plain">
+      <div>
+        <p class="program-overview-title">AI in Banking</p>
+      </div>
+      <div class="program-overview-meta">
+        <p><strong>Date:</strong> May 25, 2026</p>
+        <p><strong>Room:</strong> TBD</p>
+      </div>
     </div>
   </div>
 </section>

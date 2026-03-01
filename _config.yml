@@ -123,17 +123,17 @@ conference:
             relative_url: /program/student-symposium/
           - name: Workshops
             relative_url: /program/workshops/
-          - name: "   Responsible AI Track"
+          - name: "&nbsp;&nbsp;&nbsp;&nbsp;Responsible AI Track"
             relative_url: /program/workshops/responsible-ai-track/
-          - name: "   Industry Track"
+          - name: "&nbsp;&nbsp;&nbsp;&nbsp;Industry Track"
             relative_url: /program/workshops/industry-track/
-          - name: "   Data and Model Protection in Generative AI"
+          - name: "&nbsp;&nbsp;&nbsp;&nbsp;Data and Model Protection in Generative AI"
             relative_url: /program/workshops/data-model-protection/
-          - name: "   AI Strategy and Governance in Business"
+          - name: "&nbsp;&nbsp;&nbsp;&nbsp;AI Strategy and Governance in Business"
             relative_url: /program/workshops/ai-strategy-governance/
-          - name: "   AI for Science and Remote Sensing"
+          - name: "&nbsp;&nbsp;&nbsp;&nbsp;AI for Science and Remote Sensing"
             relative_url: /program/workshops/ai-science-remote-sensing/
-          - name: "   AI in Banking"
+          - name: "&nbsp;&nbsp;&nbsp;&nbsp;AI in Banking"
             relative_url: /program/workshops/ai-in-banking/
       - name: Organizers
         menu:

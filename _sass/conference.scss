@@ -90,6 +90,11 @@ ul.btn-group {
   /* (intentionally no manual banner Y offset; keep fully responsive) */
 }
 
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   font-family: 'Manrope', sans-serif;
   color: var(--aicrv-ink);
@@ -167,7 +172,7 @@ main.container {
   letter-spacing: -0.02em;
 
   img {
-    height: 40px;
+    height: 56px;
     width: auto;
   }
 }
@@ -262,7 +267,7 @@ main.container {
   left: 0;
   /* Keep relative position across full/half width by anchoring to hero height */
   top: clamp(60px, 16.5%, 336px); /* 336/1080 ≈ 31.11% */
-  width: min(720px, 100%);
+  width: min(820px, 100%);
   height: clamp(220px, 42.1296%, 455px); /* 455/1080 ≈ 42.13% */
   background: rgba(192, 49, 95, 0.5);
   border-radius: 0;
