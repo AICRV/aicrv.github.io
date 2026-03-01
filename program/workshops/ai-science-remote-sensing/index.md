@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: AI for Science and Remote Sensing
+title: AI for Science and Sustainability
 hero_title: Canadian Conference on AI, Robots & Vision (AI/CRV) 2026
 hero_subtitle: Workshops
 hero_image: /assets/img/P9_1_101291.jpg
@@ -12,7 +12,7 @@ active_tab: ai-science
 <section class="section">
   <div class="section-grid">
     <div>
-      <h2>AI for Science and Remote Sensing</h2>
+      <h2>AI for Science and Sustainability</h2>
     </div>
     <div class="section-body">
       <p>Details coming soon.</p>

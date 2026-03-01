@@ -61,7 +61,7 @@ active_tab: overview
     </div>
     <div class="program-overview-card">
       <div>
-        <p class="program-overview-title">AI for Science and Remote Sensing</p>
+        <p class="program-overview-title">AI for Science and Sustainability</p>
       </div>
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 25, 2026</p>

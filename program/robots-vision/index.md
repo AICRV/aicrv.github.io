@@ -13,48 +13,8 @@ hero_alt: Robotics lab equipment
       <h2>Conference on Robots &amp; Vision</h2>
     </div>
     <div class="section-body">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-      <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p>The Canadian Conference on Robots and Vision (CRV) is sponsored by Canadian Image Processing and Pattern Recognition Society (CIPPRS) and invites papers that present original research on all aspects of robotics and computer vision. The conference started as the Vision Interface conference and has taken place annually since 1988, and morphed into the Computer and Robot Vision conference (CRV) in 2005. In 2021, the conference took on its present name, the Canadian Conference on Robots and Vision (CRV).</p>
     </div>
-  </div>
-</section>
-
-<section class="section program-overview">
-  <h2>Program Overview</h2>
-  <div class="program-overview-list">
-    <div class="program-overview-card">
-      <div>
-        <p class="program-overview-title">Event Title</p>
-        <p>Chair: TBA</p>
-      </div>
-      <div class="program-overview-meta">
-        <p><strong>Time:</strong> Lorem ipsum dolor sit amet</p>
-        <p><strong>Room:</strong> Lorem ipsum dolor sit amet</p>
-      </div>
-    </div>
-    <div class="program-overview-card is-plain">
-      <div>
-        <p class="program-overview-title">Event Title</p>
-        <p>Chair: TBA</p>
-      </div>
-      <div class="program-overview-meta">
-        <p><strong>Time:</strong> Lorem ipsum dolor sit amet</p>
-        <p><strong>Room:</strong> Lorem ipsum dolor sit amet</p>
-      </div>
-    </div>
-    <div class="program-overview-card">
-      <div>
-        <p class="program-overview-title">Event Title</p>
-        <p>Chair: TBA</p>
-      </div>
-      <div class="program-overview-meta">
-        <p><strong>Time:</strong> Lorem ipsum dolor sit amet</p>
-        <p><strong>Room:</strong> Lorem ipsum dolor sit amet</p>
-      </div>
-    </div>
-  </div>
-  <div class="calls-submit">
-    <a class="btn btn-dark btn-sm" href="#">Detailed Program</a>
   </div>
 </section>
 

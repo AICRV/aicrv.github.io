@@ -3,31 +3,31 @@
 
 general_chairs:
   - name: Ke Li
-    affiliation: School of Computing Science, Simon Fraser University
+    affiliation: Simon Fraser University
     url: "https://www.sfu.ca/fas/computing/people/faculty/faculty-members/keli.html"
     photo: "https://www.sfu.ca/content/sfu/fas/computing/people/faculty/faculty-members/keli.img.-42019351.png"
   - name: Mo Chen
-    affiliation: School of Computing Science, Simon Fraser University; Alberta Machine Intelligence Institute (Amii)
+    affiliation: Simon Fraser University; Alberta Machine Intelligence Institute (Amii)
     url: "https://www.sfu.ca/fas/computing/people/faculty/faculty-members/mo-chen.html"
     photo: "https://www.sfu.ca/content/sfu/fas/computing/people/faculty/faculty-members/mo-chen.img.293703537.png"
 
 ai_program_chairs:
   - name: Carson Leung
-    affiliation: Department of Computer Science, University of Manitoba
+    affiliation: University of Manitoba
     url: "https://umanitoba.ca/science/directory/computer-science/carson-leung"
     photo: "https://umanitoba.ca/science/sites/science/files/styles/3x2_900w/public/2024-05/carson-leung.jpg?itok=1oy_3XGQ"
   - name: Lydia Bouzar-Benlabiod
-    affiliation: Jodrey School of Computer Science, Acadia University
+    affiliation: Acadia University
     url: "https://cs.acadiau.ca/Lydia-BOUZAR-BENLABIOD.html"
     photo: "https://cs.acadiau.ca/assets/images/f/Lydia-7f5d4b0d.jpg"
 
 gss_chairs:
   - name: Ritu Chaturvedi
-    affiliation: School of Computer Science, University of Guelph
+    affiliation: University of Guelph
     url: "https://www.uoguelph.ca/computing/people/ritu-chaturvedi"
     photo: "https://api.liveugconthub.uoguelph.dev/sites/default/files/migration/ug_profile/files/Chaturvedi%2C%20Ritu%203816%20crop.jpg"
   - name: Tara Azin
-    affiliation: Department of Cognitive Science, Carleton University
+    affiliation: Carleton University
     url: "https://carleton.ca/cognitivescience/people/tara-azin/"
     photo: "https://carleton.ca/cognitivescience/wp-content/uploads/rsz_taraazin_003-200x200.jpg"
 
@@ -43,17 +43,17 @@ crv_program_chairs:
 
 sponsorship_chairs:
   - name: Lueder Kahrs
-    affiliation: Institute of Biomedical Engineering, University of Toronto
+    affiliation: University of Toronto
     url: "https://bme.utoronto.ca/faculty-research/core-faculty/lueder-kahrs/"
     photo: "https://bme.utoronto.ca/wp-content/uploads/2022/06/Lueder_Kahrs_500px.jpg"
   - name: Jun Jin
-    affiliation: Electrical & Computer Engineering, University of Alberta; Amii
+    affiliation: University of Alberta; Alberta Machine Intelligence Institute (Amii)
     url: "https://apps.ualberta.ca/directory/person/jjin5"
     photo: "/assets/img/organizers/jun-jin.png"
 
 finance_chair:
   - name: Hang Ma
-    affiliation: School of Computing Science, Simon Fraser University
+    affiliation: Simon Fraser University
     url: "https://www.sfu.ca/fas/computing/people/faculty/faculty-members/hangma.html"
     photo: "https://www.sfu.ca/content/sfu/fas/computing/people/faculty/faculty-members/hangma.img.1108906028.png"
 
@@ -69,7 +69,7 @@ publicity_chairs:
 
 workshop_chair:
   - name: Yaoliang Yu
-    affiliation: University of Waterloo
+    affiliation: University of Waterloo; Vector Institute
     url: "https://cs.uwaterloo.ca/~y328yu/"
     photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQex6-ECzOrJOhSrL4wMGR_z2HBQ2DXRRRbjhL4HyANOwx1dY03JxVIEjWpBK7iJrICdUZHYw&s"
 
@@ -85,21 +85,21 @@ nectar_track_chairs:
     url: "https://smithengineering.queensu.ca/directory/faculty/amy-wu.html"
     photo: "https://smithengineering.queensu.ca/directory/_images/wu_amy-480x480.jpg"
   - name: Angel Chang
-    affiliation: Simon Fraser University
+    affiliation: Simon Fraser University; Alberta Machine Intelligence Institute (Amii)
     url: "https://angelxuanchang.github.io/"
     photo: "https://angelxuanchang.github.io/files/angel.jpg"
   - name: Danica Sutherland
-    affiliation: University of British Columbia
+    affiliation: University of British Columbia; Alberta Machine Intelligence Institute (Amii)
     url: "https://djsutherland.ml/"
     photo: "https://www.cs.ubc.ca/sites/default/files/styles/profile_page/public/people/md1-4221.JPG?h=d30407f1&itok=8mb9XjPY"
   - name: Evan Shelhamer
-    affiliation: University of British Columbia
+    affiliation: University of British Columbia; Vector Institute
     url: "https://imaginarynumber.net/"
     photo: "https://vectorinstitute.ai/wp-content/uploads/2025/01/Evan-Shelhamer-2-1600x0-c-default.png"
 
 international_engagement_chair:
   - name: Wenhu Chen
-    affiliation: University of Waterloo
+    affiliation: University of Waterloo; Vector Institute
     url: "https://wenhuchen.github.io/"
     photo: "https://wenhuchen.github.io/images/headshot.jpg"
 
@@ -111,19 +111,19 @@ industry_chair:
 
 local_arrangement_chair:
   - name: Wuyang Chen
-    affiliation: School of Computing Science, Simon Fraser University
+    affiliation: Simon Fraser University
     url: "https://www.sfu.ca/fas/computing/people/faculty/faculty-members/wuyang-chen.html"
     photo: "https://www.sfu.ca/content/sfu/fas/computing/people/faculty/faculty-members/wuyang-chen.img.-962348622.png"
 
 registration_chair:
   - name: Yasaman Etesam
-    affiliation: School of Computing Science, Simon Fraser University
+    affiliation: Simon Fraser University
     url: "https://yasaman-etesam.github.io/"
     photo: "https://yasaman-etesam.github.io/assets/img/aboutme.png"
 
 caiac_treasurer:
   - name: Luiza Antonie
-    affiliation: School of Computer Science, University of Guelph
+    affiliation: University of Guelph
     url: "https://www.uoguelph.ca/computing/people/luiza-antonie"
     photo: "https://api.liveugconthub.uoguelph.dev/sites/default/files/migration/ug_profile/files/Antonie%2C%20Luiza%203836%20crop.jpg"
 

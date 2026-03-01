@@ -1,4 +1,4 @@
-title: AICRV 2026
+title: AI/CRV 2026
 preposition: at
 description: >-
   The international AI, computer vision, and robotics conference held in Canada  
@@ -116,7 +116,7 @@ conference:
       - name: Program
         menu:
           - name: Canadian AI
-            relative_url: /program/
+            relative_url: /program/ai/
           - name: Conference on Robots & Vision
             relative_url: /program/robots-vision/
           - name: Student Symposium
@@ -131,7 +131,7 @@ conference:
             relative_url: /program/workshops/data-model-protection/
           - name: "&nbsp;&nbsp;&nbsp;&nbsp;AI Strategy and Governance in Business"
             relative_url: /program/workshops/ai-strategy-governance/
-          - name: "&nbsp;&nbsp;&nbsp;&nbsp;AI for Science and Remote Sensing"
+          - name: "&nbsp;&nbsp;&nbsp;&nbsp;AI for Science and Sustainability"
             relative_url: /program/workshops/ai-science-remote-sensing/
           - name: "&nbsp;&nbsp;&nbsp;&nbsp;AI in Banking"
             relative_url: /program/workshops/ai-in-banking/
