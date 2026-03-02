@@ -312,7 +312,7 @@ layout: page
       <h2 class="become-sponsor-title">Become A Sponsor</h2>
       <div class="become-sponsor-content">
         <p>Join us in supporting the Canadian Conference on AI, Robots &amp; Vision (AI/CRV) 2026. Your sponsorship helps bring together researchers, industry leaders, and students to advance the fields of artificial intelligence, robotics, and computer vision. Connect with top talent, showcase your organization, and contribute to cutting-edge research initiatives.</p>
-        <a href="mailto:sponsor@ai-crv.ca?subject=Sponsorship Inquiry" class="btn-contact">Contact Us</a>
+        <a href="mailto:aicrv2026sponsorship@googlegroups.com?subject=Sponsorship Inquiry" class="btn-contact">Contact Us</a>
       </div>
     </div>
   </section>
@@ -499,7 +499,7 @@ layout: page
         </a>
       </div>
       <div class="sponsors-partners-cta">
-        <a href="mailto:sponsor@ai-crv.ca?subject=Sponsorship Inquiry">Become a Sponsor <span>›</span></a>
+        <a href="mailto:aicrv2026sponsorship@googlegroups.com?subject=Sponsorship Inquiry">Become a Sponsor <span>›</span></a>
       </div>
     </div>
   </section>

@@ -5,11 +5,11 @@ general_chairs:
   - name: Ke Li
     affiliation: Simon Fraser University
     url: "https://www.sfu.ca/fas/computing/people/faculty/faculty-members/keli.html"
-    photo: "https://www.sfu.ca/content/sfu/fas/computing/people/faculty/faculty-members/keli.img.-42019351.png"
+    photo: "/assets/img/organizers/keli.jpg"
   - name: Mo Chen
     affiliation: Simon Fraser University; Alberta Machine Intelligence Institute (Amii)
     url: "https://www.sfu.ca/fas/computing/people/faculty/faculty-members/mo-chen.html"
-    photo: "https://www.sfu.ca/content/sfu/fas/computing/people/faculty/faculty-members/mo-chen.img.293703537.png"
+    photo: "/assets/img/organizers/mo-chen.jpg"
 
 ai_program_chairs:
   - name: Carson Leung
