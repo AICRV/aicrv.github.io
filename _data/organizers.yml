@@ -168,3 +168,63 @@ advisory_board:
     affiliation: University of Toronto
     url: "https://vectorinstitute.ai/team/sheila-mcilraith/"
     photo: "https://www.caiac.ca/sites/default/files/basic_attachments/Sheila-McIlraith.png"
+
+# Workshop Organizers
+workshop_ai_banking:
+  - name: Cristián Bravo Roman
+    affiliation: University of Western Ontario
+    photo: "https://www.uwo.ca/stats/people/img/Cristian-Bravo.jpg"
+  - name: Ajit Desai
+    affiliation: Bank of Canada
+    photo: "https://www.bankofcanada.ca/wp-content/uploads/2021/05/Ajit_Desai-250x250.jpg"
+  - name: Mohamed Al Guindy
+    affiliation: Carleton University
+    photo: "https://static.wixstatic.com/media/64579c_52e6bec2bb73499599476b718d70f963~mv2.jpg/v1/fill/w_530,h_788,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MAlGuindyphoto_2020_edited.jpg"
+  - name: Siqi Liu
+    affiliation: RBC Borealis
+    photo: "https://media.licdn.com/dms/image/v2/D5603AQH6X6CRxIkGOw/profile-displayphoto-crop_800_800/B56ZgpINDQG0AI-/0/1753036673733?e=1774483200&v=beta&t=_bkEu9I08LJag3a5fBv8pTXiM3lLW2Gt_lIyiB0pLfM"
+  - name: Shahrzad Kianidehkordi
+    affiliation: RBC Borealis
+    photo: "https://shkiani.github.io/images/sk.jpg"
+  - name: Erin Li
+    affiliation: CIBC
+    photo: ""
+  - name: Ahmad Pesaranghader
+    affiliation: CIBC
+    photo: "https://media.licdn.com/dms/image/v2/D5603AQHdZYlrI83Ifw/profile-displayphoto-shrink_400_400/B56Zb1ByRPG4Ao-/0/1747867608467?e=1774483200&v=beta&t=8nhcXGhguKS9KJ_235eQH5fv99qhrVunM3bsKBCnPOI"
+
+workshop_data_model_protection:
+  - name: Yiwei Lu
+    affiliation: University of Ottawa
+    photo: "https://yiweilu3.github.io/img/Yiwei_headshot.png"
+  - name: Yihan Wang
+    affiliation: University of Waterloo
+    photo: "https://yihan-wang.com/2025.jpeg"
+  - name: Jason Millar
+    affiliation: University of Ottawa
+    photo: "https://www.uottawa.ca/research-innovation/sites/g/files/bhrskd326/files/2023-10/millar_jason_new.jpg"
+  - name: Yongyi Mao
+    affiliation: University of Ottawa
+    photo: "https://media.licdn.com/dms/image/v2/D5603AQGDAo8lnK33jw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1727399990395?e=1774483200&v=beta&t=eUAlgYKBFHnS1OnNnyCCFuuWhjIHVCSax3KXnF7t7BM"
+  - name: Kathleen Fraser
+    affiliation: University of Ottawa
+    photo: "https://www.uottawa.ca/faculty-engineering/sites/g/files/bhrskd396/files/2025-09/Fraser2025.jpeg"
+  - name: Changjian Shui
+    affiliation: University of Ottawa
+    photo: "https://cjshui.github.io/photos/image2.jpeg"
+
+workshop_ai_strategy_governance:
+  - name: Chaitanya Kaligotla
+    affiliation: Simon Fraser University
+    photo: "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=-icJ9OwAAAAJ&citpid=3"
+  - name: Andrew Gemino
+    affiliation: Simon Fraser University
+    photo: "https://beedie.sfu.ca/sms/admin/_DocLibrary/_cvs/1924-Andrew.jpg"
+
+workshop_ai_science_sustainability:
+  - name: Evan Shelhamer
+    affiliation: University of British Columbia
+    photo: "https://vectorinstitute.ai/wp-content/uploads/2025/01/Evan-Shelhamer-2-1600x0-c-default.png"
+  - name: Johannah Thumb
+    affiliation: Vector Institute
+    photo: "https://vectorinstitute.ai/wp-content/uploads/2023/03/johannah-thumb-2-1600x0-c-default.png"

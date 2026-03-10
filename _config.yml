@@ -133,7 +133,7 @@ conference:
             relative_url: /program/workshops/ai-strategy-governance/
           - name: "&nbsp;&nbsp;&nbsp;&nbsp;AI for Science and Sustainability"
             relative_url: /program/workshops/ai-science-remote-sensing/
-          - name: "&nbsp;&nbsp;&nbsp;&nbsp;AI in Banking"
+          - name: "&nbsp;&nbsp;&nbsp;&nbsp;AI in Banking and Financial Services"
             relative_url: /program/workshops/ai-in-banking/
       - name: Organizers
         menu:

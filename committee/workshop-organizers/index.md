@@ -14,41 +14,51 @@ tabs_include: partials/organizer_tabs.html
       <h2>Workshop Organizers</h2>
     </div>
     <div class="section-body">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-      <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p>The following individuals are organizing the workshops at AI/CRV 2026.</p>
     </div>
   </div>
 
+  <h3 class="h5 mt-4 mb-3">AI in Banking and Financial Services</h3>
   <div class="organizer-grid">
+    {% for o in site.data.organizers.workshop_ai_banking %}
     <div class="organizer-card">
-      <div class="organizer-photo"></div>
-      <h3>Member Name</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
     </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">Data and Model Protection in Generative AI</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.workshop_data_model_protection %}
     <div class="organizer-card">
-      <div class="organizer-photo"></div>
-      <h3>Member Name</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
     </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">AI Strategy and Governance in Business</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.workshop_ai_strategy_governance %}
     <div class="organizer-card">
-      <div class="organizer-photo"></div>
-      <h3>Member Name</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
     </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">AI for Science and Sustainability</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.workshop_ai_science_sustainability %}
     <div class="organizer-card">
-      <div class="organizer-photo"></div>
-      <h3>Member Name</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
     </div>
-    <div class="organizer-card">
-      <div class="organizer-photo"></div>
-      <h3>Member Name</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-    </div>
-    <div class="organizer-card">
-      <div class="organizer-photo"></div>
-      <h3>Member Name</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-    </div>
+    {% endfor %}
   </div>
 </section>
