@@ -164,6 +164,15 @@ main.container {
   background: #ffffff;
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
   padding: 14px 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1030;
+}
+
+.site-nav-spacer {
+  height: 85px; /* matches navbar height: 14px padding + 56px logo + 14px padding + 1px border */
 }
 
 .site-nav .navbar-brand {
