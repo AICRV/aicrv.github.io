@@ -41,3 +41,5 @@ active_tab: ai-banking
     </div>
   </div>
 </div>
+
+{% include partials/workshop_acknowledgements.html %}

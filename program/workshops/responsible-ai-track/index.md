@@ -19,3 +19,5 @@ active_tab: responsible-ai
     </div>
   </div>
 </section>
+
+{% include partials/workshop_acknowledgements.html %}

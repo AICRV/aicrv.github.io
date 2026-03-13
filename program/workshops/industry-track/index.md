@@ -19,3 +19,5 @@ active_tab: industry
     </div>
   </div>
 </section>
+
+{% include partials/workshop_acknowledgements.html %}

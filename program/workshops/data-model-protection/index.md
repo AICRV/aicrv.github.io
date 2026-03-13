@@ -19,3 +19,5 @@ active_tab: data-protection
     </div>
   </div>
 </section>
+
+{% include partials/workshop_acknowledgements.html %}

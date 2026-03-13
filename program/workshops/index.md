@@ -79,3 +79,5 @@ active_tab: overview
     </div>
   </div>
 </section>
+
+{% include partials/workshop_acknowledgements.html %}
