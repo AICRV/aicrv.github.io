@@ -16,13 +16,66 @@ active_tab: ai-banking
     </div>
     <div class="section-body">
       <h3>Overview</h3>
-      <p>Artificial intelligence (AI) is fundamentally transforming the banking and financial services sector, presenting both unprecedented opportunities and novel challenges. The AI in Banking and Financial Services workshop (AI-BFS 2026) explores how AI, machine learning, and advanced analytics are being deployed in practice across the banking and financial services landscape, particularly in the Canadian context. This workshop brings together the interdisciplinary AI research community, banking practitioners, and policymakers to address key challenges in credit risk, trading, customer service automation, and compliance. It seeks to connect research with the socioeconomic and regulatory realities of modern banking. We are interested in questions that go beyond predictive accuracy to explore emerging trends, ethical considerations, and the broader impact of AI on financial institutions, consumers, and the future of financial regulation in Canada. We invite submissions at the intersection of AI methodologies, industry-specific financial challenges, and their practical, compliant deployment in areas such as the following:</p>
+      <p>Artificial intelligence (AI) is fundamentally transforming the banking and financial services sector, presenting both unprecedented opportunities and novel challenges. The AI in Banking and Financial Services workshop (AI-BFS 2026) explores how AI, machine learning, and advanced analytics are being deployed in practice across the banking and financial services landscape, particularly in the Canadian context. This workshop brings together the interdisciplinary AI research community, banking practitioners, and policymakers to address key challenges in credit risk, trading, customer service automation, and compliance. It seeks to connect research with the socioeconomic and regulatory realities of modern banking. We are interested in questions that go beyond predictive accuracy to explore emerging trends, ethical considerations, and the broader impact of AI on financial institutions, consumers, and the future of financial regulation in Canada. We invite submissions at the intersection of AI methodologies, industry-specific financial challenges, and their practical, compliant deployment in areas such as the ones listed below.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-grid">
+    <div>
+      <h2>Topics of Interest</h2>
+    </div>
+    <div class="section-body">
+      <p>We solicit papers on the following (non-exhaustive) list of topics:</p>
+
+      <h4>Core Financial Applications &amp; Risk Management</h4>
       <ul>
-        <li><strong>Core Financial Applications &amp; Risk Management</strong> (e.g., Fraud Detection and Financial Integrity, Credit Risk Assessment and Scoring, Algorithmic Trading and Quantitative Analysis, Financial Contagion)</li>
-        <li><strong>Customer Experience &amp; Process Automation</strong> (e.g., Customer Service Automation, Client Onboarding and Operations, Agentic Payments)</li>
-        <li><strong>Regulatory Technology (RegTech) &amp; Compliance</strong> (e.g., Automated Regulatory Compliance, The Future of Financial Regulation in Canada, Explainable AI (XAI) in Banking and Finance)</li>
-        <li><strong>Ethics, Fairness, and Institutional Impact</strong> (e.g., Ethical Considerations and Fairness, Consumer and Institutional Impact)</li>
-        <li><strong>Open Science and Data Challenges in Finance</strong> (e.g., Privacy-Preserving AI, Synthetic Financial Data)</li>
+        <li><strong>Fraud Detection and Financial Integrity:</strong> AI-driven identification of transaction fraud, synthetic identities, Anti-Money Laundering (AML), and anomaly detection in digital payments.</li>
+        <li><strong>Credit Risk Assessment and Scoring:</strong> Utilizing alternative data sources, handling high-dimensional financial data, and developing robust, fair models for loan origination and default prediction.</li>
+        <li><strong>Algorithmic Trading and Quantitative Analysis:</strong> Reinforcement learning for portfolio management, time-series forecasting, high-frequency trading strategies, and market simulation.</li>
+        <li><strong>Financial Contagion:</strong> Novel methods for propagation of risks across networks, graph neural networks in finance and banking.</li>
+      </ul>
+
+      <h4>Customer Experience &amp; Process Automation</h4>
+      <ul>
+        <li><strong>Customer Service Automation:</strong> Deployment of LLMs and conversational agents for financial inquiries, dispute resolution, and hyper-personalized financial advice (robo-advisors).</li>
+        <li><strong>Client Onboarding and Operations:</strong> AI for Know Your Customer (KYC), onboarding, intelligent document extraction, and automating back-office financial operations.</li>
+        <li><strong>Agentic Payments:</strong> Autonomous and semi-autonomous AI systems for payment initiation, transaction orchestration, financial workflow execution, and human-in-the-loop oversight for secure and compliant payment operations.</li>
+      </ul>
+
+      <h4>Regulatory Technology (RegTech) &amp; Compliance</h4>
+      <ul>
+        <li><strong>Automated Regulatory Compliance:</strong> AI systems for monitoring changing regulations, automating compliance reporting, and detecting internal policy breaches.</li>
+        <li><strong>The Future of Financial Regulation in Canada:</strong> Adapting federal and provincial regulatory frameworks (e.g., OSFI, FINTRAC) to AI-driven finance and the implications of open banking and consumer data rights.</li>
+        <li><strong>Explainable AI (XAI) in Banking and Finance:</strong> Developing inherently interpretable models and post-hoc explanation methods to satisfy both regulatory requirements and consumer trust.</li>
+      </ul>
+
+      <h4>Ethics, Fairness, and Institutional Impact</h4>
+      <ul>
+        <li><strong>Ethical Considerations and Fairness:</strong> Mitigating bias in algorithmic lending, ensuring financial inclusion, and addressing the societal impacts of automated financial decision-making.</li>
+        <li><strong>Consumer and Institutional Impact:</strong> Assessing the economic implications of AI adoption, shifts in the financial labor market, and managing systemic risks introduced by correlated AI models.</li>
+      </ul>
+
+      <h4>Open Science and Data Challenges in Finance</h4>
+      <ul>
+        <li><strong>Privacy-Preserving AI:</strong> Federated learning, differential privacy, and secure multi-party computation allowing cross-institution collaboration without exposing Personally Identifiable Information (PII).</li>
+        <li><strong>Synthetic Financial Data:</strong> Synthetic data generation for augmenting highly imbalanced financial datasets (e.g., rare defaults or fraud) and enabling academic research without compromising proprietary banking data.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-grid">
+    <div>
+      <h2>Submission Guidelines</h2>
+    </div>
+    <div class="section-body">
+      <ul>
+        <li><strong>Format:</strong> The camera-ready paper should follow the <a href="https://www.caiac.ca/sites/default/files/basic_attachments/LaTeX_Template_for_Canadian_AI_Conference_Proceedings_PMLR.zip">PMLR</a> template.</li>
+        <li><strong>Page Limit:</strong> We welcome full papers, short papers (up to 6 pages), and extended abstracts (1 or 2 pages) depending on the current state of the research. Early-stage work, for example, may be better suited for an extended abstract, while complete research may be better suited for a longer submission.</li>
+        <li><strong>Publication:</strong> Accepted papers will be posted on the workshop website. Note that workshop papers are generally non-archival to allow for future journal submission.</li>
       </ul>
     </div>
   </div>
@@ -33,7 +86,7 @@ active_tab: ai-banking
   <div class="date-grid">
     <div class="date-card">
       <strong>Submission Deadline</strong>
-      <span>March 27, 2026</span>
+      <span>March 31, 2026</span>
     </div>
     <div class="date-card">
       <strong>Notification of Acceptance</strong>
