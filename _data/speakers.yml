@@ -42,3 +42,10 @@ crv_symposium:
     role: Symposium
     url: "https://www.computerrobotvision.org/invited.html"
     photo: "https://www.computerrobotvision.org/assets/img/people/ioannou.jpg"
+
+# DMP Workshop speakers (Data and Model Protection in Generative AI)
+workshop_dmp_speakers:
+  - name: Jekaterina Novikova
+    affiliation: Vanguard Group
+    url: "https://jeknov.github.io/"
+    photo: "https://jeknov.github.io/assets/img/prof_pic.jpg"
