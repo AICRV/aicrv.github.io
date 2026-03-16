@@ -71,24 +71,6 @@ active_tab: data-protection
   </div>
 </section>
 
-<div class="calls-dates" style="margin-bottom: 4rem;">
-  <h3>Important Dates</h3>
-  <div class="date-grid">
-    <div class="date-card">
-      <strong>Submission Deadline</strong>
-      <span>April 30, 2026 (AoE)</span>
-    </div>
-    <div class="date-card">
-      <strong>Notification of Decisions</strong>
-      <span>May 5, 2026 (AoE)</span>
-    </div>
-    <div class="date-card">
-      <strong>Workshop Date</strong>
-      <span>May 25, 2026</span>
-    </div>
-  </div>
-</div>
-
 <section class="section">
   <div class="section-grid">
     <div>
@@ -105,26 +87,6 @@ active_tab: data-protection
         {% endfor %}
       </div>
       <p>Additional speakers to be announced.</p>
-    </div>
-  </div>
-</section>
-
-<section class="section">
-  <div class="section-grid">
-    <div>
-      <h2>Organizers</h2>
-    </div>
-    <div class="section-body">
-      <div class="organizer-grid">
-        {% for o in site.data.organizers.workshop_data_model_protection %}
-        <div class="organizer-card">
-          <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
-          <h3>{{ o.name }}</h3>
-          <p>{{ o.affiliation }}</p>
-        </div>
-        {% endfor %}
-      </div>
-      <p>For enquiries, please contact the organizers via the <a href="{{ site.baseurl }}/committee/workshop-organizers/">Workshop Organizers</a> page.</p>
     </div>
   </div>
 </section>
