@@ -91,4 +91,4 @@ active_tab: data-protection
   </div>
 </section>
 
-#{% include partials/workshop_acknowledgements.html %}
+<!-- {% include partials/workshop_acknowledgements.html %} -->
