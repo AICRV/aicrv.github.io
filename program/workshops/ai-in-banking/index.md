@@ -17,6 +17,7 @@ active_tab: ai-banking
     <div class="section-body">
       <h3>Overview</h3>
       <p>Artificial intelligence (AI) is fundamentally transforming the banking and financial services sector, presenting both unprecedented opportunities and novel challenges. The AI in Banking and Financial Services workshop (AI-BFS 2026) explores how AI, machine learning, and advanced analytics are being deployed in practice across the banking and financial services landscape, particularly in the Canadian context. This workshop brings together the interdisciplinary AI research community, banking practitioners, and policymakers to address key challenges in credit risk, trading, customer service automation, and compliance. It seeks to connect research with the socioeconomic and regulatory realities of modern banking. We are interested in questions that go beyond predictive accuracy to explore emerging trends, ethical considerations, and the broader impact of AI on financial institutions, consumers, and the future of financial regulation in Canada. We invite submissions at the intersection of AI methodologies, industry-specific financial challenges, and their practical, compliant deployment in areas such as the ones listed below.</p>
+      <p><a class="btn btn-dark btn-sm" href="https://cmt3.research.microsoft.com/AIBFS2026/">Submit a Paper →</a></p>
     </div>
   </div>
 </section>
