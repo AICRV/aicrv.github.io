@@ -76,7 +76,7 @@ active_tab: ai-banking
         <li><strong>Format:</strong> The camera-ready paper should follow the <a href="https://www.caiac.ca/sites/default/files/basic_attachments/LaTeX_Template_for_Canadian_AI_Conference_Proceedings_PMLR.zip">PMLR</a> template.</li>
         <li><strong>Page Limit:</strong> We welcome full papers, short papers (up to 6 pages), and extended abstracts (1 or 2 pages) depending on the current state of the research. Early-stage work, for example, may be better suited for an extended abstract, while complete research may be better suited for a longer submission.</li>
         <li><strong>Publication:</strong> Accepted papers will be posted on the workshop website. Note that workshop papers are generally non-archival to allow for future journal submission.</li>
-        <li><strong>Submission Link:</strong> <a href="https://cmt3.research.microsoft.com/AIBFS2026/">CMT</a>.</li>
+        <p><a class="btn btn-dark btn-sm" href="https://cmt3.research.microsoft.com/AIBFS2026/">Submit on CMT →</a></p>
       </ul>
     </div>
   </div>
