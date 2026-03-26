@@ -48,4 +48,27 @@ workshop_dmp_speakers:
   - name: Jekaterina Novikova
     affiliation: Vanguard Group
     url: "https://jeknov.github.io/"
-    photo: "https://jeknov.github.io/assets/img/prof_pic.jpg"
+    photo: "https://jeknov.github.io/assets/img/prof_pic-800.webp"
+  - name: Yangyi Liu
+    affiliation: Vanguard Group
+    photo: "https://dmpworkshop.github.io/assets/img/yangyi-liu.jpg"
+  - name: Sirisha Rambhatla
+    affiliation: University of Waterloo
+    url: "https://sirisharambhatla.com/"
+    photo: "/assets/img/speakers/sirisha-rambhatla.jpg"
+  - name: Reza Samavi
+    affiliation: Toronto Metropolitan University
+    url: "https://www.ee.torontomu.ca/~samavi/about.html"
+    photo: "https://www.ee.torontomu.ca/~samavi/images/Reza_05_s.jpg"
+  - name: Mathias Lécuyer
+    affiliation: University of British Columbia
+    url: "https://mathias.lecuyer.me/"
+    photo: "https://mathias.lecuyer.me/assets/images/mathias-lecuyer.jpg"
+  - name: Linyi Li
+    affiliation: Simon Fraser University
+    url: "https://www.cs.sfu.ca/~linyi/"
+    photo: "https://www.cs.sfu.ca/~linyi/res/avatar/linyili.jpg"
+  - name: Joanna Redden
+    affiliation: Western University
+    url: "https://www.fims.uwo.ca/people/profiles/joanna_redden.html"
+    photo: "https://dmpworkshop.github.io/assets/img/joanna-redden.jpg"

@@ -16,7 +16,10 @@ active_tab: data-protection
     </div>
     <div class="section-body">
       <p>A full-day workshop co-located with the Canadian Conference on AI, Robots & Vision.</p>
-      <p><a class="btn btn-dark btn-sm" href="https://openreview.net/group?id=AI-CRV.ca/2026/Workshop/DMP">Submit a Paper</a></p>
+      <p>
+        <a class="btn btn-dark btn-sm" href="https://openreview.net/group?id=AI-CRV.ca/2026/Workshop/DMP">Submit a Paper</a>
+        <a class="btn btn-dark btn-sm" href="https://dmpworkshop.github.io/">Visit DMP Workshop Website</a>
+      </p>
     </div>
   </div>
 </section>
@@ -70,6 +73,24 @@ active_tab: data-protection
     </div>
   </div>
 </section>
+
+<div class="calls-dates" style="margin-bottom: 4rem;">
+  <h3>Important Dates</h3>
+  <div class="date-grid">
+    <div class="date-card">
+      <strong>Submission Deadline</strong>
+      <span>April 21, 2026 (AoE)</span>
+    </div>
+    <div class="date-card">
+      <strong>Notification of Decisions</strong>
+      <span>April 23, 2026 (AoE)</span>
+    </div>
+    <div class="date-card">
+      <strong>Workshop Date</strong>
+      <span>May 25, 2026</span>
+    </div>
+  </div>
+</div>
 
 <section class="section">
   <div class="section-grid">
