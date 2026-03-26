@@ -74,6 +74,4 @@ hero_alt: Students working with 3D printers in a lab
   <a class="btn btn-dark btn-sm" href="https://forms.gle/Mr6WTDdcAy5e5mrr8">Submit</a>
 </div>
 
-<div class="calls-row">
-  <p class="calls-copy">For any questions, please contact the Demo Chair: aicrv2026demos@googlegroups.com</p>
-</div>
+<p class="calls-copy">For any questions, please contact the Demo Chair: aicrv2026demos@googlegroups.com</p>
