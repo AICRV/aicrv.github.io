@@ -43,7 +43,7 @@ layout: page
 
 <div class="calls-row">
   <div class="calls-heading">
-    <h2>Registration here!</h2>
+    <h2>Registration</h2>
   </div>
 </div>
 
@@ -78,7 +78,7 @@ layout: page
 </div>
 
 <div class="calls-submit">
-  <a class="btn btn-solid nav-register" href="https://sfu.starrezhousing.com/StarRezPortalXConference/42A24B60/53/512/Home-Welcome?UrlToken=5C8513E6">Register</a>
+  <a class="btn btn-solid nav-register" href="https://sfu.starrezhousing.com/StarRezPortalXConference/42A24B60/53/512/Home-Welcome?UrlToken=5C8513E6">Register here!</a>
 </div>
 
   <div class="calls-heading">
