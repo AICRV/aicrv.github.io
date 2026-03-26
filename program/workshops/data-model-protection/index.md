@@ -18,7 +18,7 @@ active_tab: data-protection
       <p>A full-day workshop co-located with the Canadian Conference on AI, Robots & Vision.</p>
       <p>
         <a class="btn btn-dark btn-sm" href="https://openreview.net/group?id=AI-CRV.ca/2026/Workshop/DMP">Submit a Paper</a>
-        <a class="btn btn-dark btn-sm" href="https://dmpworkshop.github.io/">Visit DMP Workshop Website</a>
+        <a class="btn btn-dark btn-sm" href="https://dmpworkshop.github.io/">More Info</a>
       </p>
     </div>
   </div>
