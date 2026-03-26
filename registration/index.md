@@ -60,7 +60,7 @@ layout: page
       </div>
       <div class="date-card">
         <strong>Standard registration deadline</strong>
-        <span>May 25, 2026</span>
+        <span>May 11, 2026</span>
       </div>
     </div>
   * Closing of early  & standard registrations (online) are 23:59:00 Pacific Time.

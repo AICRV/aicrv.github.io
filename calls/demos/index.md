@@ -11,7 +11,7 @@ hero_alt: Students working with 3D printers in a lab
     <h2>Calls for Demos</h2>
   </div>
   <div class="calls-copy">
-    <p>The Canadian Conference on Artificial Intelligence and Computer and Robot Vision (AI/CRV 2026) is excited to invite researchers and practitioners to present live, interactive demonstrations of their latest work.</p>
+    <p>The Canadian Conference on AI, Robots & Vision (AI/CRV 2026) is excited to invite researchers and practitioners to present live, interactive demonstrations of their latest work.</p>
     <p>We are seeking two types of demonstrations:</p>
     <ol>
       <li><strong>Hardware-based demos</strong>: Systems involving physical components such as robots, novel sensors, or custom hardware.</li>
