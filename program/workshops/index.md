@@ -70,7 +70,7 @@ active_tab: overview
     </div>
     <div class="program-overview-card is-plain">
       <div>
-        <p class="program-overview-title">AI in Banking and Financial Services</p>
+        <p class="program-overview-title">AI and Biology</p>
       </div>
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 25, 2026</p>
@@ -79,7 +79,7 @@ active_tab: overview
     </div>
     <div class="program-overview-card">
       <div>
-        <p class="program-overview-title">AI and Biology</p>
+        <p class="program-overview-title">AI in Banking and Financial Services</p>
       </div>
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 25, 2026</p>
