@@ -77,6 +77,15 @@ active_tab: overview
         <p><strong>Room:</strong> TBD</p>
       </div>
     </div>
+    <div class="program-overview-card">
+      <div>
+        <p class="program-overview-title">AI and Biology</p>
+      </div>
+      <div class="program-overview-meta">
+        <p><strong>Date:</strong> May 25, 2026</p>
+        <p><strong>Room:</strong> TBD</p>
+      </div>
+    </div>
   </div>
 </section>
 
