@@ -31,7 +31,7 @@ layout: page
 </style>
 
 <div class="registration-page full-bleed">
-  <section class="calls-hero aicrv-banner" style="--hero-image: url('{{ site.baseurl }}/assets/img/P1_4_6_101268.png');">
+  <section class="calls-hero aicrv-banner" style="--hero-image: url('{{ site.baseurl }}/assets/img/P1_1_100862.jpg');">
     <div class="calls-hero-media" role="img" aria-label="Accommodation"></div>
     <div class="aicrv-banner-panel" aria-hidden="true"></div>
     <div class="aicrv-banner-text">
@@ -52,7 +52,7 @@ layout: page
     <div class="date-grid">
       <div class="date-card">
         <strong>Registration Opens</strong>
-        <span>March 27, 2026</span>
+        <span>March 30, 2026</span>
       </div>
       <div class="date-card">
         <strong>Early bird registration deadline</strong>
@@ -60,10 +60,10 @@ layout: page
       </div>
       <div class="date-card">
         <strong>Standard registration deadline</strong>
-        <span>May 11, 2026</span>
+        <span>May 07, 2026</span>
       </div>
     </div>
-  * Closing of early  & standard registrations (online) are 23:59:00 Pacific Time.
+  <sup>*</sup> Closing of early  & standard registrations (online) are 23:59:00 Pacific Time.
   </div>
 
 <div class="calls-row">
@@ -78,7 +78,7 @@ layout: page
 </div>
 
 <div class="calls-submit">
-  <a class="btn btn-solid nav-register" href="https://sfu.starrezhousing.com/StarRezPortalXConference/42A24B60/53/512/Home-Welcome?UrlToken=5C8513E6">Register here!</a>
+  <a class="btn btn-solid nav-register" href="#" onclick="return false;">Registration opens soon!</a>
 </div>
 
   <div class="calls-heading">
@@ -94,16 +94,16 @@ layout: page
       <th>Regular workshops</th>
       <th>Responsible AI track</th>
       <th>Industry track</th>
-      <th>Welcome reception</th>
-      <th>Banquet</th>
-      <th>AI gala</th>
-      <th>Paper upload</th>
+      <th>Welcome reception<sup>*</sup></th>
+      <th>Banquet<sup>*</sup></th>
+      <th>AI gala<sup>*</sup></th>
+      <th>Meets author registration requirement</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Full - regular - early bird</td>
-      <td>$700</td>
+      <td>Regular - early bird</td>
+      <td>$725</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
@@ -114,7 +114,7 @@ layout: page
       <td class="check">✔</td>
     </tr>
     <tr>
-      <td>Full - regular</td>
+      <td>Regular</td>
       <td>$800</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
@@ -127,7 +127,7 @@ layout: page
     </tr>
     <tr>
       <td>Student - early bird</td>
-      <td>$450</td>
+      <td>$475</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
@@ -211,6 +211,7 @@ layout: page
     </tr>
   </tbody>
 </table>
+<sup>*</sup> subject to space constraints
   </div>
 
 <div class="calls-row">
