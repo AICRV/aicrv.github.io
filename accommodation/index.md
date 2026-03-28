@@ -286,53 +286,52 @@ layout: page
     </div>
   </section>
 
-  <!-- Dorms -->
-  <section class="booking-section">
-    <div class="booking-inner">
-      <h2 class="booking-section-title">Dorms (On-campus residence)</h2>
+  <!-- On-campus hotel -->
+  <section class="suggestions-section">
+    <div class="suggestions-inner">
+      <h2 class="suggestions-title">On-campus accommodations</h2>
       <div class="room-card">
         <div class="room-card-header">
           <div class="room-card-info">
-            <h3>Courtyard Residence Housing</h3>
+            <h3><a href="https://sfu.starrezhousing.com/StarRezPortalXConference/42A24B60/53/512/Home-Welcome?UrlToken=5C8513E6">Courtyard Residence Housing</a></h3>
             <p><strong>CYR Private Residence Rooms:</strong> $70.00 per night + tax</p>
           </div>
         </div>
       </div>
-    </div>
-  </section>
-
-  <!-- On-campus hotel -->
-  <section class="suggestions-section">
-    <div class="suggestions-inner">
-      <h2 class="suggestions-title">On-campus hotel: The Simon</h2>
       <div class="room-card">
         <div class="room-card-header">
           <div class="room-card-info">
-            <h3>Double Queen &amp; Queen Room</h3>
-            <p>$209.00 per night + tax</p>
+            <h3><a href="https://sfu.starrezhousing.com/StarRezPortalXConference/42A24B60/53/512/Home-Welcome?UrlToken=5C8513E6">The Simon</a></h3>
+            <p><strong>Double Queen \& Queen Rooms:</strong> $189.00 per night + tax</p>
+            <p><strong>Kitchenette Rooms:</strong> $209.00 per night + tax</p>
           </div>
         </div>
       </div>
-      <div class="room-card">
-        <div class="room-card-header">
-          <div class="room-card-info">
-            <h3>Kitchenette Room</h3>
-            <p>$234.00 per night + tax</p>
-          </div>
-        </div>
-      </div>
+      <strong> Instructions for booking on-campus accommodations:</strong>
+      <ol>
+        <li> Click <i>Book your room</i></li>
+        <li> Select the <i>Group Booking (with code)</i> option from the drop-down menu</li>
+        <li> Click <i>Save & Continue</i></li>
+        <li> Enter your group code: <strong>26SFUComp</strong></li>
+        <li> Click <i>Apply Code</i>
+          <ul>
+            <li>Select the group titled <i>26 SFU School of Computing Science Group Individual</i></li>
+            <li>Choose your preferred room type and complete the booking with a valid credit card </li>
+          </ul>
+        </li>
+      </ol>
     </div>
   </section>
 
   <!-- Off-campus hotel -->
   <section class="booking-section">
     <div class="booking-inner">
-      <h2 class="booking-section-title">Off-campus hotel</h2>
+      <h2 class="booking-section-title">Off-campus accommodations</h2>
       <div class="room-card">
         <div class="room-card-header">
           <div class="room-card-info">
-            <h3>Executive Plaza Hotel</h3>
-            <p>Price to be confirmed.</p>
+            <h3><a href="https://be.synxis.com/?adult=1&arrive=2026-05-27&chain=6278&child=0&currency=CAD&depart=2026-05-28&hotel=16966&level=hotel&locale=en-US&pdrooms=1&productcurrency=CAD&promo=sfu&rooms=1">Executive Plaza Hotel</a></h3>
+            <p>Starting at $220.00 per night + tax</p>
           </div>
         </div>
       </div>
