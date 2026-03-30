@@ -912,6 +912,7 @@ main.container {
 
 .program-image-card {
   position: relative;
+  display: block;
   border-radius: 14px;
   overflow: hidden;
   aspect-ratio: 4/3;
@@ -922,25 +923,21 @@ main.container {
   aspect-ratio: auto;
   min-height: 0;
   align-self: stretch;
-  display: flex;
-  flex-direction: column;
-}
-
-.program-image-grid--mosaic > .program-image-card:nth-child(1) img {
-  flex: 1 1 auto;
-  min-height: 220px;
-  object-fit: cover;
 }
 
 .program-image-card img {
+  position: absolute;
+  inset: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: center;
   display: block;
 }
 
 .program-image-overlay {
   position: absolute;
+  z-index: 1;
   bottom: 0;
   left: 0;
   right: 0;
@@ -1116,6 +1113,12 @@ main.container {
   font-family: 'Space Grotesk', sans-serif;
   font-weight: 700;
   font-size: 1.1rem;
+}
+
+.footer-brand img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 .footer-column h3 {
@@ -1335,6 +1338,13 @@ main.container {
 main.container img {
   max-width: 100%;
   height: auto;
+}
+
+//   Program mosaic tiles: must fill card (override height:auto above)
+main.container .program-image-card img {
+  max-width: none;
+  width: 100%;
+  height: 100%;
 }
 
 //   No bottom margin on info-bar
