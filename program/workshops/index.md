@@ -29,6 +29,7 @@ active_tab: overview
       </div>
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 26, 2026</p>
+        <p><strong>Time:</strong> 9am-5:30pm</p>
         <p><strong>Room:</strong> TBD</p>
       </div>
     </div>
@@ -38,6 +39,7 @@ active_tab: overview
       </div>
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 27, 2026</p>
+        <p><strong>Time:</strong> 2pm-5:30pm</p>
         <p><strong>Room:</strong> TBD</p>
       </div>
     </div>
@@ -47,6 +49,7 @@ active_tab: overview
       </div>
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 25, 2026</p>
+        <p><strong>Time:</strong> 9am-12:30pm</p>
         <p><strong>Room:</strong> TBD</p>
       </div>
     </div>
@@ -56,6 +59,7 @@ active_tab: overview
       </div>
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 25, 2026</p>
+        <p><strong>Time:</strong> 2pm-5:30pm</p>
         <p><strong>Room:</strong> TBD</p>
       </div>
     </div>
@@ -65,6 +69,17 @@ active_tab: overview
       </div>
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 25, 2026</p>
+        <p><strong>Time:</strong> 9am-5:30pm</p>
+        <p><strong>Room:</strong> TBD</p>
+      </div>
+    </div>
+    <div class="program-overview-card">
+      <div>
+        <p class="program-overview-title">Beyond the Hype: Building AI Strategy for the Future</p>
+      </div>
+      <div class="program-overview-meta">
+        <p><strong>Date:</strong> May 25, 2026</p>
+        <p><strong>Time:</strong> 5:30pm-7pm</p>
         <p><strong>Room:</strong> TBD</p>
       </div>
     </div>
@@ -74,15 +89,27 @@ active_tab: overview
       </div>
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 25, 2026</p>
+        <p><strong>Time:</strong> 2pm-5:30pm</p>
         <p><strong>Room:</strong> TBD</p>
       </div>
     </div>
     <div class="program-overview-card">
       <div>
+        <p class="program-overview-title">AI Policy Forum</p>
+      </div>
+      <div class="program-overview-meta">
+        <p><strong>Date:</strong> May 25, 2026</p>
+        <p><strong>Time:</strong> 9am-5:30pm (tentative)</p>
+        <p><strong>Room:</strong> TBD</p>
+      </div>
+    </div>
+    <div class="program-overview-card is-plain">
+      <div>
         <p class="program-overview-title">AI in Banking and Financial Services</p>
       </div>
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 25, 2026</p>
+        <p><strong>Time:</strong> 9am-12:30pm</p>
         <p><strong>Room:</strong> TBD</p>
       </div>
     </div>
