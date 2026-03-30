@@ -70,7 +70,7 @@ defaults:
   # Set to true to show the countdown banner on the homepage.
   # Set to false (or remove) to hide it.
   # ------------------------------------------------------------------
-show_countdown_banner: false
+show_countdown_banner: true
 
 conference:
 

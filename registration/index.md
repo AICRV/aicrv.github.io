@@ -56,7 +56,7 @@ layout: page
       </div>
       <div class="date-card">
         <strong>Early bird registration deadline</strong>
-        <span>April 30, 2026</span>
+        <span>April 30, 2026 (11:59 p.m. PT)</span>
       </div>
       <div class="date-card">
         <strong>Standard registration deadline</strong>
@@ -78,7 +78,7 @@ layout: page
 </div>
 
 <div class="calls-submit">
-  <a class="btn btn-solid nav-register" href="#" onclick="return false;">Registration opens soon!</a>
+  <a class="btn btn-solid nav-register" href="https://sfu.ungerboeck.net/prod/emc00/register.aspx?aat=313930692f4e77706348653372307a762f4247686e474543377975376f6e3170434736686c2f55696576673d" target="_blank" rel="noopener">Register now</a>
 </div>
 
   <div class="calls-heading">
@@ -103,7 +103,7 @@ layout: page
   <tbody>
     <tr>
       <td>Regular - early bird</td>
-      <td>$725</td>
+      <td>$750</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
@@ -115,7 +115,7 @@ layout: page
     </tr>
     <tr>
       <td>Regular</td>
-      <td>$800</td>
+      <td>$850</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
@@ -127,7 +127,7 @@ layout: page
     </tr>
     <tr>
       <td>Student - early bird</td>
-      <td>$475</td>
+      <td>$400</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
@@ -139,7 +139,7 @@ layout: page
     </tr>
     <tr>
       <td>Student</td>
-      <td>$525</td>
+      <td>$450</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
