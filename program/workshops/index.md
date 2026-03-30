@@ -73,7 +73,7 @@ active_tab: overview
         <p><strong>Room:</strong> TBD</p>
       </div>
     </div>
-    <div class="program-overview-card">
+    <div class="program-overview-card is-plain">
       <div>
         <p class="program-overview-title">Beyond the Hype: Building AI Strategy for the Future</p>
       </div>
@@ -83,7 +83,7 @@ active_tab: overview
         <p><strong>Room:</strong> TBD</p>
       </div>
     </div>
-    <div class="program-overview-card is-plain">
+    <div class="program-overview-card">
       <div>
         <p class="program-overview-title">AI and Biology</p>
       </div>
@@ -93,7 +93,7 @@ active_tab: overview
         <p><strong>Room:</strong> TBD</p>
       </div>
     </div>
-    <div class="program-overview-card">
+    <div class="program-overview-card is-plain">
       <div>
         <p class="program-overview-title">AI Policy Forum</p>
       </div>
@@ -103,7 +103,7 @@ active_tab: overview
         <p><strong>Room:</strong> TBD</p>
       </div>
     </div>
-    <div class="program-overview-card is-plain">
+    <div class="program-overview-card">
       <div>
         <p class="program-overview-title">AI in Banking and Financial Services</p>
       </div>
