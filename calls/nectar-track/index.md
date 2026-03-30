@@ -56,11 +56,11 @@ redirect_from:
     </div>
     <div class="date-card">
       <strong>Round 2 Deadline</strong>
-      <span>March 30, 2026</span>
+      <span>April 5, 2026</span>
     </div>
     <div class="date-card">
       <strong>Round 2 Decisions</strong>
-      <span>April 3, 2026</span>
+      <span>April 10, 2026</span>
     </div>
   </div>
 </div>
