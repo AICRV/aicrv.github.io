@@ -23,7 +23,7 @@ active_tab: overview
 <section class="section program-overview">
   <h2>Program Overview</h2>
   <div class="program-overview-list">
-    <div class="program-overview-card">
+    <a href="{{ site.baseurl }}/program/workshops/responsible-ai-track/" class="program-overview-card">
       <div>
         <p class="program-overview-title">Responsible AI Track</p>
       </div>
@@ -32,8 +32,8 @@ active_tab: overview
         <p><strong>Time:</strong> 9am-5:30pm</p>
         <p><strong>Room:</strong> TBD</p>
       </div>
-    </div>
-    <div class="program-overview-card is-plain">
+    </a>
+    <a href="{{ site.baseurl }}/program/workshops/industry-track/" class="program-overview-card is-plain">
       <div>
         <p class="program-overview-title">Industry Track</p>
       </div>
@@ -42,8 +42,8 @@ active_tab: overview
         <p><strong>Time:</strong> 2pm-5:30pm</p>
         <p><strong>Room:</strong> TBD</p>
       </div>
-    </div>
-    <div class="program-overview-card">
+    </a>
+    <a href="{{ site.baseurl }}/program/workshops/data-model-protection/" class="program-overview-card">
       <div>
         <p class="program-overview-title">Data and Model Protection in Generative AI</p>
       </div>
@@ -52,8 +52,8 @@ active_tab: overview
         <p><strong>Time:</strong> 9am-12:30pm</p>
         <p><strong>Room:</strong> TBD</p>
       </div>
-    </div>
-    <div class="program-overview-card is-plain">
+    </a>
+    <a href="{{ site.baseurl }}/program/workshops/ai-strategy-governance/" class="program-overview-card is-plain">
       <div>
         <p class="program-overview-title">AI Strategy and Governance in Business</p>
       </div>
@@ -62,8 +62,8 @@ active_tab: overview
         <p><strong>Time:</strong> 2pm-5:30pm</p>
         <p><strong>Room:</strong> TBD</p>
       </div>
-    </div>
-    <div class="program-overview-card">
+    </a>
+    <a href="{{ site.baseurl }}/program/workshops/ai-science-remote-sensing/" class="program-overview-card">
       <div>
         <p class="program-overview-title">AI for Science and Sustainability</p>
       </div>
@@ -72,8 +72,8 @@ active_tab: overview
         <p><strong>Time:</strong> 9am-5:30pm</p>
         <p><strong>Room:</strong> TBD</p>
       </div>
-    </div>
-    <div class="program-overview-card is-plain">
+    </a>
+    <a href="{{ site.baseurl }}/program/workshops/beyond-hype-ai-strategy/" class="program-overview-card is-plain">
       <div>
         <p class="program-overview-title">Beyond the Hype: Building AI Strategy for the Future</p>
       </div>
@@ -82,8 +82,8 @@ active_tab: overview
         <p><strong>Time:</strong> 5:30pm-7pm</p>
         <p><strong>Room:</strong> TBD</p>
       </div>
-    </div>
-    <div class="program-overview-card">
+    </a>
+    <a href="{{ site.baseurl }}/program/workshops/ai-biology/" class="program-overview-card">
       <div>
         <p class="program-overview-title">AI and Biology</p>
       </div>
@@ -92,8 +92,8 @@ active_tab: overview
         <p><strong>Time:</strong> 2pm-5:30pm</p>
         <p><strong>Room:</strong> TBD</p>
       </div>
-    </div>
-    <div class="program-overview-card is-plain">
+    </a>
+    <a href="{{ site.baseurl }}/program/workshops/ai-policy-forum/" class="program-overview-card is-plain">
       <div>
         <p class="program-overview-title">AI Policy Forum</p>
       </div>
@@ -102,8 +102,8 @@ active_tab: overview
         <p><strong>Time:</strong> 9am-5:30pm (tentative)</p>
         <p><strong>Room:</strong> TBD</p>
       </div>
-    </div>
-    <div class="program-overview-card">
+    </a>
+    <a href="{{ site.baseurl }}/program/workshops/ai-in-banking/" class="program-overview-card">
       <div>
         <p class="program-overview-title">AI in Banking and Financial Services</p>
       </div>
@@ -112,7 +112,7 @@ active_tab: overview
         <p><strong>Time:</strong> 9am-12:30pm</p>
         <p><strong>Room:</strong> TBD</p>
       </div>
-    </div>
+    </a>
   </div>
 </section>
 

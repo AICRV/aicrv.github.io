@@ -121,10 +121,22 @@ main.container {
 }
 
 .announcement-bar {
+  position: fixed;
+  top: 95px;
+  left: 0;
+  right: 0;
+  z-index: 1025;
+  width: 100%;
   background: var(--aicrv-pink);
   color: #ffffff;
-  padding: 10px 0;
+  padding: 14px 0;
   font-size: 0.9rem;
+  box-shadow: 0 4px 12px rgba(14, 17, 30, 0.12);
+}
+
+.announcement-bar-spacer {
+  flex-shrink: 0;
+  height: 69px;
 }
 
 .announcement-inner {
@@ -1099,14 +1111,15 @@ main.container {
 .site-footer {
   background: var(--aicrv-deep);
   color: #ffffff;
-  padding: 52px 0 0;
+  padding: 40px 0 0;
 }
 
 .footer-grid {
   display: grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
-  gap: 24px;
-  font-size: 0.9rem;
+  grid-template-columns: minmax(200px, 1.35fr) repeat(4, minmax(0, 1fr));
+  gap: 20px;
+  font-size: 0.88rem;
+  align-items: start;
 }
 
 .footer-brand {
@@ -1116,9 +1129,10 @@ main.container {
 }
 
 .footer-brand img {
-  max-width: 100%;
-  height: auto;
   display: block;
+  width: 100%;
+  max-width: 280px;
+  height: auto;
 }
 
 .footer-column h3 {
@@ -1158,8 +1172,8 @@ main.container {
 
 .footer-bottom {
   border-top: 1px solid rgba(255, 255, 255, 0.12);
-  margin-top: 28px;
-  padding: 16px 0;
+  margin-top: 22px;
+  padding: 14px 0;
   text-align: center;
   font-size: 0.85rem;
   color: rgba(255, 255, 255, 0.75);
@@ -1281,6 +1295,10 @@ main.container {
     align-items: flex-start;
   }
 
+  .announcement-bar-spacer {
+    height: 120px;
+  }
+
   .hero-card {
     margin-top: 24px;
   }
@@ -1388,6 +1406,22 @@ main.container .program-image-card img {
   grid-template-columns: minmax(200px, 1fr) minmax(160px, 1fr);
   gap: 16px;
   align-items: center;
+}
+
+a.program-overview-card {
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow 0.18s ease, transform 0.18s ease;
+}
+
+a.program-overview-card:hover {
+  box-shadow: 0 10px 28px rgba(14, 17, 30, 0.12);
+  transform: translateY(-1px);
+}
+
+a.program-overview-card:focus-visible {
+  outline: 2px solid var(--aicrv-pink);
+  outline-offset: 3px;
 }
 
 .program-overview-card.is-plain {

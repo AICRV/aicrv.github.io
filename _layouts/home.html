@@ -5,7 +5,7 @@
     Set it to true to re-enable this section.
   {%- endcomment -%}
   {%- if site.show_countdown_banner -%}
-  <section class="announcement-bar full-bleed">
+  <section class="announcement-bar" aria-label="Early registration countdown">
     <div class="container announcement-inner">
       <span class="announcement-text">Early Registration Deadline Approaching in</span>
       <div class="countdown" data-countdown="2026-04-30T23:59:00-07:00">
@@ -28,6 +28,7 @@
       </div>
     </div>
   </section>
+  <div class="announcement-bar-spacer" aria-hidden="true"></div>
   {%- endif -%}
 
   <section class="hero full-bleed aicrv-banner">
