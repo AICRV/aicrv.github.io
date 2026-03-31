@@ -71,7 +71,7 @@ layout: page
     <h2>Key Information to Register</h2>
   </div>
   <div class="calls-copy">
-    <p>Full registration options include admission to the full AI and CRV technical programs, workshops, welcome reception, banquet, and AI Gala. Breakfast and refreshments will be provided throughout the day, with costs included in the registration.</p>
+    <p>Full registration options include admission to the full AI and CRV technical programs, workshops, welcome reception, banquet, and AI Gala. Breakfast and refreshments will be provided throughout the day, with costs included in the registration. Each full registration meets author registration requirements for one conference paper, and two workshop, GSS, or nectar papers.</p>
     <p> In the registration form, please indicate which workshop(s) and social event(s), if any, you plan to attend. Note that there is limited availability for each session and they come in a first come first serve manner, and we might not be able to provide all the options to people who register late.</p>
     <p>At least one author of each accepted paper should be registered to the conference with a non-student full registration, and present the paper in the conference. Authors who have not registered before the deadline will have their paper removed from the program and the proceedings. To link your paper to a full registration, please choose full registration and enter your accepted paper ID in the registration form. </p>
   </div>
