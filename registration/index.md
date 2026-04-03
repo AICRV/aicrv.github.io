@@ -74,6 +74,7 @@ layout: page
     <p>Full registration options include admission to the full AI and CRV technical programs, workshops, welcome reception, banquet, and AI Gala. Breakfast and refreshments will be provided throughout the day, with costs included in the registration. Each full registration meets author registration requirements for one conference paper, and two workshop, GSS, or nectar papers.</p>
     <p> In the registration form, please indicate which workshop(s) and social event(s), if any, you plan to attend. Note that there is limited availability for each session and they come in a first come first serve manner, and we might not be able to provide all the options to people who register late.</p>
     <p>At least one author of each accepted paper should be registered to the conference with a non-student full registration, and present the paper in the conference. Authors who have not registered before the deadline will have their paper removed from the program and the proceedings. To link your paper to a full registration, please choose full registration and enter your accepted paper ID in the registration form. </p>
+    <p>GSS and Nectar track papers require a regular or student registration.</p>
   </div>
 </div>
 
@@ -97,13 +98,15 @@ layout: page
       <th>Welcome reception<sup>*</sup></th>
       <th>Banquet<sup>*</sup></th>
       <th>AI gala<sup>*</sup></th>
-      <th>Meets author registration requirement</th>
+      <th>GSS and Nectar track paper upload</th>
+      <th>Regular conference paper upload</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Regular - early bird</td>
       <td>$750</td>
+      <td class="check">✔</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
@@ -124,10 +127,12 @@ layout: page
       <td class="check">✔</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
+      <td class="check">✔</td>
     </tr>
     <tr>
       <td>Student - early bird</td>
       <td>$400</td>
+      <td class="check">✔</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
@@ -140,6 +145,7 @@ layout: page
     <tr>
       <td>Student</td>
       <td>$450</td>
+      <td class="check">✔</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
       <td class="check">✔</td>
@@ -160,6 +166,7 @@ layout: page
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Responsible AI Track Only</td>
@@ -167,6 +174,7 @@ layout: page
       <td></td>
       <td></td>
       <td class="check">✔</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -184,6 +192,7 @@ layout: page
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Welcome reception</td>
@@ -193,6 +202,7 @@ layout: page
       <td></td>
       <td></td>
       <td class="check">✔</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -206,6 +216,7 @@ layout: page
       <td></td>
       <td></td>
       <td class="check">✔</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>

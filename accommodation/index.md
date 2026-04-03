@@ -290,6 +290,7 @@ layout: page
   <section class="suggestions-section">
     <div class="suggestions-inner">
       <h2 class="suggestions-title">On-campus accommodations</h2>
+      <p>Note: There are a limited number of on-campus rooms at the rates below.</p>
       <div class="room-card">
         <div class="room-card-header">
           <div class="room-card-info">
@@ -302,7 +303,7 @@ layout: page
         <div class="room-card-header">
           <div class="room-card-info">
             <h3><a href="https://sfu.starrezhousing.com/StarRezPortalXConference/42A24B60/53/512/Home-Welcome?UrlToken=5C8513E6">The Simon</a></h3>
-            <p><strong>Double Queen \& Queen Rooms:</strong> $189.00 per night + tax</p>
+            <p><strong>Double Queen & Queen Rooms:</strong> $189.00 per night + tax</p>
             <p><strong>Kitchenette Rooms:</strong> $209.00 per night + tax</p>
           </div>
         </div>
@@ -320,6 +321,9 @@ layout: page
           </ul>
         </li>
       </ol>
+      <div class="calls-submit">
+        <a class="btn btn-dark btn-sm" href="https://sfu.starrezhousing.com/StarRezPortalXConference/42A24B60/53/512/Home-Welcome?UrlToken=5C8513E6">Book Now!</a>
+      </div>
     </div>
   </section>
 
@@ -334,6 +338,9 @@ layout: page
             <p>Starting at $220.00 per night + tax</p>
           </div>
         </div>
+      </div>
+      <div class="calls-submit">
+        <a class="btn btn-dark btn-sm" href="https://be.synxis.com/?adult=1&arrive=2026-05-27&chain=6278&child=0&currency=CAD&depart=2026-05-28&hotel=16966&level=hotel&locale=en-US&pdrooms=1&productcurrency=CAD&promo=sfu&rooms=1">Book Now!</a>
       </div>
     </div>
   </section>
