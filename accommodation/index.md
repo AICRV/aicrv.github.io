@@ -302,9 +302,10 @@ layout: page
       <div class="room-card">
         <div class="room-card-header">
           <div class="room-card-info">
-            <h3><a href="https://sfu.starrezhousing.com/StarRezPortalXConference/42A24B60/53/512/Home-Welcome?UrlToken=5C8513E6">The Simon</a></h3>
-            <p><strong>Double Queen & Queen Rooms:</strong> $189.00 per night + tax</p>
-            <p><strong>Kitchenette Rooms:</strong> $209.00 per night + tax</p>
+            <h3><s>The Simon</s></h3>
+            <p><s>Double Queen & Queen Rooms: $189.00 per night + tax</s></p>
+            <p><s>Kitchenette Rooms: $209.00 per night + tax</s></p>
+            No more rooms available at The Simon
           </div>
         </div>
       </div>
