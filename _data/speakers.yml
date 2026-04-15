@@ -83,3 +83,10 @@ workshop_ai_policy_forum_speakers:
     affiliation: Bank of Canada
     url: "https://www.bankofcanada.ca/profile/jing-yang/"
     photo: "https://www.bankofcanada.ca/wp-content/uploads/2015/12/yang_jing_7191.jpg"
+
+# AI Banking speakers
+workshop_ai_banking_speakers:
+  - name: Thibaut Duprey
+    affiliation: Bank of Canada
+    url: "https://www.bankofcanada.ca/profile/thibaut-duprey/"
+    photo: "https://www.bankofcanada.ca/wp-content/uploads/2018/11/Duprey_Thibaut_7030-250x250.jpg"
