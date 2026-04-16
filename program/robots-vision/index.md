@@ -5,6 +5,7 @@ hero_title: Canadian Conference on AI, Robots & Vision (AI/CRV) 2026
 hero_subtitle: Conference on Robots & Vision
 hero_image: /assets/img/P8_1_101215.jpg
 hero_alt: Robotics lab equipment
+tabs_include: partials/program_tabs.html
 ---
 
 <section class="section">

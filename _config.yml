@@ -121,6 +121,8 @@ conference:
             relative_url: /program/robots-vision/
           - name: Student Symposium
             relative_url: /program/student-symposium/
+          - name: Social Events
+            relative_url: /program/social-events/
           - name: Workshops
             relative_url: /program/workshops/
           - name: "&nbsp;&nbsp;&nbsp;&nbsp;Responsible AI Track"
