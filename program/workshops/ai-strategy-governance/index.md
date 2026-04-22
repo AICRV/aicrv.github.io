@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: AI Strategy and Governance in Business\: Research Frontiers on Organizational Value, Risk, and Design
+title: "AI Strategy and Governance in Business: Research Frontiers on Organizational Value, Risk, and Design"
 hero_title: Canadian Conference on AI, Robots & Vision (AI/CRV) 2026
 hero_subtitle: Workshops
 hero_image: /assets/img/P9_1_101291.jpg
