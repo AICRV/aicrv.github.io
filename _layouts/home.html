@@ -215,7 +215,7 @@
       <div class="speakers-header">
         <h2>Speakers</h2>
         <div class="speakers-description">
-          <p>Invited speakers from the Canadian AI Conference and the Conference on Robots and Vision.</p>
+          <p>Invited and featured speakers from the Canadian AI Conference, the Conference on Robots and Vision, and AI/CRV workshops.</p>
         </div>
       </div>
       <div class="speaker-grid-full">
@@ -237,6 +237,13 @@
         <div class="speaker-card">
           <div class="speaker-photo"{% if s.photo %} style="background-image: url('{{ s.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
           <h3>{{ s.name }}</h3>
+          <p>{{ s.affiliation }}</p>
+        </div>
+        {% endfor %}
+        {% for s in site.data.speakers.homepage_speakers %}
+        <div class="speaker-card">
+          <div class="speaker-photo"{% if s.photo %} style="background-image: url('{{ s.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
+          <h3>{% if s.url %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</h3>
           <p>{{ s.affiliation }}</p>
         </div>
         {% endfor %}

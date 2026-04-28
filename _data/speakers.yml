@@ -43,6 +43,29 @@ crv_symposium:
     url: "https://www.computerrobotvision.org/invited.html"
     photo: "https://www.computerrobotvision.org/assets/img/people/ioannou.jpg"
 
+# Additional speakers featured on the homepage
+homepage_speakers:
+  - name: Karsten Kreis
+    affiliation: Principal Research Scientist, NVIDIA Research
+    url: "https://karstenkreis.github.io/"
+    photo: "https://research.nvidia.com/sites/default/files/person/karsten_kreis_cropped_raw.jpg"
+  - name: Guy Dulude
+    affiliation: Vice President, Siemens
+    url: "https://www.sfu.ca/fas/schools/mechatronic-systems-engineering/leadership/guy-dulude.html"
+    photo: "https://www.sfu.ca/content/sfu/fas/schools/mechatronic-systems-engineering/leadership/guy-dulude.img.-259359181.png"
+  - name: Daniel Schwanen
+    affiliation: Senior Vice President, C.D. Howe Institute
+    url: "https://cdhowe.org/our-people/daniel-schwanen/"
+    photo: "https://cdhowe.org/wp-content/uploads/2024/10/Daniel-Schwanen_2024.png"
+  - name: Jing Yang
+    affiliation: Managing Director, Bank of Canada
+    url: "https://www.bankofcanada.ca/profile/jing-yang/"
+    photo: "https://www.bankofcanada.ca/wp-content/uploads/2015/12/yang_jing_7191.jpg"
+  - name: Sethuraman Panchanathan
+    affiliation: Former Director, U.S. National Science Foundation
+    url: "https://en.wikipedia.org/wiki/Sethuraman_Panchanathan"
+    photo: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Sethuraman_Panchanathan%2C_portrait%2C_National_Science_Foundation.jpg"
+
 # DMP Workshop speakers (Data and Model Protection in Generative AI)
 workshop_dmp_speakers:
   - name: Jekaterina Novikova
@@ -76,11 +99,11 @@ workshop_dmp_speakers:
 # AI Policy Forum speakers
 workshop_ai_policy_forum_speakers:
   - name: Daniel Schwanen
-    affiliation: C.D. Howe Institute
+    affiliation: Senior Vice President, C.D. Howe Institute
     url: "https://cdhowe.org/our-people/daniel-schwanen/"
     photo: "https://cdhowe.org/wp-content/uploads/2024/10/Daniel-Schwanen_2024.png"
   - name: Jing Yang
-    affiliation: Bank of Canada
+    affiliation: Managing Director, Bank of Canada
     url: "https://www.bankofcanada.ca/profile/jing-yang/"
     photo: "https://www.bankofcanada.ca/wp-content/uploads/2015/12/yang_jing_7191.jpg"
 
