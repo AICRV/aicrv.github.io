@@ -173,7 +173,7 @@ layout: page
 
 .sponsors-logo-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   gap: 16px;
   margin-bottom: 30px;
 }
@@ -496,6 +496,9 @@ layout: page
         </a>
         <a class="sponsor-logo-card" href="https://www.rbc.com" target="_blank" rel="noopener" title="RBC" style="text-decoration: none;">
           <img src="{{ site.baseurl }}/assets/img/sponsors/rbc.svg" alt="RBC" style="max-width: 80%; max-height: 60px; object-fit: contain;">
+        </a>
+        <a class="sponsor-logo-card" href="https://www.cibc.com/en/personal-banking.html" target="_blank" rel="noopener" title="CIBC" style="text-decoration: none;">
+          <img src="{{ site.baseurl }}/assets/img/sponsors/cibc.svg" alt="CIBC" style="max-width: 80%; max-height: 60px; object-fit: contain;">
         </a>
       </div>
       <div class="sponsors-partners-cta">
