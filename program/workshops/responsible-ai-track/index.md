@@ -15,9 +15,9 @@ active_tab: responsible-ai
       <h2>Responsible AI Track</h2>
     </div>
     <div class="section-body">
-      <p>Details can be found <a class="btn btn-dark btn-sm" href="https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai">here</a>: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai.</p>
+      <p>Details can be found <a class="btn btn-dark btn-sm" href="https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai">here</a>: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai</p>
     </div>
   </div>
 </section>
 
-{% include partials/workshop_acknowledgements.html %}
+<!-- {% include partials/workshop_acknowledgements.html %} -->
