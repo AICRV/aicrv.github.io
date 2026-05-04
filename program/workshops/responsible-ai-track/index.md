@@ -15,7 +15,7 @@ active_tab: responsible-ai
       <h2>Responsible AI Track</h2>
     </div>
     <div class="section-body">
-      <p>Details coming soon.</p>
+      <p>Details can be found here: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai.</p>
     </div>
   </div>
 </section>
