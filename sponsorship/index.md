@@ -344,8 +344,8 @@ layout: page
             <li>Logo on the Canadian AI/CRV 2026 conference website</li>
             <li>Access to a private meeting room during the main conference</li>
             <li>License to use the "Official Conference Sponsor" label</li>
-            <li>Welcome reception sponsorship package included</li>
             <li>Coffee break sponsorship package included</li>
+            <li>Opportunity to directly engage with specific attendees through targeted outreach (subject to participant consent)</li>
             <li>Conference Lanyard Co-Branding (Diamond sponsors' logos printed on attendee lanyards)</li>
           </ul>
         </div>
@@ -374,6 +374,7 @@ layout: page
             <li>Access to a private meeting room during the main conference</li>
             <li>License to use the "Official Conference Sponsor" label</li>
             <li>Coffee break sponsorship package included</li>
+            <li>Opportunity to directly engage with specific attendees through targeted outreach (subject to participant consent)</li>
           </ul>
         </div>
       </div>
@@ -395,6 +396,8 @@ layout: page
             <li>Exhibition space during poster sessions</li>
             <li>Logo on the Canadian AI/CRV 2026 conference website</li>
             <li>License to use the "Official Conference Sponsor" label</li>
+            <li>Distribute three sponsored emails to targeted groups, including graduate students and graduate students seeking full-time opportunities</li>
+            <li>Opportunity to directly engage with specific attendees through targeted outreach (subject to participant consent)</li>
           </ul>
         </div>
       </div>
@@ -415,6 +418,7 @@ layout: page
             <li>Display one roll-up stand at registration desk</li>
             <li>Logo on the Canadian AI/CRV 2026 conference website</li>
             <li>License to use the "Official Conference Sponsor" label</li>
+            <li>Distribute two sponsored emails to targeted groups, including graduate students and graduate students seeking full-time opportunities</li>
           </ul>
         </div>
       </div>
@@ -433,6 +437,7 @@ layout: page
             <li>Official recognition during welcome reception and banquet</li>
             <li>Logo on the Canadian AI/CRV 2026 conference website</li>
             <li>License to use the "Official Conference Sponsor" label</li>
+            <li>Distribute one sponsored email to all participants who have opted in to receive communications</li>
           </ul>
         </div>
       </div>
