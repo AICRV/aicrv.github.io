@@ -37,4 +37,4 @@ active_tab: ai-governance
   </div>
 </section>
 
-{% include partials/workshop_acknowledgements.html %}
+<!-- {% include partials/workshop_acknowledgements.html %} --->
