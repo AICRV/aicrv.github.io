@@ -29,10 +29,10 @@ active_tab: ai-governance
       <h2>Confirmed Speakers</h2>
     </div>
     <div class="section-body">
-      <p> <li> Terri Griffith, Keith Beedie Chair in Innovation and Entrepreneurship, Simon Fraser University's Beedie School of Business </li> </p>
+      <!-- <p> <li> Terri Griffith, Keith Beedie Chair in Innovation and Entrepreneurship, Simon Fraser University's Beedie School of Business </li> </p>
       <p> <li> Blaize Horner Reich, Professor Emerita, Beedie School of Business, SFU and Board Director, ICD.D and coach </li> </p>
       <p> <li> Samantha Seto, Assistant Professor, Accounting, Beedie School of Business </li> </p>
-      <p> <li> Aishwarya Deep Shukla, Assistant Professor, MIS, Beedie School of Business </li> </p>
+      <p> <li> Aishwarya Deep Shukla, Assistant Professor, MIS, Beedie School of Business </li> </p> -->
     </div>
   </div>
 </section>
