@@ -117,7 +117,7 @@ workshop_ai_banking_speakers:
     photo: "https://www.bankofcanada.ca/wp-content/uploads/2018/11/Duprey_Thibaut_7030-250x250.jpg"
 
 # AI Strategy and Governance speakers
-workshop_ai_strategy_governance: 
+workshop_ai_strategy_governance_speakers: 
   - name: Terri Griffith
     affiliation: Keith Beedie Chair in Innovation and Entrepreneurship, Simon Fraser University's Beedie School of Business
     url: "https://terrigriffith.com/"
