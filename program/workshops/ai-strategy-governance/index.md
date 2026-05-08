@@ -33,6 +33,15 @@ active_tab: ai-governance
       <p> <li> Blaize Horner Reich, Professor Emerita, Beedie School of Business, SFU and Board Director, ICD.D and coach </li> </p>
       <p> <li> Samantha Seto, Assistant Professor, Accounting, Beedie School of Business </li> </p>
       <p> <li> Aishwarya Deep Shukla, Assistant Professor, MIS, Beedie School of Business </li> </p> -->
+      <div class="organizer-grid">
+        {% for s in site.data.speakers.workshop_dmp_speakers %}
+        <div class="organizer-card">
+          <div class="organizer-photo"{% if s.photo %} style="background-image: url('{{ s.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
+          <h3>{% if s.url %}<a href="{{ s.url }}">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</h3>
+          <p>{{ s.affiliation }}</p>
+        </div>
+        {% endfor %}
+      </div>
     </div>
   </div>
 </section>
