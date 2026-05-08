@@ -109,7 +109,28 @@ workshop_ai_policy_forum_speakers:
 
 # AI Banking speakers
 workshop_ai_banking_speakers:
-  - name: Thibaut Duprey
-    affiliation: Bank of Canada
+  - name: Dr. Thibaut Duprey
+    affiliation: Senior Director, Financial Stability Department, Bank of Canada
+    talk: "Challenges and opportunities of AI for central banking and financial stability"
+    abstract: "AI could influence both financial stability and how central banks assess financial system risks. The presentation will first highlight potential financial stability channels of AI adoption. Second, it will describe how new AI and ML research is already reshaping some policy analyses by central banks. Finally, it will discuss future areas where applied AI research can support financial system policymaking."
     url: "https://www.bankofcanada.ca/profile/thibaut-duprey/"
     photo: "https://www.bankofcanada.ca/wp-content/uploads/2018/11/Duprey_Thibaut_7030-250x250.jpg"
+
+# AI Strategy and Governance speakers
+workshop_ai_strategy_governance: 
+  - name: Terri Griffith
+    affiliation: Keith Beedie Chair in Innovation and Entrepreneurship, Simon Fraser University's Beedie School of Business
+    url: "https://terrigriffith.com/"
+    photo: "https://images.squarespace-cdn.com/content/v1/569c48c21a520349a50f5174/1453140865317-H2DZRX9IQQYG568ABE1R/image-asset.jpeg?format=2500w"
+  - name: Blaize Horner Reich
+    affiliation: Professor Emerita, Beedie School of Business, SFU and Board Director, ICD.D and coach
+    url: ""
+    photo: "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=zsFlJS0AAAAJ&citpid=4"
+  - name: Samantha Seto
+    affiliation: Assistant Professor, Accounting, Beedie School of Business
+    url: "https://www.sfu.ca/beedie/contact-us/faculty-staff-directory/profile.html?name=SamanthaSeto"
+    photo: "https://beedie.sfu.ca/sms/admin/_DocLibrary/_cvs/9c245bdbc50b7f7196b70a54fadf764c.jpg"
+  - name: Aishwarya Deep Shukla
+    affiliation: Assistant Professor, MIS, Beedie School of Business
+    url: "https://adshukla.com/"
+    photo: "https://adshukla.com/headshot.jpg"  
