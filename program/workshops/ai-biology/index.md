@@ -22,4 +22,4 @@ active_tab: ai-biology
   </div>
 </section>
 
-{% include partials/workshop_acknowledgements.html %}
+<!-- {% include partials/workshop_acknowledgements.html %} -->
