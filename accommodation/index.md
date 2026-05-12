@@ -290,7 +290,7 @@ layout: page
   <section class="suggestions-section">
     <div class="suggestions-inner">
       <h2 class="suggestions-title">On-campus accommodations</h2>
-      <p>Note: There are a limited number of on-campus rooms at the rates below.</p>
+      <p>Note: There are a limited number of on-campus rooms at the rates below. On-campus rooms are reserved under our group block until May 19. After that, the block will be released, and booking will have to be done directly through SFU accommodation subject to availability and standard rates</p>
       <div class="room-card">
         <div class="room-card-header">
           <div class="room-card-info">
