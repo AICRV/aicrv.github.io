@@ -98,6 +98,14 @@ workshop_dmp_speakers:
 
 # AI Policy Forum speakers
 workshop_ai_policy_forum_speakers:
+  - name: Sethuraman Panchanathan
+    affiliation: Former Director, U.S. National Science Foundation
+    url: "https://en.wikipedia.org/wiki/Sethuraman_Panchanathan"
+    photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sethuraman_Panchanathan%2C_portrait%2C_National_Science_Foundation.jpg/250px-Sethuraman_Panchanathan%2C_portrait%2C_National_Science_Foundation.jpg"
+  - name: Arvind Gupta
+    affiliation: Professor of Computer Science, University of Toronto
+    url: "https://discover.research.utoronto.ca/2105-arvind-gupta"
+    photo: "https://storage.theconversation.com/wkwtmtmplion7tstqkojyg38tmn0"
   - name: Daniel Schwanen
     affiliation: Senior Vice President, C.D. Howe Institute
     url: "https://cdhowe.org/our-people/daniel-schwanen/"
@@ -106,6 +114,18 @@ workshop_ai_policy_forum_speakers:
     affiliation: Managing Director, Bank of Canada
     url: "https://www.bankofcanada.ca/profile/jing-yang/"
     photo: "https://www.bankofcanada.ca/wp-content/uploads/2015/12/yang_jing_7191.jpg"
+  - name: Greg Mori
+    affiliation: VP, AI Research and Innovation, RBC Borealis; Adjunct Professor, Simon Fraser University
+    url: "https://www.cs.sfu.ca/~mori/"
+    photo: "https://www.cs.sfu.ca/~mori/pictures/mori_tasc.jpg"
+  - name: Guy Dulude
+    affiliation: Vice President, Portfolio Development & Sales Acceleration (Canada), Siemens
+    url: "https://ca.linkedin.com/in/guydulude"
+    photo: ""
+  - name: Andrew Donaher
+    affiliation: Vice President, CGI Vancouver
+    url: "https://www.cgi.com/canada/en-ca/experts/andrew-donaher"
+    photo: "https://www.cgi.com/sites/default/files/styles/profile_thumbnail/public/andrew-donaher-headshot.jpg.webp?itok=F7cp4B1Z"
 
 # AI Banking speakers
 workshop_ai_banking_speakers:
