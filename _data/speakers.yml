@@ -49,22 +49,6 @@ homepage_speakers:
     affiliation: Principal Research Scientist, NVIDIA Research
     url: "https://karstenkreis.github.io/"
     photo: "https://research.nvidia.com/sites/default/files/person/karsten_kreis_cropped_raw.jpg"
-  - name: Guy Dulude
-    affiliation: Vice President, Siemens
-    url: "https://ca.linkedin.com/in/guydulude"
-    photo: "https://www.sfu.ca/content/sfu/fas/schools/mechatronic-systems-engineering/leadership/guy-dulude.img.-259359181.png"
-  - name: Daniel Schwanen
-    affiliation: Senior Vice President, C.D. Howe Institute
-    url: "https://cdhowe.org/our-people/daniel-schwanen/"
-    photo: "https://cdhowe.org/wp-content/uploads/2024/10/Daniel-Schwanen_2024.png"
-  - name: Jing Yang
-    affiliation: Managing Director, Bank of Canada
-    url: "https://www.bankofcanada.ca/profile/jing-yang/"
-    photo: "https://www.bankofcanada.ca/wp-content/uploads/2015/12/yang_jing_7191.jpg"
-  - name: Sethuraman Panchanathan
-    affiliation: Former Director, U.S. National Science Foundation
-    url: "https://en.wikipedia.org/wiki/Sethuraman_Panchanathan"
-    photo: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Sethuraman_Panchanathan%2C_portrait%2C_National_Science_Foundation.jpg"
 
 # DMP Workshop speakers (Data and Model Protection in Generative AI)
 workshop_dmp_speakers:
@@ -79,10 +63,6 @@ workshop_dmp_speakers:
     affiliation: University of Waterloo
     url: "https://sirisharambhatla.com/"
     photo: "/assets/img/speakers/sirisha-rambhatla.jpg"
-  - name: Reza Samavi
-    affiliation: Toronto Metropolitan University
-    url: "https://www.ee.torontomu.ca/~samavi/about.html"
-    photo: "https://www.ee.torontomu.ca/~samavi/images/Reza_05_s.jpg"
   - name: Mathias Lécuyer
     affiliation: University of British Columbia
     url: "https://mathias.lecuyer.me/"
@@ -91,10 +71,91 @@ workshop_dmp_speakers:
     affiliation: Simon Fraser University
     url: "https://www.cs.sfu.ca/~linyi/"
     photo: "https://www.cs.sfu.ca/~linyi/res/avatar/linyili.jpg"
-  - name: Joanna Redden
+  - name: Sébastien Gambs
+    affiliation: Professor, Université du Québec à Montréal; Canada Research Chair in Privacy-preserving and Ethical Analysis of Big Data
+    url: "https://professeurs.uqam.ca/professeur/gambs.sebastien/"
+    photo: "https://photos-professeurs.uqam.ca/images/fiche_professeur/m2/Cs%252bwEyQAgtQ_.jpg"
+  - name: Elliot Creager
+    affiliation: Assistant Professor, Electrical and Computer Engineering, University of Waterloo
+    url: "https://uwaterloo.ca/electrical-computer-engineering/profile/ecreager"
+    photo: "https://ecreager.github.io/assets/img/prof_pic.jpg"
+
+# DMP Workshop student speakers
+workshop_dmp_student_speakers:
+  - name: Mohammadreza Maleki
+    affiliation: Toronto Metropolitan University
+    url: "https://scholar.google.com/citations?user=CsD1-QwAAAAJ&hl=en"
+    photo: "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=CsD1-QwAAAAJ&citpid=3"
+  - name: Zhihao Li
     affiliation: Western University
-    url: "https://www.fims.uwo.ca/people/profiles/joanna_redden.html"
-    photo: "https://dmpworkshop.github.io/assets/img/joanna-redden.jpg"
+    url: "https://zhli-cs.github.io/"
+    photo: ""
+  - name: Eliott Baltz
+    affiliation: Université du Québec (ÉTS); Mila
+    url: "https://mila.quebec/en/directory/eliott-baltz"
+    photo: ""
+  - name: Vaishali Meyappan
+    affiliation: Toronto Metropolitan University
+    url: ""
+    photo: ""
+
+# AI and Biology workshop speakers
+workshop_ai_biology_speakers:
+  - name: Wyeth Wasserman
+    affiliation: Professor, Medical Genetics; Vice Dean Research, Faculty of Medicine, UBC
+    url: "https://medgen.med.ubc.ca/wyeth-w-wasserman/"
+    photo: "https://med-fom-medgen.sites.olt.ubc.ca/files/2021/11/cropped-Wasserman_Photo-1.jpg"
+  - name: Jiarui Ding
+    affiliation: Assistant Professor, Computer Science, University of British Columbia
+    url: "https://www.cs.ubc.ca/people/jiarui-ding"
+    photo: "https://www.cs.ubc.ca/sites/default/files/styles/profile_page/public/people/jiarui-ding-profile-portrait.jpg?h=ef193829&itok=sN0n1lPY"
+  - name: Archer Yang
+    affiliation: Associate Professor, Mathematics and Statistics, McGill University
+    url: "https://www.math.mcgill.ca/yyang/"
+    photo: "https://www.math.mcgill.ca/yyang/yi_portrait.jpg"
+  - name: Bahareh Tolooshams
+    affiliation: Assistant Professor, Electrical & Computer Engineering, University of Alberta; Amii Fellow
+    url: "https://btolooshams.github.io/"
+    photo: "https://btolooshams.github.io/images/profile.png"
+  - name: Amin Emad
+    affiliation: Associate Professor, Electrical and Computer Engineering, McGill University
+    url: "https://www.ece.mcgill.ca/~aemad2/"
+    photo: "https://www.ece.mcgill.ca/~aemad2/Figs/Emad.jpg"
+  - name: Michael Hoffman
+    affiliation: Senior Scientist, Princess Margaret Cancer Centre (UHN); Associate Professor, University of Toronto
+    url: "https://hoffmanlab.org/"
+    photo: "https://hoffmanlab.org/2010/photos/michael.jpg"
+  - name: Qihuang Zhang
+    affiliation: Assistant Professor, Epidemiology, Biostatistics and Occupational Health, McGill University
+    url: "https://www.mcgill.ca/epi-biostat-occh/qihuang-zhang"
+    photo: "https://qihuangzhang.github.io/images/Qihuang.jpg"
+  - name: Lazar Atanackovic
+    affiliation: Assistant Professor, University of Alberta; Amii Fellow
+    url: "https://lazaratan.github.io/"
+    photo: "https://lazaratan.github.io/assets/img/laz_pic.jpg"
+  - name: Martin Ester
+    affiliation: Distinguished SFU Professor, School of Computing Science, Simon Fraser University
+    url: "https://www.sfu.ca/fas/computing/people/faculty/faculty-members/martin-ester.html"
+    photo: "https://www.sfu.ca/content/sfu/fas/computing/people/faculty/faculty-members/martin-ester.img.1724209977.png"
+
+# Beyond the Hype workshop speakers
+workshop_beyond_hype_speakers:
+  - name: Rachel Barker
+    affiliation: Co-Founder & CEO, Novametra
+    url: "https://www.linkedin.com/in/rachelbarker/"
+    photo: "https://cdn.prod.website-files.com/67d795fc37dcc5f5a7f6e10a/67db9513b8c0e26556d9b44f_Rachel%20headshot%20website.jpg"
+  - name: Rob Goehring
+    affiliation: Executive Director, AI Network of BC; CEO & Founder, Wisr AI
+    url: "https://ainbc.ai/"
+    photo: "https://web-summit-avenger.imgix.net/production/avatars/original/2087e65218130ac339ae4b07eb06fe4d653a1867.?ixlib=rb-3.4.0&auto=format&fit=crop&crop=faces&w=600&h=600"
+  - name: Vineel Nagisetty
+    affiliation: Research Engineer, RBC Borealis
+    url: "https://vin-nag.github.io/"
+    photo: ""
+  - name: Chaitanya "CK" Kaligotla
+    affiliation: Assistant Professor, Beedie School of Business, Simon Fraser University
+    url: "https://scholar.google.com/citations?user=-icJ9OwAAAAJ"
+    photo: ""
 
 # AI Policy Forum speakers
 workshop_ai_policy_forum_speakers:
@@ -135,6 +196,10 @@ workshop_ai_banking_speakers:
     abstract: "AI could influence both financial stability and how central banks assess financial system risks. The presentation will first highlight potential financial stability channels of AI adoption. Second, it will describe how new AI and ML research is already reshaping some policy analyses by central banks. Finally, it will discuss future areas where applied AI research can support financial system policymaking."
     url: "https://www.bankofcanada.ca/profile/thibaut-duprey/"
     photo: "https://www.bankofcanada.ca/wp-content/uploads/2018/11/Duprey_Thibaut_7030-250x250.jpg"
+  - name: Hossein Hajimirsadeghi
+    affiliation: Principal Researcher, RBC Borealis
+    url: "https://hossein-h.github.io/"
+    photo: "https://hossein-h.github.io/hossein%20hajimirsadeghi.jpg"
 
 # AI Strategy and Governance speakers
 workshop_ai_strategy_governance_speakers: 
