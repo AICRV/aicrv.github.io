@@ -115,6 +115,8 @@ conference:
             relative_url: /calls/demos/
       - name: Program
         menu:
+          - name: Overview
+            relative_url: /program/
           - name: Canadian AI
             relative_url: /program/ai/
           - name: Conference on Robots & Vision
