@@ -89,15 +89,15 @@ workshop_dmp_student_speakers:
   - name: Zhihao Li
     affiliation: Western University
     url: "https://zhli-cs.github.io/"
-    photo: ""
+    photo: "https://zhli-cs.github.io/assets/avatar.png"
   - name: Eliott Baltz
     affiliation: Université du Québec (ÉTS); Mila
-    url: "https://mila.quebec/en/directory/eliott-baltz"
-    photo: ""
+    url: "https://www.linkedin.com/in/eliott-baltz/?originalSubdomain=ca"
+    photo: "/assets/img/speakers/eliott-baltz.png"
   - name: Vaishali Meyappan
     affiliation: Toronto Metropolitan University
-    url: ""
-    photo: ""
+    url: "https://www.linkedin.com/in/vaishali-meena-m/"
+    photo: "/assets/img/speakers/vaishali-meyappan.png"
 
 # AI and Biology workshop speakers
 workshop_ai_biology_speakers:
@@ -150,12 +150,12 @@ workshop_beyond_hype_speakers:
     photo: "https://web-summit-avenger.imgix.net/production/avatars/original/2087e65218130ac339ae4b07eb06fe4d653a1867.?ixlib=rb-3.4.0&auto=format&fit=crop&crop=faces&w=600&h=600"
   - name: Vineel Nagisetty
     affiliation: Research Engineer, RBC Borealis
-    url: "https://vin-nag.github.io/"
-    photo: ""
+    url: "https://www.linkedin.com/in/vineel-nagisetty/?originalSubdomain=ca"
+    photo: "/assets/img/speakers/vineel-nagisetty.png"
   - name: Chaitanya "CK" Kaligotla
     affiliation: Assistant Professor, Beedie School of Business, Simon Fraser University
-    url: "https://scholar.google.com/citations?user=-icJ9OwAAAAJ"
-    photo: ""
+    url: "https://scholar.google.com/citations?user=-icJ9OwAAAAJ&hl=en"
+    photo: "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-icJ9OwAAAAJ&citpid=3"
 
 # AI Policy Forum speakers
 workshop_ai_policy_forum_speakers:
@@ -182,7 +182,7 @@ workshop_ai_policy_forum_speakers:
   - name: Guy Dulude
     affiliation: Vice President, Portfolio Development & Sales Acceleration (Canada), Siemens
     url: "https://ca.linkedin.com/in/guydulude"
-    photo: ""
+    photo: "/assets/img/speakers/guy-dulude.png"
   - name: Andrew Donaher
     affiliation: Vice President, CGI Vancouver
     url: "https://www.cgi.com/canada/en-ca/experts/andrew-donaher"
