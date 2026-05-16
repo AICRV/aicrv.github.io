@@ -247,6 +247,16 @@
           <p>{{ s.affiliation }}</p>
         </div>
         {% endfor %}
+        {% assign workshop_groups = "workshop_ai_policy_forum_speakers,workshop_dmp_speakers,workshop_dmp_student_speakers,workshop_ai_biology_speakers,workshop_ai_strategy_governance_speakers,workshop_beyond_hype_speakers,workshop_ai_banking_speakers" | split: "," %}
+        {% for group in workshop_groups %}
+          {% for s in site.data.speakers[group] %}
+          <div class="speaker-card">
+            <div class="speaker-photo"{% if s.photo and s.photo != "" %} style="background-image: url('{{ s.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
+            <h3>{% if s.url and s.url != "" %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</h3>
+            <p>{{ s.affiliation }}</p>
+          </div>
+          {% endfor %}
+        {% endfor %}
       </div>
     </div>
   </section>
@@ -254,9 +264,15 @@
   <section class="section sponsors full-bleed" id="sponsors">
     <div class="container sponsors-inner">
       <h2>Meet Our Sponsor Partners</h2>
-      <div class="sponsor-grid sponsor-grid-five">
+      <div class="sponsor-grid sponsor-grid-four">
         <a class="sponsor-card sponsor-card-link" href="https://vectorinstitute.ai" target="_blank" rel="noopener" title="Vector Institute">
           <img src="{{ site.baseurl }}/assets/img/sponsors/vector.png" alt="Vector Institute" class="sponsor-logo" />
+        </a>
+        <a class="sponsor-card sponsor-card-link" href="https://cifar.ca" target="_blank" rel="noopener" title="CIFAR">
+          <img src="{{ site.baseurl }}/assets/img/sponsors/cifar.svg" alt="CIFAR" class="sponsor-logo" />
+        </a>
+        <a class="sponsor-card sponsor-card-link" href="https://mentalhealthcommission.ca" target="_blank" rel="noopener" title="Mental Health Commission of Canada">
+          <img src="{{ site.baseurl }}/assets/img/sponsors/mhcc.svg" alt="Mental Health Commission of Canada" class="sponsor-logo" />
         </a>
         <a class="sponsor-card sponsor-card-link" href="https://www.dobot.cc" target="_blank" rel="noopener" title="Dobot">
           <img src="{{ site.baseurl }}/assets/img/sponsors/dobot.svg" alt="Dobot" class="sponsor-logo" />
@@ -266,6 +282,9 @@
         </a>
         <a class="sponsor-card sponsor-card-link" href="https://www.rbc.com" target="_blank" rel="noopener" title="RBC">
           <img src="{{ site.baseurl }}/assets/img/sponsors/rbc.svg" alt="RBC" class="sponsor-logo" />
+        </a>
+        <a class="sponsor-card sponsor-card-link" href="https://www.earthdaily.com" target="_blank" rel="noopener" title="EarthDaily">
+          <img src="{{ site.baseurl }}/assets/img/sponsors/earthdaily.png" alt="EarthDaily" class="sponsor-logo" />
         </a>
         <a class="sponsor-card sponsor-card-link" href="https://www.cibc.com/en/personal-banking.html" target="_blank" rel="noopener" title="CIBC">
           <img src="{{ site.baseurl }}/assets/img/sponsors/cibc.svg" alt="CIBC" class="sponsor-logo" />
