@@ -1,0 +1,530 @@
+legend:
+  - type: workshop
+    label: Workshop
+  - type: invited
+    label: Invited talk / keynote
+  - type: oral
+    label: Oral session
+  - type: poster
+    label: Poster session
+  - type: panel
+    label: Panel
+  - type: break
+    label: Break
+  - type: meal
+    label: Meal
+  - type: social
+    label: Social event
+  - type: admin
+    label: Remarks / meeting
+
+days:
+  - id: monday
+    title: Monday, May 25
+    meta: Pre-conference workshops
+    rooms:
+      - key: halpern126
+        name: Halpern Centre 126
+      - key: halpern114
+        name: Halpern Centre 114
+      - key: sub4200
+        name: SUB 4200
+      - key: blusson
+        name: Blusson Hall 10011
+      - key: datahub
+        name: Data Hub
+      - key: shared
+        name: Shared / Dining
+    rows:
+      - time: 8:00am-10:00am
+        cells:
+          shared:
+            - title: Breakfast
+              meta: Halpern Centre 126
+              type: meal
+              url: /program/workshops/
+      - time: 9:00am-12:30pm
+        cells:
+          halpern126:
+            - title: AI for Science and Sustainability
+              type: workshop
+              url: /program/workshops/ai-science-remote-sensing/
+          halpern114:
+            - title: AI in Banking and Financial Services
+              type: workshop
+              url: /program/workshops/ai-in-banking/
+          sub4200:
+            - title: Data and Model Protection in Generative AI
+              type: workshop
+              url: /program/workshops/data-model-protection/
+          blusson:
+            - title: AI and Biology
+              type: workshop
+              url: /program/workshops/ai-biology/
+          datahub:
+            - title: AI Policy Forum
+              type: workshop
+              url: /program/workshops/ai-policy-forum/
+      - time: 12:30pm-2:00pm
+        cells:
+          shared:
+            - title: Lunch
+              meta: Dining Commons
+              type: meal
+              url: /program/workshops/
+      - time: 2:00pm-5:30pm
+        cells:
+          halpern126:
+            - title: AI for Science and Sustainability
+              type: workshop
+              url: /program/workshops/ai-science-remote-sensing/
+          halpern114:
+            - title: AI Strategy and Governance in Business
+              type: workshop
+              url: /program/workshops/ai-strategy-governance/
+          sub4200:
+            - title: Data and Model Protection in Generative AI
+              type: workshop
+              url: /program/workshops/data-model-protection/
+          blusson:
+            - title: AI and Biology
+              type: workshop
+              url: /program/workshops/ai-biology/
+          datahub:
+            - title: AI Policy Forum
+              type: workshop
+              url: /program/workshops/ai-policy-forum/
+      - time: 5:30pm-7:00pm
+        cells:
+          halpern126:
+            - title: "Beyond the Hype: Building AI Strategy for the Future"
+              type: workshop
+              url: /program/workshops/beyond-hype-ai-strategy/
+
+  - id: tuesday
+    title: Tuesday, May 26
+    meta: Main conference day 1
+    rooms:
+      - key: dfa
+        name: Diamond Family Auditorium
+      - key: sub
+        name: SUB Ballroom 5000
+      - key: halpern126
+        name: Halpern Centre 126
+      - key: shared
+        name: Meals / Social
+    rows:
+      - time: 8:00am-9:00am
+        cells:
+          shared:
+            - title: Breakfast
+              type: meal
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai
+      - time: 9:00am-9:30am
+        cells:
+          dfa:
+            - title: Joint opening remarks
+              type: admin
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: Joint opening remarks
+              type: admin
+              url: https://www.computerrobotvision.org/program.html
+          halpern126:
+            - title: Joint opening remarks
+              type: admin
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai
+      - time: 9:30am-10:30am
+        cells:
+          dfa:
+            - title: "Session 2A: Efficient Deep Learning: Compression and Architecture"
+              meta: Canadian AI oral session
+              type: oral
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: "CRV Keynote 1: Mac Schwager"
+              type: invited
+              url: https://www.computerrobotvision.org/program.html
+          halpern126:
+            - title: "Responsible AI keynote: Hila Gonen"
+              type: invited
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai
+      - time: 10:30am-11:00am
+        cells:
+          shared:
+            - title: Coffee break
+              type: break
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai
+      - time: 11:00am-11:30am
+        cells:
+          dfa:
+            - title: "Invited sponsor talk: Artificial Intelligence Guidance in Mental Health and Substance Use Health Care in Canada"
+              meta: Katie Seguin, Mental Health Commission of Canada
+              type: invited
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: Nils Wilde symposium talk
+              type: invited
+              url: https://www.computerrobotvision.org/program.html
+          halpern126:
+            - title: 3MT competition and poster presentations
+              type: poster
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai
+      - time: 11:30am-12:30pm
+        cells:
+          dfa:
+            - title: "Canadian AI keynote: Algorithm synthesis with theoretical guarantees"
+              meta: Kevin Leyton-Brown
+              type: invited
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: Robotics Oral Session 1
+              type: oral
+              url: https://www.computerrobotvision.org/program.html
+          halpern126:
+            - title: Responsible AI 3MT competition and posters continue
+              type: poster
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai
+      - time: 12:30pm-2:00pm
+        cells:
+          shared:
+            - title: Lunch
+              meta: Dining Commons
+              type: meal
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+      - time: 2:00pm-3:30pm
+        cells:
+          dfa:
+            - title: "Session 2C: Graph Neural Networks"
+              meta: Canadian AI oral session
+              type: oral
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: Nandita Vijaykumar symposium talk and Vision Oral Session 1
+              type: oral
+              url: https://www.computerrobotvision.org/program.html
+          halpern126:
+            - title: "Responsible AI keynote: Muhammad Abdul-Mageed"
+              type: invited
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai
+      - time: 3:30pm-4:00pm
+        cells:
+          shared:
+            - title: Coffee break
+              type: break
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+      - time: 4:00pm-5:30pm
+        cells:
+          dfa:
+            - title: "Session 2D: Computer Vision and Vision Language Models"
+              meta: Canadian AI oral session
+              type: oral
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: CRV lightning talks and poster session
+              type: poster
+              url: https://www.computerrobotvision.org/program.html
+          halpern126:
+            - title: Responsible AI panel discussion
+              type: panel
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai
+      - time: 6:00pm-10:00pm
+        cells:
+          shared:
+            - title: Welcome reception
+              meta: Diamond Alumni Centre
+              type: social
+              url: /program/social-events/
+
+  - id: wednesday
+    title: Wednesday, May 27
+    meta: Main conference day 2
+    rooms:
+      - key: dfa
+        name: Diamond Family Auditorium
+      - key: sub
+        name: SUB Ballroom 5000
+      - key: studio
+        name: The Presentation Studio
+      - key: shared
+        name: Meals / Social
+    rows:
+      - time: 8:00am-9:00am
+        cells:
+          shared:
+            - title: Breakfast
+              type: meal
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+      - time: 9:00am-10:30am
+        cells:
+          dfa:
+            - title: "Session 3A: LLM Safety and Robustness"
+              meta: Canadian AI oral session
+              type: oral
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: "CRV Keynote 2: Ian Stavness"
+              meta: 9:30am-10:30am
+              type: invited
+              url: https://www.computerrobotvision.org/program.html
+      - time: 10:30am-11:00am
+        cells:
+          shared:
+            - title: Coffee break
+              type: break
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+      - time: 11:00am-12:30pm
+        cells:
+          dfa:
+            - title: Doctoral Dissertation Award and Canadian AI keynote
+              meta: Sheila McIlraith
+              type: invited
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: Xinxin Zuo symposium talk and Vision Oral Session 2
+              type: oral
+              url: https://www.computerrobotvision.org/program.html
+      - time: 12:30pm-2:00pm
+        cells:
+          shared:
+            - title: Lunch
+              meta: Dining Commons
+              type: meal
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+      - time: 2:00pm-3:00pm
+        cells:
+          dfa:
+            - title: "Session 3C: Retrieval-Augmented Generation, Information Retrieval and Evaluation"
+              meta: Canadian AI oral session, 2:00pm-3:30pm
+              type: oral
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: Risto Ojala symposium talk and Robotics Oral Session 2
+              meta: 2:00pm-3:30pm
+              type: oral
+              url: https://www.computerrobotvision.org/program.html
+          studio:
+            - title: "Panel 1: Navigating AI Safety Challenges"
+              type: panel
+              url: /program/workshops/industry-track/
+      - time: 3:00pm-3:30pm
+        cells:
+          dfa:
+            - title: "Session 3C continues"
+              type: oral
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: Robotics Oral Session 2 continues
+              type: oral
+              url: https://www.computerrobotvision.org/program.html
+          studio:
+            - title: "Industry keynote: Research from Pixels to Proteins"
+              meta: Dr. Karsten Kreis, NVIDIA
+              type: invited
+              url: /program/workshops/industry-track/
+      - time: 3:30pm-4:00pm
+        cells:
+          shared:
+            - title: Coffee break
+              type: break
+              url: /program/workshops/industry-track/
+      - time: 4:00pm-5:00pm
+        cells:
+          dfa:
+            - title: "Session 3D: Natural Language Processing, Text Analytics and Data Augmentation"
+              meta: Canadian AI oral session, 4:00pm-5:30pm
+              type: oral
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: CRV lightning talks and poster session
+              meta: 4:00pm-5:30pm
+              type: poster
+              url: https://www.computerrobotvision.org/program.html
+          studio:
+            - title: "Panel 2: Open Model and Open Access in AI"
+              type: panel
+              url: /program/workshops/industry-track/
+      - time: 5:00pm-5:30pm
+        cells:
+          dfa:
+            - title: "Session 3D continues"
+              type: oral
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: CRV poster session continues
+              type: poster
+              url: https://www.computerrobotvision.org/program.html
+      - time: 5:30pm-6:30pm
+        cells:
+          dfa:
+            - title: CAIAC AGM
+              type: admin
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+      - time: Evening
+        cells:
+          shared:
+            - title: Banquet
+              meta: Executive Plaza Hotel and Conference Centre
+              type: social
+              url: /program/social-events/
+
+  - id: thursday
+    title: Thursday, May 28
+    meta: Main conference day 3
+    rooms:
+      - key: dfa
+        name: Diamond Family Auditorium
+      - key: sub
+        name: SUB Ballroom 5000
+      - key: douglas
+        name: James Douglas Area
+      - key: shared
+        name: Meals / Social
+    rows:
+      - time: 8:00am-9:00am
+        cells:
+          shared:
+            - title: Breakfast
+              type: meal
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+      - time: 9:00am-10:30am
+        cells:
+          dfa:
+            - title: "Session 4A: AI for Healthcare"
+              meta: Canadian AI oral session
+              type: oral
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: Invited talk and CIPPRS Dissertation Award
+              meta: 9:30am-10:30am
+              type: invited
+              url: https://www.computerrobotvision.org/program.html
+          douglas:
+            - title: Graduate Student Symposium poster session
+              meta: 9:00am-11:00am
+              type: poster
+              url: /program/student-symposium/
+      - time: 10:30am-11:00am
+        cells:
+          douglas:
+            - title: Graduate Student Symposium posters continue
+              type: poster
+              url: /program/student-symposium/
+          shared:
+            - title: Coffee break
+              type: break
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+      - time: 11:00am-12:30pm
+        cells:
+          dfa:
+            - title: "Session 4B: Trustworthy, Explainable and Ethical AI"
+              meta: Canadian AI oral session
+              type: oral
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: Yani Ioannou symposium talk and Vision Oral Session 3
+              type: oral
+              url: https://www.computerrobotvision.org/program.html
+      - time: 12:30pm-2:00pm
+        cells:
+          shared:
+            - title: Lunch
+              meta: Dining Commons
+              type: meal
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+      - time: 2:00pm-3:00pm
+        cells:
+          dfa:
+            - title: Graduate Student Symposium oral presentations
+              type: oral
+              url: /program/student-symposium/
+          sub:
+            - title: Mahdis Bisheban symposium talk and Robotics Oral Session 3
+              meta: 2:00pm-3:30pm
+              type: oral
+              url: https://www.computerrobotvision.org/program.html
+      - time: 3:00pm-3:30pm
+        cells:
+          dfa:
+            - title: Masters Dissertation Award presentation
+              type: invited
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: Robotics Oral Session 3 continues
+              type: oral
+              url: https://www.computerrobotvision.org/program.html
+      - time: 3:30pm-5:30pm
+        cells:
+          douglas:
+            - title: Canadian AI short-paper poster session
+              type: poster
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+      - time: 7:00pm-10:00pm
+        cells:
+          sub:
+            - title: AI Gala / CIFAR event
+              type: social
+              url: /program/social-events/
+
+  - id: friday
+    title: Friday, May 29
+    meta: Main conference day 4
+    rooms:
+      - key: dfa
+        name: Diamond Family Auditorium
+      - key: shared
+        name: Meals / Breaks
+    rows:
+      - time: 8:00am-9:00am
+        cells:
+          shared:
+            - title: Breakfast
+              type: meal
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+      - time: 9:00am-10:30am
+        cells:
+          dfa:
+            - title: "Session 5A: Applied AI and Optimization"
+              meta: Canadian AI oral session
+              type: oral
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+      - time: 10:30am-11:00am
+        cells:
+          shared:
+            - title: Coffee break
+              type: break
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+      - time: 11:00am-12:30pm
+        cells:
+          dfa:
+            - title: "Session 5B: Reinforcement Learning, Agents and Recommendation Systems"
+              meta: Canadian AI oral session
+              type: oral
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+      - time: 12:30pm-2:00pm
+        cells:
+          shared:
+            - title: Lunch
+              meta: Dining Commons
+              type: meal
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+      - time: 2:00pm-3:30pm
+        cells:
+          dfa:
+            - title: "Session 5C: Machine Learning Theory and Evaluation"
+              meta: Canadian AI oral session
+              type: oral
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+      - time: 3:30pm-4:00pm
+        cells:
+          shared:
+            - title: Coffee break
+              type: break
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+      - time: 4:00pm-5:30pm
+        cells:
+          dfa:
+            - title: "Session 5D: Temporal Modelling, Time-Series and Forecasting"
+              meta: Canadian AI oral session
+              type: oral
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
