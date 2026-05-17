@@ -30,7 +30,7 @@ active_tab: overview
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 26, 2026</p>
         <p><strong>Time:</strong> 9am-5:30pm</p>
-        <p><strong>Room:</strong> TBD</p>
+        <p><strong>Room:</strong> Halpern Centre 126</p>
       </div>
     </a>
     <a href="{{ site.baseurl }}/program/workshops/industry-track/" class="program-overview-card is-plain">
@@ -39,8 +39,8 @@ active_tab: overview
       </div>
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 27, 2026</p>
-        <p><strong>Time:</strong> 2pm-5:30pm</p>
-        <p><strong>Room:</strong> TBD</p>
+        <p><strong>Time:</strong> 2pm-5pm</p>
+        <p><strong>Room:</strong> The Presentation Studio (ASB 10900)</p>
       </div>
     </a>
     <a href="{{ site.baseurl }}/program/workshops/data-model-protection/" class="program-overview-card">

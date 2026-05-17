@@ -1,0 +1,97 @@
+{% assign schedule = site.data.schedule_overview %}
+
+<div class="schedule-legend" aria-label="Schedule legend">
+  {% for item in schedule.legend %}
+    <span class="schedule-legend-item schedule-legend-item--{{ item.type }}">
+      <span class="schedule-legend-swatch" aria-hidden="true"></span>
+      {{ item.label }}
+    </span>
+  {% endfor %}
+</div>
+
+<div class="schedule-week schedule-week--tables">
+  {% for day in schedule.days %}
+    <article class="schedule-day schedule-table-day" id="{{ day.id }}">
+      <header class="schedule-day-header">
+        <h3>{{ day.title }}</h3>
+        <p class="schedule-day-meta">{{ day.meta }}</p>
+      </header>
+
+      <div class="schedule-table-wrap" tabindex="0" aria-label="{{ day.title }} schedule by room">
+        <table class="schedule-matrix">
+          <thead>
+            <tr>
+              <th class="schedule-time-col" scope="col">Time</th>
+              {% for room in day.rooms %}
+                <th scope="col">{{ room.name }}</th>
+              {% endfor %}
+            </tr>
+          </thead>
+          <tbody>
+            {% for row in day.rows %}
+              <tr>
+                <th class="schedule-time-col" scope="row">{{ row.time }}</th>
+                {% for room in day.rooms %}
+                  {% assign room_key = room.key %}
+                  {% assign events = row.cells[room_key] %}
+                  <td>
+                    {% if events %}
+                      {% for event in events %}
+                        {% assign event_type = event.type | default: "session" %}
+                        {% assign event_href = event.url %}
+                        {% assign track_label = event.track %}
+                        {% unless track_label %}
+                          {% if event_type == "meal" or event_type == "break" %}
+                            {% assign track_label = "Conference-wide" %}
+                          {% elsif event_href contains "computerrobotvision.org" %}
+                            {% assign track_label = "CRV" %}
+                          {% elsif event_href contains "responsible-ai" or event.title contains "Responsible AI" or event.title contains "3MT" %}
+                            {% assign track_label = "Responsible AI" %}
+                          {% elsif event_href contains "industry-track" %}
+                            {% assign track_label = "Industry Track" %}
+                          {% elsif event_href contains "student-symposium" %}
+                            {% assign track_label = "Student Symposium" %}
+                          {% elsif event_href contains "social-events" %}
+                            {% assign track_label = "Social Events" %}
+                          {% elsif event_href contains "/program/workshops/" %}
+                            {% assign track_label = "Workshops" %}
+                          {% elsif event_href contains "caiac.ca" %}
+                            {% assign track_label = "Canadian AI" %}
+                          {% else %}
+                            {% assign track_label = "AI/CRV" %}
+                          {% endif %}
+                        {% endunless %}
+                        {% if event_href %}
+                          {% if event_href contains "://" %}
+                            <a class="schedule-event schedule-event--{{ event_type }}" href="{{ event_href }}" target="_blank" rel="noopener">
+                          {% else %}
+                            <a class="schedule-event schedule-event--{{ event_type }}" href="{{ site.baseurl }}{{ event_href }}">
+                          {% endif %}
+                        {% else %}
+                          <div class="schedule-event schedule-event--{{ event_type }}">
+                        {% endif %}
+                            <span class="schedule-event-track">{{ track_label }}</span>
+                            <span class="schedule-event-type">{{ event_type | replace: "-", " " | capitalize }}</span>
+                            <strong>{{ event.title }}</strong>
+                            {% if event.meta %}
+                              <span class="schedule-event-meta">{{ event.meta }}</span>
+                            {% endif %}
+                        {% if event_href %}
+                          </a>
+                        {% else %}
+                          </div>
+                        {% endif %}
+                      {% endfor %}
+                    {% else %}
+                      <span class="schedule-empty" aria-label="No scheduled event">-</span>
+                    {% endif %}
+                  </td>
+                {% endfor %}
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </article>
+  {% endfor %}
+</div>
