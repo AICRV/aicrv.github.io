@@ -51,3 +51,8 @@ tabs_include: partials/program_tabs.html
     </div>
   </div>
 </section>
+<section class="section">
+<div class="calls-submit">
+    <a class="btn btn-dark btn-sm" href="https://www.computerrobotvision.org/program.html">Schedule</a>
+</div>
+</section>
