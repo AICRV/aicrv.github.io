@@ -13,7 +13,7 @@ tabs_include: partials/program_tabs.html
     <h2>Social Events</h2>
   </div>
   <div class="section-body">
-    <p>The conference will include lots of fun social events great for networking.</p>
+    <p>The conference will include lots of fun social events great for networking. <strong>Please arrive by 8pm to be guaranteed admission.</strong></p>
   </div>
 </div>
 
