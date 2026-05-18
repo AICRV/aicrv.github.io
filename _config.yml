@@ -121,6 +121,8 @@ conference:
             relative_url: /program/ai/
           - name: Conference on Robots & Vision
             relative_url: /program/robots-vision/
+          - name: Nectar Track
+            relative_url: /program/nectar-track/
           - name: Student Symposium
             relative_url: /program/student-symposium/
           - name: Social Events

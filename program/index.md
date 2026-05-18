@@ -38,6 +38,7 @@ tabs_include: partials/program_tabs.html
       <ul>
         <li><a href="{{ site.baseurl }}/program/ai/">Canadian AI</a></li>
         <li><a href="{{ site.baseurl }}/program/robots-vision/">Conference on Robots &amp; Vision</a></li>
+        <li><a href="{{ site.baseurl }}/program/nectar-track/">Nectar Track</a></li>
         <li><a href="{{ site.baseurl }}/program/workshops/responsible-ai-track/">Responsible AI Track</a></li>
         <li><a href="{{ site.baseurl }}/program/workshops/industry-track/">Industry Track</a></li>
         <li><a href="{{ site.baseurl }}/program/student-symposium/">Graduate Student Symposium</a></li>

@@ -111,6 +111,8 @@ days:
         name: SUB Ballroom 5000
       - key: halpern126
         name: Halpern Centre 126
+      - key: douglas
+        name: James Douglas Area
       - key: shared
         name: Meals / Social
     rows:
@@ -228,6 +230,10 @@ days:
             - title: Responsible AI panel discussion
               type: panel
               url: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai
+          douglas:
+            - title: Nectar Track Poster Session 1
+              type: poster
+              url: /program/nectar-track/
       - time: 6:00pm-10:00pm
         cells:
           shared:
@@ -443,6 +449,10 @@ days:
               meta: 2:00pm-3:30pm
               type: oral
               url: https://www.computerrobotvision.org/program.html
+          douglas:
+            - title: Nectar Track Poster Session 2
+              type: poster
+              url: /program/nectar-track/
       - time: 3:00pm-3:30pm
         cells:
           dfa:
@@ -453,10 +463,28 @@ days:
             - title: Robotics Oral Session 3 continues
               type: oral
               url: https://www.computerrobotvision.org/program.html
-      - time: 3:30pm-5:30pm
+          douglas:
+            - title: Nectar Track Poster Session 2 continues
+              type: poster
+              url: /program/nectar-track/
+      - time: 3:30pm-4:00pm
         cells:
           douglas:
             - title: Canadian AI short-paper poster session
+              type: poster
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+      - time: 4:00pm-5:30pm
+        cells:
+          dfa:
+            - title: Nectar Track Presentations
+              type: oral
+              url: /program/nectar-track/
+          sub:
+            - title: Nectar Track Presentations
+              type: oral
+              url: /program/nectar-track/
+          douglas:
+            - title: Canadian AI short-paper poster session continues
               type: poster
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
       - time: 7:00pm-10:00pm

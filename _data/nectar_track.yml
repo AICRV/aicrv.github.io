@@ -1,0 +1,28 @@
+schedule:
+  - day: Tuesday, May 26
+    sessions:
+      - time: 4:00pm-5:30pm
+        title: Nectar Track Poster Session 1
+        room: James Douglas Area
+        format: Poster session
+        description: Presenters share Spotlight and Exploration Edge contributions in a dedicated poster session.
+  - day: Thursday, May 28
+    sessions:
+      - time: 2:00pm-3:30pm
+        title: Nectar Track Poster Session 2
+        room: James Douglas Area
+        format: Poster session
+        description: Additional Nectar Track poster presentations.
+      - time: 4:00pm-5:30pm
+        title: Nectar Track Presentations
+        room: Diamond Family Auditorium and SUB Ballroom 5000
+        format: Oral / spotlight presentations
+        description: Nectar Track presentations running alongside the main AI and CRV rooms.
+
+paper_sections:
+  - title: Spotlight Track
+    description: Recently published or accepted work presented in the Nectar Track.
+    papers: []
+  - title: Exploration Edge Track
+    description: Preliminary or early-stage work presented in the Nectar Track.
+    papers: []
