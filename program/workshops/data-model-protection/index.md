@@ -84,7 +84,7 @@ active_tab: data-protection
             <p><strong>Time:</strong> 11:25am-11:50am</p>
           </div>
         </div>
-        <div class="program-overview-card is-plain">
+        <div class="program-overview-card">
           <div>
             <p class="program-overview-title">Student Lightning Talks</p>
           </div>
