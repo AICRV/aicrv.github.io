@@ -15,6 +15,8 @@ active_tab: beyond-hype
       <h2>Beyond the Hype: Building AI Strategy for the Future</h2>
     </div>
     <div class="section-body">
+      <p> </p>
+      
       <h3>About the Event</h3>
       <p>Artificial intelligence is advancing rapidly, with many organizations struggling between experimentation and long-term impact. While technical capabilities evolve, a difficult challenge lies in building the organizational, governance, and strategic foundations that enable AI to scale responsibly and sustainably.</p>
       <p>This panel brings together perspectives from academia, industry, and policy to explore how organizations can move beyond short-term pilots toward long-term AI capability. The discussion will focus on practical approaches to building future-ready strategies that emphasize adaptability, resilience, and responsible governance. Panelists will examine how decisions made today around technology, data, talent, operating models, and oversight structures will shape organizational outcomes over the next decade.</p>
