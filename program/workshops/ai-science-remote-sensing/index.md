@@ -15,7 +15,7 @@ active_tab: ai-science
       <h2>AI for Science and Sustainability</h2>
     </div>
     <div class="section-body">
-      <p> <strong> 9am-5pm on May 25 2026, Halpern Centre 126 </strong> </p>
+      <p> <strong> 9am-5pm on May 25 2026, <a href="https://maps.google.com/?cid=18118009684340895711&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAMYASAF&hl=en&gl=CA&source=embed"> Halpern Centre 126 </a> </strong> </p>
       <p> <a class="btn btn-dark btn-sm" href="https://sites.google.com/vectorinstitute.ai/aicrv-2026/"> More Information </a> </p>
     </div>
   </div>
