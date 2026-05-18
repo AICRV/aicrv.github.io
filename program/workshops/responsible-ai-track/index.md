@@ -21,6 +21,100 @@ active_tab: responsible-ai
   </div>
 </section>
 
+<section class="section program-overview">
+  <div class="section-grid">
+    <div> 
+      <h2> Program Overview </h2>
+    </div>
+    <div class="section-body">
+      <div class="program-overview-list">
+          <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Breakfast</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 8:00am-9:00am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Joint Opening Remarks</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 9:00am-9:30am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">[Keynote] Beyond Accuracy: Different reliability dimensions in Language Models </p>
+            <p> Hila Gonen, University of British Columbia </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 9:30am-10:30am</p>
+          </div>
+        </div>
+        <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Coffee Break</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 10:30am-11:00am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">3MT competition & Start of poster presentations</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 11:00am-12:30am</p>
+          </div>
+        </div>
+        <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Lunch Break</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 12:30pm-14:00pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">[Keynote] </p> 
+            <p> Muhammad Abdul-Mageed, University of British Columbia </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 14:00pm-15:30pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Coffee Break</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 15:30pm-16:00pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Panel Discussion</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 16:00pm-17:30pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Welcome Reception</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 18:00pm-22:00pm</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="section">
   <div class="section-grid">
     <div> <h2> About the Workshop</h2> </div> 
