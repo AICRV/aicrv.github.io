@@ -32,6 +32,11 @@ crv_symposium:
     role: Symposium
     url: "https://www.computerrobotvision.org/invited.html"
     photo: "/assets/img/speakers/risto-ojala.jpg"
+  - name: Dr. Nils Wilde
+    affiliation: Dalhousie University
+    role: Symposium
+    url: "https://www.computerrobotvision.org/invited.html"
+    photo: "/assets/img/speakers/nils-wilde.jpg"
   - name: Dr. Mahdis Bisheban
     affiliation: University of Calgary
     role: Symposium
@@ -42,6 +47,16 @@ crv_symposium:
     role: Symposium
     url: "https://www.computerrobotvision.org/invited.html"
     photo: "/assets/img/speakers/yani-ioannou.jpg"
+  - name: Dr. Xinxin Zuo
+    affiliation: Concordia University
+    role: Symposium
+    url: "https://www.computerrobotvision.org/invited.html"
+    photo: "/assets/img/speakers/xinxin-zuo.jpg"
+  - name: Dr. Nandita Vijaykumar
+    affiliation: University of Toronto
+    role: Symposium
+    url: "https://www.computerrobotvision.org/invited.html"
+    photo: "/assets/img/speakers/nandita-vijaykumar.jpg"
 
 # Additional speakers featured on the homepage
 homepage_speakers:
@@ -49,6 +64,68 @@ homepage_speakers:
     affiliation: Principal Research Scientist, NVIDIA Research
     url: "https://karstenkreis.github.io/"
     photo: "/assets/img/speakers/karsten-kreis.jpg"
+
+# Industry Track speakers
+workshop_industry_track_speakers:
+  - name: Kris Krug
+    affiliation: BC + AI Ecosystem
+    url: "https://www.linkedin.com/in/kriskrug/"
+    photo: "https://media.licdn.com/dms/image/v2/D5603AQFPIUV6h54rIQ/profile-displayphoto-crop_800_800/B56Z4OZXq4JIAM-/0/1778357994305?e=1780531200&v=beta&t=342VIn6_V-p4JRV_4LZ6U8Kec-K-CDgUtMvcdEXGTkc"
+  - name: Annie Ying
+    affiliation: GitLab
+    url: "https://annieying.ca/"
+    photo: "https://annieying.ca/wp-content/uploads/2022/05/1539123047966.jpeg"
+  - name: Robert Barton
+    affiliation: Cisco Systems
+    url: "https://www.linkedin.com/in/robbarto/"
+    photo: "https://media.licdn.com/dms/image/v2/D4D03AQGH7JCBIa8qBw/profile-displayphoto-shrink_800_800/B4DZc3QJjfG8Ao-/0/1748978670136?e=1780531200&v=beta&t=wcdVI75yTY_Gp0pD4keUFXy-P3iYUu1y-fPQ689KwuU"
+  - name: Eric Brochu
+    affiliation: Microsoft
+    url: "https://haikufactory.com/"
+    photo: "https://haikufactory.com/wp-content/uploads/2026/01/me-everest.png"
+  - name: Eric Oosenbrug
+    affiliation: BC Public Service
+    url: "https://www.ericoosenbrug.com/"
+    photo: "https://pain.lab.yorku.ca/files/2015/03/eric.jpg"
+  - name: Annika Rosanowski
+    affiliation: Mitacs
+    url: "https://www.linkedin.com/in/annika-rosanowski/"
+    photo: "https://media.licdn.com/dms/image/v2/D5603AQFXfcKzF21cVw/profile-displayphoto-crop_800_800/B56ZwhG8IuIQAI-/0/1770081994053?e=1780531200&v=beta&t=2tnwF1ebJRjKTgMG4-MLmMsvkmaA_yPvhI3NzlsEmaE"
+
+# Responsible AI Track speakers
+workshop_responsible_ai_track_speakers:
+  - name: Hila Gonen
+    affiliation: University of British Columbia
+    url: "https://gonenhila.github.io/"
+    photo: "https://gonenhila.github.io/images/hila.jpg"
+  - name: Muhammad Abdul-Mageed
+    affiliation: University of British Columbia
+    url: "https://mageed.arts.ubc.ca/"
+    photo: "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=SOjQhl8AAAAJ&citpid=4"
+  - name: Nick Vincent
+    affiliation: Simon Fraser University
+    url: "https://nickmvincent.com/"
+    photo: "https://www.nickmvincent.com/static/headshot_300kb.jpg"
+  - name: Ife Adebara
+    affiliation: University of British Columbia
+    url: "https://www.linkedin.com/in/ife-adebara-phd-3623a56a/"
+    photo: "https://linguistics.ubc.ca/wp-content/uploads/sites/27/2024/01/IMG_9906_Facetune_22-06-2020-22-53-59-2-720x1024.jpg"
+  - name: Alissa Centivany
+    affiliation: Western University
+    url: "https://www.fims.uwo.ca/people/profiles/alissa_centivany.html"
+    photo: "https://www.fims.uwo.ca/img/research/research_profiles/2022/ACentivany300x415.png"
+  - name: Mo Chen
+    affiliation: Simon Fraser University
+    url: "https://www.sfu.ca/fas/computing/people/faculty/faculty-members/mo-chen.html"
+    photo: "/assets/img/organizers/mo-chen.jpg"
+  - name: Peter West
+    affiliation: University of British Columbia
+    url: "https://peterwestai.notion.site/"
+    photo: "https://peterwestai.notion.site/image/attachment%3A8943d7bc-b4f5-4fca-9c7b-1fdc311f73d7%3A362bd407-3ab0-45bb-9901-14b4c0879549.png?table=block&id=2bf49587-c6c3-80f8-b5ce-fc93764985c6&spaceId=2532d2ae-78ec-473f-8de4-3ed158cbaeb3&width=470&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl"
+  - name: Kevin Leyton-Brown
+    affiliation: University of British Columbia
+    url: "https://www.cs.ubc.ca/~brown/"
+    photo: "/assets/img/speakers/kevin-leyton-brown.png"
 
 # DMP Workshop speakers (Data and Model Protection in Generative AI)
 workshop_dmp_speakers:
@@ -158,15 +235,17 @@ workshop_beyond_hype_speakers:
     photo: "/assets/img/speakers/chaitanya-kaligotla.jpg"
 
 # AI Policy Forum speakers
-workshop_ai_policy_forum_speakers:
+workshop_ai_policy_forum_keynote_speakers:
   - name: Sethuraman Panchanathan
-    affiliation: Former Director, U.S. National Science Foundation
+    affiliation: Arizona State University; former Director of the U.S. National Science Foundation
     url: "https://en.wikipedia.org/wiki/Sethuraman_Panchanathan"
     photo: "/assets/img/speakers/sethuraman-panchanathan.jpg"
   - name: Arvind Gupta
-    affiliation: Professor of Computer Science, University of Toronto
+    affiliation: University of Toronto; former President of UBC; former CEO of Mitacs; Member of the Government of Canada's AI Strategy Task Force
     url: "https://discover.research.utoronto.ca/2105-arvind-gupta"
     photo: "/assets/img/speakers/arvind-gupta.jpg"
+
+workshop_ai_policy_forum_panel_speakers:
   - name: Daniel Schwanen
     affiliation: Senior Vice President, C.D. Howe Institute
     url: "https://cdhowe.org/our-people/daniel-schwanen/"
@@ -190,7 +269,7 @@ workshop_ai_policy_forum_speakers:
 
 # AI Banking speakers
 workshop_ai_banking_speakers:
-  - name: Dr. Thibaut Duprey
+  - name: Thibaut Duprey
     affiliation: Senior Director, Financial Stability Department, Bank of Canada
     talk: "Challenges and opportunities of AI for central banking and financial stability"
     abstract: "AI could influence both financial stability and how central banks assess financial system risks. The presentation will first highlight potential financial stability channels of AI adoption. Second, it will describe how new AI and ML research is already reshaping some policy analyses by central banks. Finally, it will discuss future areas where applied AI research can support financial system policymaking."
@@ -203,19 +282,46 @@ workshop_ai_banking_speakers:
 
 # AI Strategy and Governance speakers
 workshop_ai_strategy_governance_speakers: 
-  - name: Terri Griffith
-    affiliation: Keith Beedie Chair in Innovation and Entrepreneurship, Simon Fraser University's Beedie School of Business
-    url: "https://terrigriffith.com/"
-    photo: "/assets/img/speakers/terri-griffith.webp"
-  - name: Blaize Horner Reich
-    affiliation: Professor Emerita, Beedie School of Business, SFU and Board Director, ICD.D and coach
+  - name: Blaize Reich
+    affiliation: Simon Fraser University
     url: ""
     photo: "/assets/img/speakers/blaize-horner-reich.jpg"
+  - name: Terri Griffith
+    affiliation: Simon Fraser University
+    url: "https://terrigriffith.com/"
+    photo: "/assets/img/speakers/terri-griffith.webp"
   - name: Samantha Seto
-    affiliation: Assistant Professor, Accounting, Beedie School of Business
+    affiliation: Simon Fraser University
     url: "https://www.sfu.ca/beedie/contact-us/faculty-staff-directory/profile.html?name=SamanthaSeto"
     photo: "/assets/img/speakers/samantha-seto.jpg"
   - name: Aishwarya Deep Shukla
-    affiliation: Assistant Professor, MIS, Beedie School of Business
+    affiliation: Simon Fraser University
     url: "https://adshukla.com/"
     photo: "/assets/img/speakers/aishwarya-deep-shukla.jpg"  
+
+# AI for Science and Sustainability speakers
+workshop_ai_science_sustainability_speakers:
+  - name: Angel Chang
+    affiliation: Simon Fraser University
+    url: "https://angelxuanchang.github.io/"
+    photo: "https://angelxuanchang.github.io/files/angel.jpg"
+  - name: Andrew Shao
+    affiliation: Hewlett Packard
+    url: "https://ashao.ca/"
+    photo: "https://ashao.github.io/images/profile.jpg"
+  - name: Kelsey Doerksen
+    affiliation: Arizona State University and University of Cape Town
+    url: "https://kelseydoerksen.wixsite.com/space"
+    photo: "https://static.wixstatic.com/media/48bcb2_70f86843eca043e8a2f7782a2b92c317~mv2.jpeg/v1/fill/w_1906,h_1760,fp_0.53_0.28,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/48bcb2_70f86843eca043e8a2f7782a2b92c317~mv2.jpeg"
+  - name: Saifuddin Syed
+    affiliation: University of British Columbia
+    url: "https://www.saifsyed.com/"
+    photo: "https://www.saifsyed.com/assets/photo.jpg"
+  - name: Iuliia Zarubiieva
+    affiliation: Vector Institute
+    url: "https://www.linkedin.com/in/ieyriay/"
+    photo: "https://media.licdn.com/dms/image/v2/D5603AQFqkgcKjqk1iw/profile-displayphoto-crop_800_800/B56ZoXgLpWJsAI-/0/1761330904145?e=1780531200&v=beta&t=ue5IWdWaMQKqt0-lbBt_IWwfwqFeMw6etEquf_rHAxA"
+  - name: Lindsey Heagy
+    affiliation: University of British Columbia
+    url: "https://www.eoas.ubc.ca/people/lindseyheagy"
+    photo: "https://lindseyjh.ca/s/images/profile-image1.jpg"

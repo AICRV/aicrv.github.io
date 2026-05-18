@@ -40,7 +40,7 @@ active_tab: overview
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 27, 2026</p>
         <p><strong>Time:</strong> 2pm-5pm</p>
-        <p><strong>Room:</strong> The Presentation Studio (ASB 10900)</p>
+        <p><strong>Room:</strong> ASB 10900</p>
       </div>
     </a>
     <a href="{{ site.baseurl }}/program/workshops/data-model-protection/" class="program-overview-card">
@@ -50,7 +50,7 @@ active_tab: overview
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 25, 2026</p>
         <p><strong>Time:</strong> 9am-12:30pm</p>
-        <p><strong>Room:</strong> TBD</p>
+        <p><strong>Room:</strong> SUB 4200</p>
       </div>
     </a>
     <a href="{{ site.baseurl }}/program/workshops/ai-strategy-governance/" class="program-overview-card is-plain">
@@ -60,7 +60,7 @@ active_tab: overview
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 25, 2026</p>
         <p><strong>Time:</strong> 2pm-5:30pm</p>
-        <p><strong>Room:</strong> TBD</p>
+        <p><strong>Room:</strong> Halpern Centre 114</p>
       </div>
     </a>
     <a href="{{ site.baseurl }}/program/workshops/ai-science-remote-sensing/" class="program-overview-card">
@@ -70,7 +70,7 @@ active_tab: overview
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 25, 2026</p>
         <p><strong>Time:</strong> 9am-5:30pm</p>
-        <p><strong>Room:</strong> TBD</p>
+        <p><strong>Room:</strong> Halpern Centre 126</p>
       </div>
     </a>
     <a href="{{ site.baseurl }}/program/workshops/beyond-hype-ai-strategy/" class="program-overview-card is-plain">
@@ -80,7 +80,7 @@ active_tab: overview
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 25, 2026</p>
         <p><strong>Time:</strong> 5:30pm-7pm</p>
-        <p><strong>Room:</strong> TBD</p>
+        <p><strong>Room:</strong> Halpern Centre 126</p>
       </div>
     </a>
     <a href="{{ site.baseurl }}/program/workshops/ai-biology/" class="program-overview-card">
@@ -90,7 +90,7 @@ active_tab: overview
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 25, 2026</p>
         <p><strong>Time:</strong> 2pm-5:30pm</p>
-        <p><strong>Room:</strong> TBD</p>
+        <p><strong>Room:</strong> Blusson Hall 10011</p>
       </div>
     </a>
     <a href="{{ site.baseurl }}/program/workshops/ai-policy-forum/" class="program-overview-card is-plain">
@@ -99,8 +99,8 @@ active_tab: overview
       </div>
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 25, 2026</p>
-        <p><strong>Time:</strong> 9am-5:30pm (tentative)</p>
-        <p><strong>Room:</strong> TBD</p>
+        <p><strong>Time:</strong> 9am-3:30pm</p>
+        <p><strong>Room:</strong> ASB 10900</p>
       </div>
     </a>
     <a href="{{ site.baseurl }}/program/workshops/ai-in-banking/" class="program-overview-card">
@@ -110,10 +110,8 @@ active_tab: overview
       <div class="program-overview-meta">
         <p><strong>Date:</strong> May 25, 2026</p>
         <p><strong>Time:</strong> 9am-12:30pm</p>
-        <p><strong>Room:</strong> TBD</p>
+        <p><strong>Room:</strong> Halpern Centre 114</p>
       </div>
     </a>
   </div>
 </section>
-
-{% include partials/workshop_acknowledgements.html %}

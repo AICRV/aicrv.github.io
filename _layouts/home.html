@@ -247,7 +247,7 @@
           <p>{{ s.affiliation }}</p>
         </div>
         {% endfor %}
-        {% assign workshop_groups = "workshop_ai_policy_forum_speakers,workshop_dmp_speakers,workshop_dmp_student_speakers,workshop_ai_biology_speakers,workshop_ai_strategy_governance_speakers,workshop_beyond_hype_speakers,workshop_ai_banking_speakers" | split: "," %}
+        {% assign workshop_groups = "workshop_ai_policy_forum_keynote_speakers,workshop_ai_policy_forum_panel_speakers,workshop_dmp_speakers,workshop_dmp_student_speakers,workshop_ai_biology_speakers,workshop_ai_strategy_governance_speakers,workshop_beyond_hype_speakers,workshop_ai_banking_speakers,workshop_ai_science_sustainability_speakers,workshop_industry_track_speakers" | split: "," %}
         {% for group in workshop_groups %}
           {% for s in site.data.speakers[group] %}
           <div class="speaker-card">
@@ -256,6 +256,15 @@
             <p>{{ s.affiliation }}</p>
           </div>
           {% endfor %}
+        {% endfor %}
+        {% for s in site.data.speakers.workshop_responsible_ai_track_speakers %}
+          {% unless s.name == "Kevin Leyton-Brown" %}
+          <div class="speaker-card">
+            <div class="speaker-photo"{% if s.photo and s.photo != "" %} style="background-image: url('{{ s.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
+            <h3>{% if s.url and s.url != "" %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</h3>
+            <p>{{ s.affiliation }}</p>
+          </div>
+          {% endunless %}
         {% endfor %}
       </div>
     </div>

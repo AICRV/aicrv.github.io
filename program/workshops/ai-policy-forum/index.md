@@ -35,19 +35,37 @@ active_tab: ai-policy-forum
 <section class="section">
   <div class="section-grid">
     <div>
-      <h2>Confirmed Speakers</h2>
+      <h2>Keynote Speakers</h2>
     </div>
     <div class="section-body">
       <div class="organizer-grid">
-        {% for s in site.data.speakers.workshop_ai_policy_forum_speakers %}
+        {% for s in site.data.speakers.workshop_ai_policy_forum_keynote_speakers %}
         <div class="organizer-card">
           <div class="organizer-photo"{% if s.photo %} style="background-image: url('{{ s.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
-          <h3>{% if s.url %}<a href="{{ s.url }}">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</h3>
+          <h3>{% if s.url and s.url != "" %}<a href="{{ s.url }}">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</h3>
           <p>{{ s.affiliation }}</p>
         </div>
         {% endfor %}
       </div>
-      <p>Additional speakers to be announced.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-grid">
+    <div>
+      <h2>Panel Speakers</h2>
+    </div>
+    <div class="section-body">
+      <div class="organizer-grid">
+        {% for s in site.data.speakers.workshop_ai_policy_forum_panel_speakers %}
+        <div class="organizer-card">
+          <div class="organizer-photo"{% if s.photo %} style="background-image: url('{{ s.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
+          <h3>{% if s.url and s.url != "" %}<a href="{{ s.url }}">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</h3>
+          <p>{{ s.affiliation }}</p>
+        </div>
+        {% endfor %}
+      </div>
     </div>
   </div>
 </section>

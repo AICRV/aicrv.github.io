@@ -102,7 +102,7 @@ active_tab: data-protection
         {% for s in site.data.speakers.workshop_dmp_speakers %}
         <div class="organizer-card">
           <div class="organizer-photo"{% if s.photo %} style="background-image: url('{{ s.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
-          <h3>{% if s.url %}<a href="{{ s.url }}">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</h3>
+          <h3>{% if s.url and s.url != "" %}<a href="{{ s.url }}">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</h3>
           <p>{{ s.affiliation }}</p>
         </div>
         {% endfor %}
@@ -121,7 +121,7 @@ active_tab: data-protection
         {% for s in site.data.speakers.workshop_dmp_student_speakers %}
         <div class="organizer-card">
           <div class="organizer-photo"{% if s.photo %} style="background-image: url('{{ s.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
-          <h3>{% if s.url %}<a href="{{ s.url }}">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</h3>
+          <h3>{% if s.url and s.url != "" %}<a href="{{ s.url }}">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</h3>
           <p>{{ s.affiliation }}</p>
         </div>
         {% endfor %}
