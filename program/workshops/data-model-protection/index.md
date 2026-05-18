@@ -17,9 +17,127 @@ active_tab: data-protection
     <div class="section-body">
       <p>A full-day workshop co-located with the Canadian Conference on AI, Robots & Vision.</p>
       <p>
-        <a class="btn btn-dark btn-sm" href="https://openreview.net/group?id=AI-CRV.ca/2026/Workshop/DMP">Submit a Paper</a>
+        <!-- <a class="btn btn-dark btn-sm" href="https://openreview.net/group?id=AI-CRV.ca/2026/Workshop/DMP">Submit a Paper</a> -->
         <a class="btn btn-dark btn-sm" href="https://dmpworkshop.github.io/">More Info</a>
       </p>
+    </div>
+  </div>
+</section>
+
+<section class="section program-overview">
+  <div class="section-grid">
+    <div> 
+      <h2> Program Overview </h2>
+    </div>
+    <div class="section-body">
+      <div class="program-overview-list">
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Opening Remarks</p>
+            <p> Yiwei Lu, University of Ottawa</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 9:00am-9:05am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Invited Talk</p>
+            <p> Jekaterina Novikova & Yangyi Liu, Vanguard Group </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 9:05am-9:55am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Invited Talk</p>
+            <p> Sirisha Rambhatla, University of Waterloo </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 9:55am-10:20am</p>
+          </div>
+        </div>
+        <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Coffee Break</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 10:20am-11:00am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Invited Talk</p>
+            <p> Sébastien Gambs, Université du Québec à Montréal </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 11:00am-11:25am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Invited Talk</p>
+            <p> Joanna Redden, Western University </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 11:25am-11:50am</p>
+          </div>
+        </div>
+        <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Student Lightning Talks</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 11:50am-12:20pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Lunch Break</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 12:20pm-14:00pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title"> Invited Talk </p> 
+            <p> Reza Samavi, Toronto Metropolitan University </p>
+            <p> Presented by Mohammadreza Maleki </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 14:00pm-14:25pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Invited Talk</p>
+            <p> Elliot Creager, University of Waterloo </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 14:25pm-14:50pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Invited Talk</p>
+            <p> Mathias Lécuyer, University of British Columbia </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 14:50pm-15:15pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Invited Talk</p>
+            <p> Linyi Li, Simon Fraser University </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 15:15pm-15:40pm</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -79,11 +197,11 @@ active_tab: data-protection
   <div class="date-grid">
     <div class="date-card">
       <strong>Submission Deadline</strong>
-      <span>April 21, 2026 (AoE)</span>
+      <span><s>April 21, 2026 (AoE)</s></span>
     </div>
     <div class="date-card">
       <strong>Notification of Decisions</strong>
-      <span>April 23, 2026 (AoE)</span>
+      <span><s>April 23, 2026 (AoE)</s></span>
     </div>
     <div class="date-card">
       <strong>Workshop Date</strong>
