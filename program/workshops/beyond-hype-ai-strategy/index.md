@@ -15,8 +15,8 @@ active_tab: beyond-hype
       <h2>Beyond the Hype: Building AI Strategy for the Future</h2>
     </div>
     <div class="section-body">
-      <p> </p>
-      
+      <p> <strong> 17:30pm-19:30pm on May 25 2026, <a href="https://maps.google.com/?cid=18118009684340895711&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAMYASAF&hl=en&gl=CA&source=embed"> Halpern Centre 126 </a> </strong> </p>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2843.4544007736245!2d-122.91770930000001!3d49.279649799999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548679bfdb4fafaf%3A0xfb7019d08839efdf!2sHalpern%20Centre%2C%20Burnaby%2C%20BC%20V5A%201S6!5e1!3m2!1sen!2sca!4v1779113820442!5m2!1sen!2sca" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       <h3>About the Event</h3>
       <p>Artificial intelligence is advancing rapidly, with many organizations struggling between experimentation and long-term impact. While technical capabilities evolve, a difficult challenge lies in building the organizational, governance, and strategic foundations that enable AI to scale responsibly and sustainably.</p>
       <p>This panel brings together perspectives from academia, industry, and policy to explore how organizations can move beyond short-term pilots toward long-term AI capability. The discussion will focus on practical approaches to building future-ready strategies that emphasize adaptability, resilience, and responsible governance. Panelists will examine how decisions made today around technology, data, talent, operating models, and oversight structures will shape organizational outcomes over the next decade.</p>
