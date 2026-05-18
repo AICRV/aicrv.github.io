@@ -16,12 +16,12 @@ active_tab: data-protection
     </div>
     <div class="section-body">
       <p>A full-day workshop co-located with the Canadian Conference on AI, Robots & Vision</p>
-      <p> Location: <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=SUB%204200"> SUB 4200 </a> at the SFU Burnaby Campus </p> 
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2843.5058255115837!2d-122.92078938787478!3d49.2787578709127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54867915aeb38203%3A0xf44f87ea5f869ec4!2sStudent%20Union%20Building%20(SUB)!5e1!3m2!1sen!2sca!4v1779113495712!5m2!1sen!2sca" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       <p>
         <!-- <a class="btn btn-dark btn-sm" href="https://openreview.net/group?id=AI-CRV.ca/2026/Workshop/DMP">Submit a Paper</a> -->
         <a class="btn btn-dark btn-sm" href="https://dmpworkshop.github.io/">More Info</a>
       </p>
+      <p> Location: <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=SUB%204200"> SUB 4200 </a> at the SFU Burnaby Campus, May 25, 2026 </p> 
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2843.5058255115837!2d-122.92078938787478!3d49.2787578709127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54867915aeb38203%3A0xf44f87ea5f869ec4!2sStudent%20Union%20Building%20(SUB)!5e1!3m2!1sen!2sca!4v1779113495712!5m2!1sen!2sca" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
   </div>
 </section>
