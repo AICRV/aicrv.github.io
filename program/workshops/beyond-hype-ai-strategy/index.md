@@ -53,4 +53,4 @@ active_tab: beyond-hype
   </div>
 </section>
 
-{% include partials/workshop_acknowledgements.html %}
+<!-- {% include partials/workshop_acknowledgements.html %} -->
