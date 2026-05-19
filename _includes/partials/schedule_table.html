@@ -1,5 +1,11 @@
 {% assign schedule = site.data.schedule_overview %}
 
+<nav class="schedule-day-nav" aria-label="Jump to schedule day">
+  {% for day in schedule.days %}
+    <a href="#{{ day.id }}">{{ day.title }}</a>
+  {% endfor %}
+</nav>
+
 <div class="schedule-legend" aria-label="Schedule legend">
   {% for item in schedule.legend %}
     <span class="schedule-legend-item schedule-legend-item--{{ item.type }}">
@@ -15,6 +21,9 @@
       <header class="schedule-day-header">
         <h3>{{ day.title }}</h3>
         <p class="schedule-day-meta">{{ day.meta }}</p>
+        {% if day.registration_desk %}
+          <p class="schedule-registration-desk"><strong>Registration Desk:</strong> {{ day.registration_desk }}</p>
+        {% endif %}
       </header>
 
       <div class="schedule-table-wrap" tabindex="0" aria-label="{{ day.title }} schedule by room">
@@ -72,7 +81,20 @@
                         {% else %}
                           <div class="schedule-event schedule-event--{{ event_type }}">
                         {% endif %}
+                            {% assign proficiency = event.proficiency %}
+                            {% unless proficiency %}
+                              {% if event_type == "panel" or event_type == "admin" or event_type == "meal" or event_type == "break" or event_type == "social" or event_href contains "beyond-hype-ai-strategy" or event_href contains "ai-strategy-governance" or event_href contains "ai-policy-forum" %}
+                                {% assign proficiency = "Basic" %}
+                              {% elsif event_type == "oral" or event_href contains "ai-science-remote-sensing" or event_href contains "data-model-protection" or event_href contains "ai-biology" %}
+                                {% assign proficiency = "Advanced" %}
+                              {% elsif event_href contains "ai-in-banking" or event_type == "invited" or event_type == "poster" %}
+                                {% assign proficiency = "Intermediate" %}
+                              {% else %}
+                                {% assign proficiency = "Basic" %}
+                              {% endif %}
+                            {% endunless %}
                             <span class="schedule-event-track">{{ track_label }}</span>
+                            <span class="schedule-event-proficiency">Assumed technical proficiency: {{ proficiency }}</span>
                             <span class="schedule-event-type">{{ event_type | replace: "-", " " | capitalize }}</span>
                             <strong>{{ event.title }}</strong>
                             {% if event.meta %}

@@ -908,6 +908,41 @@ main.container {
   padding: 22px 26px 16px;
 }
 
+.schedule-day-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0 0 18px;
+}
+
+.schedule-day-nav a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 36px;
+  border: 1px solid #d9dce5;
+  border-radius: 6px;
+  padding: 7px 12px;
+  background: #ffffff;
+  color: #282c3d;
+  font-size: 0.86rem;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.schedule-day-nav a:hover,
+.schedule-day-nav a:focus-visible {
+  border-color: var(--aicrv-pink);
+  color: var(--aicrv-pink);
+  text-decoration: none;
+}
+
+.schedule-registration-desk {
+  margin: 2px 0 0;
+  color: #343849;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
 .schedule-legend {
   display: flex;
   flex-wrap: wrap;
@@ -1048,6 +1083,13 @@ a.schedule-event:focus-visible {
   color: #25293a;
   font-size: 0.7rem;
   font-weight: 800;
+  line-height: 1.35;
+}
+
+.schedule-event-proficiency {
+  color: #4f5565;
+  font-size: 0.72rem;
+  font-weight: 700;
   line-height: 1.35;
 }
 
