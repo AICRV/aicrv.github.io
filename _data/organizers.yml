@@ -228,3 +228,25 @@ workshop_ai_science_sustainability:
   - name: Johannah Thumb
     affiliation: Vector Institute
     photo: "https://vectorinstitute.ai/wp-content/uploads/2023/03/johannah-thumb-2-1600x0-c-default.png"
+  - name: Vivian White
+    affiliation: University of British Columbia; Vector Institute
+    photo: "/assets/img/organizers/vivian-white.jpg"
+
+workshop_ai_policy_forum:
+  - name: Ke Li
+    affiliation: Simon Fraser University
+    photo: "/assets/img/organizers/keli.jpg"
+
+workshop_ai_biology:
+  - name: Maxwell Libbrecht
+    affiliation: Simon Fraser University
+    photo: "/assets/img/organizers/maxwell-libbrecht.jpg"
+  - name: Hosna Jabbari
+    affiliation: University of Alberta
+    photo: "/assets/img/organizers/hosna-jabbari.jpg"
+  - name: Xin Tang
+    affiliation: University of British Columbia
+    photo: "/assets/img/organizers/xin-tang.jpg"
+  - name: Jun Ding
+    affiliation: McGill University
+    photo: "/assets/img/organizers/jun-ding.jpg"

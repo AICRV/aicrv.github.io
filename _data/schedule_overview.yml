@@ -37,33 +37,83 @@ days:
       - key: shared
         name: Shared / Dining
     rows:
-      - time: 8:00am-10:00am
+      - time: 8:00am-9:00am
         cells:
           shared:
             - title: Breakfast
               type: meal
               url: /program/workshops/
-      - time: 9:00am-12:30pm
+      - time: 9:00am-10:30am
         cells:
           halpern126:
-            - title: AI for Science and Sustainability
-              type: workshop
+            - title: AI for Science and Sustainability Opening Remarks and Talks 1-2
+              meta: Opening remarks, Talk 1, Talk 2
+              type: oral
               url: /program/workshops/ai-science-remote-sensing/
           halpern114:
             - title: AI in Banking and Financial Services
               type: workshop
               url: /program/workshops/ai-in-banking/
           sub4200:
-            - title: Data and Model Protection in Generative AI
-              type: workshop
+            - title: Data and Model Protection Opening Remarks and Invited Talks
+              meta: Yiwei Lu; Jekaterina Novikova and Yangyi Liu; Sirisha Rambhatla
+              type: invited
               url: /program/workshops/data-model-protection/
           blusson:
             - title: AI and Biology
               type: workshop
               url: /program/workshops/ai-biology/
           datahub:
-            - title: AI Policy Forum
+            - title: AI Policy Forum Welcome Remarks
+              meta: 9:00am-9:10am
+              type: admin
+              url: /program/workshops/ai-policy-forum/
+            - title: "AI Policy Forum Keynote: Sethuraman Panchanathan"
+              meta: Former Director of the U.S. National Science Foundation, 9:10am-9:50am
+              type: invited
+              url: /program/workshops/ai-policy-forum/
+            - title: "AI Policy Forum Keynote: Arvind Gupta"
+              meta: Member of the Government of Canada's AI Strategy Task Force, 9:50am-10:20am
+              type: invited
+              url: /program/workshops/ai-policy-forum/
+      - time: 10:30am-11:00am
+        cells:
+          halpern126:
+            - title: "AI for Science and Sustainability Talk 3"
+              type: oral
+              url: /program/workshops/ai-science-remote-sensing/
+          sub4200:
+            - title: Data and Model Protection Coffee Break
+              type: break
+              url: /program/workshops/data-model-protection/
+          shared:
+            - title: Coffee Break
+              type: break
+              url: /program/workshops/
+      - time: 11:00am-12:30pm
+        cells:
+          halpern126:
+            - title: AI for Science and Sustainability Lightning Talks and Poster Session 1
+              meta: Lightning Talks 1 and Poster Session 1
+              type: poster
+              url: /program/workshops/ai-science-remote-sensing/
+          halpern114:
+            - title: AI in Banking and Financial Services
               type: workshop
+              url: /program/workshops/ai-in-banking/
+          sub4200:
+            - title: Data and Model Protection Invited Talks and Student Lightning Talks
+              meta: Sébastien Gambs; Joanna Redden; Student Lightning Talks
+              type: invited
+              url: /program/workshops/data-model-protection/
+          blusson:
+            - title: AI and Biology
+              type: workshop
+              url: /program/workshops/ai-biology/
+          datahub:
+            - title: AI Policy Forum Panel Discussion on Technology Policy and Economic Impact
+              meta: "Panelists: Jing Yang, Managing Director at the Bank of Canada; Daniel Schwanen, SVP at C. D. Howe Institute"
+              type: panel
               url: /program/workshops/ai-policy-forum/
       - time: 12:30pm-2:00pm
         cells:
@@ -72,29 +122,53 @@ days:
               meta: Dining Commons
               type: meal
               url: /program/workshops/
-      - time: 2:00pm-4:00pm
+      - time: 2:00pm-3:30pm
         cells:
           halpern126:
-            - title: AI for Science and Sustainability
-              type: workshop
+            - title: AI for Science and Sustainability Talk 4, Lightning Talks 2, Poster Session 2, and Talk 5
+              type: poster
               url: /program/workshops/ai-science-remote-sensing/
           halpern114:
             - title: AI Strategy and Governance in Business
               type: workshop
               url: /program/workshops/ai-strategy-governance/
           sub4200:
-            - title: Data and Model Protection in Generative AI
-              type: workshop
+            - title: Data and Model Protection Afternoon Invited Talks
+              meta: Reza Samavi; Elliot Creager; Mathias Lécuyer
+              type: invited
               url: /program/workshops/data-model-protection/
           blusson:
             - title: AI and Biology
               type: workshop
               url: /program/workshops/ai-biology/
           datahub:
-            - title: AI Policy Forum
-              meta: Keynotes and Panel Discussions
+            - title: AI Policy Forum Panel Discussion on AI Adoption and Commercialization
+              meta: "Panelists: Greg Mori, VP at RBC; Guy Dulude, VP at Siemens; Andrew Donaher, VP at CGI"
               type: panel
               url: /program/workshops/ai-policy-forum/
+      - time: 3:30pm-4:00pm
+        cells:
+          halpern126:
+            - title: "AI for Science and Sustainability Talk 6"
+              type: oral
+              url: /program/workshops/ai-science-remote-sensing/
+          halpern114:
+            - title: AI Strategy and Governance in Business
+              type: workshop
+              url: /program/workshops/ai-strategy-governance/
+          sub4200:
+            - title: Data and Model Protection Invited Talk
+              meta: Linyi Li
+              type: invited
+              url: /program/workshops/data-model-protection/
+          blusson:
+            - title: AI and Biology
+              type: workshop
+              url: /program/workshops/ai-biology/
+          shared:
+            - title: Coffee Break
+              type: break
+              url: /program/workshops/
       - time: 4:00pm-4:45pm
         cells:
           halpern126:
@@ -114,10 +188,6 @@ days:
             - title: AI and Biology
               type: workshop
               url: /program/workshops/ai-biology/
-          datahub:
-            - title: AI Policy Forum Panel Discussions
-              type: panel
-              url: /program/workshops/ai-policy-forum/
       - time: 4:45pm-5:30pm
         cells:
           halpern126:
@@ -136,10 +206,6 @@ days:
             - title: AI and Biology
               type: workshop
               url: /program/workshops/ai-biology/
-          datahub:
-            - title: AI Policy Forum Panel Discussions
-              type: panel
-              url: /program/workshops/ai-policy-forum/
       - time: 5:30pm-7:00pm
         cells:
           halpern126:
@@ -551,7 +617,7 @@ days:
       - time: 7:00pm-10:00pm
         cells:
           sub:
-            - title: AI Gala / CIFAR Event
+            - title: AI Gala
               type: social
               url: /program/social-events/
 

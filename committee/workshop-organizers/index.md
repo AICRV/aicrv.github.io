@@ -61,4 +61,26 @@ tabs_include: partials/organizer_tabs.html
     </div>
     {% endfor %}
   </div>
+
+  <h3 class="h5 mt-4 mb-3">AI Policy Forum</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.workshop_ai_policy_forum %}
+    <div class="organizer-card">
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
+    </div>
+    {% endfor %}
+  </div>
+
+  <h3 class="h5 mt-4 mb-3">AI and Biology</h3>
+  <div class="organizer-grid">
+    {% for o in site.data.organizers.workshop_ai_biology %}
+    <div class="organizer-card">
+      <div class="organizer-photo"{% if o.photo %} style="background-image: url('{{ o.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
+      <h3>{{ o.name }}</h3>
+      <p>{{ o.affiliation }}</p>
+    </div>
+    {% endfor %}
+  </div>
 </section>
