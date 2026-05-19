@@ -231,7 +231,7 @@ active_tab: ai-banking
         </div>
         {% endfor %}
       </div>
-      <p>Additional speakers to be announced.</p>
+      <!-- <p>Additional speakers to be announced.</p> -->
     </div>
   </div>
 </section>
