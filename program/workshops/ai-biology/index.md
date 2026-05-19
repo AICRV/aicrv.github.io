@@ -22,6 +22,139 @@ active_tab: ai-biology
   </div>
 </section>
 
+<section class="section program-overview">
+  <div class="section-grid">
+    <div> 
+      <h2> Program Overview </h2>
+    </div>
+    <div class="section-body">
+      <div class="program-overview-list">
+        <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Breakfast</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 8:00am-9:00am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Towards generative design of DNA to direct tissue-specific gene expression for gene therapy</p>
+            <p> Wyeth Wasserman, University of British Columbia </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 9:00am-9:40am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title"> Learning Interpretable Representations in Neural Signals with Sparse Autoencoders </p>
+            <p> Bahareh Tolooshams </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 9:40am-10:15am</p>
+          </div>
+        </div>
+        <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Coffee Break</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 10:15am-10:45am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title"> Talk #3</p>
+            <p> Amin Emad, McGill University </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 10:45am-11:20am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Talk #4</p>
+            <p>Qihuang Zhang, McGill University</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 11:20am-11:55am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title"> Machine Learning for Precision Oncology </p>
+            <p> Martin Ester, Simon Fraser University</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 11:55am-12:30pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Lunch Break</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 12:30pm-14:00pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title"> Visualizing distortion in dimensionality reduction </p> 
+            <p> Michael Hoffman, University of Toronto and UHN)</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 14:00pm-14:45pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Flow matching for cell dynamics</p>
+            <p> Lazar Atanackovic </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 14:45pm-15:30pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Coffee Break</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 15:30pm-16:00pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title"> Talk #5</p>
+            <p> Jiarui Ding, University of British Columbia </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 16:00pm-16:45pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title"> Talk #6</p>
+            <p> Archer Yang, McGill University </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 16:45pm-17:25pm</p>
+          </div>
+        </div>   
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title"> Closing Remarks</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 17:25pm-17:30pm</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="section">
   <div class="section-grid">
     <div>
