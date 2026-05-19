@@ -33,7 +33,7 @@ days:
       - key: blusson
         name: Blusson Hall 10011
       - key: datahub
-        name: Big Data Hub Presentation Studio (ASB 10900)
+        name: Big Data Hub (ASB 10900)
       - key: shared
         name: Shared / Dining
     rows:
@@ -300,7 +300,7 @@ days:
       - key: sub
         name: SUB Ballroom 5000
       - key: studio
-        name: Big Data Hub Presentation Studio (ASB 10900)
+        name: Big Data Hub (ASB 10900)
       - key: shared
         name: Meals / Social
     rows:
