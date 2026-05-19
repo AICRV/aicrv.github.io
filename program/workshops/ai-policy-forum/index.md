@@ -18,7 +18,7 @@ active_tab: ai-policy-forum
       <p>Co-located with the Canadian Conference on AI, Robots &amp; Vision (AI/CRV), the AI Policy Forum is designed to bridge the worlds of innovation, business, and public policy. By bringing together researchers, entrepreneurs, business leaders, investors, and policymakers in one setting, this event creates a unique forum for dialogue between those developing frontier technologies and those shaping the economic and regulatory environment in which they will be deployed.</p>
       <p> <strong> 9:00am-17:30pm on May 25 2026, ASB 10900 </strong> </p>
       <!-- <p> <a class="btn btn-dark btn-sm" href="https://sites.google.com/vectorinstitute.ai/aicrv-2026/"> More Information </a> </p> -->
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2843.5888351280414!2d-122.91933427401428!3d49.27731809715406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548679bf1a2d718b%3A0x9c74a8237eb2fc82!2sSFU&#39;s%20Big%20Data%20Hub!5e1!3m2!1sen!2sca!4v1779116056256!5m2!1sen!2sca" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2602.9527783443345!2d-122.91921511205925!3d49.27729199738319!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548679bf1767cc6b%3A0x16e37c430148082b!2sApplied%20Sciences%20Bldg%2C%20Burnaby%2C%20BC%20V5A%204Y7!5e0!3m2!1sen!2sca!4v1779200111196!5m2!1sen!2sca" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
   </div>
 </section>
