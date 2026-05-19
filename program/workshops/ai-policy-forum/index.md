@@ -23,6 +23,81 @@ active_tab: ai-policy-forum
   </div>
 </section>
 
+<section class="section program-overview">
+  <div class="section-grid">
+    <div> 
+      <h2> Program Overview </h2>
+    </div>
+    <div class="section-body">
+      <div class="program-overview-list">
+      <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Welcome remarks</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 9:00am-9:10am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title"> Keynote #1</p>
+            <p> Sethuraman Panchanathan, former Director of the U.S. National Science Foundation</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 9:10am-9:50am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title"> Keynote #2</p>
+            <p> Arvind Gupta, Member of the Government of Canada’s AI Strategy Task Force</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 9:50am-10:20am</p>
+          </div>
+        </div>
+        <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Coffee Break</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 10:20am-11:00am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title"> Panel Discussion on Technology Policy and Economic Impact</p>
+            <p>Jing Yang, Managing Director at the Bank of Canada</p>
+            <p>Daniel Schwanen, SVP at C. D. Howe Institute</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 11:00am-12:30pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Lunch Break</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 12:30pm-14:00pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title"> Panel Discussion on AI Adoption and Commercialization </p> 
+            <p> Greg Mori, VP at RBC </p>
+            <p> Guy Dulude, VP at Siemens </p>
+            <p> Andrew Donaher, VP at CGI </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 14:00pm-15:30pm</p>
+          </div>
+        </div>      
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="section">
   <div class="section-grid">
     <div>
