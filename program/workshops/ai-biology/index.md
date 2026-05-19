@@ -49,7 +49,7 @@ active_tab: ai-biology
         <div class="program-overview-card">
           <div>
             <p class="program-overview-title"> Learning Interpretable Representations in Neural Signals with Sparse Autoencoders </p>
-            <p> Bahareh Tolooshams </p>
+            <p> Bahareh Tolooshams, University of Alberta and Amii </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 9:40am-10:15am</p>
@@ -101,7 +101,7 @@ active_tab: ai-biology
         <div class="program-overview-card">
           <div>
             <p class="program-overview-title"> Visualizing distortion in dimensionality reduction </p> 
-            <p> Michael Hoffman, University of Toronto and UHN)</p>
+            <p> Michael Hoffman, University of Toronto and UHN</p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 14:00pm-14:45pm</p>
@@ -110,7 +110,7 @@ active_tab: ai-biology
         <div class="program-overview-card">
           <div>
             <p class="program-overview-title">Flow matching for cell dynamics</p>
-            <p> Lazar Atanackovic </p>
+            <p> Lazar Atanackovic, University of Alberta and Amii </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 14:45pm-15:30pm</p>
@@ -126,7 +126,7 @@ active_tab: ai-biology
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title"> Talk #5</p>
+            <p class="program-overview-title"> Talk #8</p>
             <p> Jiarui Ding, University of British Columbia </p>
           </div>
           <div class="program-overview-meta">
@@ -135,7 +135,7 @@ active_tab: ai-biology
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title"> Talk #6</p>
+            <p class="program-overview-title"> Talk #9</p>
             <p> Archer Yang, McGill University </p>
           </div>
           <div class="program-overview-meta">
