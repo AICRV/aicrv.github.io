@@ -182,6 +182,7 @@ workshop_ai_biology_speakers:
     affiliation: Professor, Medical Genetics; Vice Dean Research, Faculty of Medicine, UBC
     url: "https://medgen.med.ubc.ca/wyeth-w-wasserman/"
     photo: "/assets/img/speakers/wyeth-wasserman.jpg"
+    title: Towards generative design of DNA to direct tissue-specific gene expression for gene therapy
   - name: Jiarui Ding
     affiliation: Assistant Professor, Computer Science, University of British Columbia
     url: "https://www.cs.ubc.ca/people/jiarui-ding"
@@ -194,6 +195,7 @@ workshop_ai_biology_speakers:
     affiliation: Assistant Professor, Electrical & Computer Engineering, University of Alberta; Amii Fellow
     url: "https://btolooshams.github.io/"
     photo: "/assets/img/speakers/bahareh-tolooshams.png"
+    title: Learning Interpretable Representations in Neural Signals with Sparse Autoencoders
   - name: Amin Emad
     affiliation: Associate Professor, Electrical and Computer Engineering, McGill University
     url: "https://www.ece.mcgill.ca/~aemad2/"
@@ -202,6 +204,7 @@ workshop_ai_biology_speakers:
     affiliation: Senior Scientist, Princess Margaret Cancer Centre (UHN); Associate Professor, University of Toronto
     url: "https://hoffmanlab.org/"
     photo: "/assets/img/speakers/michael-hoffman.jpg"
+    title: Visualizing distortion in dimensionality reduction
   - name: Qihuang Zhang
     affiliation: Assistant Professor, Epidemiology, Biostatistics and Occupational Health, McGill University
     url: "https://www.mcgill.ca/epi-biostat-occh/qihuang-zhang"
@@ -210,10 +213,12 @@ workshop_ai_biology_speakers:
     affiliation: Assistant Professor, University of Alberta; Amii Fellow
     url: "https://lazaratan.github.io/"
     photo: "/assets/img/speakers/lazar-atanackovic.jpg"
+    title: Flow matching for cell dynamics
   - name: Martin Ester
     affiliation: Distinguished SFU Professor, School of Computing Science, Simon Fraser University
     url: "https://www.sfu.ca/fas/computing/people/faculty/faculty-members/martin-ester.html"
     photo: "/assets/img/speakers/martin-ester.png"
+    title: Machine Learning for Precision Oncology
 
 # Beyond the Hype workshop speakers
 workshop_beyond_hype_speakers:

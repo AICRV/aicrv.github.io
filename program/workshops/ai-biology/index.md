@@ -23,7 +23,7 @@ active_tab: ai-biology
 </section>
 
 <section class="section program-overview">
-  <div class="section-grid">
+  <!--<div class="section-grid">-->
     <div> 
       <h2> Program Overview </h2>
     </div>
@@ -152,11 +152,11 @@ active_tab: ai-biology
         </div>
       </div>
     </div>
-  </div>
+  <!--</div>-->
 </section>
 
 <section class="section">
-  <div class="section-grid">
+ <!-- <div class="section-grid"> -->
     <div>
       <h2>About the Workshop</h2>
     </div>
@@ -164,28 +164,32 @@ active_tab: ai-biology
       <p>The rapid advancement in AI and machine learning is transforming how we study biological systems. Myriad biomedical fields, including genomics, drug discovery, protein engineering, and medical imaging, now rely heavily on AI. At the same time, biological problems are driving new methodological developments in AI, in areas like sequence modeling, explainable AI, causal learning, and representation learning over structured spaces.</p>
       <p>The AI and Biology workshop at AI/CRV 2026 brings together researchers working across this intersection. Topics of interest include genomics, single-cell omics and systems biology; protein engineering, synthetic biology and drug discovery; medical imaging and clinical data; as well as the underlying methodological challenges these domains present.</p>
     </div>
-  </div>
+  <!--</div>-->
 </section>
 
 <section class="section">
-  <div class="section-grid">
+    <!-- <div class="section-grid"> -->
     <div>
-      <h2>Confirmed Speakers</h2>
+      <h2>Speakers</h2>
     </div>
     <div class="section-body">
-      <div class="organizer-grid">
+    <div class="organizer-grid">
         {% for s in site.data.speakers.workshop_ai_biology_speakers %}
         <div class="organizer-card">
           <div class="organizer-photo"{% if s.photo %} style="background-image: url('{{ s.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
           <h3>{% if s.url and s.url != "" %}<a href="{{ s.url }}">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</h3>
           <p>{{ s.affiliation }}</p>
+          {% if s.title %}
+          <p> Talk title: {{ s.title}} </p>
+          {% endif %}
         </div>
         {% endfor %}
-      </div>
+      <!--</div> -->
     </div>
   </div>
 </section>
 
+<!--
 <section class="section">
   <div class="section-grid">
     <div>
@@ -209,5 +213,5 @@ active_tab: ai-biology
     </div>
   </div>
 </section>
-
+-->
 <!-- {% include partials/workshop_acknowledgements.html %} -->
