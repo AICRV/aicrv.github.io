@@ -30,7 +30,9 @@ active_tab: industry
       <div class="program-overview-list">
         <div class="program-overview-card is-plain">
           <div>
-            <p class="program-overview-title">Panel #1: Navigating AI Safety Challenges</p>
+            <p class="program-overview-title">Panel #1: Open Model and Open Access in AI</p>
+            <p> Moderator: Newvick Lee (Software Engineer - Self-Hosted Models, GitLab) </p>
+            <p> Panelists: Kris Krug (BC + AI Ecosystem), Dr. Jekaterina Novikova (Principal AI Research Scientist, Vanguard), Dr. Annie Ying (Engineering Manager - Self-hosted Models, GitLab), Prof. Steve DiPaola (Professor, Simon Fraser University, joined through video recordings)</p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 2:00pm-3:00pm</p>
@@ -55,7 +57,15 @@ active_tab: industry
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title">Panel #2: Open Model and Open Access in AI</p>
+            <p class="program-overview-title">Panel #2: Navigating AI Safety </p>
+            <p> Moderator: Alka Tandan (Founder, Reframe & Refine) </p>
+            <p> Panelists: <ul>  
+              <li> Robert Barton (Distinguished AI Engineer, Cisco Systems)</li>
+              <li> Dr. Eric Brochu (Member of Technical Staff - Superintelligence Team, Microsoft)</li>
+              <li> Mitu Mann (AVP - Data/ML Governance, Interact)</li>
+              <li> Dr. Eric Oosenbrug (Data & Design Researcher, Government of British Columbia) </li>
+              <li> Dr. Annika Rosanowski (Senior Advisor, Mitacs)</li>
+            </ul></p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 4:00pm-5:00pm</p>
