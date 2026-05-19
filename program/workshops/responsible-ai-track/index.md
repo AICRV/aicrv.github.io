@@ -17,6 +17,7 @@ active_tab: responsible-ai
     <div class="section-body">
       <p> The Responsible AI event will take place on 26 May 2026 at the Halpern Center 126. See the detailed program: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai </p>
       <p> <a class="btn btn-dark btn-sm" href="https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai">More Information</a> </p>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2843.4544007736245!2d-122.91770930000001!3d49.279649799999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548679bfdb4fafaf%3A0xfb7019d08839efdf!2sHalpern%20Centre%2C%20Burnaby%2C%20BC%20V5A%201S6!5e1!3m2!1sen!2sca!4v1779113820442!5m2!1sen!2sca" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
   </div>
 </section>
