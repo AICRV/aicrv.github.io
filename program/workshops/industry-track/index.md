@@ -32,7 +32,13 @@ active_tab: industry
           <div>
             <p class="program-overview-title">Panel #1: Open Model and Open Access in AI</p>
             <p> Moderator: Newvick Lee (Software Engineer - Self-Hosted Models, GitLab) </p>
-            <p> Panelists: Kris Krug (BC + AI Ecosystem), Dr. Jekaterina Novikova (Principal AI Research Scientist, Vanguard), Dr. Annie Ying (Engineering Manager - Self-hosted Models, GitLab), Prof. Steve DiPaola (Professor, Simon Fraser University, joined through video recordings)</p>
+            <p> Panelists: 
+              <ul> <li> Kris Krug (BC + AI Ecosystem) </li>
+                   <li> Dr. Jekaterina Novikova (Principal AI Research Scientist, Vanguard) </li>
+                   <li> Dr. Annie Ying (Engineering Manager - Self-hosted Models, GitLab) </li>
+                   <li> Prof. Steve DiPaola (Professor, Simon Fraser University, joined through video recordings) </li>
+              </ul> 
+          </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 2:00pm-3:00pm</p>
