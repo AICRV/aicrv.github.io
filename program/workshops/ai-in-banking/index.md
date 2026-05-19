@@ -22,6 +22,113 @@ active_tab: ai-banking
   </div>
 </section>
 
+<section class="section program-overview">
+  <div class="section-grid">
+    <div> 
+      <h2> Program Overview </h2>
+    </div>
+    <div class="section-body">
+      <div class="program-overview-list">
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Opening Remarks</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 9:00am-9:10am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">[Keynote] Challenges and opportunities of AI for central banking and financial stability </p>
+            <p> Thibaut Duprey, Bank of Canada </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 9:10am-9:45am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">[Contributed Talk] The Evolution of Market Efficiency: Evidence from Disaggregated Social Media Discussions</p>
+            <p> Harika Tuzcuoglu, Carleton University </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 9:46am-10:04am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">[Contributed Talk] Strategic Interactions of AI Agents in Payment Systems</p>
+            <p> Janet Jiang, Bank of Canada </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 10:04am-10:22am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">[Contributed Talk] Towards Agentic Fraud Defense: Adversarial Red-Blue Team Simulation with LLM-Driven Agents</p>
+            <p> Erfan Pirmorad, The Vanguard Group </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 10:22am-10:40am</p>
+          </div>
+        </div>          
+        <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Coffee Break</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 10:40am-11:10am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">[Contributed Talk] An Interpretable Decision-Support Layer for Climate-Aware Financial Services: Property Scorecards and Resilience Recommendations </p>
+            <p> Tianshu Huang, Climative </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 11:10am-11:27am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">[Contributed Talk] Communicating Credit Risk with Large Language Models: Evaluating Explanation Layers for Tabular and Network Models</p>
+            <p> Noah Kostesku, Western University </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 11:28am-11:45am</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">[Keynote] Opportunities in Modern AI and Agentic Systems for Financial Services: Leveraging Transactional and Tabular Data</p>
+            <p> Hossein Hajimirsadeghi, RBC Borealis </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 11:45am-12:20pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Closing Remarks</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 12:20pm-12:30pm</p>
+          </div>
+        </div>        
+        <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Lunch Break</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 12:30pm-14:00pm</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="section">
   <div class="section-grid">
     <div>
@@ -100,11 +207,11 @@ active_tab: ai-banking
   <div class="date-grid">
     <div class="date-card">
       <strong>Submission Deadline</strong>
-      <span>March 31, 2026</span>
+      <span><s>March 31, 2026</s></span>
     </div>
     <div class="date-card">
       <strong>Notification of Acceptance</strong>
-      <span>April 3, 2026</span>
+      <span><s>April 3, 2026</s></span>
     </div>
   </div>
 </div>
