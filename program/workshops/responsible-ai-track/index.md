@@ -15,7 +15,7 @@ active_tab: responsible-ai
       <h2>Responsible AI Track</h2>
     </div>
     <div class="section-body">
-      <p> The Responsible AI event will take place on 26 May 2026. See the detailed program: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai </p>
+      <p> The Responsible AI event will take place on 26 May 2026 at the Halpern Center 126. See the detailed program: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai </p>
       <p> <a class="btn btn-dark btn-sm" href="https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai">More Information</a> </p>
     </div>
   </div>
