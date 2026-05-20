@@ -10,7 +10,7 @@ active_tab: data-protection
 ---
 
 <section class="section">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div>
       <h2>Data and Model Protection in Generative AI</h2>
     </div>
@@ -23,11 +23,11 @@ active_tab: data-protection
       <p> Location: <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=SUB%204200"> SUB 4200 </a> at the SFU Burnaby Campus, May 25, 2026 </p> 
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2843.5058255115837!2d-122.92078938787478!3d49.2787578709127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54867915aeb38203%3A0xf44f87ea5f869ec4!2sStudent%20Union%20Building%20(SUB)!5e1!3m2!1sen!2sca!4v1779113495712!5m2!1sen!2sca" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <section class="section program-overview">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div> 
       <h2> Program Overview </h2>
     </div>
@@ -141,11 +141,11 @@ active_tab: data-protection
         </div>
       </div>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <section class="section">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div>
       <h2>About the Workshop</h2>
     </div>
@@ -154,11 +154,11 @@ active_tab: data-protection
       <p>Addressing these challenges requires not only robust technical defenses, but also thoughtful alignment with emerging governance, regulatory, and policy frameworks.</p>
       <p>The <strong>Data and Model Protection in Generative AI (DMP)</strong> workshop at AI/CRV 2026 brings together researchers, practitioners, and policymakers to examine the evolving threat landscape affecting GenAI systems and to discuss effective mitigation strategies.</p>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <section class="section">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div>
       <h2>Call for Papers</h2>
     </div>
@@ -196,7 +196,7 @@ active_tab: data-protection
 
 <div class="calls-dates" style="margin-bottom: 4rem;">
   <h3>Important Dates</h3>
-  <div class="date-grid">
+  <!-- <div class="date-grid"> -->
     <div class="date-card">
       <strong>Submission Deadline</strong>
       <span><s>April 21, 2026 (AoE)</s></span>
@@ -209,11 +209,11 @@ active_tab: data-protection
       <strong>Workshop Date</strong>
       <span>May 25, 2026</span>
     </div>
-  </div>
+  <!-- </div> -->
 </div>
 
 <section class="section">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div>
       <h2>Invited Speakers</h2>
     </div>
@@ -228,11 +228,11 @@ active_tab: data-protection
         {% endfor %}
       </div>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <section class="section">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div>
       <h2>Student Speakers</h2>
     </div>
@@ -247,7 +247,7 @@ active_tab: data-protection
         {% endfor %}
       </div>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <!-- {% include partials/workshop_acknowledgements.html %} -->
