@@ -22,7 +22,7 @@ active_tab: beyond-hype
 </section>
 
 <section class="section">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div>
       <h2>About the Event</h2>
     </div>
@@ -31,11 +31,11 @@ active_tab: beyond-hype
       <p>This panel brings together perspectives from academia, industry, and policy to explore how organizations can move beyond short-term pilots toward long-term AI capability. The discussion will focus on practical approaches to building future-ready strategies that emphasize adaptability, resilience, and responsible governance. Panelists will examine how decisions made today around technology, data, talent, operating models, and oversight structures will shape organizational outcomes over the next decade.</p>
       <p>Designed for both researchers and practitioners, this session connects AI innovation with real-world implementation challenges, offering a grounded view of how to build AI strategies that are not only effective, but durable, and aligned with evolving societal and organizational expectations.</p>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <section class="section">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div>
       <h2>Confirmed Speakers</h2>
     </div>
@@ -50,7 +50,7 @@ active_tab: beyond-hype
         {% endfor %}
       </div>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <!-- {% include partials/workshop_acknowledgements.html %} -->
