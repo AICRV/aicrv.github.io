@@ -425,7 +425,7 @@ days:
               type: oral
               url: https://www.computerrobotvision.org/program.html
           studio:
-            - title: "Panel 2: Open Model and Open Access in AI"
+            - title: "Panel 1: Open Model and Open Access in AI"
               type: panel
               url: /program/workshops/industry-track/
       - time: 3:00pm-3:30pm
