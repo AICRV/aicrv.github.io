@@ -53,7 +53,7 @@ active_tab: ai-policy-forum
             <p> Arvind Gupta, Member of the Government of Canada’s AI Strategy Task Force</p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 9:50am-10:20am</p>
+            <p><strong>Time:</strong> 9:50am-10:30am</p>
           </div>
         </div>
         <div class="program-overview-card is-plain">
@@ -61,7 +61,7 @@ active_tab: ai-policy-forum
             <p class="program-overview-title">Coffee Break</p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 10:20am-11:00am</p>
+            <p><strong>Time:</strong> 10:30am-11:00am</p>
           </div>
         </div>
         <div class="program-overview-card">
