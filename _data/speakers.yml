@@ -91,6 +91,16 @@ workshop_industry_track_speakers:
     affiliation: Mitacs
     url: "https://www.linkedin.com/in/annika-rosanowski/"
     photo: "https://media.licdn.com/dms/image/v2/D5603AQFXfcKzF21cVw/profile-displayphoto-crop_800_800/B56ZwhG8IuIQAI-/0/1770081994053?e=1780531200&v=beta&t=2tnwF1ebJRjKTgMG4-MLmMsvkmaA_yPvhI3NzlsEmaE"
+  - name: Jekaterina Novikova
+    affiliation: Vanguard Group
+    url: "https://jeknov.github.io/"
+    photo: "/assets/img/speakers/jekaterina-novikova.webp"
+  - name: Alka Tandan
+    affiliation: Reframe & Refine
+    photo: "https://media.licdn.com/dms/image/v2/C4D03AQFjsHdyM2E7tw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516257953850?e=2147483647&v=beta&t=LV9lIGH4OKB3K7w0HdvwCESy0L1ZTjGvges1-T-PTyM"
+  - name: Mitu Mann
+    affiliation: Interact Corp.
+    photo: "https://media.licdn.com/dms/image/v2/D4E03AQEp0VezzXEglg/profile-displayphoto-shrink_200_200/B4EZUB0LIhGgAY-/0/1739492209538?e=2147483647&v=beta&t=SsBuy7UzbPXuDgEVhbEYtK_sKLcnmLR1uNk7skVdubo"    
 
 # Responsible AI Track speakers
 workshop_responsible_ai_track_speakers:
