@@ -23,7 +23,7 @@ active_tab: ai-governance
 </section>
 
 <section class="section">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div>
       <h2>About the Workshop</h2>
     </div>
@@ -33,11 +33,11 @@ active_tab: ai-governance
       <p>The format will include invited talks, practitioner reactions, and a structured synthesis of top research questions and promising empirical approaches.</p>
       <p><strong>This workshop will be followed by a moderated industry panel on AI Strategy & Governance.</strong> </p>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <section class="section">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div>
       <h2>Confirmed Speakers</h2>
     </div>
@@ -52,7 +52,7 @@ active_tab: ai-governance
         {% endfor %}
       </div>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <!-- {% include partials/workshop_acknowledgements.html %} --->
