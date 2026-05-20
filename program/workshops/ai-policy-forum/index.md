@@ -24,7 +24,7 @@ active_tab: ai-policy-forum
 </section>
 
 <section class="section program-overview">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div> 
       <h2> Program Overview </h2>
     </div>
@@ -95,11 +95,11 @@ active_tab: ai-policy-forum
         </div>      
       </div>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <section class="section">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div>
       <h2>About the Forum</h2>
     </div>
@@ -107,11 +107,11 @@ active_tab: ai-policy-forum
       <p>As AI increasingly drives productivity, competitiveness, and institutional transformation, the policy and capital decisions made today will play a critical role in determining how its benefits are realized across the Canadian economy. This event will focus on the strategic priorities needed to translate cutting-edge AI research into world-class commercial applications, enhanced public sector capability, long-term economic growth and broad societal benefit.</p>
       <p>Through a series of focused panels, the forum will explore the intersection of AI innovation, capital formation and policymaking – from commercialization pathways and enterprise adoption to standards, public trust, and infrastructure investment. Particular emphasis will be placed on strengthening the Canadian AI ecosystem through collaboration across academia, industry and government.</p>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <section class="section">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div>
       <h2>Keynote Speakers</h2>
     </div>
@@ -126,11 +126,11 @@ active_tab: ai-policy-forum
         {% endfor %}
       </div>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <section class="section">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div>
       <h2>Panel Speakers</h2>
     </div>
@@ -145,7 +145,7 @@ active_tab: ai-policy-forum
         {% endfor %}
       </div>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 {% include partials/workshop_acknowledgements.html %}
