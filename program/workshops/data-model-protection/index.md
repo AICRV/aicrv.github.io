@@ -164,7 +164,6 @@ active_tab: data-protection
     </div>
     <div class="section-body">
       <p>We invite submissions to the Data and Model Protection in Generative AI workshop at AI/CRV 2026. This workshop aims to bring together researchers, practitioners, and policymakers to examine the evolving threat landscape affecting GenAI systems and to discuss effective mitigation strategies.</p>
-
       <h3>Topics of Interest</h3>
       <p>Topics include, but are not limited to, the following:</p>
       <ul>
@@ -177,7 +176,6 @@ active_tab: data-protection
         <li>Robust and secure machine learning pipelines</li>
         <li>Governance, auditing, and responsible deployment of AI systems</li>
       </ul>
-
       <h3>Submission Guidelines</h3>
       <p>Submissions may report new research results, empirical analyses, system implementations, benchmarks, negative results, or visionary perspectives (e.g., positions).</p>
       <ul>
@@ -186,12 +184,11 @@ active_tab: data-protection
         <li><strong>Formatting:</strong> Use the official <a href="https://www.caiac.ca/en/conferences/canadianai-2026/call-papers">Canadian AI 2026 style files</a> and submit a single PDF (which should be anonymized, like Canadian AI submissions).</li>
         <li><strong>Appendix:</strong> Include any supplementary material in the same PDF — no page limit for the appendix.</li>
       </ul>
-
       <h3>Review Process</h3>
       <p>Submissions will be reviewed by the workshop program chairs. Accepted papers will be presented as talks or posters. The workshop is non-archival, and authors are free to submit extended versions of their work to archival venues.</p>
       <p><a class="btn btn-dark btn-sm" href="https://openreview.net/group?id=AI-CRV.ca/2026/Workshop/DMP">Submit on OpenReview →</a></p>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <div class="calls-dates" style="margin-bottom: 4rem;">
