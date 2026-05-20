@@ -23,7 +23,7 @@ active_tab: ai-banking
 </section>
 
 <section class="section program-overview">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div> 
       <h2> Program Overview </h2>
     </div>
@@ -126,11 +126,11 @@ active_tab: ai-banking
         </div>
       </div>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <section class="section">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div>
       <h2>About the Workshop</h2>
     </div>
@@ -138,11 +138,11 @@ active_tab: ai-banking
       <p>Artificial intelligence (AI) is fundamentally transforming the banking and financial services sector, presenting both unprecedented opportunities and novel challenges. The AI in Banking and Financial Services workshop (AI-BFS 2026) explores how AI, machine learning, and advanced analytics are being deployed in practice across the banking and financial services landscape, particularly in the Canadian context. This workshop brings together the interdisciplinary AI research community, banking practitioners, and policymakers to address key challenges in credit risk, trading, customer service automation, and compliance. It seeks to connect research with the socioeconomic and regulatory realities of modern banking. We are interested in questions that go beyond predictive accuracy to explore emerging trends, ethical considerations, and the broader impact of AI on financial institutions, consumers, and the future of financial regulation in Canada. We invite submissions at the intersection of AI methodologies, industry-specific financial challenges, and their practical, compliant deployment in areas such as the ones listed below.</p>
       <p><a class="btn btn-dark btn-sm" href="https://cmt3.research.microsoft.com/AIBFS2026/">Submit a Paper →</a></p>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <section class="section">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div>
       <h2>Topics of Interest</h2>
     </div>
@@ -187,7 +187,7 @@ active_tab: ai-banking
 </section>
 
 <section class="section">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div>
       <h2>Submission Guidelines</h2>
     </div>
@@ -199,7 +199,7 @@ active_tab: ai-banking
         <p><a class="btn btn-dark btn-sm" href="https://cmt3.research.microsoft.com/AIBFS2026/">Submit on CMT →</a></p>
       </ul>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <div class="calls-dates" style="margin-bottom: 4rem;">
@@ -217,7 +217,7 @@ active_tab: ai-banking
 </div>
 
 <section class="section">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div>
       <h2>Confirmed Speakers</h2>
     </div>
@@ -233,7 +233,7 @@ active_tab: ai-banking
       </div>
       <!-- <p>Additional speakers to be announced.</p> -->
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 {% include partials/workshop_acknowledgements.html %}
