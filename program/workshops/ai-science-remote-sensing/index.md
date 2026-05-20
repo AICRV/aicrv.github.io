@@ -23,7 +23,7 @@ active_tab: ai-science
 </section>
 
 <section class="section program-overview">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div> 
       <h2> Program Overview </h2>
     </div>
@@ -167,11 +167,11 @@ active_tab: ai-science
         </div>         
       </div>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <section class="section">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div> <h2>About the Workshop</h2> </div>
     <div class="section-body">
       <p>Join us for the AI for Science and Sustainability Workshop @ AI/CRV 2026 in Vancouver, BC on May 25! Organized by the Vector Institute and co-hosted by UBC and SFU, this workshop brings together researchers and students across industry, academia and government. Together, we will explore the latest developments in AI for scientific discovery and sustainability in areas such as climate change, ecology, and agriculture as well as advances in more efficient/green AI. We aim to bridge the gap between disciplines to foster collaborations and innovations at the intersection of AI, science, and the environment. Join us in Vancouver, a city globally recognized for its commitment to sustainability and its cutting-edge AI research ecosystem. The workshop will feature talks, posters, a panel, and networking opportunities.
@@ -179,11 +179,11 @@ active_tab: ai-science
       <p> <strong> <a href="https://forms.gle/DnHdVSCt4twJwnjs8"> Submit your poster or lightning talk by May 20! </a> </strong> </p>
       <p> Posters and Lightning Slides will be posted here closer to the event. </p>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <section class="section">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div>
       <h2>Speakers</h2>
     </div>
@@ -198,7 +198,7 @@ active_tab: ai-science
         {% endfor %}
       </div>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <!-- {% include partials/workshop_acknowledgements.html %} -->
