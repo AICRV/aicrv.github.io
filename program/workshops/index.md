@@ -10,14 +10,14 @@ active_tab: overview
 ---
 
 <section class="section">
-  <div class="section-grid">
+  <!-- <div class="section-grid"> -->
     <div>
       <h2>Workshops</h2>
     </div>
     <div class="section-body">
       <p>AI/CRV workshops aim to facilitate cross-pollination between different areas of AI and robotics and different fields.</p>
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 
 <section class="section program-overview">
