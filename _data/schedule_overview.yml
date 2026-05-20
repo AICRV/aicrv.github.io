@@ -425,7 +425,7 @@ days:
               type: oral
               url: https://www.computerrobotvision.org/program.html
           studio:
-            - title: "Panel 1: Navigating AI Safety Challenges"
+            - title: "Panel 2: Open Model and Open Access in AI"
               type: panel
               url: /program/workshops/industry-track/
       - time: 3:00pm-3:30pm
@@ -462,9 +462,9 @@ days:
               type: poster
               url: https://www.computerrobotvision.org/program.html
           studio:
-            - title: "Panel 2: Open Model and Open Access in AI"
+            - title: "Panel 2: Navigating AI Safety Challenges"
               type: panel
-              url: /program/workshops/industry-track/
+              url: /program/workshops/industry-track/              
       - time: 5:00pm-5:30pm
         cells:
           dfa:
