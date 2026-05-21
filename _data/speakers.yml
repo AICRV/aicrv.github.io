@@ -281,6 +281,10 @@ workshop_ai_policy_forum_panel_speakers:
     affiliation: Vice President, CGI Vancouver
     url: "https://www.cgi.com/canada/en-ca/experts/andrew-donaher"
     photo: "/assets/img/speakers/andrew-donaher.png"
+  - name: Justin Watts
+    affiliation: Distinguished Engineer, Telus
+    url: "https://justin.azohra.com/"
+    photo: "https://media.licdn.com/dms/image/v2/C4E03AQETDeNVyJKnEw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1541343090128?e=2147483647&v=beta&t=x9Kv9EWcdO1-Fw3x05O9THYElPNkPO3mQoFzz4DC-gk"
 
 # AI Banking speakers
 workshop_ai_banking_speakers:
