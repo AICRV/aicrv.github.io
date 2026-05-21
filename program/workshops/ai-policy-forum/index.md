@@ -67,8 +67,8 @@ active_tab: ai-policy-forum
         <div class="program-overview-card">
           <div>
             <p class="program-overview-title"> Panel Discussion on Technology Policy and Economic Impact</p>
-            <p>Jing Yang, Managing Director at the Bank of Canada</p>
             <p>Daniel Schwanen, SVP at C. D. Howe Institute</p>
+            <p>Jing Yang, Managing Director at the Bank of Canada</p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 11:00am-12:30pm</p>
@@ -85,9 +85,10 @@ active_tab: ai-policy-forum
         <div class="program-overview-card">
           <div>
             <p class="program-overview-title"> Panel Discussion on AI Adoption and Commercialization </p> 
-            <p> Greg Mori, VP at RBC </p>
-            <p> Guy Dulude, VP at Siemens </p>
             <p> Andrew Donaher, VP at CGI </p>
+            <p> Guy Dulude, VP at Siemens </p>
+            <p> Greg Mori, VP at RBC </p>
+            <p> Justin Watts, Distinguished Engineer at Telus</p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 14:00pm-15:30pm</p>
