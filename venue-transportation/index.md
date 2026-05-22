@@ -321,7 +321,7 @@ title: Venue and Transportation
   <!-- Getting from Off-Campus Hotel -->
   <section class="venue-block">
     <div class="venue-block-inner">
-      <h2 class="venue-block-title">Getting to SFU Burnaby Campus from Off-Campus Hotel</h2>
+      <h2 class="venue-block-title">Travelling between SFU Burnaby Campus and Executive Plaza Hotel (Off-Campus Hotel and Banquet Location)</h2>
       <div class="venue-card">
         <div class="venue-section-content">
           <p>The Executive Plaza Hotel Coquitlam, is a 10-minute to 25-minute drive from the SFU Burnaby Campus.</p>
