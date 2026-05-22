@@ -46,7 +46,7 @@ active_tab: industry
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title">Keynote: Research from Pixels to Proteins: Scaling Generative AI for Scientific Discovery</p>
+            <p class="program-overview-title">[Keynote] Research from Pixels to Proteins: Scaling Generative AI for Scientific Discovery</p>
             <p>Dr. Karsten Kreis, Principal Research Scientist, NVIDIA</p>
           </div>
           <div class="program-overview-meta">
@@ -69,7 +69,6 @@ active_tab: industry
               <li> Robert Barton (Distinguished AI Engineer, Cisco Systems)</li>
               <li> Dr. Eric Brochu (Member of Technical Staff - Superintelligence Team, Microsoft)</li>
               <li> Mitu Mann (AVP - Data/ML Governance, Interact)</li>
-              <li> Dr. Eric Oosenbrug (Data & Design Researcher, Government of British Columbia) </li>
               <li> Dr. Annika Rosanowski (Senior Advisor, Mitacs)</li>
             </ul></p>
           </div>
@@ -77,6 +76,15 @@ active_tab: industry
             <p><strong>Time:</strong> 4:00pm-5:00pm</p>
           </div>
         </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">[Keynote] Confident & Wrong: Why Responsible AI Demands More Than a Checklist</p>
+            <p>Dr. Eric Oosenbrug, Data & Design Researcher, Government of British Columbia </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 5:00pm-5:30pm</p>
+          </div>
+        </div>        
       </div>
     </div>
   <!-- </div> -->
