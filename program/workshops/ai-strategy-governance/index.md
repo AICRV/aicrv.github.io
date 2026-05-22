@@ -22,6 +22,114 @@ active_tab: ai-governance
   <!-- </div> -->
 </section>
 
+<section class="section program-overview">
+  <!-- <div class="section-grid"> -->
+    <div> 
+      <h2> Program Overview </h2>
+    </div>
+    <div class="section-body">
+      <div class="program-overview-list">
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Opening, speaker intros and workshop framing</p>
+            <p> Chaitanya Kaligotla, Simon Fraser University </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 2:30pm-2:35pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">GenAI Shopping Assistants in E-Commerce: A Natural Experiment to Evaluate the Effect of Amazon’s Rufus on Consumer Reviews</p>
+            <p> Aishwarya Shukla,  </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 2:35pm-3:00pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Algorithmic versus Human Managers: The Impact of Manager Type and Communication Frequency on Auditors’ Time Underreporting Behavior</p>
+            <p> Samantha Seto </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 3:00pm-3:25pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Q&A from audience; Brief synthesis and transition</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 3:25pm-3:30pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Coffee Break</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 3:30pm-4:00pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title"> Part 2 speaker introduction and framing </p>
+            <p> Chaitanya Kaligotla, Simon Fraser University </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 4:00pm-4:05pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Let’s Shave Years Off the Productivity Paradox</p>
+            <p> Terri Griffith </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 4:05pm-4:30pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">AI impact on organizational operating models</p>
+            <p> Blaize Reich </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 4:30pm-4:55pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Moderated Q&A and synthesis: research questions, evidence gaps, and implications for AI strategy and governance</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 4:55pm-5:15pm</p>
+          </div>
+        </div>
+        <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Break</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 5:15pm-5:30pm</p>
+          </div>
+        </div>    
+        <div class="program-overview-card">
+          <div>
+            <p class="program-overview-title">Industry panel discussion</p>
+            <p> Host: Andrew Gemino </p>
+            <p>Panelists: Rachel Barker, Rob Goehring, Vineel Nagisetty</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 5:30pm-6:30pm</p>
+          </div>
+        </div>         
+      </div>
+    </div>
+  <!-- </div> -->
+</section>
+
 <section class="section">
   <!-- <div class="section-grid"> -->
     <div>
