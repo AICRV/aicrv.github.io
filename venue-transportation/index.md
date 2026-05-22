@@ -43,7 +43,8 @@ title: Venue and Transportation
   margin-bottom: 0;
 }
 
-.venue-section-content ul {
+.venue-section-content ul,
+.venue-section-content ol {
   color: #4b4f5e;
   line-height: 1.75;
   font-size: 1rem;
@@ -51,8 +52,25 @@ title: Venue and Transportation
   margin: 8px 0 0 0;
 }
 
-.venue-section-content ul li {
+.venue-section-content ul li,
+.venue-section-content ol li {
   margin-bottom: 4px;
+}
+
+.venue-section-content ol > li {
+  padding-left: 4px;
+}
+
+/* Card wrapper — mirrors accommodation .room-card */
+.venue-card {
+  background: #f8f8f9;
+  border-radius: 16px;
+  padding: 28px 32px;
+  margin-bottom: 30px;
+}
+
+.venue-card:last-child {
+  margin-bottom: 0;
 }
 
 .venue-section-content a {
@@ -272,28 +290,30 @@ title: Venue and Transportation
   <section class="venue-block">
     <div class="venue-block-inner">
       <h2 class="venue-block-title">Venue Map</h2>
-      <figure class="venue-map-figure">
-        <img src="{{ site.baseurl }}/assets/img/venue/venue-map.png" alt="AI/CRV 2026 venue map of SFU Burnaby Campus" />
-      </figure>
-      <div class="venue-section-content">
-        <ul>
-          <li>AI main room: Diamond Family Auditorium</li>
-          <li>CRV main room: SUB Ballroom 5000</li>
-          <li>Registration desk: AQ North Corridor (Monday), Diamond Family Auditorium (Tuesday – Friday)</li>
-          <li>Other venue areas:
-            <ul>
-              <li>Student Union Building (SUB 4200 and SUB Ballroom 5000)</li>
-              <li>Halpern Centre</li>
-              <li>BLU 10011</li>
-              <li>Big Data Hub (ASB 10900)</li>
-              <li>Monday workshops and special tracks: Halpern Centre 126/114, SUB 4200, BLU 10011, and ASB 10900.</li>
-            </ul>
-          </li>
-          <li>Lunches are at Dining Commons. On-campus accommodations include Courtyard Residence / The Simon.</li>
-          <li>Poster printing: Cornerstone, marked with the blue dot on the map.</li>
-          <li>Shuttle pickup/dropoff: marked near the Transportation Centre / Halpern Centre area.</li>
-          <li>Program details: <a href="https://www.ai-crv.ca/#program">View the full schedule</a></li>
-        </ul>
+      <div class="venue-card">
+        <figure class="venue-map-figure">
+          <img src="{{ site.baseurl }}/assets/img/venue/venue-map.png" alt="AI/CRV 2026 venue map of SFU Burnaby Campus" />
+        </figure>
+        <div class="venue-section-content">
+          <ol>
+            <li>AI main room: Diamond Family Auditorium</li>
+            <li>CRV main room: SUB Ballroom 5000</li>
+            <li>Registration desk: AQ North Corridor (Monday), Diamond Family Auditorium (Tuesday – Friday)</li>
+            <li>Other venue areas:
+              <ul>
+                <li>Student Union Building (SUB 4200 and SUB Ballroom 5000)</li>
+                <li>Halpern Centre</li>
+                <li>BLU 10011</li>
+                <li>Big Data Hub (ASB 10900)</li>
+                <li>Monday workshops and special tracks: Halpern Centre 126/114, SUB 4200, BLU 10011, and ASB 10900.</li>
+              </ul>
+            </li>
+            <li>Lunches are at Dining Commons. On-campus accommodations include Courtyard Residence / The Simon.</li>
+            <li>Poster printing: Cornerstone, marked with the blue dot on the map.</li>
+            <li>Shuttle pickup/dropoff: marked near the Transportation Centre / Halpern Centre area.</li>
+            <li>Program details: <a href="https://www.ai-crv.ca/#program">View the full schedule</a></li>
+          </ol>
+        </div>
       </div>
     </div>
   </section>
@@ -302,69 +322,75 @@ title: Venue and Transportation
   <section class="venue-block">
     <div class="venue-block-inner">
       <h2 class="venue-block-title">Getting to SFU Burnaby Campus from Off-Campus Hotel</h2>
-      <div class="venue-section-content">
-        <p>The Executive Plaza Hotel Coquitlam, is a 10-minute to 25-minute drive from the SFU Burnaby Campus.</p>
+      <div class="venue-card">
+        <div class="venue-section-content">
+          <p>The Executive Plaza Hotel Coquitlam, is a 10-minute to 25-minute drive from the SFU Burnaby Campus.</p>
+        </div>
       </div>
 
-      <h3 class="venue-subblock-title">Shuttles</h3>
-      <div class="venue-section-content">
-        <ul>
-          <li>Advance sign-up is required. Each shuttle has a capacity of 50 passengers.</li>
-          <li>Confirmed shuttle riders will receive a small sticker on their conference badge. Volunteers may check for this sticker at the shuttle pickup point, especially on Wednesday.</li>
-          <li>Confirmed riders should arrive at the shuttle pickup point at least 10 minutes before departure. Seats that are not claimed close to departure time may be released to waitlisted attendees.</li>
-          <li>If a shuttle reaches capacity, additional sign-ups will be placed on the waitlist in order of submission.</li>
-          <li>Campus pickup/dropoff: use the Shuttle Pickup/Dropoff point shown on the venue map above.</li>
-          <li>Hotel pickup/dropoff: Executive Plaza Hotel Coquitlam.</li>
-        </ul>
-      </div>
-      <div class="venue-cta">
-        <a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=fmfoBInJuUeGGdg9Wl9sZwX-LCZy7QhBklwAwx3uqW9UN0Y5UlVINE05UzgzQjRIUjEzNUI3RUo0Ri4u" target="_blank" rel="noopener">Shuttle sign-up link: AI/CRV 2026 Shuttle Sign-Up Form</a>
-      </div>
+      <div class="venue-card">
+        <h3 class="venue-subblock-title" style="margin-top: 0;">Shuttles</h3>
+        <div class="venue-section-content">
+          <ol>
+            <li>Advance sign-up is required. Each shuttle has a capacity of 50 passengers.</li>
+            <li>Confirmed shuttle riders will receive a small sticker on their conference badge. Volunteers may check for this sticker at the shuttle pickup point, especially on Wednesday.</li>
+            <li>Confirmed riders should arrive at the shuttle pickup point at least 10 minutes before departure. Seats that are not claimed close to departure time may be released to waitlisted attendees.</li>
+            <li>If a shuttle reaches capacity, additional sign-ups will be placed on the waitlist in order of submission.</li>
+            <li>Campus pickup/dropoff: use the Shuttle Pickup/Dropoff point shown on the venue map above.</li>
+            <li>Hotel pickup/dropoff: Executive Plaza Hotel Coquitlam.</li>
+          </ol>
+        </div>
+        <div class="venue-cta">
+          <a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=fmfoBInJuUeGGdg9Wl9sZwX-LCZy7QhBklwAwx3uqW9UN0Y5UlVINE05UzgzQjRIUjEzNUI3RUo0Ri4u" target="_blank" rel="noopener">Shuttle sign-up link: AI/CRV 2026 Shuttle Sign-Up Form</a>
+        </div>
 
-      <table class="shuttle-schedule">
-        <thead>
-          <tr>
-            <th>Day</th>
-            <th>Times</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><strong>Monday, Tuesday, Thursday, Friday</strong></td>
-            <td><strong>7:45 AM - Executive Plaza Hotel -> SFU<br>6:00 PM - SFU -> Executive Plaza Hotel</strong></td>
-          </tr>
-          <tr>
-            <td><strong>Wednesday</strong></td>
-            <td><strong>7:45 AM - Executive Plaza Hotel -> SFU<br>6:00 PM, 6:15 PM, 6:30 PM, 6:45 PM, 9:30 PM, 10:00 PM - SFU -> Executive Plaza Hotel</strong></td>
-          </tr>
-        </tbody>
-      </table>
-
-      <h3 class="venue-subblock-title">Public Transit</h3>
-      <div class="venue-section-content">
-        <ul>
-          <li>Travel from Executive Plaza Hotel to SFU Transit Exchange is usually about 32-49 minutes by transit, depending on the route, wait times, and traffic.</li>
-          <li>Google Maps or TransLink may suggest several route options depending on departure time.</li>
-          <li>Return trip: use the same route in reverse.</li>
-          <li>Check Google Maps or TransLink Trip Planner before travelling for live schedules.</li>
-        </ul>
+        <table class="shuttle-schedule">
+          <thead>
+            <tr>
+              <th>Day</th>
+              <th>Times</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Monday, Tuesday, Thursday, Friday</strong></td>
+              <td><strong>7:45 AM - Executive Plaza Hotel -> SFU<br>6:00 PM - SFU -> Executive Plaza Hotel</strong></td>
+            </tr>
+            <tr>
+              <td><strong>Wednesday</strong></td>
+              <td><strong>7:45 AM - Executive Plaza Hotel -> SFU<br>6:00 PM, 6:15 PM, 6:30 PM, 6:45 PM, 9:30 PM, 10:00 PM - SFU -> Executive Plaza Hotel</strong></td>
+            </tr>
+          </tbody>
+        </table>
       </div>
 
-      <figure class="venue-map-figure" style="margin-top: 24px;">
-        <img src="{{ site.baseurl }}/assets/img/venue/transit-route.png" alt="Transit route options from Executive Plaza Hotel Coquitlam to SFU Transit Exchange" />
-        <figcaption class="venue-map-caption">Route options from Executive Plaza Hotel Coquitlam to SFU Transit Exchange. Options and travel times may change; attendees should check live schedules before travelling.</figcaption>
-      </figure>
+      <div class="venue-card">
+        <h3 class="venue-subblock-title" style="margin-top: 0;">Public Transit</h3>
+        <div class="venue-section-content">
+          <ol>
+            <li>Travel from Executive Plaza Hotel to SFU Transit Exchange is usually about 32-49 minutes by transit, depending on the route, wait times, and traffic.</li>
+            <li>Google Maps or TransLink may suggest several route options depending on departure time.</li>
+            <li>Return trip: use the same route in reverse.</li>
+            <li>Check Google Maps or TransLink Trip Planner before travelling for live schedules.</li>
+          </ol>
+        </div>
 
-      <p class="venue-links"><strong>Route and schedule links:</strong>
-        <a href="https://www.translink.ca/trip-planner" target="_blank" rel="noopener">TransLink Trip Planner</a> |
-        <a href="https://www.translink.ca/schedules-and-maps/route/145/direction/0/schedule" target="_blank" rel="noopener">Route 145 schedule</a> |
-        <a href="https://www.translink.ca/schedules-and-maps/route/143/direction/1/schedule" target="_blank" rel="noopener">Route 143 schedule</a> |
-        <a href="https://www.translink.ca/schedules-and-maps/route/144/direction/0/schedule" target="_blank" rel="noopener">Route 144 schedule</a> |
-        <a href="https://www.translink.ca/schedules-and-maps/route/136/direction/0/schedule" target="_blank" rel="noopener">Route 136 schedule</a>
-      </p>
+        <figure class="venue-map-figure" style="margin-top: 24px;">
+          <img src="{{ site.baseurl }}/assets/img/venue/transit-route.png" alt="Transit route options from Executive Plaza Hotel Coquitlam to SFU Transit Exchange" />
+          <figcaption class="venue-map-caption">Route options from Executive Plaza Hotel Coquitlam to SFU Transit Exchange. Options and travel times may change; attendees should check live schedules before travelling.</figcaption>
+        </figure>
 
-      <div class="venue-section-content" style="margin-top: 16px;">
-        <p><strong>Fare and payment:</strong> The hotel-to-campus route is normally a one-zone trip if starting from Lougheed Town Centre Station. Current adult one-zone fares are $3.35 by cash/contactless or $2.70 with Compass Stored Value. TransLink accepts Compass Card/Ticket, contactless cards, mobile wallets, and cash on buses. <a href="https://www.translink.ca/transit-fares/pricing-and-fare-zones" target="_blank" rel="noopener">TransLink fare details</a></p>
+        <p class="venue-links"><strong>Route and schedule links:</strong>
+          <a href="https://www.translink.ca/trip-planner" target="_blank" rel="noopener">TransLink Trip Planner</a> |
+          <a href="https://www.translink.ca/schedules-and-maps/route/145/direction/0/schedule" target="_blank" rel="noopener">Route 145 schedule</a> |
+          <a href="https://www.translink.ca/schedules-and-maps/route/143/direction/1/schedule" target="_blank" rel="noopener">Route 143 schedule</a> |
+          <a href="https://www.translink.ca/schedules-and-maps/route/144/direction/0/schedule" target="_blank" rel="noopener">Route 144 schedule</a> |
+          <a href="https://www.translink.ca/schedules-and-maps/route/136/direction/0/schedule" target="_blank" rel="noopener">Route 136 schedule</a>
+        </p>
+
+        <div class="venue-section-content" style="margin-top: 16px;">
+          <p><strong>Fare and payment:</strong> The hotel-to-campus route is normally a one-zone trip if starting from Lougheed Town Centre Station. Current adult one-zone fares are $3.35 by cash/contactless or $2.70 with Compass Stored Value. TransLink accepts Compass Card/Ticket, contactless cards, mobile wallets, and cash on buses. <a href="https://www.translink.ca/transit-fares/pricing-and-fare-zones" target="_blank" rel="noopener">TransLink fare details</a></p>
+        </div>
       </div>
     </div>
   </section>
@@ -373,18 +399,20 @@ title: Venue and Transportation
   <section class="venue-block">
     <div class="venue-block-inner">
       <h2 class="venue-block-title">Getting to SFU Burnaby Campus from Vancouver International Airport (YVR)</h2>
-      <div class="venue-section-content">
-        <ul>
-          <li>The SFU Burnaby Campus is about a 45-minute to 90-minute drive from the Vancouver International Airport, depending on traffic.</li>
-          <li><strong>From Vancouver International Airport (YVR) to SFU Burnaby by public transit:</strong> take the Canada Line from YVR-Airport Station toward downtown Vancouver, then connect to SkyTrain/bus service toward SFU. A common route is Canada Line -> Waterfront/Expo Line -> Production Way-University Station -> Bus 145 -> SFU Transit Exchange.</li>
-          <li>Use TransLink Trip Planner or Google Maps on the travel day for the fastest route, since the best connection can change by time of day.</li>
-          <li>Travellers leaving YVR by Canada Line may be charged the YVR AddFare in addition to the regular transit fare.</li>
-        </ul>
+      <div class="venue-card">
+        <div class="venue-section-content">
+          <ol>
+            <li>The SFU Burnaby Campus is about a 45-minute to 90-minute drive from the Vancouver International Airport, depending on traffic.</li>
+            <li><strong>From Vancouver International Airport (YVR) to SFU Burnaby by public transit:</strong> take the Canada Line from YVR-Airport Station toward downtown Vancouver, then connect to SkyTrain/bus service toward SFU. A common route is Canada Line -> Waterfront/Expo Line -> Production Way-University Station -> Bus 145 -> SFU Transit Exchange.</li>
+            <li>Use TransLink Trip Planner or Google Maps on the travel day for the fastest route, since the best connection can change by time of day.</li>
+            <li>Travellers leaving YVR by Canada Line may be charged the YVR AddFare in addition to the regular transit fare.</li>
+          </ol>
+        </div>
+        <p class="venue-links"><strong>Useful links:</strong>
+          <a href="https://www.yvr.ca/en/passengers/transportation/public-transportation" target="_blank" rel="noopener">YVR public transportation</a> |
+          <a href="https://www.translink.ca/transit-fares/transferring-and-addfare" target="_blank" rel="noopener">TransLink YVR AddFare</a>
+        </p>
       </div>
-      <p class="venue-links"><strong>Useful links:</strong>
-        <a href="https://www.yvr.ca/en/passengers/transportation/public-transportation" target="_blank" rel="noopener">YVR public transportation</a> |
-        <a href="https://www.translink.ca/transit-fares/transferring-and-addfare" target="_blank" rel="noopener">TransLink YVR AddFare</a>
-      </p>
     </div>
   </section>
 
@@ -392,18 +420,20 @@ title: Venue and Transportation
   <section class="venue-block" style="padding-bottom: 100px;">
     <div class="venue-block-inner">
       <h2 class="venue-block-title">Parking Information</h2>
-      <div class="venue-section-content">
-        <ul>
-          <li>Parking at SFU Burnaby is paid parking. There is no free parking on campus.</li>
-          <li>Recommended parking area for attendees near the main conference area: West Parkade / West Lot, subject to availability and signage.</li>
-          <li>Current West Parkade online parking rates shown in Honk include approximately $5.10 for 1 hour, $9.85 for 2 hours, $14.60 for 3 hours, and $19.35 all day. Rates may change; attendees should check SFU parking/Honk before driving.</li>
-        </ul>
+      <div class="venue-card">
+        <div class="venue-section-content">
+          <ol>
+            <li>Parking at SFU Burnaby is paid parking. There is no free parking on campus.</li>
+            <li>Recommended parking area for attendees near the main conference area: West Parkade / West Lot, subject to availability and signage.</li>
+            <li>Current West Parkade online parking rates shown in Honk include approximately $5.10 for 1 hour, $9.85 for 2 hours, $14.60 for 3 hours, and $19.35 all day. Rates may change; attendees should check SFU parking/Honk before driving.</li>
+          </ol>
+        </div>
+        <p class="venue-links"><strong>Useful links:</strong>
+          <a href="https://www.sfu.ca/parking/Parking/visitors.html" target="_blank" rel="noopener">SFU visitor parking</a> |
+          <a href="https://www.sfu.ca/parking/rates--refunds---forms.html" target="_blank" rel="noopener">SFU parking rates</a> |
+          <a href="https://parking.honkmobile.com/hourly/zones/9355" target="_blank" rel="noopener">West Parkade online parking rates</a>
+        </p>
       </div>
-      <p class="venue-links"><strong>Useful links:</strong>
-        <a href="https://www.sfu.ca/parking/Parking/visitors.html" target="_blank" rel="noopener">SFU visitor parking</a> |
-        <a href="https://www.sfu.ca/parking/rates--refunds---forms.html" target="_blank" rel="noopener">SFU parking rates</a> |
-        <a href="https://parking.honkmobile.com/hourly/zones/9355" target="_blank" rel="noopener">West Parkade online parking rates</a>
-      </p>
     </div>
   </section>
 </div>
