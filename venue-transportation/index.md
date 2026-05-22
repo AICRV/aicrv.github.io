@@ -4,11 +4,12 @@ title: Venue and Transportation
 ---
 
 <style>
-/* Venue and Transportation Page Styles */
+/* Venue and Transportation Page Styles — mirrors accommodation page */
 .venue-page {
   /* margin-top: -1rem; */
 }
 
+/* Two-column intro section */
 .venue-section {
   padding: 80px 24px;
   background: #ffffff;
@@ -59,8 +60,9 @@ title: Venue and Transportation
   text-decoration: underline;
 }
 
+/* Single-column block sections (mirrors accommodation .suggestions-section / .booking-section) */
 .venue-block {
-  padding: 0 24px 60px;
+  padding: 0 24px 80px;
   background: #ffffff;
 }
 
@@ -73,22 +75,32 @@ title: Venue and Transportation
   font-size: 1.8rem;
   font-family: 'Space Grotesk', sans-serif;
   color: var(--aicrv-ink, #1d2035);
-  margin: 0 0 24px 0;
+  margin: 0 0 30px 0;
   font-weight: 700;
 }
 
+.venue-subblock-title {
+  font-size: 1.3rem;
+  font-family: 'Space Grotesk', sans-serif;
+  color: var(--aicrv-ink, #1d2035);
+  margin: 32px 0 12px 0;
+  font-weight: 700;
+}
+
+/* Summary table */
 .venue-summary-table {
   width: 100%;
   border-collapse: collapse;
-  margin-bottom: 24px;
+  margin-top: 16px;
 }
 
 .venue-summary-table th,
 .venue-summary-table td {
-  border: 1px solid #d8d8de;
+  border: 1px solid #e5e5e8;
   padding: 14px 18px;
   text-align: left;
-  color: #1d2035;
+  color: var(--aicrv-ink, #1d2035);
+  font-size: 1rem;
 }
 
 .venue-summary-table th {
@@ -97,6 +109,7 @@ title: Venue and Transportation
   width: 40%;
 }
 
+/* Map / image figure */
 .venue-map-figure {
   margin: 0 0 28px 0;
 }
@@ -105,8 +118,8 @@ title: Venue and Transportation
   display: block;
   width: 100%;
   height: auto;
-  border-radius: 12px;
-  border: 1px solid #e6e7ef;
+  border-radius: 16px;
+  border: 1px solid #e5e5e8;
 }
 
 .venue-map-caption {
@@ -117,36 +130,38 @@ title: Venue and Transportation
   text-align: center;
 }
 
+/* Shuttle schedule table */
 .shuttle-schedule {
   width: 100%;
   border-collapse: collapse;
-  margin: 16px 0 8px;
+  margin: 20px 0 8px;
 }
 
 .shuttle-schedule th,
 .shuttle-schedule td {
-  border: 1px solid #d8d8de;
+  border: 1px solid #e5e5e8;
   padding: 14px 18px;
   text-align: left;
-  color: #1d2035;
+  color: var(--aicrv-ink, #1d2035);
   vertical-align: top;
+  font-size: 1rem;
 }
 
 .shuttle-schedule th {
-  background: #1d2035;
-  color: #ffffff;
+  background: #f8f8f9;
   font-weight: 700;
 }
 
+/* CTA button — matches accommodation .btn-apply */
 .venue-cta {
-  margin: 18px 0 0;
+  margin: 18px 0 8px;
 }
 
 .venue-cta a {
   display: inline-block;
   background: transparent;
   color: var(--aicrv-ink, #1d2035);
-  padding: 10px 28px;
+  padding: 10px 32px;
   border: 2px solid var(--aicrv-ink, #1d2035);
   border-radius: 999px;
   font-weight: 600;
@@ -160,8 +175,9 @@ title: Venue and Transportation
   color: #ffffff;
 }
 
+/* Inline link blocks */
 .venue-links {
-  margin-top: 12px;
+  margin-top: 16px;
   color: #4b4f5e;
   line-height: 1.75;
   font-size: 1rem;
@@ -172,7 +188,7 @@ title: Venue and Transportation
   text-decoration: underline;
 }
 
-/* Responsive Styles */
+/* Responsive Styles — mirror accommodation breakpoints */
 @media (max-width: 900px) {
   .venue-section-inner {
     grid-template-columns: 1fr;
@@ -194,11 +210,15 @@ title: Venue and Transportation
   }
 
   .venue-block {
-    padding: 0 20px 40px;
+    padding: 0 20px 60px;
   }
 
   .venue-block-title {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
+  }
+
+  .venue-subblock-title {
+    font-size: 1.15rem;
   }
 
   .venue-summary-table th,
@@ -251,7 +271,7 @@ title: Venue and Transportation
   <!-- Venue map -->
   <section class="venue-block">
     <div class="venue-block-inner">
-      <h2 class="venue-block-title">Venue map</h2>
+      <h2 class="venue-block-title">Venue Map</h2>
       <figure class="venue-map-figure">
         <img src="{{ site.baseurl }}/assets/img/venue/venue-map.png" alt="AI/CRV 2026 venue map of SFU Burnaby Campus" />
       </figure>
@@ -286,7 +306,7 @@ title: Venue and Transportation
         <p>The Executive Plaza Hotel Coquitlam, is a 10-minute to 25-minute drive from the SFU Burnaby Campus.</p>
       </div>
 
-      <h3 style="margin-top: 32px; font-family: 'Space Grotesk', sans-serif; color: var(--aicrv-ink, #1d2035);">Shuttles</h3>
+      <h3 class="venue-subblock-title">Shuttles</h3>
       <div class="venue-section-content">
         <ul>
           <li>Advance sign-up is required. Each shuttle has a capacity of 50 passengers.</li>
@@ -320,7 +340,7 @@ title: Venue and Transportation
         </tbody>
       </table>
 
-      <h3 style="margin-top: 32px; font-family: 'Space Grotesk', sans-serif; color: var(--aicrv-ink, #1d2035);">Public Transit</h3>
+      <h3 class="venue-subblock-title">Public Transit</h3>
       <div class="venue-section-content">
         <ul>
           <li>Travel from Executive Plaza Hotel to SFU Transit Exchange is usually about 32-49 minutes by transit, depending on the route, wait times, and traffic.</li>
