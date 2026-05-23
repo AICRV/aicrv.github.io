@@ -93,6 +93,7 @@ active_tab: ai-science
         <div class="program-overview-card">
           <div>
             <p class="program-overview-title">Poster Session 1</p>
+            <p style="color: red;"> James Douglas Area (AQ 2009.2) </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 11:20am-12:00pm</p>
