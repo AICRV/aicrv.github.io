@@ -32,6 +32,7 @@ active_tab: responsible-ai
           <div class="program-overview-card is-plain">
           <div>
             <p class="program-overview-title">Breakfast</p>
+            <p> Halpern Center 126 </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 8:00am-9:00am</p>
