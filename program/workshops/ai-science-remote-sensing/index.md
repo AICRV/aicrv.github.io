@@ -47,7 +47,9 @@ active_tab: ai-science
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title"> Talk #1</p>
+            <p class="program-overview-title"> Multimodal learning using DNA barcodes for biodiversity monitoring</p>
+            <p> Angel Chang, Simon Fraser University</p>
+            <p> Abstract: Measuring the biodiversity of our world is increasingly important, with a large number of species facing extinction in the coming decades. As part of the BIOSCAN project, scientists around the world are building an observation system for monitoring biodiversity. Advances in deep learning have the potential to greatly reduce the manual effort required in the workflow and data pipeline for collecting and cataloguing biological specimens. Moreover, we can enable a deeper understanding of the interaction between different species. In this talk, we will describe our efforts to leverage recent advances such as self-supervised techniques to learn improved representations of DNA barcodes, and contrastive learning to align DNA barcodes with images and other modalities representing biological species. The intersection of deep learning and biology in which our work is situated holds many challenges for future work from several research communities. </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 9:10am-9:40am</p>
@@ -55,7 +57,8 @@ active_tab: ai-science
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title"> Talk #2</p>
+            <p class="program-overview-title"> Developing Machine Learning Tools for Earth Systems Science</p>
+            <p> Kelsey Doerksen, Arizona State University and University of Cape Town</p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 9:40am-10:10am</p>
@@ -71,7 +74,9 @@ active_tab: ai-science
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title"> Talk #3</p>
+            <p class="program-overview-title"> From the Subsurface to the Data Center: Computational Geophysics and AI</p>
+            <p> Lindsey Heagy, University of British Columbia </p>
+            <p> Abstract: Society has always depended on Earth's resources, and the rapid growth of AI infrastructure, with its enormous demands for copper, energy, and water, is a timely reminder of the need to locate and responsibly manage such resources. Geophysics provides an essential means of non-invasively imaging the subsurface, and is itself being transformed by the very technologies that depend on it. At the heart of geophysical data analysis lies the inverse problem: given measurements at the surface, what can we infer about the subsurface? The approaches we take to solve the inverse problem, posing it as an optimization problem where we connect a forward model (usually a numerical simulation) to observations through iterative model updates, are not so different from training a neural network. Recognizing this parallel opens the door to hybrid approaches that combine the flexibility of machine learning with the physical constraints of physics-based inversion. I will present research from my group at UBC exploring this intersection, including hybrid ML and physics-driven inversion for mineral exploration and neural network approaches for detecting and classifying unexploded ordnance.</p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 10:30am-11:00am</p>
@@ -103,7 +108,9 @@ active_tab: ai-science
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title"> Talk #4 </p> 
+            <p class="program-overview-title"> Hybrid AI/ModSim workflows as a new scientific tool </p> 
+            <p> Andrew Shao,  AI Research Lab at Hewlett Packard Enterprise </p>
+            <p> Abstract: Workflows that incorporate both AI techniques and scientific simulation hold the promise of opening new avenues of scientific discovery. Creating these new applications requires practitioners to bridge ideological gaps (e.g. first-principles vs. data-driven approaches) and technological challenges (e.g. embedding AI within C++ or Fortran code). This talk describes a number of research projects in computational fluid dynamics, weather/climate, and fusion modelling that demonstrate the value of these hybrid approaches. Lastly, we will discuss the abstract workflow concepts shared by these use cases and how we are incorporating the lessons we have learned into the open-source project RHAPSODY, co-developed by HPE and collaborators at Rutgers University and the Department of Energy. </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 13:00pm-13:30pm</p>
@@ -135,7 +142,9 @@ active_tab: ai-science
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title"> Talk #5</p>
+            <p class="program-overview-title"> A simple recipe for CREPE: Controlling REPlica-Exchange via neural transports </p>
+            <p> Saifuddin Syed, University of British Columbia </p>
+            <p> Abstract: Markov Chain Monte Carlo (MCMC) is a powerful algorithmic framework for sampling from complex probability distributions. Standard MCMC methods struggle with high-dimensional distributions containing well-separated modes, becoming trapped in local regions. Parallel tempering (PT) addresses this by using intermediate annealing distributions to bridge a tractable reference (e.g., Gaussian) and an intractable target distribution. However, classical PT is inflexible, fragile, hard to tune, and prone to performance collapse on challenging inference tasks. This talk introduces non-reversible parallel tempering (NRPT), which provably dominates classical PT algorithms. We show that NRPT undergoes a sharp algorithmic phase transition with increased parallelism, becoming robust, easy to tune, and scaling efficiently to GPUs. I will then demonstrate how to further accelerate PT using neural transports such as normalising flows and diffusions. We demonstrate this framework across a variety of examples in Bayesian inference and inference-time control for diffusion models. </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 15:00pm-15:30pm</p>
@@ -143,7 +152,9 @@ active_tab: ai-science
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title"> Talk #6</p>
+            <p class="program-overview-title"> The Hidden Footprint of Open-Source AI </p>
+            <p> Iuliia Eyriay, University of Guelph and the Vector Institute </p>
+            <p> Abstract: Open-source AI is growing at an extraordinary pace. Model hubs now host millions of artifacts, and every foundation model can spawn hundreds or thousands of fine-tunes, adapters, quantizations, and forks. But here's the problem: we have almost no idea what any of this costs the planet. We argue that compute efficiency alone is not enough for sustainable AI. In fact, lower per-run costs can accelerate experimentation and deployment, potentially increasing the aggregate environmental footprint, not reducing it. And right now, the energy use, water consumption, and emissions across these derivative model lineages are rarely measured or disclosed in any consistent, comparable way. The ecosystem's true impact is essentially invisible. What we need is coordination infrastructure — something that tracks impacts not just for base models, but across entire model lineages. To that end, we propose Data and Impact Accounting (DIA): a lightweight, non-restrictive transparency layer for open-source AI. DIA does three things: it standardizes carbon-and-water reporting metadata; it integrates low-friction measurement into common training and inference pipelines; and it aggregates these reports via public dashboards to summarize cumulative impacts across releases and derivatives. The goal is to make derivative costs visible, support ecosystem-level accountability, and do it all without compromising openness.</p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 15:30pm-16:00pm</p>
