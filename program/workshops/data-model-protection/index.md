@@ -83,7 +83,7 @@ active_tab: data-protection
             <p class="program-overview-title">Coffee Break</p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 10:20am-11:00am</p>
+            <p><strong>Time:</strong> 10:30am-11:00am</p>
           </div>
         </div>
         <div class="program-overview-card">
