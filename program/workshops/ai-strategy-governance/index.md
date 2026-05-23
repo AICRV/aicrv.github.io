@@ -41,7 +41,7 @@ active_tab: ai-governance
         <div class="program-overview-card">
           <div>
             <p class="program-overview-title">GenAI Shopping Assistants in E-Commerce: A Natural Experiment to Evaluate the Effect of Amazon’s Rufus on Consumer Reviews</p>
-            <p> Aishwarya Shukla,  </p>
+            <p> Aishwarya Shukla, Simon Fraser University </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 2:35pm-3:00pm</p>
@@ -50,7 +50,7 @@ active_tab: ai-governance
         <div class="program-overview-card">
           <div>
             <p class="program-overview-title">Algorithmic versus Human Managers: The Impact of Manager Type and Communication Frequency on Auditors’ Time Underreporting Behavior</p>
-            <p> Samantha Seto </p>
+            <p> Samantha Seto, Simon Fraser University </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 3:00pm-3:25pm</p>
@@ -84,7 +84,7 @@ active_tab: ai-governance
         <div class="program-overview-card">
           <div>
             <p class="program-overview-title">Let’s Shave Years Off the Productivity Paradox</p>
-            <p> Terri Griffith </p>
+            <p> Terri Griffith, Simon Fraser University </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 4:05pm-4:30pm</p>
@@ -93,7 +93,7 @@ active_tab: ai-governance
         <div class="program-overview-card">
           <div>
             <p class="program-overview-title">AI impact on organizational operating models</p>
-            <p> Blaize Reich </p>
+            <p> Blaize Reich, Simon Fraser University </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 4:30pm-4:55pm</p>
@@ -118,7 +118,7 @@ active_tab: ai-governance
         <div class="program-overview-card">
           <div>
             <p class="program-overview-title">Industry panel discussion</p>
-            <p> Host: Andrew Gemino </p>
+            <p> Host: Andrew Gemino, Andrew Gemino </p>
             <p>Panelists: Rachel Barker, Rob Goehring, Vineel Nagisetty</p>
           </div>
           <div class="program-overview-meta">
