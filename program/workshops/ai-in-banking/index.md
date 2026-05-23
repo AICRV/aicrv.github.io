@@ -31,6 +31,15 @@ active_tab: ai-banking
       <div class="program-overview-list">
         <div class="program-overview-card is-plain">
           <div>
+            <p class="program-overview-title">Registration</p>
+            <p style="color: red;"> Halpern Center Lobby </p>            
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 8:00am-17:30pm</p>
+          </div>
+        </div>          
+        <div class="program-overview-card is-plain">
+          <div>
             <p class="program-overview-title">Breakfast</p>
             <p> Halpern Centre 114 </p>
           </div>
