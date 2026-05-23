@@ -44,7 +44,7 @@ active_tab: data-protection
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title">Invited Talk</p>
+            <p class="program-overview-title">Data/Model Protection in Financial AI</p>
             <p> Jekaterina Novikova & Yangyi Liu, Vanguard Group </p>
           </div>
           <div class="program-overview-meta">
@@ -53,7 +53,7 @@ active_tab: data-protection
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title">Invited Talk</p>
+            <p class="program-overview-title">Efficient and Safe LLM Adaptation: Advances in Training, Surprises in Safety</p>
             <p> Sirisha Rambhatla, University of Waterloo </p>
           </div>
           <div class="program-overview-meta">
@@ -70,7 +70,7 @@ active_tab: data-protection
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title">Invited Talk</p>
+            <p class="program-overview-title">Understanding and Addressing Fairwashing in Machine Learning</p>
             <p> Sébastien Gambs, Université du Québec à Montréal </p>
           </div>
           <div class="program-overview-meta">
@@ -79,9 +79,10 @@ active_tab: data-protection
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title">Invited Talk</p>
-            <p> Joanna Redden, Western University </p>
-          </div>
+            <p class="program-overview-title"> Rethinking the Tightness–Efficiency Trade-off in Certified Robustness </p> 
+            <p> Reza Samavi, Toronto Metropolitan University </p>
+            <p> Presented by Mohammadreza Maleki </p>
+          </div>          
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 11:25am-11:50am</p>
           </div>
@@ -104,9 +105,9 @@ active_tab: data-protection
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title"> Invited Talk </p> 
-            <p> Reza Samavi, Toronto Metropolitan University </p>
-            <p> Presented by Mohammadreza Maleki </p>
+            <p class="program-overview-title">AI Governance in Practice: Why Attention to Impact Matters</p>
+            <p> Joanna Redden, Western University </p>
+            <p> joining online </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 14:00pm-14:25pm</p>
@@ -114,7 +115,7 @@ active_tab: data-protection
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title">Invited Talk</p>
+            <p class="program-overview-title">The Role of Coordination and Collective Action in Trustworthy Machine Learning</p>
             <p> Elliot Creager, University of Waterloo </p>
           </div>
           <div class="program-overview-meta">
@@ -123,7 +124,7 @@ active_tab: data-protection
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title">Invited Talk</p>
+            <p class="program-overview-title">Membership Inference for Privacy Audits and Evidence of Training without Model Control</p>
             <p> Mathias Lécuyer, University of British Columbia </p>
           </div>
           <div class="program-overview-meta">
@@ -132,7 +133,7 @@ active_tab: data-protection
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title">Invited Talk</p>
+            <p class="program-overview-title">Towards Scientific Evaluation for Code LLMs</p>
             <p> Linyi Li, Simon Fraser University </p>
           </div>
           <div class="program-overview-meta">
