@@ -48,6 +48,7 @@ active_tab: industry
           <div>
             <p class="program-overview-title">[Keynote] Research from Pixels to Proteins: Scaling Generative AI for Scientific Discovery</p>
             <p>Dr. Karsten Kreis, Principal Research Scientist, NVIDIA</p>
+            <p>Abstract: Generative AI has advanced rapidly across diverse domains, from high-fidelity visual synthesis to the intricate modeling of biological systems. While early breakthroughs were often defined by the technical nuances of diffusion and flow-matching mechanics, the current frontier lies in scaling these underlying frameworks to solve fundamental scientific challenges. In this talk, I will provide a high-level overview of the architectural principles driving modern visual generation systems and demonstrate how these same concepts are being adapted to revolutionize protein design. Moving beyond purely computational frameworks, I will detail the end-to-end journey of model development, specifically highlighting the critical transition from algorithmic prediction to rigorous experimental validation in the laboratory. By bridging the gap between digital generation and physical reality, we illustrate how generative AI has evolved from a tool for media creation into a primary engine for biotechnology and the broader landscape of scientific discovery.</p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 3:00pm-3:30pm</p>
@@ -80,6 +81,7 @@ active_tab: industry
           <div>
             <p class="program-overview-title">[Keynote] Confident & Wrong: Why Responsible AI Demands More Than a Checklist</p>
             <p>Dr. Eric Oosenbrug, Data & Design Researcher, Government of British Columbia </p>
+            <p> Abstract: AI tools are arriving in government faster than the capacity to evaluate them. This talk argues that responsible AI use isn't fundamentally an attitude problem or a compliance problem — it's a competency problem. Drawing on examples from my team's practice, I show what it actually took to catch the things AI got wrong: not a checklist, but an independent evaluative standard built before the AI touched anything. That capacity is what current government guidance leaves unbuilt — and what this talk makes the case for. </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 5:00pm-5:30pm</p>
