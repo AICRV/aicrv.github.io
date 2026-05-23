@@ -41,7 +41,7 @@ active_tab: industry
           </p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 2:00pm-3:00pm</p>
+            <p><strong>Time:</strong> 14:00pm-15:00pm</p>
           </div>
         </div>
         <div class="program-overview-card">
@@ -51,7 +51,7 @@ active_tab: industry
             <p>Abstract: Generative AI has advanced rapidly across diverse domains, from high-fidelity visual synthesis to the intricate modeling of biological systems. While early breakthroughs were often defined by the technical nuances of diffusion and flow-matching mechanics, the current frontier lies in scaling these underlying frameworks to solve fundamental scientific challenges. In this talk, I will provide a high-level overview of the architectural principles driving modern visual generation systems and demonstrate how these same concepts are being adapted to revolutionize protein design. Moving beyond purely computational frameworks, I will detail the end-to-end journey of model development, specifically highlighting the critical transition from algorithmic prediction to rigorous experimental validation in the laboratory. By bridging the gap between digital generation and physical reality, we illustrate how generative AI has evolved from a tool for media creation into a primary engine for biotechnology and the broader landscape of scientific discovery.</p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 3:00pm-3:30pm</p>
+            <p><strong>Time:</strong> 15:00pm-15:30pm</p>
           </div>
         </div>
         <div class="program-overview-card is-plain">
@@ -59,7 +59,7 @@ active_tab: industry
             <p class="program-overview-title">Coffee Break</p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 3:30pm-4:00pm</p>
+            <p><strong>Time:</strong> 15:30pm-16:00pm</p>
           </div>
         </div>
         <div class="program-overview-card">
@@ -74,7 +74,7 @@ active_tab: industry
             </ul></p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 4:00pm-5:00pm</p>
+            <p><strong>Time:</strong> 16:00pm-17:00pm</p>
           </div>
         </div>
         <div class="program-overview-card">
@@ -84,7 +84,7 @@ active_tab: industry
             <p> Abstract: AI tools are arriving in government faster than the capacity to evaluate them. This talk argues that responsible AI use isn't fundamentally an attitude problem or a compliance problem — it's a competency problem. Drawing on examples from my team's practice, I show what it actually took to catch the things AI got wrong: not a checklist, but an independent evaluative standard built before the AI touched anything. That capacity is what current government guidance leaves unbuilt — and what this talk makes the case for. </p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 5:00pm-5:30pm</p>
+            <p><strong>Time:</strong> 17:00pm-17:30pm</p>
           </div>
         </div>        
       </div>
