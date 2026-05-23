@@ -485,39 +485,5 @@ layout: page
     </div>
   </section>
 
-  <!-- Meet Our Sponsor Partners -->
-  <section class="sponsors-partners-section">
-    <div class="sponsors-partners-inner">
-      <h2 class="sponsors-partners-title">Meet Our Sponsor Partners</h2>
-      <div class="sponsors-logo-grid">
-        <a class="sponsor-logo-card" href="https://vectorinstitute.ai" target="_blank" rel="noopener" title="Vector Institute" style="text-decoration: none;">
-          <img src="{{ site.baseurl }}/assets/img/sponsors/vector.png" alt="Vector Institute" style="max-width: 80%; max-height: 60px; object-fit: contain;">
-        </a>
-        <a class="sponsor-logo-card" href="https://cifar.ca" target="_blank" rel="noopener" title="CIFAR" style="text-decoration: none;">
-          <img src="{{ site.baseurl }}/assets/img/sponsors/cifar.svg" alt="CIFAR" style="max-width: 80%; max-height: 60px; object-fit: contain;">
-        </a>
-        <a class="sponsor-logo-card" href="https://mentalhealthcommission.ca" target="_blank" rel="noopener" title="Mental Health Commission of Canada" style="text-decoration: none;">
-          <img src="{{ site.baseurl }}/assets/img/sponsors/mhcc.svg" alt="Mental Health Commission of Canada" style="max-width: 80%; max-height: 60px; object-fit: contain;">
-        </a>
-        <a class="sponsor-logo-card" href="https://www.dobot-robots.com" target="_blank" rel="noopener" title="Dobot" style="text-decoration: none;">
-          <img src="{{ site.baseurl }}/assets/img/sponsors/dobot.svg" alt="Dobot" style="max-width: 80%; max-height: 60px; object-fit: contain;">
-        </a>
-        <a class="sponsor-logo-card" href="https://wayve.ai" target="_blank" rel="noopener" title="Wayve" style="text-decoration: none;">
-          <img src="{{ site.baseurl }}/assets/img/sponsors/wayve.svg" alt="Wayve" style="max-width: 80%; max-height: 60px; object-fit: contain;">
-        </a>
-        <a class="sponsor-logo-card" href="https://www.rbc.com" target="_blank" rel="noopener" title="RBC" style="text-decoration: none;">
-          <img src="{{ site.baseurl }}/assets/img/sponsors/rbc.svg" alt="RBC" style="max-width: 80%; max-height: 60px; object-fit: contain;">
-        </a>
-        <a class="sponsor-logo-card" href="https://www.earthdaily.com" target="_blank" rel="noopener" title="EarthDaily" style="text-decoration: none;">
-          <img src="{{ site.baseurl }}/assets/img/sponsors/earthdaily.png" alt="EarthDaily" style="max-width: 80%; max-height: 60px; object-fit: contain;">
-        </a>
-        <a class="sponsor-logo-card" href="https://www.cibc.com/en/personal-banking.html" target="_blank" rel="noopener" title="CIBC" style="text-decoration: none;">
-          <img src="{{ site.baseurl }}/assets/img/sponsors/cibc.svg" alt="CIBC" style="max-width: 80%; max-height: 60px; object-fit: contain;">
-        </a>
-      </div>
-      <div class="sponsors-partners-cta">
-        <a href="mailto:aicrv2026sponsorship@googlegroups.com?subject=Sponsorship Inquiry">Become a Sponsor <span>›</span></a>
-      </div>
-    </div>
-  </section>
+
 </div>
