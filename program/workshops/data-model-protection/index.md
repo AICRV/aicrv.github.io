@@ -33,6 +33,15 @@ active_tab: data-protection
     </div>
     <div class="section-body">
       <div class="program-overview-list">
+        <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Breakfast</p>
+            <p> SUB 4200 </p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 8:00am-9:00am</p>
+          </div>
+        </div>        
         <div class="program-overview-card">
           <div>
             <p class="program-overview-title">Opening Remarks</p>
