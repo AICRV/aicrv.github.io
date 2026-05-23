@@ -30,6 +30,15 @@ active_tab: industry
       <div class="program-overview-list">
         <div class="program-overview-card is-plain">
           <div>
+            <p class="program-overview-title">Registration</p>
+            <p style="color: red;"> Halpern Center Lobby </p>            
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 8:00am-17:30pm</p>
+          </div>
+        </div>          
+        <div class="program-overview-card is-plain">
+          <div>
             <p class="program-overview-title">Panel #1: Open Model and Open Access in AI</p>
             <p> Moderator: Newvick Lee (Software Engineer - Self-Hosted Models, GitLab) </p>
             <p> Panelists: 
