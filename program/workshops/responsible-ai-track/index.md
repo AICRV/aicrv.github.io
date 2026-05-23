@@ -29,7 +29,7 @@ active_tab: responsible-ai
     </div>
     <div class="section-body">
       <div class="program-overview-list">
-          <div class="program-overview-card is-plain">
+        <div class="program-overview-card is-plain">
           <div>
             <p class="program-overview-title">Breakfast</p>
             <p> Halpern Center 126 </p>
