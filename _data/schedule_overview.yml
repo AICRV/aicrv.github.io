@@ -475,6 +475,11 @@ days:
             - title: CRV Poster Session Continues
               type: poster
               url: https://www.computerrobotvision.org/program.html
+          studio:
+            - title: "Industry Keynote: Confident & Wrong: Why Responsible AI Demands More Than a Checklist"
+              meta: Dr. Eric Oosenbrug, Government of British Columbia            
+              type: invited
+              url: /program/workshops/industry-track/                
       - time: 5:30pm-6:30pm
         cells:
           dfa:
