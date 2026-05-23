@@ -95,16 +95,20 @@ conference:
         menu:
           - name: Schedule
             relative_url: /#program
-          - name: Venue
-            relative_url: /#venue
+          - name: Venue Logistics
+            relative_url: /venue-transportation/
+          - name: "&nbsp;&nbsp;&nbsp;&nbsp;Venue Map"
+            relative_url: /venue-transportation/venue-map/
+          - name: "&nbsp;&nbsp;&nbsp;&nbsp;Travel between Hotel and Venue"
+            relative_url: /venue-transportation/travel/
+          - name: "&nbsp;&nbsp;&nbsp;&nbsp;Getting from YVR"
+            relative_url: /venue-transportation/yvr/
+          - name: "&nbsp;&nbsp;&nbsp;&nbsp;Parking"
+            relative_url: /venue-transportation/parking/
           - name: Speakers
             relative_url: /speakers/
-          - name: Campus Map
-            absolute_url: "https://roomfinder.sfu.ca/apps/sfuroomfinder_web/"
           - name: Accommodation
             relative_url: /accommodation/
-          - name: Venue and Transportation
-            relative_url: /venue-transportation/
       - name: Calls for Contributions
         menu:
           - name: Calls for Papers

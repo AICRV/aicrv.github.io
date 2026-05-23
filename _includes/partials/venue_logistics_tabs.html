@@ -1,0 +1,8 @@
+{% assign current_url = page.url %}
+<div class="calls-tab-row">
+  <a class="calls-tab{% if current_url == '/venue-transportation/' %} is-active{% endif %}" href="{{ site.baseurl }}/venue-transportation/">Overview</a>
+  <a class="calls-tab{% if current_url contains '/venue-transportation/venue-map' %} is-active{% endif %}" href="{{ site.baseurl }}/venue-transportation/venue-map/">Venue Map</a>
+  <a class="calls-tab{% if current_url contains '/venue-transportation/travel' %} is-active{% endif %}" href="{{ site.baseurl }}/venue-transportation/travel/">Travel between Hotel and Venue</a>
+  <a class="calls-tab{% if current_url contains '/venue-transportation/yvr' %} is-active{% endif %}" href="{{ site.baseurl }}/venue-transportation/yvr/">Getting from YVR</a>
+  <a class="calls-tab{% if current_url contains '/venue-transportation/parking' %} is-active{% endif %}" href="{{ site.baseurl }}/venue-transportation/parking/">Parking</a>
+</div>

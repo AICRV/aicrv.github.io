@@ -1,0 +1,245 @@
+<style>
+/* Venue Logistics shared styles — mirrors accommodation page */
+.venue-page {
+  /* margin-top: -1rem; */
+}
+
+/* Two-column intro section */
+.venue-section {
+  padding: 60px 24px;
+  background: #ffffff;
+}
+
+.venue-section-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1.6fr;
+  gap: 60px;
+  align-items: start;
+}
+
+.venue-section-title {
+  font-size: 2rem;
+  font-family: 'Space Grotesk', sans-serif;
+  color: var(--aicrv-ink, #1d2035);
+  margin: 0;
+  font-weight: 700;
+}
+
+.venue-section-content p {
+  color: #4b4f5e;
+  line-height: 1.75;
+  font-size: 1rem;
+  margin: 0 0 12px 0;
+}
+
+.venue-section-content p:last-child {
+  margin-bottom: 0;
+}
+
+.venue-section-content ul,
+.venue-section-content ol {
+  color: #4b4f5e;
+  line-height: 1.75;
+  font-size: 1rem;
+  padding-left: 22px;
+  margin: 8px 0 0 0;
+}
+
+.venue-section-content ul li,
+.venue-section-content ol li {
+  margin-bottom: 4px;
+}
+
+.venue-section-content ol > li {
+  padding-left: 4px;
+}
+
+.venue-section-content a {
+  color: #0563c1;
+  text-decoration: underline;
+}
+
+/* Card wrapper — mirrors accommodation .room-card */
+.venue-card {
+  background: #f8f8f9;
+  border-radius: 16px;
+  padding: 28px 32px;
+  margin-bottom: 30px;
+}
+
+.venue-card:last-child {
+  margin-bottom: 0;
+}
+
+/* Single-column block sections */
+.venue-block {
+  padding: 0 24px 60px;
+  background: #ffffff;
+}
+
+.venue-block-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.venue-block-title {
+  font-size: 1.8rem;
+  font-family: 'Space Grotesk', sans-serif;
+  color: var(--aicrv-ink, #1d2035);
+  margin: 0 0 24px 0;
+  font-weight: 700;
+}
+
+.venue-subblock-title {
+  font-size: 1.3rem;
+  font-family: 'Space Grotesk', sans-serif;
+  color: var(--aicrv-ink, #1d2035);
+  margin: 32px 0 12px 0;
+  font-weight: 700;
+}
+
+/* Summary table */
+.venue-summary-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 16px;
+}
+
+.venue-summary-table th,
+.venue-summary-table td {
+  border: 1px solid #e5e5e8;
+  padding: 14px 18px;
+  text-align: left;
+  color: var(--aicrv-ink, #1d2035);
+  font-size: 1rem;
+}
+
+.venue-summary-table th {
+  background: #f8f8f9;
+  font-weight: 700;
+  width: 40%;
+}
+
+/* Map / image figure */
+.venue-map-figure {
+  margin: 0 0 16px 0;
+}
+
+.venue-map-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 16px;
+  border: 1px solid #e5e5e8;
+}
+
+.venue-map-caption {
+  font-size: 0.9rem;
+  color: #6b6f7b;
+  margin-top: 10px;
+  font-style: italic;
+  text-align: center;
+}
+
+/* Shuttle schedule table */
+.shuttle-schedule {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0 8px;
+}
+
+.shuttle-schedule th,
+.shuttle-schedule td {
+  border: 1px solid #e5e5e8;
+  padding: 14px 18px;
+  text-align: left;
+  color: var(--aicrv-ink, #1d2035);
+  vertical-align: top;
+  font-size: 1rem;
+}
+
+.shuttle-schedule th {
+  background: #f8f8f9;
+  font-weight: 700;
+}
+
+/* CTA button */
+.venue-cta {
+  margin: 18px 0 8px;
+}
+
+.venue-cta a {
+  display: inline-block;
+  background: transparent;
+  color: var(--aicrv-ink, #1d2035);
+  padding: 10px 32px;
+  border: 2px solid var(--aicrv-ink, #1d2035);
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.venue-cta a:hover {
+  background: var(--aicrv-ink, #1d2035);
+  color: #ffffff;
+}
+
+/* Inline link blocks */
+.venue-links {
+  margin-top: 16px;
+  color: #4b4f5e;
+  line-height: 1.75;
+  font-size: 1rem;
+}
+
+.venue-links a {
+  color: #0563c1;
+  text-decoration: underline;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .venue-section-inner {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+
+  .venue-section-title {
+    font-size: 1.8rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .venue-section {
+    padding: 40px 20px;
+  }
+
+  .venue-section-title {
+    font-size: 1.5rem;
+  }
+
+  .venue-block {
+    padding: 0 20px 40px;
+  }
+
+  .venue-block-title {
+    font-size: 1.4rem;
+  }
+
+  .venue-subblock-title {
+    font-size: 1.15rem;
+  }
+
+  .venue-summary-table th,
+  .venue-summary-table td,
+  .shuttle-schedule th,
+  .shuttle-schedule td {
+    padding: 10px 12px;
+    font-size: 0.95rem;
+  }
+}
+</style>
