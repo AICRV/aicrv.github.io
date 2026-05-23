@@ -119,6 +119,7 @@ active_tab: ai-banking
         <div class="program-overview-card is-plain">
           <div>
             <p class="program-overview-title">Lunch Break</p>
+            <p style="color: red;"> Room: Dining Commons </p>            
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 12:30pm-14:00pm</p>
