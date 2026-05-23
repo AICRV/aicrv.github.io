@@ -49,8 +49,9 @@ active_tab: ai-policy-forum
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title"> Keynote #2</p>
+            <p class="program-overview-title"> [Keynote] The Evolving Nature of a National AI Strategy: A Personal Perspective </p>
             <p> Arvind Gupta, Member of the Government of Canada’s AI Strategy Task Force</p>
+            <p> Abstract: Canada, along with most other governments, have been pushing for AI to become a major economic driver. Initially they sided with the tech community in wanting a regulatory framework that would maximize AI’s potential. In early Fall 2025 the Government of Canada launched a national consultation on AI which resulted in over 100,000 submissions, by far the most they have received for any consultation. They also created an AI Strategy Task Force to provide expert advice. Since then a number of events (the shootings at Tumbler Ridge, the war in Iran, etc) have led governments to realize that they must also carefully consider regulations designed to ensure the safe and responsible uses of AI. This is a fast evolving issue, especially as ever more powerful generative AI models are being developed showcasing the potential harm from such systems. In this talk I will share some personal perspectives on the evolving nature of our national AI strategy.</p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 9:50am-10:30am</p>
