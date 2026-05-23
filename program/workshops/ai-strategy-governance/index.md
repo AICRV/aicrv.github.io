@@ -15,7 +15,7 @@ active_tab: ai-governance
       <h2>AI for Strategy and Governance in Business</h2>
     </div>
     <div class="section-body">
-      <p> <strong> 2pm-5:30pm on May 25 2026, Halpern Centre 114 </strong> </p>
+      <p> <strong> 14:00pm-17:30pm on May 25 2026, Halpern Centre 114 </strong> </p>
       <!-- <p> <a class="btn btn-dark btn-sm" href="https://sites.google.com/vectorinstitute.ai/aicrv-2026/"> More Information </a> </p> -->
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2843.4544007736245!2d-122.91770930000001!3d49.279649799999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548679bfdb4fafaf%3A0xfb7019d08839efdf!2sHalpern%20Centre%2C%20Burnaby%2C%20BC%20V5A%201S6!5e1!3m2!1sen!2sca!4v1779113820442!5m2!1sen!2sca" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
@@ -35,7 +35,7 @@ active_tab: ai-governance
             <p> Chaitanya Kaligotla, Simon Fraser University </p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 2:30pm-2:35pm</p>
+            <p><strong>Time:</strong> 14:30pm-14:35pm</p>
           </div>
         </div>
         <div class="program-overview-card">
@@ -44,7 +44,7 @@ active_tab: ai-governance
             <p> Aishwarya Shukla, Simon Fraser University </p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 2:35pm-3:00pm</p>
+            <p><strong>Time:</strong> 14:35pm-15:00pm</p>
           </div>
         </div>
         <div class="program-overview-card">
@@ -53,7 +53,7 @@ active_tab: ai-governance
             <p> Samantha Seto, Simon Fraser University </p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 3:00pm-3:25pm</p>
+            <p><strong>Time:</strong> 15:00pm-15:25pm</p>
           </div>
         </div>
         <div class="program-overview-card">
@@ -61,7 +61,7 @@ active_tab: ai-governance
             <p class="program-overview-title">Q&A from audience; Brief synthesis and transition</p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 3:25pm-3:30pm</p>
+            <p><strong>Time:</strong> 15:25pm-15:30pm</p>
           </div>
         </div>
         <div class="program-overview-card is-plain">
@@ -69,7 +69,7 @@ active_tab: ai-governance
             <p class="program-overview-title">Coffee Break</p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 3:30pm-4:00pm</p>
+            <p><strong>Time:</strong> 15:30pm-16:00pm</p>
           </div>
         </div>
         <div class="program-overview-card">
@@ -78,7 +78,7 @@ active_tab: ai-governance
             <p> Chaitanya Kaligotla, Simon Fraser University </p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 4:00pm-4:05pm</p>
+            <p><strong>Time:</strong> 16:00pm-16:05pm</p>
           </div>
         </div>
         <div class="program-overview-card">
@@ -87,7 +87,7 @@ active_tab: ai-governance
             <p> Terri Griffith, Simon Fraser University </p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 4:05pm-4:30pm</p>
+            <p><strong>Time:</strong> 16:05pm-16:30pm</p>
           </div>
         </div>
         <div class="program-overview-card">
@@ -96,7 +96,7 @@ active_tab: ai-governance
             <p> Blaize Reich, Simon Fraser University </p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 4:30pm-4:55pm</p>
+            <p><strong>Time:</strong> 16:30pm-16:55pm</p>
           </div>
         </div>
         <div class="program-overview-card">
@@ -104,7 +104,7 @@ active_tab: ai-governance
             <p class="program-overview-title">Moderated Q&A and synthesis: research questions, evidence gaps, and implications for AI strategy and governance</p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 4:55pm-5:15pm</p>
+            <p><strong>Time:</strong> 16:55pm-17:15pm</p>
           </div>
         </div>
         <div class="program-overview-card is-plain">
@@ -112,7 +112,7 @@ active_tab: ai-governance
             <p class="program-overview-title">Break</p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 5:15pm-5:30pm</p>
+            <p><strong>Time:</strong> 17:15pm-17:30pm</p>
           </div>
         </div>    
         <div class="program-overview-card">
@@ -122,7 +122,7 @@ active_tab: ai-governance
             <p>Panelists: Rachel Barker, Rob Goehring, Vineel Nagisetty</p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 5:30pm-6:30pm</p>
+            <p><strong>Time:</strong> 17:30pm-18:30pm</p>
           </div>
         </div>         
       </div>
