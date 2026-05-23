@@ -58,8 +58,9 @@ active_tab: ai-policy-forum
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title"> Keynote #1</p>
-            <p> Sethuraman Panchanathan, former Director of the U.S. National Science Foundation</p>
+            <p class="program-overview-title"> [Keynote] The Evolving Nature of a National AI Strategy: A Personal Perspective </p>
+            <p> Arvind Gupta, Member of the Government of Canada’s AI Strategy Task Force</p>
+            <p> Abstract: Canada, along with most other governments, have been pushing for AI to become a major economic driver. Initially they sided with the tech community in wanting a regulatory framework that would maximize AI’s potential. In early Fall 2025 the Government of Canada launched a national consultation on AI which resulted in over 100,000 submissions, by far the most they have received for any consultation. They also created an AI Strategy Task Force to provide expert advice. Since then a number of events (the shootings at Tumbler Ridge, the war in Iran, etc) have led governments to realize that they must also carefully consider regulations designed to ensure the safe and responsible uses of AI. This is a fast evolving issue, especially as ever more powerful generative AI models are being developed showcasing the potential harm from such systems. In this talk I will share some personal perspectives on the evolving nature of our national AI strategy.</p>            
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 9:10am-9:50am</p>
@@ -67,9 +68,9 @@ active_tab: ai-policy-forum
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title"> [Keynote] The Evolving Nature of a National AI Strategy: A Personal Perspective </p>
-            <p> Arvind Gupta, Member of the Government of Canada’s AI Strategy Task Force</p>
-            <p> Abstract: Canada, along with most other governments, have been pushing for AI to become a major economic driver. Initially they sided with the tech community in wanting a regulatory framework that would maximize AI’s potential. In early Fall 2025 the Government of Canada launched a national consultation on AI which resulted in over 100,000 submissions, by far the most they have received for any consultation. They also created an AI Strategy Task Force to provide expert advice. Since then a number of events (the shootings at Tumbler Ridge, the war in Iran, etc) have led governments to realize that they must also carefully consider regulations designed to ensure the safe and responsible uses of AI. This is a fast evolving issue, especially as ever more powerful generative AI models are being developed showcasing the potential harm from such systems. In this talk I will share some personal perspectives on the evolving nature of our national AI strategy.</p>
+            <p class="program-overview-title"> The Future of Research, Learning, and Innovation in the Era of AI: A Conversation with Panch</p>
+            <p> Sethuraman Panchanathan, former Director of the U.S. National Science Foundation</p>
+            <p> Join The Honorable Sethuraman “Panch” Panchanathan for an engaging and interactive conversation about why it is imperative for us to work together to rethink and co-create our future. Drawing on his extensive experience as the former director of the U.S. National Science Foundation and as a world-renowned researcher and computing leader, Panch will share his views on why we all share the responsibility for co-creating the future we want for ourselves, future scientists, and society. </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 9:50am-10:30am</p>
