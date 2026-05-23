@@ -31,10 +31,11 @@ active_tab: ai-science
       <div class="program-overview-list">
         <div class="program-overview-card is-plain">
           <div>
-            <p class="program-overview-title">Arrive + Register + Breakfast</p>
+            <p class="program-overview-title">Breakfast</p>
+            <p> Halpern Centre 126 </p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 8:30am-9:00am</p>
+            <p><strong>Time:</strong> 8:00am-9:00am</p>
           </div>
         </div>
         <div class="program-overview-card">
