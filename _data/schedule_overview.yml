@@ -68,12 +68,12 @@ days:
               meta: 9:00am-9:10am
               type: admin
               url: /program/workshops/ai-policy-forum/
-            - title: "AI Policy Forum Keynote: Sethuraman Panchanathan"
-              meta: Former Director of the U.S. National Science Foundation, 9:10am-9:50am
-              type: invited
-              url: /program/workshops/ai-policy-forum/
             - title: "AI Policy Forum Keynote: Arvind Gupta"
-              meta: Member of the Government of Canada's AI Strategy Task Force, 9:50am-10:20am
+              meta: Member of the Government of Canada's AI Strategy Task Force, 9:10am-9:50am
+              type: invited
+              url: /program/workshops/ai-policy-forum/              
+            - title: "A Conversation with Sethuraman Panchanathan"
+              meta: Former Director of the U.S. National Science Foundation, 9:50am-10:20am
               type: invited
               url: /program/workshops/ai-policy-forum/
       - time: 10:30am-11:00am
