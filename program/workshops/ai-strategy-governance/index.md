@@ -117,12 +117,13 @@ active_tab: ai-governance
         </div>    
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title">Industry panel discussion</p>
+            <p class="program-overview-title">[Industry panel discussion] Beyond the Hype: Building AI Strategy for the Future</p>
             <p> Host: Andrew Gemino, Andrew Gemino </p>
-            <p>Panelists: Rachel Barker, Rob Goehring, Vineel Nagisetty</p>
+            <p>Panelists: Rachel Barker, Rob Goehring, Vineel Nagisetty, Chaitanya "CK" Kaligotla</p>
+            <p style="color: red;"> Halpern Centre 126 </p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 17:30pm-18:30pm</p>
+            <p><strong>Time:</strong> 17:30pm-19:30pm</p>
           </div>
         </div>         
       </div>
