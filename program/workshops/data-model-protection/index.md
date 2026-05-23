@@ -116,7 +116,7 @@ active_tab: data-protection
         <div class="program-overview-card is-plain">
           <div>
             <p class="program-overview-title">Lunch Break</p>
-            <p style="color: red;"> Room: Dining Commons </p>            
+            <p style="color: red;"> <a href="https://www.ai-crv.ca/venue-transportation/"> Dining Commons </a> </p>            
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 12:20pm-14:00pm</p>
