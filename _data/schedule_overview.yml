@@ -24,7 +24,7 @@ days:
   - id: monday
     title: Monday, May 25
     meta: Pre-conference workshops
-    registration_desk: Halpern Centre
+    registration_desk: AQ North Corridor
     rooms:
       - key: halpern126
         name: Halpern Centre 126
@@ -36,8 +36,6 @@ days:
         name: Blusson Hall 10011
       - key: datahub
         name: Big Data Hub (ASB 10900)
-      - key: tbd
-        name: TBD
       - key: shared
         name: Shared / Dining
     rows:
@@ -126,11 +124,8 @@ days:
       - time: 11:00am-12:30pm
         cells:
           halpern126:
-            - title: AI for Science and Sustainability Lightning Talks 1
-              type: oral
-              url: /program/workshops/ai-science-remote-sensing/
-          tbd:
-            - title: AI for Science and Sustainability Poster Session 1
+            - title: AI for Science and Sustainability Lightning Talks and Poster Session 1
+              meta: Lightning Talks 1 and Poster Session 1, Halpern Centre 126
               type: poster
               url: /program/workshops/ai-science-remote-sensing/
           halpern114:
@@ -161,11 +156,7 @@ days:
       - time: 2:00pm-3:30pm
         cells:
           halpern126:
-            - title: AI for Science and Sustainability Talk 4, Lightning Talks 2, and Talk 5
-              type: oral
-              url: /program/workshops/ai-science-remote-sensing/
-          tbd:
-            - title: AI for Science and Sustainability Poster Session 2
+            - title: AI for Science and Sustainability Talk 4, Lightning Talks 2, Poster Session 2, and Talk 5
               type: poster
               url: /program/workshops/ai-science-remote-sensing/
           halpern114:

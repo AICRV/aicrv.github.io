@@ -33,7 +33,7 @@ active_tab: ai-policy-forum
         <div class="program-overview-card is-plain">
           <div>
             <p class="program-overview-title">Registration</p>
-            <p style="color: red;"> <a href="https://www.ai-crv.ca/venue-transportation/"> Halpern Center Lobby </a> </p>            
+            <p style="color: red;"> <a href="https://www.ai-crv.ca/venue-transportation/"> AQ North Corridor </a> </p>            
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 8:00am-17:30pm</p>
