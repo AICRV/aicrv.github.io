@@ -129,6 +129,8 @@ conference:
             relative_url: /program/robots-vision/
           - name: Nectar Track
             relative_url: /program/nectar-track/
+          - name: Demos
+            relative_url: /program/demos/
           - name: Student Symposium
             relative_url: /program/student-symposium/
           - name: Social Events

@@ -60,6 +60,8 @@
                             {% assign track_label = "Industry Track" %}
                           {% elsif event_href contains "nectar-track" %}
                             {% assign track_label = "Nectar Track" %}
+                          {% elsif event_href contains "/program/demos" %}
+                            {% assign track_label = "Demos" %}
                           {% elsif event_href contains "student-symposium" %}
                             {% assign track_label = "Student Symposium" %}
                           {% elsif event_href contains "social-events" %}

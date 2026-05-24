@@ -7,6 +7,8 @@ legend:
     label: Oral session
   - type: poster
     label: Poster session
+  - type: demo
+    label: Demo
   - type: panel
     label: Panel
   - type: break
@@ -533,14 +535,17 @@ days:
               url: /program/student-symposium/
             - title: Demo Track
               meta: 9:00am-10:30am
-              type: poster
-              url: /calls/demos/
+              type: demo
+              url: /program/demos/
       - time: 10:30am-11:00am
         cells:
           douglas:
             - title: Graduate Student Symposium Posters Continue
               type: poster
               url: /program/student-symposium/
+            - title: Demo Track Continues
+              type: demo
+              url: /program/demos/
           shared:
             - title: Coffee Break
               type: break

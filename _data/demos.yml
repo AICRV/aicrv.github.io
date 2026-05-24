@@ -1,0 +1,13 @@
+schedule:
+  - day: Thursday, May 28
+    sessions:
+      - time: 9:00am-11:00am
+        title: Demo Track Presentations
+        room: James Douglas Area (AQ 2009.2)
+        format: Live demos / poster session
+        description: Accepted demos will be presented concurrently with the Graduate Student Symposium poster session.
+
+demo_sections:
+  - title: Accepted Demos
+    description: Live, interactive demonstrations accepted to the AI/CRV 2026 Demo Track.
+    demos: []

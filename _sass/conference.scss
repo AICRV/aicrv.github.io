@@ -1132,6 +1132,12 @@ a.schedule-event:focus-visible {
   --schedule-accent: #5f7f17;
 }
 
+.schedule-event--demo,
+.schedule-legend-item--demo {
+  --schedule-bg: #e9f7f8;
+  --schedule-accent: #087d86;
+}
+
 .schedule-event--panel,
 .schedule-legend-item--panel {
   --schedule-bg: #f2eafa;
