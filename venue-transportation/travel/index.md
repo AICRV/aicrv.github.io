@@ -24,8 +24,7 @@ tabs_include: partials/venue_logistics_tabs.html
         <h3 class="venue-subblock-title" style="margin-top: 0;">Shuttles</h3>
         <div class="venue-section-content">
           <ol>
-            <li>Advance sign-up is required. Each shuttle has a capacity of 50 passengers.</li>
-            <li>Confirmed shuttle riders will receive a small sticker on their conference badge. Volunteers may check for this sticker at the shuttle pickup point, especially on Wednesday.</li>
+            <li>Advance sign-up is required. We will operate four mini coaches as shuttles.</li>
             <li>Confirmed riders should arrive at the shuttle pickup point at least 10 minutes before departure. Seats that are not claimed close to departure time may be released to waitlisted attendees.</li>
             <li>If a shuttle reaches capacity, additional sign-ups will be placed on the waitlist in order of submission.</li>
             <li>Campus pickup/dropoff: use the Shuttle Pickup/Dropoff point shown on the venue map above.</li>

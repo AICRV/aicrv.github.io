@@ -36,12 +36,32 @@ days:
         name: Blusson Hall 10011
       - key: datahub
         name: Big Data Hub (ASB 10900)
+      - key: tbd
+        name: TBD
       - key: shared
         name: Shared / Dining
     rows:
       - time: 8:00am-9:00am
         cells:
-          shared:
+          halpern126:
+            - title: Breakfast
+              meta: Halpern Centre Lobby
+              type: meal
+              url: /program/workshops/
+          halpern114:
+            - title: Breakfast
+              meta: Halpern Centre Lobby
+              type: meal
+              url: /program/workshops/
+          sub4200:
+            - title: Breakfast
+              type: meal
+              url: /program/workshops/
+          blusson:
+            - title: Breakfast
+              type: meal
+              url: /program/workshops/
+          datahub:
             - title: Breakfast
               type: meal
               url: /program/workshops/
@@ -73,7 +93,7 @@ days:
             - title: "AI Policy Forum Keynote: Arvind Gupta"
               meta: Member of the Government of Canada's AI Strategy Task Force, 9:10am-9:50am
               type: invited
-              url: /program/workshops/ai-policy-forum/              
+              url: /program/workshops/ai-policy-forum/
             - title: "A Conversation with Sethuraman Panchanathan"
               meta: Former Director of the U.S. National Science Foundation, 9:50am-10:20am
               type: invited
@@ -84,19 +104,33 @@ days:
             - title: "AI for Science and Sustainability Talk 3"
               type: oral
               url: /program/workshops/ai-science-remote-sensing/
+            - title: Coffee Break
+              type: break
+              url: /program/workshops/ai-science-remote-sensing/
+          halpern114:
+            - title: Coffee Break
+              type: break
+              url: /program/workshops/ai-in-banking/
           sub4200:
             - title: Data and Model Protection Coffee Break
               type: break
               url: /program/workshops/data-model-protection/
-          shared:
+          blusson:
             - title: Coffee Break
               type: break
-              url: /program/workshops/
+              url: /program/workshops/ai-biology/
+          datahub:
+            - title: Coffee Break
+              type: break
+              url: /program/workshops/ai-policy-forum/
       - time: 11:00am-12:30pm
         cells:
           halpern126:
-            - title: AI for Science and Sustainability Lightning Talks and Poster Session 1
-              meta: Lightning Talks 1 and Poster Session 1
+            - title: AI for Science and Sustainability Lightning Talks 1
+              type: oral
+              url: /program/workshops/ai-science-remote-sensing/
+          tbd:
+            - title: AI for Science and Sustainability Poster Session 1
               type: poster
               url: /program/workshops/ai-science-remote-sensing/
           halpern114:
@@ -127,7 +161,11 @@ days:
       - time: 2:00pm-3:30pm
         cells:
           halpern126:
-            - title: AI for Science and Sustainability Talk 4, Lightning Talks 2, Poster Session 2, and Talk 5
+            - title: AI for Science and Sustainability Talk 4, Lightning Talks 2, and Talk 5
+              type: oral
+              url: /program/workshops/ai-science-remote-sensing/
+          tbd:
+            - title: AI for Science and Sustainability Poster Session 2
               type: poster
               url: /program/workshops/ai-science-remote-sensing/
           halpern114:
@@ -154,23 +192,35 @@ days:
             - title: "AI for Science and Sustainability Talk 6"
               type: oral
               url: /program/workshops/ai-science-remote-sensing/
+            - title: Coffee Break
+              type: break
+              url: /program/workshops/ai-science-remote-sensing/
           halpern114:
             - title: AI Strategy and Governance in Business
               type: workshop
+              url: /program/workshops/ai-strategy-governance/
+            - title: Coffee Break
+              type: break
               url: /program/workshops/ai-strategy-governance/
           sub4200:
             - title: Data and Model Protection Invited Talk
               meta: Linyi Li
               type: invited
               url: /program/workshops/data-model-protection/
+            - title: Coffee Break
+              type: break
+              url: /program/workshops/data-model-protection/
           blusson:
             - title: AI and Biology
               type: workshop
               url: /program/workshops/ai-biology/
-          shared:
             - title: Coffee Break
               type: break
-              url: /program/workshops/
+              url: /program/workshops/ai-biology/
+          datahub:
+            - title: Coffee Break
+              type: break
+              url: /program/workshops/ai-policy-forum/
       - time: 4:00pm-4:45pm
         cells:
           halpern126:
@@ -233,7 +283,19 @@ days:
     rows:
       - time: 8:00am-9:00am
         cells:
-          shared:
+          dfa:
+            - title: Breakfast
+              type: meal
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai
+          sub:
+            - title: Breakfast
+              type: meal
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai
+          halpern126:
+            - title: Breakfast
+              type: meal
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai
+          douglas:
             - title: Breakfast
               type: meal
               url: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai
@@ -268,7 +330,19 @@ days:
               url: https://www.caiac.ca/en/conferences/canadianai-2026/invited-speakers
       - time: 10:30am-11:00am
         cells:
-          shared:
+          dfa:
+            - title: Coffee Break
+              type: break
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai
+          sub:
+            - title: Coffee Break
+              type: break
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai
+          halpern126:
+            - title: Coffee Break
+              type: break
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai
+          douglas:
             - title: Coffee Break
               type: break
               url: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai
@@ -326,7 +400,19 @@ days:
               url: https://www.caiac.ca/en/conferences/canadianai-2026/invited-speakers
       - time: 3:30pm-4:00pm
         cells:
-          shared:
+          dfa:
+            - title: Coffee Break
+              type: break
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: Coffee Break
+              type: break
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          halpern126:
+            - title: Coffee Break
+              type: break
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          douglas:
             - title: Coffee Break
               type: break
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
@@ -374,7 +460,15 @@ days:
     rows:
       - time: 8:00am-9:00am
         cells:
-          shared:
+          dfa:
+            - title: Breakfast
+              type: meal
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: Breakfast
+              type: meal
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          studio:
             - title: Breakfast
               type: meal
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
@@ -392,7 +486,15 @@ days:
               url: https://www.computerrobotvision.org/invited.html
       - time: 10:30am-11:00am
         cells:
-          shared:
+          dfa:
+            - title: Coffee Break
+              type: break
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: Coffee Break
+              type: break
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          studio:
             - title: Coffee Break
               type: break
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
@@ -447,7 +549,15 @@ days:
               url: /program/workshops/industry-track/
       - time: 3:30pm-4:00pm
         cells:
-          shared:
+          dfa:
+            - title: Coffee Break
+              type: break
+              url: /program/workshops/industry-track/
+          sub:
+            - title: Coffee Break
+              type: break
+              url: /program/workshops/industry-track/
+          studio:
             - title: Coffee Break
               type: break
               url: /program/workshops/industry-track/
@@ -466,7 +576,7 @@ days:
           studio:
             - title: "Panel 2: Navigating AI Safety Challenges"
               type: panel
-              url: /program/workshops/industry-track/              
+              url: /program/workshops/industry-track/
       - time: 5:00pm-5:30pm
         cells:
           dfa:
@@ -479,9 +589,9 @@ days:
               url: https://www.computerrobotvision.org/program.html
           studio:
             - title: "Industry Keynote: Confident & Wrong: Why Responsible AI Demands More Than a Checklist"
-              meta: Dr. Eric Oosenbrug, Government of British Columbia            
+              meta: Dr. Eric Oosenbrug, Government of British Columbia
               type: invited
-              url: /program/workshops/industry-track/                
+              url: /program/workshops/industry-track/
       - time: 5:30pm-6:30pm
         cells:
           dfa:
@@ -512,7 +622,15 @@ days:
     rows:
       - time: 8:00am-9:00am
         cells:
-          shared:
+          dfa:
+            - title: Breakfast
+              type: meal
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: Breakfast
+              type: meal
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          douglas:
             - title: Breakfast
               type: meal
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
@@ -539,6 +657,14 @@ days:
               url: /program/demos/
       - time: 10:30am-11:00am
         cells:
+          dfa:
+            - title: Coffee Break
+              type: break
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: Coffee Break
+              type: break
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
           douglas:
             - title: Graduate Student Symposium Posters Continue
               type: poster
@@ -546,7 +672,6 @@ days:
             - title: Demo Track Continues
               type: demo
               url: /program/demos/
-          shared:
             - title: Coffee Break
               type: break
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
@@ -600,9 +725,20 @@ days:
               url: /program/nectar-track/
       - time: 3:30pm-4:00pm
         cells:
+          dfa:
+            - title: Coffee Break
+              type: break
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: Coffee Break
+              type: break
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
           douglas:
             - title: Canadian AI Short-Paper Poster Session
               type: poster
+              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+            - title: Coffee Break
+              type: break
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
       - time: 4:00pm-5:30pm
         cells:
@@ -643,7 +779,7 @@ days:
     rows:
       - time: 8:00am-9:00am
         cells:
-          shared:
+          dfa:
             - title: Breakfast
               type: meal
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
@@ -656,7 +792,7 @@ days:
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
       - time: 10:30am-11:00am
         cells:
-          shared:
+          dfa:
             - title: Coffee Break
               type: break
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
@@ -683,7 +819,7 @@ days:
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
       - time: 3:30pm-4:00pm
         cells:
-          shared:
+          dfa:
             - title: Coffee Break
               type: break
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
