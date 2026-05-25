@@ -345,10 +345,6 @@ days:
               meta: Blaize Reich, Simon Fraser University; 4:30pm-4:55pm
               type: invited
               url: /program/workshops/ai-strategy-governance/
-          sub4200:
-            - title: Data and Model Protection in Generative AI
-              type: workshop
-              url: /program/workshops/data-model-protection/
           blusson:
             - title: Talk #8
               meta: Jiarui Ding, University of British Columbia; 4:00pm-4:45pm
@@ -371,10 +367,6 @@ days:
               type: break
               track: Workshops
               url: /program/workshops/ai-strategy-governance/
-          sub4200:
-            - title: Data and Model Protection in Generative AI
-              type: workshop
-              url: /program/workshops/data-model-protection/
           blusson:
             - title: Talk #9
               meta: Archer Yang, McGill University; 4:45pm-5:25pm
