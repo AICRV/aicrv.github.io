@@ -150,7 +150,7 @@ days:
               type: break
               url: /program/workshops/ai-in-banking/
           sub4200:
-            - title: Data and Model Protection Coffee Break
+            - title: Coffee Break
               type: break
               url: /program/workshops/data-model-protection/
           blusson:
@@ -364,6 +364,7 @@ days:
             - title: Break
               meta: 5:15pm-5:30pm
               type: break
+              track: Workshops
               url: /program/workshops/ai-strategy-governance/
           sub4200:
             - title: Data and Model Protection in Generative AI
