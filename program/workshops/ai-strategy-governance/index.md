@@ -12,7 +12,7 @@ active_tab: ai-governance
 <section class="section">
   <!-- <div class="section-grid"> -->
     <div>
-      <h2>AI for Strategy and Governance in Business</h2>
+      <h2>AI Strategy and Governance in Business</h2>
     </div>
     <div class="section-body">
       <p> <strong> 14:00pm-17:30pm on May 25 2026, Halpern Centre 114 </strong> </p>

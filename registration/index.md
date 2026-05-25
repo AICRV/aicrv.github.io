@@ -246,6 +246,17 @@ layout: page
 
 <div class="calls-row">
   <div class="calls-heading">
+    <h2>Code of Conduct</h2>
+  </div>
+  <div class="calls-copy">
+    <p>The open exchange of ideas, the freedom of thought and expression, and respectful scientific debate are central to the goals of AI/CRV; this requires a community and an environment that recognizes and respects the inherent worth of every person.</p>
+    <p>All participants, including but not limited to attendees, organizers, reviewers, speakers, sponsors, and volunteers at our conference, workshops, and conference-sponsored social events, are required to agree with this Code of Conduct during the conference, through official communication channels and on social media. Conference Organizers expect that anyone participating in AI/CRV will, at a minimum, treat others with respect for their dignity. Accordingly, behaviour that violates this principle will not be tolerated, and may include sanctions up to and including expulsion from AI/CRV. Anyone who feels threatened or harassed while participating in AI/CRV should not hesitate to reach out to AI/CRV General Chairs and can expect that any concerns shared will be taken seriously and handled with discretion.</p>
+    <p>This Code of Conduct applies to the meeting sites and venues where AI/CRV events are held or where AI/CRV-sanctioned activities are conducted, including both physical and official virtual platforms. AI/CRV is not responsible for non-sponsored activity or behaviour that may occur at non-sponsored locations such as hotels, restaurants, or locations not otherwise a sanctioned space for AI/CRV events.</p>
+  </div>
+</div>
+
+<div class="calls-row">
+  <div class="calls-heading">
     <h2>Disclaimer</h2>
   </div>
   <div class="calls-copy">

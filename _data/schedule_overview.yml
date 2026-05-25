@@ -66,44 +66,84 @@ days:
       - time: 9:00am-10:30am
         cells:
           halpern126:
-            - title: AI for Science and Sustainability Opening Remarks and Talks 1-2
-              meta: Opening remarks, Talk 1, Talk 2
-              type: oral
+            - title: AI for Science and Sustainability Opening Remarks
+              meta: 9:00am-9:10am
+              type: admin
+              url: /program/workshops/ai-science-remote-sensing/
+            - title: Multimodal learning using DNA barcodes for biodiversity monitoring
+              meta: Angel Chang, Simon Fraser University; 9:10am-9:40am
+              type: invited
+              url: /program/workshops/ai-science-remote-sensing/
+            - title: Developing Machine Learning Tools for Earth Systems Science
+              meta: Kelsey Doerksen, Arizona State University and University of Cape Town; 9:40am-10:10am
+              type: invited
               url: /program/workshops/ai-science-remote-sensing/
           halpern114:
-            - title: AI in Banking and Financial Services
-              type: workshop
+            - title: AI in Banking and Financial Services Opening Remarks
+              meta: 9:00am-9:10am
+              type: admin
+              url: /program/workshops/ai-in-banking/
+            - title: "[Keynote] Challenges and opportunities of AI for central banking and financial stability"
+              meta: Thibaut Duprey, Bank of Canada; 9:10am-9:45am
+              type: invited
+              url: /program/workshops/ai-in-banking/
+            - title: "[Contributed Talk] The Evolution of Market Efficiency: Evidence from Disaggregated Social Media Discussions"
+              meta: Harika Tuzcuoglu, Carleton University; 9:46am-10:04am
+              type: oral
+              url: /program/workshops/ai-in-banking/
+            - title: "[Contributed Talk] Strategic Interactions of AI Agents in Payment Systems"
+              meta: Janet Jiang, Bank of Canada; 10:04am-10:22am
+              type: oral
+              url: /program/workshops/ai-in-banking/
+            - title: "[Contributed Talk] Towards Agentic Fraud Defense: Adversarial Red-Blue Team Simulation with LLM-Driven Agents"
+              meta: Erfan Pirmorad, The Vanguard Group; 10:22am-10:40am
+              type: oral
               url: /program/workshops/ai-in-banking/
           sub4200:
-            - title: Data and Model Protection Opening Remarks and Invited Talks
-              meta: Yiwei Lu; Jekaterina Novikova and Yangyi Liu; Sirisha Rambhatla
+            - title: Data and Model Protection Opening Remarks
+              meta: Yiwei Lu, University of Ottawa; 9:00am-9:05am
+              type: admin
+              url: /program/workshops/data-model-protection/
+            - title: "Data/Model Protection in Financial AI"
+              meta: "Jekaterina Novikova & Yangyi Liu, Vanguard Group; 9:05am-9:55am"
+              type: invited
+              url: /program/workshops/data-model-protection/
+            - title: "Efficient and Safe LLM Adaptation: Advances in Training, Surprises in Safety"
+              meta: Sirisha Rambhatla, University of Waterloo; 9:55am-10:20am
               type: invited
               url: /program/workshops/data-model-protection/
           blusson:
-            - title: AI and Biology
-              type: workshop
+            - title: Towards generative design of DNA to direct tissue-specific gene expression for gene therapy
+              meta: Wyeth Wasserman, University of British Columbia; 9:00am-9:40am
+              type: invited
+              url: /program/workshops/ai-biology/
+            - title: Learning Interpretable Representations in Neural Signals with Sparse Autoencoders
+              meta: Bahareh Tolooshams, University of Alberta and Amii; 9:40am-10:15am
+              type: invited
               url: /program/workshops/ai-biology/
           datahub:
             - title: AI Policy Forum Welcome Remarks
               meta: 9:00am-9:10am
               type: admin
               url: /program/workshops/ai-policy-forum/
-            - title: "AI Policy Forum Keynote: Arvind Gupta"
-              meta: Member of the Government of Canada's AI Strategy Task Force, 9:10am-9:50am
+            - title: "[Keynote] The Evolving Nature of a National AI Strategy: A Personal Perspective"
+              meta: "Arvind Gupta, Member of the Government of Canada's AI Strategy Task Force; 9:10am-9:50am"
               type: invited
               url: /program/workshops/ai-policy-forum/
-            - title: "A Conversation with Sethuraman Panchanathan"
-              meta: Former Director of the U.S. National Science Foundation, 9:50am-10:20am
+            - title: "The Future of Research, Learning, and Innovation in the Era of AI"
+              meta: Sethuraman Panchanathan, former Director of the U.S. National Science Foundation; 9:50am-10:30am
               type: invited
               url: /program/workshops/ai-policy-forum/
       - time: 10:30am-11:00am
         cells:
           halpern126:
-            - title: "AI for Science and Sustainability Talk 3"
-              type: oral
-              url: /program/workshops/ai-science-remote-sensing/
             - title: Coffee Break
+              meta: 10:10am-10:30am
               type: break
+              url: /program/workshops/ai-science-remote-sensing/
+            - title: From the Subsurface to the Data Center
+              meta: Lindsey Heagy, University of British Columbia; 10:30am-11:00am
+              type: invited
               url: /program/workshops/ai-science-remote-sensing/
           halpern114:
             - title: Coffee Break
@@ -124,26 +164,60 @@ days:
       - time: 11:00am-12:30pm
         cells:
           halpern126:
-            - title: AI for Science and Sustainability Lightning Talks and Poster Session 1
-              meta: Lightning Talks 1 and Poster Session 1, Halpern Centre 126
+            - title: Lightning Talks 1
+              meta: 11:00am-11:20am
+              type: oral
+              url: /program/workshops/ai-science-remote-sensing/
+            - title: Poster Session 1
+              meta: "James Douglas Area (AQ 2009.2); 11:20am-12:00pm"
               type: poster
               url: /program/workshops/ai-science-remote-sensing/
           halpern114:
-            - title: AI in Banking and Financial Services
-              type: workshop
+            - title: "[Contributed Talk] An Interpretable Decision-Support Layer for Climate-Aware Financial Services: Property Scorecards and Resilience Recommendations"
+              meta: Tianshu Huang, Climative; 11:10am-11:27am
+              type: oral
+              url: /program/workshops/ai-in-banking/
+            - title: "[Contributed Talk] Communicating Credit Risk with Large Language Models: Evaluating Explanation Layers for Tabular and Network Models"
+              meta: Noah Kostesku, Western University; 11:28am-11:45am
+              type: oral
+              url: /program/workshops/ai-in-banking/
+            - title: "[Keynote] Opportunities in Modern AI and Agentic Systems for Financial Services: Leveraging Transactional and Tabular Data"
+              meta: Hossein Hajimirsadeghi, RBC Borealis; 11:45am-12:20pm
+              type: invited
+              url: /program/workshops/ai-in-banking/
+            - title: Closing Remarks
+              meta: 12:20pm-12:30pm
+              type: admin
               url: /program/workshops/ai-in-banking/
           sub4200:
-            - title: Data and Model Protection Invited Talks and Student Lightning Talks
-              meta: Sébastien Gambs; Joanna Redden; Student Lightning Talks
+            - title: Understanding and Addressing Fairwashing in Machine Learning
+              meta: "Sébastien Gambs, Université du Québec à Montréal; 11:00am-11:25am"
               type: invited
               url: /program/workshops/data-model-protection/
+            - title: "Rethinking the Tightness–Efficiency Trade-off in Certified Robustness"
+              meta: Reza Samavi, Toronto Metropolitan University (presented by Mohammadreza Maleki); 11:25am-11:50am
+              type: invited
+              url: /program/workshops/data-model-protection/
+            - title: Student Lightning Talks
+              meta: 11:50am-12:20pm
+              type: oral
+              url: /program/workshops/data-model-protection/
           blusson:
-            - title: AI and Biology
-              type: workshop
+            - title: Talk #3
+              meta: Amin Emad, McGill University; 10:45am-11:20am
+              type: invited
+              url: /program/workshops/ai-biology/
+            - title: Talk #4
+              meta: Qihuang Zhang, McGill University; 11:20am-11:55am
+              type: invited
+              url: /program/workshops/ai-biology/
+            - title: Machine Learning for Precision Oncology
+              meta: Martin Ester, Simon Fraser University; 11:55am-12:30pm
+              type: invited
               url: /program/workshops/ai-biology/
           datahub:
-            - title: AI Policy Forum Panel Discussion on Technology Policy and Economic Impact
-              meta: "Panelists: Jing Yang, Managing Director at the Bank of Canada; Daniel Schwanen, SVP at C. D. Howe Institute"
+            - title: Panel Discussion on Technology Policy and Economic Impact
+              meta: "Daniel Schwanen, SVP at C. D. Howe Institute; Jing Yang, Managing Director at the Bank of Canada"
               type: panel
               url: /program/workshops/ai-policy-forum/
       - time: 12:30pm-2:00pm
@@ -156,55 +230,89 @@ days:
       - time: 2:00pm-3:30pm
         cells:
           halpern126:
-            - title: AI for Science and Sustainability Talk 4, Lightning Talks 2, Poster Session 2, and Talk 5
+            - title: Hybrid AI/ModSim workflows as a new scientific tool
+              meta: Andrew Shao, AI Research Lab at Hewlett Packard Enterprise; 1:00pm-1:30pm
+              type: invited
+              url: /program/workshops/ai-science-remote-sensing/
+            - title: Lightning Talks 2
+              meta: 1:30pm-1:50pm
+              type: oral
+              url: /program/workshops/ai-science-remote-sensing/
+            - title: Poster Session 2
+              meta: 1:50pm-2:30pm
               type: poster
               url: /program/workshops/ai-science-remote-sensing/
+            - title: "A simple recipe for CREPE: Controlling REPlica-Exchange via neural transports"
+              meta: Saifuddin Syed, University of British Columbia; 3:00pm-3:30pm
+              type: invited
+              url: /program/workshops/ai-science-remote-sensing/
           halpern114:
-            - title: AI Strategy and Governance in Business
-              type: workshop
+            - title: Opening, speaker intros and workshop framing
+              meta: Chaitanya Kaligotla, Simon Fraser University; 2:30pm-2:35pm
+              type: admin
+              url: /program/workshops/ai-strategy-governance/
+            - title: GenAI Shopping Assistants in E-Commerce
+              meta: Aishwarya Shukla, Simon Fraser University; 2:35pm-3:00pm
+              type: oral
+              url: /program/workshops/ai-strategy-governance/
+            - title: Algorithmic versus Human Managers
+              meta: Samantha Seto, Simon Fraser University; 3:00pm-3:25pm
+              type: oral
+              url: /program/workshops/ai-strategy-governance/
+            - title: "Q&A from audience; Brief synthesis and transition"
+              meta: 3:25pm-3:30pm
+              type: admin
               url: /program/workshops/ai-strategy-governance/
           sub4200:
-            - title: Data and Model Protection Afternoon Invited Talks
-              meta: Reza Samavi; Elliot Creager; Mathias Lécuyer
+            - title: AI Governance in Practice
+              meta: Joanna Redden, Western University (joining online); 2:00pm-2:25pm
+              type: invited
+              url: /program/workshops/data-model-protection/
+            - title: The Role of Coordination and Collective Action in Trustworthy Machine Learning
+              meta: Elliot Creager, University of Waterloo; 2:25pm-2:50pm
+              type: invited
+              url: /program/workshops/data-model-protection/
+            - title: Membership Inference for Privacy Audits and Evidence of Training without Model Control
+              meta: "Mathias Lécuyer, University of British Columbia; 2:50pm-3:15pm"
+              type: invited
+              url: /program/workshops/data-model-protection/
+            - title: Towards Scientific Evaluation for Code LLMs
+              meta: Linyi Li, Simon Fraser University; 3:15pm-3:40pm
               type: invited
               url: /program/workshops/data-model-protection/
           blusson:
-            - title: AI and Biology
-              type: workshop
+            - title: Visualizing distortion in dimensionality reduction
+              meta: Michael Hoffman, University of Toronto and UHN; 2:00pm-2:45pm
+              type: invited
+              url: /program/workshops/ai-biology/
+            - title: Flow matching for cell dynamics
+              meta: "Lazar Atanackovic, University of Alberta and Amii; 2:45pm-3:30pm"
+              type: invited
               url: /program/workshops/ai-biology/
           datahub:
-            - title: AI Policy Forum Panel Discussion on AI Adoption and Commercialization
-              meta: "Panelists: Greg Mori, VP at RBC; Guy Dulude, VP at Siemens; Andrew Donaher, VP at CGI"
+            - title: Panel Discussion on AI Adoption and Commercialization
+              meta: "Andrew Donaher, VP at CGI; Guy Dulude, VP at Siemens; Greg Mori, VP at RBC; Justin Watts, Distinguished Engineer at Telus"
               type: panel
               url: /program/workshops/ai-policy-forum/
       - time: 3:30pm-4:00pm
         cells:
           halpern126:
-            - title: "AI for Science and Sustainability Talk 6"
-              type: oral
+            - title: The Hidden Footprint of Open-Source AI
+              meta: "Iuliia Eyriay, University of Guelph and the Vector Institute; 3:30pm-4:00pm"
+              type: invited
               url: /program/workshops/ai-science-remote-sensing/
             - title: Coffee Break
               type: break
               url: /program/workshops/ai-science-remote-sensing/
           halpern114:
-            - title: AI Strategy and Governance in Business
-              type: workshop
-              url: /program/workshops/ai-strategy-governance/
             - title: Coffee Break
               type: break
               url: /program/workshops/ai-strategy-governance/
           sub4200:
-            - title: Data and Model Protection Invited Talk
-              meta: Linyi Li
-              type: invited
-              url: /program/workshops/data-model-protection/
             - title: Coffee Break
               type: break
               url: /program/workshops/data-model-protection/
           blusson:
-            - title: AI and Biology
-              type: workshop
-              url: /program/workshops/ai-biology/
             - title: Coffee Break
               type: break
               url: /program/workshops/ai-biology/
@@ -215,39 +323,60 @@ days:
       - time: 4:00pm-4:45pm
         cells:
           halpern126:
-            - title: AI for Science and Sustainability Panel Discussion
-              meta: Speakers and Chris Rampersad, EarthDaily
+            - title: Panel Discussion incl. Speakers and Chris Rampersad (EarthDaily)
+              meta: 4:00pm-4:45pm
               type: panel
               url: /program/workshops/ai-science-remote-sensing/
           halpern114:
-            - title: AI Strategy and Governance in Business
-              type: workshop
+            - title: Part 2 speaker introduction and framing
+              meta: Chaitanya Kaligotla, Simon Fraser University; 4:00pm-4:05pm
+              type: admin
+              url: /program/workshops/ai-strategy-governance/
+            - title: "Let's Shave Years Off the Productivity Paradox"
+              meta: Terri Griffith, Simon Fraser University; 4:05pm-4:30pm
+              type: invited
+              url: /program/workshops/ai-strategy-governance/
+            - title: AI impact on organizational operating models
+              meta: Blaize Reich, Simon Fraser University; 4:30pm-4:55pm
+              type: invited
               url: /program/workshops/ai-strategy-governance/
           sub4200:
             - title: Data and Model Protection in Generative AI
               type: workshop
               url: /program/workshops/data-model-protection/
           blusson:
-            - title: AI and Biology
-              type: workshop
+            - title: Talk #8
+              meta: Jiarui Ding, University of British Columbia; 4:00pm-4:45pm
+              type: invited
               url: /program/workshops/ai-biology/
       - time: 4:45pm-5:30pm
         cells:
           halpern126:
-            - title: AI for Science and Sustainability Wrap-Up
+            - title: Bonus / Overflow Time for Conversation
+              meta: 4:45pm-5:00pm
               type: workshop
               url: /program/workshops/ai-science-remote-sensing/
           halpern114:
-            - title: AI Strategy and Governance in Business
-              type: workshop
+            - title: "Moderated Q&A and synthesis: research questions, evidence gaps, and implications for AI strategy and governance"
+              meta: 4:55pm-5:15pm
+              type: panel
+              url: /program/workshops/ai-strategy-governance/
+            - title: Break
+              meta: 5:15pm-5:30pm
+              type: break
               url: /program/workshops/ai-strategy-governance/
           sub4200:
             - title: Data and Model Protection in Generative AI
               type: workshop
               url: /program/workshops/data-model-protection/
           blusson:
-            - title: AI and Biology
-              type: workshop
+            - title: Talk #9
+              meta: Archer Yang, McGill University; 4:45pm-5:25pm
+              type: invited
+              url: /program/workshops/ai-biology/
+            - title: Closing Remarks
+              meta: 5:25pm-5:30pm
+              type: admin
               url: /program/workshops/ai-biology/
       - time: 5:30pm-7:00pm
         cells:
@@ -295,15 +424,8 @@ days:
           dfa:
             - title: Joint Opening Remarks
               type: admin
+              track: Conference-wide
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
-          sub:
-            - title: Joint Opening Remarks
-              type: admin
-              url: https://www.computerrobotvision.org/program.html
-          halpern126:
-            - title: Joint Opening Remarks
-              type: admin
-              url: https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai
       - time: 9:30am-10:30am
         cells:
           dfa:
@@ -679,6 +801,11 @@ days:
               url: https://www.computerrobotvision.org/program.html
       - time: 12:30pm-2:00pm
         cells:
+          sub:
+            - title: CIPPRS AGM
+              meta: 12:30pm-1:30pm
+              type: admin
+              url: https://www.computerrobotvision.org/program.html
           shared:
             - title: Lunch
               meta: Dining Commons
