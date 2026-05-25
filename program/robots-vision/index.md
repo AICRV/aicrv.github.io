@@ -32,7 +32,7 @@ tabs_include: partials/program_tabs.html
       {% for s in site.data.speakers.crv_keynotes %}
       <div class="speaker-card">
         <div class="speaker-photo"{% if s.photo %} style="background-image: url('{{ s.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
-        <h3>{{ s.name }}</h3>
+        <h3>{% if s.url and s.url != "" %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</h3>
         <p>{{ s.affiliation }}</p>
         <a href="{{ s.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">More info (CRV)</a>
       </div>
@@ -43,7 +43,7 @@ tabs_include: partials/program_tabs.html
       {% for s in site.data.speakers.crv_symposium %}
       <div class="speaker-card">
         <div class="speaker-photo"{% if s.photo %} style="background-image: url('{{ s.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
-        <h3>{{ s.name }}</h3>
+        <h3>{% if s.url and s.url != "" %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</h3>
         <p>{{ s.affiliation }}</p>
         <a href="{{ s.url }}" target="_blank" rel="noopener" class="btn btn-outline btn-sm mt-2">More info (CRV)</a>
       </div>

@@ -97,9 +97,11 @@ workshop_industry_track_speakers:
     photo: "/assets/img/speakers/jekaterina-novikova.webp"
   - name: Alka Tandan
     affiliation: Reframe & Refine
+    url: "https://www.reframeandrefine.com/about"
     photo: "https://media.licdn.com/dms/image/v2/C4D03AQFjsHdyM2E7tw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516257953850?e=2147483647&v=beta&t=LV9lIGH4OKB3K7w0HdvwCESy0L1ZTjGvges1-T-PTyM"
   - name: Mitu Mann
     affiliation: Interact Corp.
+    url: "https://ca.linkedin.com/in/mitumann"
     photo: "https://media.licdn.com/dms/image/v2/D4E03AQEp0VezzXEglg/profile-displayphoto-shrink_200_200/B4EZUB0LIhGgAY-/0/1739492209538?e=2147483647&v=beta&t=SsBuy7UzbPXuDgEVhbEYtK_sKLcnmLR1uNk7skVdubo"
   - name: Karsten Kreis
     affiliation: Principal Research Scientist, NVIDIA Research
@@ -153,6 +155,7 @@ workshop_dmp_speakers:
     photo: "/assets/img/speakers/jekaterina-novikova.webp"
   - name: Yangyi Liu
     affiliation: Vanguard Group
+    url: "https://ca.linkedin.com/in/yangyi-liu-462563176"
     photo: "/assets/img/speakers/yangyi-liu.jpg"
   - name: Sirisha Rambhatla
     affiliation: University of Waterloo
@@ -306,7 +309,7 @@ workshop_ai_banking_speakers:
 workshop_ai_strategy_governance_speakers: 
   - name: Blaize Reich
     affiliation: Simon Fraser University
-    url: ""
+    url: "https://ca.linkedin.com/in/breich1"
     photo: "/assets/img/speakers/blaize-horner-reich.jpg"
   - name: Terri Griffith
     affiliation: Simon Fraser University

@@ -200,27 +200,28 @@
         <h2>Speakers</h2>
         <div class="speakers-description">
           <p>Invited and featured speakers from the Canadian AI Conference, the Conference on Robots and Vision, and AI/CRV workshops.</p>
+          <a class="btn btn-dark btn-sm speakers-more-link" href="{{ site.baseurl }}/speakers/">More Details</a>
         </div>
       </div>
       <div class="speaker-grid-full">
         {% for s in site.data.speakers.canadian_ai %}
         <div class="speaker-card">
           <div class="speaker-photo"{% if s.photo %} style="background-image: url('{{ s.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
-          <h3>{{ s.name }}</h3>
+          <h3>{% if s.url and s.url != "" %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</h3>
           <p>{{ s.affiliation }}</p>
         </div>
         {% endfor %}
         {% for s in site.data.speakers.crv_keynotes %}
         <div class="speaker-card">
           <div class="speaker-photo"{% if s.photo %} style="background-image: url('{{ s.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
-          <h3>{{ s.name }}</h3>
+          <h3>{% if s.url and s.url != "" %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</h3>
           <p>{{ s.affiliation }}</p>
         </div>
         {% endfor %}
         {% for s in site.data.speakers.crv_symposium %}
         <div class="speaker-card">
           <div class="speaker-photo"{% if s.photo %} style="background-image: url('{{ s.photo }}'); background-size: contain; background-position: center; background-repeat: no-repeat;"{% endif %} aria-hidden="true"></div>
-          <h3>{{ s.name }}</h3>
+          <h3>{% if s.url and s.url != "" %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</h3>
           <p>{{ s.affiliation }}</p>
         </div>
         {% endfor %}

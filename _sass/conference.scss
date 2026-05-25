@@ -1340,6 +1340,10 @@ a.schedule-event:focus-visible {
   margin: 0;
 }
 
+.speakers-more-link {
+  margin-top: 16px;
+}
+
 .speaker-grid-full {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
