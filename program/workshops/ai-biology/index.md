@@ -32,7 +32,7 @@ active_tab: ai-biology
         <div class="program-overview-card is-plain">
           <div>
             <p class="program-overview-title">Registration</p>
-            <p style="color: red;"> <a href="https://www.ai-crv.ca/venue-transportation/"> AQ North Corridor </a> </p>            
+            <p style="color: red;"> <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=AQ%20302"> AQ North Corridor </a> </p>            
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 8:00am-17:30pm</p>
@@ -47,13 +47,21 @@ active_tab: ai-biology
             <p><strong>Time:</strong> 8:00am-9:00am</p>
           </div>
         </div>
+        <div class="program-overview-card is-plain">
+          <div>
+            <p class="program-overview-title">Opening Remarks</p>
+          </div>
+          <div class="program-overview-meta">
+            <p><strong>Time:</strong> 9:00am-9:10am</p>
+          </div>
+        </div>
         <div class="program-overview-card">
           <div>
             <p class="program-overview-title">Towards generative design of DNA to direct tissue-specific gene expression for gene therapy</p>
             <p> Wyeth Wasserman, University of British Columbia </p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 9:00am-9:40am</p>
+            <p><strong>Time:</strong> 9:10am-9:55am</p>
           </div>
         </div>
         <div class="program-overview-card">
@@ -62,7 +70,7 @@ active_tab: ai-biology
             <p> Bahareh Tolooshams, University of Alberta and Amii </p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 9:40am-10:15am</p>
+            <p><strong>Time:</strong> 9:55am-10:30am</p>
           </div>
         </div>
         <div class="program-overview-card is-plain">
@@ -70,7 +78,7 @@ active_tab: ai-biology
             <p class="program-overview-title">Coffee Break</p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 10:15am-10:45am</p>
+            <p><strong>Time:</strong> 10:30am-11:00am</p>
           </div>
         </div>
         <div class="program-overview-card">
@@ -79,7 +87,7 @@ active_tab: ai-biology
             <p> Amin Emad, McGill University </p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 10:45am-11:20am</p>
+            <p><strong>Time:</strong> 11:00am-11:45am</p>
           </div>
         </div>
         <div class="program-overview-card">
@@ -88,22 +96,13 @@ active_tab: ai-biology
             <p>Qihuang Zhang, McGill University</p>
           </div>
           <div class="program-overview-meta">
-            <p><strong>Time:</strong> 11:20am-11:55am</p>
-          </div>
-        </div>
-        <div class="program-overview-card">
-          <div>
-            <p class="program-overview-title"> Machine Learning for Precision Oncology </p>
-            <p> Martin Ester, Simon Fraser University</p>
-          </div>
-          <div class="program-overview-meta">
-            <p><strong>Time:</strong> 11:55am-12:30pm</p>
+            <p><strong>Time:</strong> 11:45am-12:30pm</p>
           </div>
         </div>
         <div class="program-overview-card is-plain">
           <div>
             <p class="program-overview-title">Lunch Break</p>
-            <p style="color: red;"> <a href="https://www.ai-crv.ca/venue-transportation/"> Dining Commons </a> </p>
+            <p style="color: red;"> <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=Dining%20Commons"> Dining Commons </a> </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 12:30pm-14:00pm</p>

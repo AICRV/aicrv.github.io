@@ -232,11 +232,6 @@ workshop_ai_biology_speakers:
     url: "https://lazaratan.github.io/"
     photo: "/assets/img/speakers/lazar-atanackovic.jpg"
     title: Flow matching for cell dynamics
-  - name: Martin Ester
-    affiliation: Distinguished SFU Professor, School of Computing Science, Simon Fraser University
-    url: "https://www.sfu.ca/fas/computing/people/faculty/faculty-members/martin-ester.html"
-    photo: "/assets/img/speakers/martin-ester.png"
-    title: Machine Learning for Precision Oncology
 
 # Beyond the Hype workshop speakers
 workshop_beyond_hype_speakers:

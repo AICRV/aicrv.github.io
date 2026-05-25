@@ -20,19 +20,19 @@ tabs_include: partials/venue_logistics_tabs.html
         </figure>
         <div class="venue-section-content">
           <ol>
-            <li>AI main room: Diamond Family Auditorium</li>
-            <li>CRV main room: SUB Ballroom 5000</li>
-            <li>Registration desk: AQ North Corridor (Monday), Diamond Family Auditorium (Tuesday – Friday)</li>
+            <li>AI main room: <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=Diamond%20Family%20Auditorium">Diamond Family Auditorium</a></li>
+            <li>CRV main room: <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=SUB%205000">SUB Ballroom 5000</a></li>
+            <li>Registration desk: <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=AQ%20302">AQ North Corridor</a> (Monday), <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=Diamond%20Family%20Auditorium">Diamond Family Auditorium</a> (Tuesday – Friday)</li>
             <li>Other venue areas:
               <ul>
-                <li>Student Union Building (SUB 4200 and SUB Ballroom 5000)</li>
-                <li>Halpern Centre</li>
-                <li>BLU 10011</li>
-                <li>Big Data Hub (ASB 10900)</li>
-                <li>Monday workshops and special tracks: Halpern Centre 126/114, SUB 4200, BLU 10011, and ASB 10900.</li>
+                <li>Student Union Building (<a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=SUB%204200">SUB 4200</a> and <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=SUB%205000">SUB Ballroom 5000</a>)</li>
+                <li><a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=Halpern">Halpern Centre</a></li>
+                <li><a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=BLU%2010011">BLU 10011</a></li>
+                <li><a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=ASB%2010900">Big Data Hub (ASB 10900)</a></li>
+                <li>Monday workshops and special tracks: <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=HC%20126">Halpern Centre 126</a>/<a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=HC%20114">114</a>, <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=SUB%204200">SUB 4200</a>, <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=BLU%2010011">BLU 10011</a>, and <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=ASB%2010900">ASB 10900</a>.</li>
               </ul>
             </li>
-            <li>Lunches are at Dining Commons. On-campus accommodations include Courtyard Residence / The Simon.</li>
+            <li>Lunches are at <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=Dining%20Commons">Dining Commons</a>. On-campus accommodations include Courtyard Residence / The Simon.</li>
             <li>Poster printing: Cornerstone, marked with the blue dot on the map.</li>
             <li>Shuttle pickup/dropoff: marked near the Transportation Centre / Halpern Centre area.</li>
             <li>Program details: <a href="https://www.ai-crv.ca/#program">View the full schedule</a></li>

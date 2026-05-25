@@ -36,7 +36,7 @@ active_tab: data-protection
         <div class="program-overview-card is-plain">
           <div>
             <p class="program-overview-title">Registration</p>
-            <p style="color: red;"> <a href="https://www.ai-crv.ca/venue-transportation/"> AQ North Corridor </a> </p>            
+            <p style="color: red;"> <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=AQ%20302"> AQ North Corridor </a> </p>            
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 8:00am-17:30pm</p>
@@ -116,7 +116,7 @@ active_tab: data-protection
         <div class="program-overview-card is-plain">
           <div>
             <p class="program-overview-title">Lunch Break</p>
-            <p style="color: red;"> <a href="https://www.ai-crv.ca/venue-transportation/"> Dining Commons </a> </p>            
+            <p style="color: red;"> <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=Dining%20Commons"> Dining Commons </a> </p>            
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 12:20pm-14:00pm</p>
