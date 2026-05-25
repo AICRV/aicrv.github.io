@@ -102,7 +102,7 @@ active_tab: ai-biology
         <div class="program-overview-card is-plain">
           <div>
             <p class="program-overview-title">Lunch Break</p>
-            <p style="color: red;"> <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=Dining%20Commons"> Dining Commons </a> </p>
+            <p style="color: red;"> <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=DC"> Dining Commons </a> </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 12:30pm-14:00pm</p>

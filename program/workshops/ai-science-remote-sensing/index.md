@@ -103,7 +103,7 @@ active_tab: ai-science
         <div class="program-overview-card">
           <div>
             <p class="program-overview-title">Poster Session 1</p>
-            <p style="color: red;"> <a href="https://www.ai-crv.ca/venue-transportation/"> James Douglas Area (AQ 2009.2) </a> </p>
+            <p style="color: red;"> <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=AQ%202009"> James Douglas Area (AQ 2009.2) </a> </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 11:20am-12:00pm</p>
@@ -112,7 +112,7 @@ active_tab: ai-science
         <div class="program-overview-card is-plain">
           <div>
             <p class="program-overview-title">Lunch Break</p>
-            <p style="color: red;"> <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=Dining%20Commons"> Dining Commons </a> </p>            
+            <p style="color: red;"> <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=DC"> Dining Commons </a> </p>            
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 12:00pm-13:00pm</p>

@@ -113,12 +113,16 @@ days:
               type: invited
               url: /program/workshops/data-model-protection/
           blusson:
+            - title: AI and Biology Opening Remarks
+              meta: 9:00am-9:10am
+              type: admin
+              url: /program/workshops/ai-biology/
             - title: Towards generative design of DNA to direct tissue-specific gene expression for gene therapy
-              meta: Wyeth Wasserman, University of British Columbia; 9:00am-9:40am
+              meta: Wyeth Wasserman, University of British Columbia; 9:10am-9:55am
               type: invited
               url: /program/workshops/ai-biology/
             - title: Learning Interpretable Representations in Neural Signals with Sparse Autoencoders
-              meta: Bahareh Tolooshams, University of Alberta and Amii; 9:40am-10:15am
+              meta: Bahareh Tolooshams, University of Alberta and Amii; 9:55am-10:30am
               type: invited
               url: /program/workshops/ai-biology/
           datahub:
@@ -204,15 +208,11 @@ days:
               url: /program/workshops/data-model-protection/
           blusson:
             - title: Talk #3
-              meta: Amin Emad, McGill University; 10:45am-11:20am
+              meta: Amin Emad, McGill University; 11:00am-11:45am
               type: invited
               url: /program/workshops/ai-biology/
             - title: Talk #4
-              meta: Qihuang Zhang, McGill University; 11:20am-11:55am
-              type: invited
-              url: /program/workshops/ai-biology/
-            - title: Machine Learning for Precision Oncology
-              meta: Martin Ester, Simon Fraser University; 11:55am-12:30pm
+              meta: Qihuang Zhang, McGill University; 11:45am-12:30pm
               type: invited
               url: /program/workshops/ai-biology/
           datahub:
