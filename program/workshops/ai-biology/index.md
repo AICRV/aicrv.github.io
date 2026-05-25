@@ -15,7 +15,7 @@ active_tab: ai-biology
       <h2>AI and Biology</h2>
     </div>
     <div class="section-body">
-      <p> <strong> 9:00am-17:30pm on May 25 2026, Blusson Hall 10011 </strong> </p>
+      <p> <strong> 9:00am-17:30pm on May 25 2026, <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=BLU%2010011">Blusson Hall 10011</a> </strong> </p>
       <!-- <p> <a class="btn btn-dark btn-sm" href="https://sites.google.com/vectorinstitute.ai/aicrv-2026/"> More Information </a> </p> -->
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2843.4753530866633!2d-122.91760947401374!3d49.279286397015476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548679be5e070879%3A0xdc7e588d6a53bf0f!2sBlusson%20Hall%2C%20Burnaby%2C%20BC%20V5A%204Y7!5e1!3m2!1sen!2sca!4v1779115835293!5m2!1sen!2sca" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
