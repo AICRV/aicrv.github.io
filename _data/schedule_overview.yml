@@ -242,6 +242,11 @@ days:
               meta: 1:50pm-2:30pm
               type: poster
               url: /program/workshops/ai-science-remote-sensing/
+            - title: Coffee Break
+              meta: 2:30pm-3:00pm
+              type: break
+              track: Workshops
+              url: /program/workshops/ai-science-remote-sensing/
             - title: "A simple recipe for CREPE: Controlling REPlica-Exchange via neural transports"
               meta: Saifuddin Syed, University of British Columbia; 3:00pm-3:30pm
               type: invited
