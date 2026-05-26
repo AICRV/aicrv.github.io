@@ -175,7 +175,7 @@ paper_sections:
     area: Vision
   - title: Privacy-Preserving Inference of Deep Differential Logic-Gate Networks under
       TFHE
-    authors: Mahmoud Yassin
+    authors: Mahmoud Y. M. Yassin, Mahmoud AbdelHafeez Sayed, Mostafa Taha
     area: Machine Learning
   - title: 'LookWhen: Adaptive Spatiotemporal Patch Selection for Efficient Video
       Representation Learning'
