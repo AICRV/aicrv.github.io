@@ -164,8 +164,9 @@ paper_sections:
     authors: Linlian Jiang, Zhixiang Chi, Ye Wang, Ziqiang Wang, Rui Ma, Yang Wang,
       Xinxin Zuo
     area: Robotics
-  - title: Hierarchical Multimodal Representation Learning for Biological Taxonomies
-    authors: Hyperbolic Multimodal Representation Learning for Biological Taxonomies
+  - title: "Hyperbolic Multimodal Representation Learning for Biological Taxonomies\u200B"
+    authors: Zeming Gong, Chuanqi Tang, Xiaoliang Huo, Nicholas Pellegrino, Austin
+      T. Wang, Graham W Taylor, Angel X. Chang, Scott C Lowe, Joakim Bruslund Haurum
     area: Machine Learning
   - title: 'No Adaptation Without Observation: Observability-Constrained Test-Time
       Prompt Tuning for LiDAR Semantic Segmentation'
