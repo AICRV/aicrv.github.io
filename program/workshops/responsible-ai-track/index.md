@@ -32,7 +32,7 @@ active_tab: responsible-ai
         <div class="program-overview-card is-plain">
           <div>
             <p class="program-overview-title">Registration</p>
-            <p style="color: red;"> <a href="https://www.ai-crv.ca/venue-transportation/"> Halpern Center Lobby </a> </p>            
+            <p style="color: red;"> <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=DFA"> Diamond Family Auditorium </a> </p>            
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 8:00am-17:30pm</p>
@@ -50,6 +50,7 @@ active_tab: responsible-ai
         <div class="program-overview-card">
           <div>
             <p class="program-overview-title">Joint Opening Remarks</p>
+            <p style="color: red;"> <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=DFA"> Diamond Family Auditorium </a> </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 9:00am-9:30am</p>
@@ -57,8 +58,8 @@ active_tab: responsible-ai
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title">[Keynote] Beyond Accuracy: Different reliability dimensions in Language Models </p>
-            <p> Hila Gonen, University of British Columbia </p>
+            <p class="program-overview-title">[Keynote] </p> 
+            <p> Muhammad Abdul-Mageed, University of British Columbia </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 9:30am-10:30am</p>
@@ -91,8 +92,8 @@ active_tab: responsible-ai
         </div>
         <div class="program-overview-card">
           <div>
-            <p class="program-overview-title">[Keynote] </p> 
-            <p> Muhammad Abdul-Mageed, University of British Columbia </p>
+            <p class="program-overview-title">[Keynote] Beyond Accuracy: Different reliability dimensions in Language Models </p>
+            <p> Hila Gonen, University of British Columbia </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 14:00pm-15:30pm</p>
@@ -112,14 +113,6 @@ active_tab: responsible-ai
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 16:00pm-17:30pm</p>
-          </div>
-        </div>
-        <div class="program-overview-card is-plain">
-          <div>
-            <p class="program-overview-title">Welcome Reception</p>
-          </div>
-          <div class="program-overview-meta">
-            <p><strong>Time:</strong> 18:00pm-22:00pm</p>
           </div>
         </div>
       </div>

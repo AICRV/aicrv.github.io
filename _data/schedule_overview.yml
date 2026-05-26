@@ -436,7 +436,7 @@ days:
               type: invited
               url: https://www.computerrobotvision.org/invited.html
           halpern126:
-            - title: "Responsible AI Keynote: Hila Gonen"
+            - title: "Responsible AI Keynote: Muhammad Abdul-Mageed"
               type: invited
               url: https://www.caiac.ca/en/conferences/canadianai-2026/invited-speakers
       - time: 10:30am-11:00am
@@ -506,7 +506,7 @@ days:
               type: oral
               url: https://www.computerrobotvision.org/program.html
           halpern126:
-            - title: "Responsible AI Keynote: Muhammad Abdul-Mageed"
+            - title: "Responsible AI Keynote: Hila Gonen"
               type: invited
               url: https://www.caiac.ca/en/conferences/canadianai-2026/invited-speakers
       - time: 3:30pm-4:00pm
@@ -547,14 +547,6 @@ days:
               meta: James Douglas Area (AQ 2009.2)
               type: poster
               url: /program/nectar-track/
-      - time: 6:00pm-10:00pm
-        cells:
-          shared:
-            - title: Welcome Reception
-              meta: Diamond Alumni Centre
-              type: social
-              url: /program/social-events/
-
   - id: wednesday
     title: Wednesday, May 27
     meta: Main conference day 2
