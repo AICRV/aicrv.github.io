@@ -151,8 +151,8 @@ paper_sections:
     venue: CVPR 2026
     area: Vision
     info: Poster only
-- title: Exploration Edge Track - Posters on Tuesday 5/26 2:00pm-3:30pm and Thursday
-    5/28 at James Douglas Area
+- title: Exploration Edge Track - Posters on Tuesday 5/26 4:00pm-5:30pm and Thursday
+    5/28 2:00pm-3:30pm at James Douglas Area
   description: Preliminary or early-stage work presented in the Nectar Track.
   papers:
   - title: 'Less is More: Minimal Visual Design in Robots for Effective Social Interaction'
