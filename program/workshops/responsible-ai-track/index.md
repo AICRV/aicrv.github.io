@@ -50,6 +50,7 @@ active_tab: responsible-ai
         <div class="program-overview-card">
           <div>
             <p class="program-overview-title">Joint Opening Remarks</p>
+            <p style="color: red;"> <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=DFA"> Diamond Family Auditorium </a> </p>
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 9:00am-9:30am</p>
