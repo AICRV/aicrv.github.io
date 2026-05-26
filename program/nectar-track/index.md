@@ -70,6 +70,8 @@ tabs_include: partials/program_tabs.html
                   {% if paper.time %}<div><dt>Time</dt><dd>{{ paper.time }}</dd></div>{% endif %}
                   {% if paper.room %}<div><dt>Room</dt><dd>{{ paper.room }}</dd></div>{% endif %}
                   {% if paper.venue %}<div><dt>Venue</dt><dd>{{ paper.venue }}</dd></div>{% endif %}
+                  {% if paper.area %}<div><dt>Area</dt><dd>{{ paper.area }}</dd></div>{% endif %}
+                  {% if paper.info %}<div><dt>{{ paper.info }}</dt></div>{% endif %}
                 </dl>
                 {% if paper.url %}<a class="btn btn-outline btn-sm" href="{{ paper.url }}" target="_blank" rel="noopener">Paper link</a>{% endif %}
               </li>
