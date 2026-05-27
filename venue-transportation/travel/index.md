@@ -49,7 +49,7 @@ tabs_include: partials/venue_logistics_tabs.html
             </tr>
             <tr>
               <td><strong>Wednesday</strong></td>
-              <td><strong>7:45 AM - Executive Plaza Hotel -> SFU<br>6:00 PM, 6:15 PM, 6:30 PM, 6:45 PM, 9:30 PM, 10:00 PM - SFU -> Executive Plaza Hotel</strong></td>
+              <td><strong>7:45 AM - Executive Plaza Hotel -> SFU<br>6:00 PM, 6:15 PM, 6:30 PM, 6:45 PM - SFU -> Executive Plaza Hotel<br>9:30 PM, 10:00 PM - Executive Plaza Hotel -> SFU</strong></td>
             </tr>
           </tbody>
         </table>
