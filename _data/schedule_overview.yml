@@ -571,10 +571,6 @@ days:
             - title: Breakfast
               type: meal
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
-          studio:
-            - title: Breakfast
-              type: meal
-              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
       - time: 9:00am-10:30am
         cells:
           dfa:
@@ -594,10 +590,6 @@ days:
               type: break
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
           sub:
-            - title: Coffee Break
-              type: break
-              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
-          studio:
             - title: Coffee Break
               type: break
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
