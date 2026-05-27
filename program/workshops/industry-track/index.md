@@ -45,7 +45,7 @@ active_tab: industry
               <ul> <li> Kris Krug (BC + AI Ecosystem) </li>
                    <li> Dr. Jekaterina Novikova (Principal AI Research Scientist, Vanguard) </li>
                    <li> Dr. Annie Ying (Engineering Manager - Self-hosted Models, GitLab) </li>
-                   <li> Prof. Steve DiPaola (Professor, Simon Fraser University, joined through video recordings) </li>
+                   <li> Prof. Steve DiPaola (Professor, Simon Fraser University) </li>
               </ul> 
           </p>
           </div>
