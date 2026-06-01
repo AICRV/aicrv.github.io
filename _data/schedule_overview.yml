@@ -571,10 +571,6 @@ days:
             - title: Breakfast
               type: meal
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
-          studio:
-            - title: Breakfast
-              type: meal
-              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
       - time: 9:00am-10:30am
         cells:
           dfa:
@@ -594,10 +590,6 @@ days:
               type: break
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
           sub:
-            - title: Coffee Break
-              type: break
-              url: https://www.caiac.ca/en/conferences/canadianai-2026/program
-          studio:
             - title: Coffee Break
               type: break
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
@@ -701,6 +693,10 @@ days:
             - title: CAIAC AGM
               type: admin
               url: https://www.caiac.ca/en/conferences/canadianai-2026/program
+          sub:
+            - title: CIPPRS AGM
+              type: admin
+              url: https://www.computerrobotvision.org/program.html
       - time: Evening
         cells:
           shared:
@@ -791,11 +787,6 @@ days:
               url: https://www.computerrobotvision.org/program.html
       - time: 12:30pm-2:00pm
         cells:
-          sub:
-            - title: CIPPRS AGM
-              meta: 12:30pm-1:30pm
-              type: admin
-              url: https://www.computerrobotvision.org/program.html
           shared:
             - title: Lunch
               meta: Dining Commons

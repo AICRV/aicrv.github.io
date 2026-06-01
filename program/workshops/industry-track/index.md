@@ -15,7 +15,7 @@ active_tab: industry
       <h2>Industry Track</h2>
     </div>
     <div class="section-body">
-      <p>The Industry Track takes place on Wednesday, May 27 in The Presentation Studio (<a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=ASB%2010900">ASB 10900</a>).</p>
+      <p>The Industry Track takes place on Wednesday, May 27 in Big Data Hub (<a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=ASB%2010900">ASB 10900</a>).</p>
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2504.6615352895374!2d-122.91616408175057!3d49.27734440902078!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548679bf1767cc6b%3A0x16e37c430148082b!2sApplied%20Sciences%20Bldg%2C%20Burnaby%2C%20BC%20V5A%204Y7!5e1!3m2!1sen!2sca!4v1779200291096!5m2!1sen!2sca" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
   <!-- </div> -->
@@ -31,7 +31,7 @@ active_tab: industry
         <div class="program-overview-card is-plain">
           <div>
             <p class="program-overview-title">Registration</p>
-            <p style="color: red;"> <a href="https://www.ai-crv.ca/venue-transportation/"> Halpern Center Lobby </a> </p>            
+            <p style="color: red;"> <a href="https://roomfinder.sfu.ca/apps/sfuroomfinder_web/?q=DFA"> Diamond Family Auditorium </a> </p>            
           </div>
           <div class="program-overview-meta">
             <p><strong>Time:</strong> 8:00am-17:30pm</p>
@@ -45,7 +45,7 @@ active_tab: industry
               <ul> <li> Kris Krug (BC + AI Ecosystem) </li>
                    <li> Dr. Jekaterina Novikova (Principal AI Research Scientist, Vanguard) </li>
                    <li> Dr. Annie Ying (Engineering Manager - Self-hosted Models, GitLab) </li>
-                   <li> Prof. Steve DiPaola (Professor, Simon Fraser University, joined through video recordings) </li>
+                   <li> Prof. Steve DiPaola (Professor, Simon Fraser University) </li>
               </ul> 
           </p>
           </div>
