@@ -29,32 +29,44 @@ paper_sections:
     authors: Sahar Rajabi, Nayeema Nonta, Sirisha Rambhatla
     venue: NeurIPS 2025
     area: Machine Learning
+    poster: poster/rajabi_subtrack++.pdf
+    slides: slides/rajabi_subtrack++.pdf
   - title: Infusing Theory of Mind into Socially Intelligent LLM Agents
     authors: EunJeong Hwang, Yuwei Yin, Giuseppe Carenini, Peter West, Vered Shwartz
     venue: ACL 2026
     area: NLP
+    poster: poster/hwang_infusing.pdf
+    slides: slides/hwang_infusing.pdf
   - title: "We Still Don\u2019t Understand High-Dimensional Bayesian Optimization"
     authors: Colin Doumont, Donney Fan, Natalie Maus, Jacob Gardner, Henry Moss, Geoff
       Pleiss
     venue: AISTATS 2026
     area: Machine Learning
+    poster: poster/doumont_we.pdf
+    slides: slides/doumont_we.pdf
   - title: Quantifying and Improving the Robustness of Retrieval-Augmented Language
       Models Against Spurious Features in Grounding Data
     authors: Shiping Yang, Jie Wu, Wenbiao Ding, Ning Wu, Shining Liang, MING GONG,
       Hongzhi Li, Hengyuan Zhang, Angel X Chang, Dongmei Zhang
     venue: ACL 2026
     area: NLP
+    poster: poster/yang_quantifying.pdf
+    slides: slides/yang_quantifying.pdf
   - title: 'From flat to hierarchical: Extracting sparse representations with matching
       pursuit'
     authors: "Val\xE9rie Costa, Thomas Fel, Ekdeep Singh Lubana, Bahareh Tolooshams,\
       \ Demba Ba"
     venue: NeurIPS 2025
     area: Machine Learning
+    poster: poster/costa_from.pdf
+    slides: slides/costa_from.pdf
   - title: Preserving Plasticity in Continual Learning with Adaptive Linearity Injection
     authors: Seyed Roozbeh Razavi Rohani, Khashayar Khajavi, Wesley Chung, Mo Chen,
       Sharan Vaswani
     venue: Conference on Lifelong Learning Agents (CoLLAs) 2025
     area: Machine Learning
+    poster: poster/rohani_preserving.pdf
+    slides: slides/rohani_preserving.pdf
   - title: 'Find Your Optimal Teacher: Personalized Data Synthesis via Router-Guided
       Multi-Teacher Distillation'
     authors: Hengyuan Zhang, Shiping Yang, Xiao Liang, Chenming Shang, Yuxuan Jiang,
@@ -62,28 +74,37 @@ paper_sections:
       Wong
     venue: ACL 2026
     area: NLP
+    poster: poster/zhang_find.pdf
+    slides: slides/zhang_find.pdf
   - title: Optimistic Actor-Critic with Parametric Policies for Linear Markov Decision
       Processes
     authors: Max Qiushi Lin, Reza Asad, Kevin Tan, Haque Ishfaq, Csaba Szepesvari,
       Sharan Vaswani
     venue: AISTATS 2026
     area: Machine Learning
+    poster: poster/lin_optimistic.pdf
+    slides: slides/lin_optimistic.pdf
   - title: People who frequently use ChatGPT for writing tasks are accurate and robust
       detectors of AI-generated text
     authors: Jenna Russell, Marzena Karpinska, Mohit Iyyer
     venue: ACL 2025
     area: NLP
+    poster: poster/russell_people.pdf
+    slides: slides/russell_people.pdf
   - title: 'Reward Engineering for Spatial Epidemic Simulations: A Reinforcement Learning
       Platform for Individual Behavioral Learning'
     authors: Radman Rakhshandehroo, Daniel Coombs
     venue: TMLR 2026
     area: Machine Learning
-  - title: "What\u2019s Left After Distillation? How Knowledge Transfer Impacts Fairness\
-      \ and Bias"
+    poster: poster/rakhshandehroo_reward.pdf
+    slides: https://redradman.github.io/contagionrl-talk/1
+  - title: What is Left After Distillation? How Knowledge Transfer Impacts Fairness
+      and Bias
     authors: Aida Mohammadshahi, Yani Ioannou
     venue: TMLR 2025
     area: Machine Learning
     info: Poster only
+    poster: poster/mohammadshahi_what.pdf
 - title: Spotlight Track (CRV) - Oral session on Thursday 5/28 4:00pm-5:30pm at SUB
     Ballroom 5000
   description: Recently published or accepted work presented in the CRV Nectar Track.
@@ -93,57 +114,73 @@ paper_sections:
     venue: IROS 2025
     area: Robotics
     info: Oral only
+    slides: slides/tang_space-time.pdf
   - title: 'MotionScript: Natural Language Descriptions for Expressive 3D Human Motions'
     authors: Payam Jome Yazdian, Rachel Lagasse, Hamid Mohammadi, Eric Liu, Li Cheng,
       Angelica Lim
     venue: IROS 2025
     area: Machine Learning
+    slides: slides/yazdian_motionscript.pdf
   - title: 'GHOST: Solving the Traveling Salesman Problem on Graphs of Convex Sets'
     authors: Jingtao Tang, Hang Ma
     venue: AAAI 2026
     area: Robotics
     info: Oral only
+    slides: slides/tang_ghost.pdf
   - title: 'FACT-GS: Frequency-Aligned Complexity-Aware Texture Reparameterization
       for 2D Gaussian Splatting'
     authors: Tianhao Xie, Linlian Jiang, Xinxin Zuo, Yang Wang, Tiberiu Popa
     venue: CVPR 2026 Findings
     area: Vision
-  - title: "Semantic Mapping in Indoor Embodied AI \u2013 A Survey on Advances, Challenges,\
-      \ and Future Directions"
+    poster: poster/xie_fact-gs.pdf
+    slides: slides/xie_fact-gs.pdf
+  - title: Semantic Mapping in Indoor Embodied AI - A Survey on Advances, Challenges,
+      and Future Directions
     authors: Sonia Raychaudhuri, Angel X. Chang
     venue: TMLR 2025
     area: Robotics
     info: Oral only
+    slides: slides/raychaudhuri_semantic.pdf
   - title: 'Synthetic Geology: Structural Geology Meets Deep Learning'
     authors: Simon Ghyselincks, Valeriia Okhmak, Stefano Zampini, George Turkiyyah,
       David Keyes, Eldad Haber
     venue: 'Journal of Geophysical Research: Machine Learning and Computation 2026'
     area: Machine Learning
+    poster: poster/ghyselincks_synthetic.pdf
+    slides: slides/ghyselincks_synthetic.pdf
   - title: Threshold Strategy for Leaking Corner-Free Hamilton-Jacobi Reachability
       with Decomposed Computations
     authors: Chong He, Mugilan Mariappan, Keval Vora, Mo Chen
     venue: Conference on Decision and Control (CDC) 2025
     area: Robotics
+    poster: poster/he_threshold.pdf
   - title: 'PointMAC: Meta-learned Adaptation for Robust Test-time Point Cloud Completion'
     authors: Linlian Jiang, Rui Ma, Li Gu, Ziqiang Wang, Xinxin Zuo, Yang Wang
     venue: NeurIPS 2025
     area: Vision
     info: Oral only
-  - title: "Reach\u2013Avoid Differential Game with Reachability Analysis for Unmanned\
-      \ Aerial Vehicles: A Decomposition Approach"
+    poster: poster/jiang_pointmac.pdf
+    slides: slides/jiang_pointmac.pdf
+  - title: 'Reach-Avoid Differential game with Reachability Analysis for UAVs: A decomposition
+      approach'
     authors: Minh Bui, Simon Monckton and Mo Chen
     venue: Journal of Guidance, Control, and Dynamics 2026
     area: Robotics
     info: Oral only
+    slides: slides/bui_reach-avoid.pdf
   - title: 'Asymmetric Duos: Sidekicks Improve Uncertainty'
     authors: Tim G. Zhou, Evan Shelhamer, Geoff Pleiss
     venue: NeurIPS 2025
     area: Machine Learning
+    poster: poster/zhou_asymmetric.pdf
+    slides: slides/zhou_asymmetric.pdf
   - title: Implicit Maximum Likelihood Estimation for Real-time Generative Model Predictive
       Control
     authors: Grayson Lee, Minh Bui, Shuzi Zhou, Yankai Li, Mo Chen, Ke Li
     venue: ICRA 2026
     area: Robotics
+    poster: poster/lee_implicit.pdf
+    slides: slides/lee_implicit.pdf
   - title: 'UCAN: Unified Convolutional Attention Network for Expansive Receptive
       Fields in Lightweight Super-Resolution'
     authors: Cao Thien Tan, Trang Phan Thi Thu, Duc Nghiem Do, Ho Ngoc Anh, Hanyang
@@ -151,6 +188,7 @@ paper_sections:
     venue: CVPR 2026
     area: Vision
     info: Poster only
+    poster: poster/tan_ucan.pdf
 - title: Exploration Edge Track - Posters on Tuesday 5/26 4:00pm-5:30pm and Thursday
     5/28 2:00pm-3:30pm at James Douglas Area
   description: Preliminary or early-stage work presented in the Nectar Track.
@@ -159,15 +197,17 @@ paper_sections:
     authors: Leroy Musa, Aditya Bahuguna, Seyed Erfan Taghiabadi, Ghazal Rafati Saboor
       Sani, Seyed-Parsa Firouzabadi, Michael Jenkin, James Elder, Meiying Qin
     area: Robotics
+    poster: poster/musa_less.pdf
   - title: 'ReCAP: Recursive Prompting for Self-Supervised Category-Level Articulated
       Pose Estimation from an Image'
     authors: Linlian Jiang, Zhixiang Chi, Ye Wang, Ziqiang Wang, Rui Ma, Yang Wang,
       Xinxin Zuo
     area: Robotics
-  - title: "Hyperbolic Multimodal Representation Learning for Biological Taxonomies\u200B"
+  - title: "Hyperbolic Multimodal Representation Learning for Biological Taxonomies"
     authors: Zeming Gong, Chuanqi Tang, Xiaoliang Huo, Nicholas Pellegrino, Austin
       T. Wang, Graham W Taylor, Angel X. Chang, Scott C Lowe, Joakim Bruslund Haurum
     area: Machine Learning
+    poster: poster/gong_hyperbolic.pdf
   - title: 'No Adaptation Without Observation: Observability-Constrained Test-Time
       Prompt Tuning for LiDAR Semantic Segmentation'
     authors: Linlian Jiang, Wentao Ju, Sadman Rakib Pinon, Jianwei Xian, Zhixiang
@@ -177,23 +217,28 @@ paper_sections:
       TFHE
     authors: Mahmoud Y. M. Yassin, Mahmoud AbdelHafeez Sayed, Mostafa Taha
     area: Machine Learning
-  - title: 'LookWhen: Adaptive Spatiotemporal Patch Selection for Efficient Video
-      Representation Learning'
+    poster: poster/yassin_privacy-preserving.pdf
+  - title: LookWhen? Fast Video Recognition by Learning When, Where, and What to Compute
     authors: Ali Salamatian, Anthony Fuller, James R. Green, Leonid Sigal, Evan Shelhamer
     area: Vision
+    poster: poster/salamatian_lookwhen.pdf
   - title: Spatio-Temporal Swarm Planning on Gaussian Probabilistic Roadmaps
     authors: Zining Mao, Jingtao Tang, Dingyi Sun, Lufan Yang, Jiaqi Tan, Hang Ma
     area: Robotics
+    poster: poster/mao_spatio-temporal.pdf
   - title: 'Dynamic Duos: Robust Duo Adaptation Under Shift'
     authors: Alexandre St-Aubin, Evan Shelhamer
     area: Vision
+    poster: poster/st-aubin_dynamic.pdf
   - title: 'EvoMAPF: MAPF-LNS Heuristic Discovery with Evolutionary Code Agents'
     authors: Lufan Yang, Tony Shen, Jiaqi Tan, Hang Ma
     area: Robotics
-  - title: 'HARMONY: Multi-Humanoid Motion Coordination via Diffusion Planning and
-      Learning-Based Control'
+    poster: poster/yang_evomapf.pdf
+  - title: 'HARMONY: Multi-Humanoid Motion Coordination via Diffusion Planning & Learning-Based
+      Control'
     authors: Lufan Yang, Dun Yang, Yanshu Zhang, Jiaqi Tan, Ke Li, Hang Ma
     area: Robotics
+    poster: poster/yang_harmony.pdf
   - title: Exploring a Minimalist Bipedal Robot Platform with Hip Actuation for Learning-Based
       Control
     authors: Junhui Li and Amy R. Wu
@@ -201,29 +246,36 @@ paper_sections:
   - title: 'PhantomBench: Benchmarking the Non-existential Threat of Language Models'
     authors: Haeji Jung, Hila Gonen
     area: NLP
-  - title: Augmented Lagrangian Method for Principled, Practical Last-Iterate Convergence
-      for Constrained MDPs
+    poster: poster/jung_phantombench.pdf
+  - title: Augmented Lagrangian Method for Last-Iterate Convergence for Constrained
+      MDPs
     authors: Michael Lu, Max Qiushi Lin, Mo Chen, Sharan Vaswani
     area: Machine Learning
-  - title: Velocity-Corrected Rectified Flow for Efficient Volumetric Brain MRI Translation
+    poster: poster/lu_augmented.pdf
+  - title: Velocity-Corrected Rectified Flow for Volumetric Cross-Modality Medical
+      Image Synthesis
     authors: Mobina Rafieipour, Pouya Shiri, Xin Yi, Neel P. Mistry, Seokbum Ko, Amirali
       Baniasadi, Scott J. Adams
     area: Machine Learning
+    poster: poster/rafieipour_velocity-corrected.pdf
   - title: 'The Ballbot: An Autonomous Tennis Ball Collection Robot'
     authors: Dr. Yize Chen, Erik Lamey, Ben McCrea, Ian Ference, Matt Wall, and Cadon
       Irwin
     area: Robotics
-  - title: Towards Building a Trustworthy Platform for Document Intelligence
+    poster: poster/chen_the.pdf
+  - title: "Towards Building a Trustworthy Platform for Document Intelligence"
     authors: Gona Rahmaniani, Samira Ebrahimi Kahou, Laleh Behjat
     area: NLP
   - title: 'Towards Semantic-Aware Aerial Object Retrieval: A VLM-Augmented Behavior
       Tree Approach'
     authors: Mohammad Soltanshah, Abolfazl Eskandarpour, Kamal Gupta, and Mehran Mehrandezh
     area: Robotics
+    poster: poster/soltanshah_towards.pdf
   - title: 'When Background Takes Center Stage: Impact and Scope of Semantic Leakage
       in LLMs'
     authors: Hazel Chen, Peter West, Hila Gonen
     area: NLP
+    poster: poster/chen_when.pdf
   - title: 'VCRF: Velocity-Corrected Rectified Flow for Volumetric Cross Modality
       Medical Image Synthesis'
     authors: Pouya Shiri, Mobina Rafieipour, Xin Yi, Neel P. Mistry, Amirali Baniasadi,
@@ -232,51 +284,64 @@ paper_sections:
   - title: Changing Modalities by Cross-Band Transfer, Addition, and Peeking
     authors: Tim G. Zhou, Anthony Fuller, Geoff Pleiss, Evan Shelhamer
     area: Vision
+    poster: poster/zhou_changing.pdf
   - title: Imitation-Free Diffusion Policy Training for Humanoid Footstep Planning
     authors: Radman Rakhshandehroo, Nicholas Ioannidis, Michiel van de Panne
     area: Robotics
+    poster: poster/rakhshandehroo_imitation-free.pdf
   - title: Scaling Diverse Language Generation for 3D Visual Grounding
     authors: Austin T. Wang, Dongchen Yang, Angel X. Chang
     area: Vision
+    poster: poster/wang_scaling.pdf
   - title: 'Cluster to Abstract: Efficient Visual Abstraction via Cluster Distillation'
     authors: Yu-Chu Yu,Leonid Sigal,Evan Shelhamer
     area: Vision
+    poster: poster/yu_cluster.pdf
   - title: Geometrically Principled Randomized Optimization for Efficient LLM Training
     authors: Sahar Rajabi, Nayeema Nonta, Samanvay Vajpayee, Sirisha Rambhatla
     area: Machine Learning
+    poster: poster/rajabi_geometrically.pdf
   - title: 'ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate
       Assessment of VLM 3D Reasoning'
     authors: Yiming Zhang, Jiacheng Chen, Jiaqi Tan, Yongsen Mao, Wenhu Chen, Angel
       X Chang
     area: Vision
-  - title: "NeuMoSync: End\u2011to\u2011End Neuromodulatory Control for Plasticity\
+    poster: poster/zhang_revsi.pdf
+  - title: "NeuMoSync: End-to-End Neuromodulatory Control for Plasticity\
       \ and Adaptability in Continual Learning"
     authors: Seyed Roozbeh Razavi Rohani , Khashayar Khajavi, Wesley Chung, Mandana
       Samiei, Mo Chen
     area: Machine Learning
+    poster: poster/rohani_neumosync.pdf
   - title: Drone Based Water Monitoring for Optimal Information Gain
     authors: Desmond Davies, William Ronan, Grace Quan, Ross Mcculloch, Philippe Tortell,
       Adrien Desjardins, Dominic Liao-McPherson
     area: Robotics
+    poster: poster/davies_drone.pdf
   - title: Private and Stable Test-time Adaptation with Differential Privacy
     authors: Zefeng Li, Qiaoyue Tang, Mathias Lecuyer, Evan Shelhamer
     area: Vision
+    poster: poster/li_private.pdf
   - title: Adapting Vision-Language-Action Models for Human-to-Robot Handover
     authors: Morteza Badali, Hamid Mohammadi, Mehran Mehrandezh, Mo Chen, Angelica
       Lim, Kamal Gupta
     area: Robotics
-  - title: 'pi-IMLE: Fast Single-Step Action Generation for Vision-Language-Action
-      Policies'
+  - title: 'pi-IMLE: Fast Single-Step Action Generation For Vision Language Action
+      Models'
     authors: Kian Hosseinkhani, George Shramko, Mehran Aghabozorgi, Qinhe Peng, Jianing
       Qian, Tristan Engst, Alireza Moazeni, Dinesh Jayaraman, Ke Li
     area: Robotics
+    poster: poster/hosseinkhani_pi-imle.pdf
   - title: Implicit Maximum Likelihood Estimation Improves Masked Autoencoders
     authors: Tristan Engst, Alireza Moazeni, Ke Li
     area: Machine Learning
-  - title: 'Green TTA: Benchmarking Energy Consumption in Test-Time Adaptation'
+    poster: poster/engst_implicit.pdf
+  - title: 'Green TTA: Benchmarking the Energy Consumption of Test-Time Adaptation'
     authors: Vivian White and Evan Shelhamer
     area: Machine Learning
-  - title: Scalable Graph Neural Reinforcement Learning for Collision-Aware Online
-      Multi-Robot Task Allocation
+    poster: poster/shelhamer_green.pdf
+  - title: 'STAR-GNN: Scalable Graph Neural Reinforcement Learning for Collision-Aware
+      Online Multi-Robot Task Allocation'
     authors: Yifan Yang, Jiaqi Tan, Hang Ma
     area: Machine Learning
+    poster: poster/yang_star-gnn.pdf
