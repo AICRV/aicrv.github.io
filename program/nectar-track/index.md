@@ -73,7 +73,9 @@ tabs_include: partials/program_tabs.html
                   {% if paper.area %}<div><dt>Area</dt><dd>{{ paper.area }}</dd></div>{% endif %}
                   {% if paper.info %}<div><dt>{{ paper.info }}</dt></div>{% endif %}
                 </dl>
-                {% if paper.url %}<a class="btn btn-outline btn-sm" href="{{ paper.url }}" target="_blank" rel="noopener">Paper link</a>{% endif %}
+                {% if paper.url %}<a class="btn btn-outline btn-sm" href="{{ paper.url }}" target="_blank" rel="noopener">Paper</a>{% endif %}
+                {% if paper.poster %}<a class="btn btn-outline btn-sm" href="/assets/pdf/nectar_track/{{ paper.poster }}" target="_blank" rel="noopener">Poster</a>{% endif %}
+                {% if paper.slides %}<a class="btn btn-outline btn-sm" href="/assets/pdf/nectar_track/{{ paper.slides }}" target="_blank" rel="noopener">Slides</a>{% endif %}
               </li>
             {% endfor %}
           </ol>

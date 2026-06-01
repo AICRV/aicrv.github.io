@@ -46,7 +46,7 @@ paper_sections:
     slides: slides/doumont_we.pdf
   - title: Quantifying and Improving the Robustness of Retrieval-Augmented Language
       Models Against Spurious Features in Grounding Data
-    authors: Shiping Yang, Jie Wu, Wenbiao Ding, Ning Wu, Shining Liang, MING GONG,
+    authors: Shiping Yang, Jie Wu, Wenbiao Ding, Ning Wu, Shining Liang, Ming Gong,
       Hongzhi Li, Hengyuan Zhang, Angel X Chang, Dongmei Zhang
     venue: ACL 2026
     area: NLP
@@ -97,7 +97,7 @@ paper_sections:
     venue: TMLR 2026
     area: Machine Learning
     poster: poster/rakhshandehroo_reward.pdf
-    slides: https://redradman.github.io/contagionrl-talk/1
+    slides: slides/rakhshandehroo_reward.pdf
   - title: What is Left After Distillation? How Knowledge Transfer Impacts Fairness
       and Bias
     authors: Aida Mohammadshahi, Yani Ioannou
@@ -262,7 +262,7 @@ paper_sections:
     authors: Dr. Yize Chen, Erik Lamey, Ben McCrea, Ian Ference, Matt Wall, and Cadon
       Irwin
     area: Robotics
-    poster: poster/chen_the.pdf
+    poster: poster/chen_ballbot.pdf
   - title: "Towards Building a Trustworthy Platform for Document Intelligence"
     authors: Gona Rahmaniani, Samira Ebrahimi Kahou, Laleh Behjat
     area: NLP
